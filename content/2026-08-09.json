@@ -1,0 +1,69 @@
+{
+  "date": "2026-08-09",
+  "headline": "Kai, markets priced a Hormuz reopening all week; over the weekend Iran raised the price.",
+  "subline": "A missile targeted an ADNOC tanker Saturday, Riyadh, Ankara and Islamabad signed a NATO-style pact, and July CPI lands Wednesday.",
+  "asof": "Weekend edition · markets closed · index, yield, gold and Brent figures are Friday's close (Aug 7); bitcoin as of ~6:40 AM ET Sunday · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,757.64", "delta": "+0.62%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,690.62", "delta": "+1.30%", "dir": "up"},
+    {"label": "Dow", "value": "54,036.93", "delta": "+0.28%", "dir": "up"},
+    {"label": "10-yr", "value": "4.65%", "delta": "−3 bp", "dir": "down"},
+    {"label": "Gold", "value": "$4,343.43", "delta": "+2.44%", "dir": "up"},
+    {"label": "Brent", "value": "$83.55", "delta": "+1.29%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$64,910", "delta": "+0.07%", "dir": "flat"}
+  ],
+  "history": {"spx": 7757.64, "y10": 4.65, "btc": 64910.24},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "The jobs miss was broader than the headline",
+       "url": "https://www.stl.news/u-s-stock-market-today-friday-august-7-2026/",
+       "sentence": "July payrolls fell 23,000 against an expected 80,000 gain, prior months lost another 100,000 to revisions, and unemployment fell to 4.1% only because participation shrank, per STL.News."},
+      {"title": "Rate-hike bets keep draining away",
+       "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+       "sentence": "The 10-year yield eased 3 basis points to 4.65% Friday as the jobs data scaled back bets on Fed rate hikes, per Trading Economics, with the September meeting now the open question CPI will help settle."},
+      {"title": "Gold closes the week at $4,343",
+       "url": "https://tradingeconomics.com/commodity/gold",
+       "sentence": "Spot gold rose 2.44% Friday to $4,343.43 an ounce and is up 27.79% over the past year, per Trading Economics."},
+      {"title": "Brent gave back 7% this week",
+       "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+       "sentence": "Brent settled Friday at $83.55, up 1.29% on the day but down about 7% on the week as Hormuz reopening talks progressed, per Trading Economics — Saturday's tanker incident is the first test of that optimism."},
+      {"title": "Bitcoin sits out the drama near $64,900",
+       "url": "https://www.coinbase.com/price/bitcoin",
+       "sentence": "Bitcoin trades at $64,910 this morning, essentially flat over 24 hours, per Coinbase."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Iran: strait stays shut until US 'corrects' behavior",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
+       "sentence": "The Oman deal is still a negotiation, not a reopening — fewer than 10 ships a day are transiting under a proposed model that routes entries through Iranian waters and exits through Omani ones, per CBS News."},
+      {"title": "Missile targets ADNOC vessel inside Hormuz",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
+       "sentence": "Abu Dhabi's national oil company said one of its ships was targeted Saturday while transiting the strait, with no injuries reported, per CBS News."},
+      {"title": "Saudi Arabia, Turkey, Pakistan sign defense pact",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-yemen-saudi-arabia-houthis-donald-trump-deadly-attacks/",
+       "sentence": "The Mecca Joint Deterrence Agreement establishes mutual-defense obligations similar to NATO's Article 5, per CBS News, and Iranian officials dismissed it within hours."},
+      {"title": "Senate confirms Todd Blanche as attorney general",
+       "url": "https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general",
+       "sentence": "The 50-49 vote came early Saturday morning, installing Trump's former personal lawyer atop the Justice Department, per NPR."},
+      {"title": "Senate passes Russia energy-tariff bill",
+       "url": "https://www.npr.org/2026/08/07/nx-s1-5924914/senate-passes-russia-sanctions-bill-that-was-long-championed-by-lindsey-graham",
+       "sentence": "The measure allows steep new tariffs on major importers of Russian energy and passed Friday in honor of the late Lindsey Graham, who championed it, per NPR."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Hassabis steps back; Jeff Dean leaves Google",
+       "url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/",
+       "sentence": "Demis Hassabis is shifting from day-to-day DeepMind operations to broader scientific leadership while longtime chief scientist Jeff Dean departs to launch a startup automating scientific research, per Tech Startups."},
+      {"title": "Tesla and SpaceX commit $16.8 billion to chips",
+       "url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/",
+       "sentence": "The two companies are funding Terafab, a Texas semiconductor plant spanning roughly 100 million square feet for chip manufacturing and testing, per Tech Startups."},
+      {"title": "ByteDance trains a 10-trillion-parameter model",
+       "url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/",
+       "sentence": "The run is roughly three times larger than competing frontier systems, an attempt to close the gap with US labs despite chip export controls, per Tech Startups."},
+      {"title": "OpenAI and Jony Ive plan 2027 speaker",
+       "url": "https://techstartups.com/2026/08/07/top-tech-news-today-august-7-2026-amd-cloudflare-google-meta-nvidia-spacex-suno-tesla-more/",
+       "sentence": "OpenAI's first device with Ive's studio is a hockey-puck-sized, battery-powered smart speaker priced above $300 and slated for 2027, per Tech Startups."},
+      {"title": "Data centers become a campaign issue",
+       "url": "https://www.npr.org/2026/08/08/g-s1-137853/data-centers-primaries-midterms",
+       "sentence": "Candidates in both parties are now running on data-center moratoria in state elections, per NPR, which notes the issue is gaining prominence heading into the midterms."}
+    ]}
+  ]
+}
