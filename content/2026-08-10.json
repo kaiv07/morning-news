@@ -1,0 +1,66 @@
+{
+  "date": "2026-08-10",
+  "headline": "Kai, futures hold near Friday's records while Wednesday's CPI decides the September hike question.",
+  "subline": "Hike odds sit at 44 percent, oil is up a third day with Hormuz still shut, and Ferguson and Simon Property report this morning.",
+  "asof": "Pre-market · as of 6:52 AM ET · index and gold figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,791.75", "delta": "+0.15%", "dir": "up"},
+    {"label": "Nasdaq fut.", "value": "29,961.00", "delta": "+0.42%", "dir": "up"},
+    {"label": "Dow fut.", "value": "54,116.00", "delta": "−0.07%", "dir": "down"},
+    {"label": "10-yr", "value": "4.66%", "delta": "+0.6 bp", "dir": "flat"},
+    {"label": "Gold fut.", "value": "$4,407.00", "delta": "+0.17%", "dir": "up"},
+    {"label": "WTI crude", "value": "$78.64", "delta": "+0.59%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$65,157", "delta": "+0.60%", "dir": "up"}
+  ],
+  "history": {"spx": 7757.64, "y10": 4.66, "btc": 65157.27},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Futures drift higher into CPI week",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081128237.html",
+       "sentence": "S&P 500 futures are up 0.15 percent and Nasdaq futures 0.42 percent after Friday's record close, with Ferguson and Simon Property reporting today and Cisco on Wednesday, per Yahoo Finance's pre-market wrap."},
+      {"title": "CPI Wednesday: the number that settles September",
+       "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+       "sentence": "Barclays looks for July headline CPI up 0.16 percent on the month with core up 0.24 percent, per Kiplinger's calendar, which slots PPI Thursday and retail sales Friday behind it."},
+      {"title": "September hike odds: 44 percent and falling",
+       "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+       "sentence": "The 10-year opens the week at 4.66 percent after July payrolls unexpectedly fell 23,000, per Trading Economics, with markets now pricing a 44 percent chance of a September hike, down from 67 percent a week ago."},
+      {"title": "Oil rises a third session on Hormuz",
+       "url": "https://tradingeconomics.com/commodity/crude-oil",
+       "sentence": "WTI climbed 0.59 percent to $78.64 with Brent at $84.25 as attacks on shipping and stalled reopening talks keep a risk premium in crude, per Trading Economics."},
+      {"title": "Bitcoin holds the $65,000 line",
+       "url": "https://www.crowdfundinsider.com/2026/08/295676-bitcoin-btc-briefly-climbs-above-65k-after-unexpected-us-jobs-shortfall/",
+       "sentence": "Bitcoin trades just above $65,000 this morning, a level it first reclaimed after Friday's jobs shortfall revived rate-relief bets, per Crowdfund Insider."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Trump touts Hormuz talks; Tehran denies them",
+       "url": "https://www.nbcnews.com/world/iran/trump-iran-clash-hormuz-talks-cargo-ship-attacked-rcna590727",
+       "sentence": "President Trump says talks to reopen the Strait of Hormuz are happening right now, Tehran flatly denies it, and another cargo ship came under attack as the confusion sent oil higher, per NBC News."},
+      {"title": "Netanyahu rejects U.S. Gaza plan over disarmament",
+       "url": "https://www.cbsnews.com/news/benjamin-netanyahu-us-gaza-peace-plan-reject/",
+       "sentence": "The Israeli prime minister refused the American peace plan's military withdrawal until Hamas disarms, putting him at odds with the White House proposal, per CBS News."},
+      {"title": "Wildfire pushes 20,000 from British Columbia homes",
+       "url": "https://www.cbsnews.com/news/bald-range-wildfire-canada-british-columbia/",
+       "sentence": "The Bald Range fire in western Canada has forced more than 20,000 people to evacuate, and an elderly woman died attempting to flee, per CBS News."},
+      {"title": "U.S. intelligence: Putin may test NATO",
+       "url": "https://www.cbsnews.com/news/u-s-intelligence-agencies-russia-putin-test-nato/",
+       "sentence": "American intelligence agencies warn that Putin may authorize provocative actions meant to probe the alliance's resolve, per CBS News."},
+      {"title": "Colombia swears in de la Espriella; U.S. pledges $1 billion",
+       "url": "https://www.cbsnews.com/news/abelardo-de-la-espriella-us-pledges-1-billion-security-assistance-colombia/",
+       "sentence": "Right-wing president Abelardo de la Espriella took office as Washington pledged $1 billion in security assistance to Colombia, per CBS News."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Meta ordered to pay $567 million over kids",
+       "url": "https://www.npr.org/2026/08/07/nx-s1-5924581/court-orders-instagram-and-facebooks-meta-to-pay-567m-to-address-kids-mental-health-online",
+       "sentence": "A New Mexico court ordered Meta to pay $567 million to address children's mental health and safety on Instagram and Facebook, per NPR."},
+      {"title": "AMD buys Taalas to hardwire models into silicon",
+       "url": "https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+       "sentence": "AMD acquired Taalas, a startup that etches AI models directly into silicon to cut inference costs, a move aimed squarely at Nvidia's biggest market, per CNBC."},
+      {"title": "Nvidia-backed Firmus raises $2 billion for AI factories",
+       "url": "https://techstartups.com/2026/08/07/nvidia-backed-firmus-raises-2-billion-at-10-5-billion-valuation-to-build-ai-factories-across-asia-pacific/",
+       "sentence": "Firmus raised $2 billion at a $10.5 billion valuation to build AI data centers across Asia-Pacific, per Tech Startups — the capex boom is not slowing for summer."},
+      {"title": "Cloudflare's quarter: $696 million, up 36 percent",
+       "url": "https://www.cloudflare.com/press/press-releases/2026/cloudflare-announces-second-quarter-2026-financial-results/",
+       "sentence": "Cloudflare reported second-quarter revenue of $696.1 million, up 36 percent from a year ago, and raised its full-year guidance to about $2.87 billion, per the company's release."}
+    ]}
+  ]
+}
