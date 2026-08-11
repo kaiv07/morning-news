@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-11",
+  "headline": "Kai, everything waits on tomorrow's CPI — futures flat, the 10-year at 4.72 percent, and Brent pressing $88.",
+  "subline": "Riot's $9.1 billion Anthropic deal, Zuckerberg's open-source manifesto, and a Hormuz agreement in final drafting share the front page.",
+  "asof": "Pre-market · as of 6:40 AM ET · index figures are 4 AM futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,777.50", "delta": "+0.01%", "dir": "flat"},
+    {"label": "Nasdaq fut.", "value": "29,758.75", "delta": "+0.07%", "dir": "up"},
+    {"label": "Dow fut.", "value": "54,008.00", "delta": "−0.10%", "dir": "down"},
+    {"label": "10-yr", "value": "4.72%", "delta": "+1.1 bp", "dir": "flat"},
+    {"label": "Gold", "value": "$4,361.91", "delta": "−0.67%", "dir": "down"},
+    {"label": "Brent crude", "value": "$88.34", "delta": "+0.71%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$63,949", "delta": "+1.84%", "dir": "up"}
+  ],
+  "history": {"spx": 7750.12, "y10": 4.72, "btc": 63949},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Futures barely move on CPI eve",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+       "sentence": "S&P 500 futures sit at 7,777.50, up 0.01 percent, Nasdaq futures add 0.07 percent and Dow futures slip 0.10 percent ahead of Wednesday's July inflation report, per Yahoo Finance."},
+      {"title": "S&P 500 parks just under Friday's record",
+       "url": "https://tradingeconomics.com/united-states/stock-market",
+       "sentence": "The cash index closed Monday at 7,750.12, down 0.06 percent and only a few points shy of Friday's record close, per Trading Economics."},
+      {"title": "The 10-year backs up to 4.72 percent",
+       "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+       "sentence": "The yield sits at 4.72 percent, up about a basis point, per Trading Economics, as a soft July jobs report and Kevin Warsh's inflation-first Fed leave September hanging on tomorrow's number."},
+      {"title": "Brent presses $88 in Hormuz's sixth month",
+       "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+       "sentence": "Brent adds 0.71 percent to $88.34 a barrel — up roughly a third over the past year, per Trading Economics — while reopening talks inch along."},
+      {"title": "Gold pauses after a 9 percent month",
+       "url": "https://tradingeconomics.com/commodity/gold",
+       "sentence": "Spot gold eases 0.67 percent to $4,361.91 an ounce after gaining 9 percent over the past month, per Trading Economics."},
+      {"title": "Bitcoin steady near $64,000",
+       "url": "https://www.coindesk.com/price/bitcoin",
+       "sentence": "Bitcoin stood at $63,949 late Monday, up 1.84 percent on the day, per CoinDesk, largely unmoved by the CPI countdown."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Iran and Oman near final Hormuz agreement",
+       "url": "https://www.aljazeera.com/news/2026/8/6/hormuz-deal-close-whats-the-latest-on-each-sides-positions",
+       "sentence": "Tehran says the shipping-lane agreement with Muscat is in final drafting, with US conditions still open and a strait that carries a fifth of the world's oil and LNG shut since late February, per Al Jazeera."},
+      {"title": "Ukraine hits another Russian oil facility",
+       "url": "https://www.npr.org/2026/08/10/nx-s1-5927024/ukrainian-drone-attack-russia",
+       "sentence": "Kyiv's drone campaign against Russian fuel infrastructure is producing shortages and public unrest inside Russia, per NPR."},
+      {"title": "Assam flood deaths reach 100",
+       "url": "https://www.npr.org/2026/08/10/g-s1-138015/flood-death-toll-in-indias-assam-reaches-100-as-thousands-lose-their-homes",
+       "sentence": "Monsoon flooding in India's northeast has killed at least 100 people and pushed thousands from their homes, per NPR."},
+      {"title": "Washington pays developers to halt wind farms",
+       "url": "https://www.npr.org/2026/08/10/nx-s1-5925289/why-is-trump-paying-to-stop-wind-farms",
+       "sentence": "The administration is paying companies billions in taxpayer funds to stop wind-farm projects already in development, per NPR."},
+      {"title": "Twenty million pilgrims converge on Iraq",
+       "url": "https://www.npr.org/2026/08/10/g-s1-137832/iraq-shia-pilgrimage-shia-war",
+       "sentence": "Some 20 million Shia pilgrims gathered for Arbaeen at Iraq's shrine cities despite the region's conflicts, per NPR."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Zuckerberg bets Meta's AI future on open source",
+       "url": "https://www.wsls.com/business/2026/08/10/zuckerberg-manifesto-pushes-an-open-source-approach-on-ai-as-meta-releases-its-latest-model/",
+       "sentence": "Alongside a manifesto arguing that concentrated control of AI by a few labs is the real danger, Meta released two open models — Muse Glimmer for personal computers and the stronger Muse Spark 1.2, per the AP."},
+      {"title": "Riot soars on $9.1 billion Anthropic deal",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+       "sentence": "The bitcoin miner jumped 21 percent on reports of a $9.1 billion agreement to supply computing power to Anthropic, per Yahoo Finance."},
+      {"title": "Intel upsizes share sale toward $20 billion",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+       "sentence": "Shares rose about 1 percent pre-market on reports the chipmaker will enlarge a planned share sale to roughly $20 billion, per Yahoo Finance."},
+      {"title": "SpaceX touches its $135 IPO price again",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-major-index-122904227.html",
+       "sentence": "The rocket maker traded back up to its $135 IPO price for the first time since mid-July, per Yahoo Finance."},
+      {"title": "Fermi lands $6.5 billion TensorWave lease",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-nasdaq-dow-futures-083334456.html",
+       "sentence": "The datacenter developer surged 20 percent after signing its first binding customer lease, a $6.5 billion deal with TensorWave, per Yahoo Finance — AI demand is still writing very large checks."}
+    ]}
+  ]
+}
