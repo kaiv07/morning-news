@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-12",
+  "headline": "Kai, this morning's CPI print decides whether September's coin flip lands on a hike.",
+  "subline": "July inflation hits at 8:30 ET with hike odds at 50-50, oil holds near $83 on the Hormuz stalemate, and Cisco and Cerebras headline today's earnings.",
+  "asof": "Pre-market · as of 6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,769.00", "delta": "+0.28%", "dir": "up"},
+    {"label": "Nasdaq fut.", "value": "29,824.00", "delta": "+0.67%", "dir": "up"},
+    {"label": "Dow fut.", "value": "53,951.00", "delta": "+0.13%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.68%", "delta": "−0.01pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,473.00", "delta": "+0.72%", "dir": "up"},
+    {"label": "WTI crude", "value": "$82.59", "delta": "+0.55%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$63,973", "delta": "−0.42%", "dir": "down"}
+  ],
+  "history": {"spx": 7753.11, "y10": 4.68, "btc": 63973},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "July CPI due at 8:30, consensus 3.4 percent",
+          "url": "https://www.kiplinger.com/investing/economy/cpi-report-july-2026-what-to-expect",
+          "sentence": "Kiplinger's preview puts consensus at +0.1% on the month and 3.4% on the year with core at 2.5%, after a 20% July oil surge reversed June's negative energy readings."
+        },
+        {
+          "title": "September is a coin flip until this print",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+          "sentence": "CME FedWatch has hike-or-hold odds at 50-50, per Kiplinger, and Schwab's morning note says an in-line reading could trim the hike case."
+        },
+        {
+          "title": "Ten-year holds at 4.68 percent before CPI",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics shows the 10-year easing 0.01 percentage points to 4.68% this morning, treading water until the report."
+        },
+        {
+          "title": "Oil holds above $82 as Hormuz talks stall",
+          "url": "https://www.babypips.com/news/financial-forex-market-recap-2026-08-11",
+          "sentence": "Babypips' recap says deal hopes dimmed after Iran's security council rejected full-reopening terms and Trump demanded reparations; Schwab pegs WTI at $82.59 this morning."
+        },
+        {
+          "title": "Cisco, Coherent, Nebius and Cerebras report today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
+          "sentence": "Yahoo Finance's live blog flags the four on today's docket, with Coherent already down 14% Monday on what Schwab called pre-earnings profit taking."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Marine held in Russia freed after four years",
+          "url": "https://www.npr.org/2026/08/12/g-s1-138323/former-us-marine-russia",
+          "sentence": "NPR reports the former Marine's release from what his family and US officials called wrongful imprisonment on disputed charges."
+        },
+        {
+          "title": "Colombia quake toll reaches 181 as rescues strain",
+          "url": "https://www.npr.org/2026/08/12/g-s1-138315/colombia-earthquake-updates",
+          "sentence": "At least 181 people are dead and 2,595 injured from the magnitude 7.4 earthquake, per NPR, with the response straining Colombia's new government."
+        },
+        {
+          "title": "Trump pivots back to sanctions on Iran",
+          "url": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
+          "sentence": "NPR reports the administration is returning to economic pressure as the military and diplomatic tracks to end its war have stalled."
+        },
+        {
+          "title": "Syrian court sentences Assad to death in absentia",
+          "url": "https://www.npr.org/2026/08/11/g-s1-138166/syria-assad-sentenced-to-death",
+          "sentence": "The former president and his brother were convicted of crimes against humanity from the civil war, per NPR."
+        },
+        {
+          "title": "Turkey passes conditional pardons for PKK militants",
+          "url": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+          "sentence": "Parliament approved the pardon-like bill covering thousands of militants as part of the Kurdish peace initiative, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia lines up $500 billion for AI buildout",
+          "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+          "sentence": "Tech Startups reports financing platforms with Apollo, Blackstone and BlackRock to fund customers' AI infrastructure, easing the capital bottleneck."
+        },
+        {
+          "title": "OpenAI ships GPT-5.6-Cyber for vetted defenders",
+          "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+          "sentence": "The restricted model gives authorized security professionals advanced vulnerability-discovery tools with safeguards against misuse, per Tech Startups."
+        },
+        {
+          "title": "Intel upsizes share sale, raises $19.7 billion",
+          "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+          "sentence": "Tech Startups says the offering grew from $15 billion to $20 billion to fund fab expansion and AI-processor ambitions; Schwab notes the stock slipped 1% on it."
+        },
+        {
+          "title": "Unitree's Shanghai IPO draws 8,000x retail demand",
+          "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+          "sentence": "The humanoid-robot maker priced at 150.80 yuan to raise $904 million, per Tech Startups, which calls the demand a sign of extraordinary enthusiasm for robotics."
+        },
+        {
+          "title": "Anthropic adds watermarks to Claude text and images",
+          "url": "https://techstartups.com/2026/08/11/top-tech-news-today-august-11-2026-anthropic-intel-meta-openai-nvidia-unitree-more/",
+          "sentence": "The machine-readable marks survive copying and light edits and are built for incoming AI-transparency rules, per Tech Startups."
+        }
+      ]
+    }
+  ]
+}
