@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-13",
+  "headline": "Kai, consumer inflation behaved yesterday — at 8:30 we find out whether producers did too.",
+  "subline": "PPI consensus sits at 4.9 percent after a tame CPI tilted Fed bets toward a hold, Brent pauses below $89 on Hormuz deal talk, and Applied Materials reports after the close.",
+  "asof": "Pre-market · as of 6:55 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,757.75", "delta": "+0.13%", "dir": "up"},
+    {"label": "Nasdaq 100 fut.", "value": "29,901.75", "delta": "+0.16%", "dir": "up"},
+    {"label": "Dow fut.", "value": "53,893.00", "delta": "—", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.67%", "delta": "−0.03pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,387.38", "delta": "−0.48%", "dir": "down"},
+    {"label": "Brent crude", "value": "$88.01", "delta": "−1.09%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$63,959", "delta": "−0.50%", "dir": "down"}
+  ],
+  "history": {"spx": 7748.50, "y10": 4.67, "btc": 63959},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Tame July CPI tilts Fed bets toward a hold",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-12-dow-sp-500-nasdaq-cpi-report-091555133.html",
+          "sentence": "Consumer prices rose 0.1% in July for a 3.4% annual rate, matching expectations, and traders tilted toward the Fed holding after a roughly 50-50 split the day before, per Yahoo Finance."
+        },
+        {
+          "title": "Producer prices at 8:30, consensus 4.9 percent",
+          "url": "https://www.xtb.com/en/market-analysis/economic-calendar-us-ppi-jobless-claims-and-fed-speeches-to-bring-more-insight-after-uneventful-cpi-13-08-2026",
+          "sentence": "XTB's calendar puts July PPI consensus at +0.2% on the month and 4.9% on the year, down from 5.5%, with core easing to 4.2%."
+        },
+        {
+          "title": "Claims, a 30-year auction and Barkin fill the tape",
+          "url": "https://ng.investing.com/news/stock-market-news/ppi-and-jobless-claims-highlight-economic-data-due-thursday-93CH-2656311",
+          "sentence": "Investing.com pencils in 202,000 initial claims versus 199,000 prior, plus a 30-year bond auction after a 5.058% prior stop and Richmond Fed's Barkin at 8:40 AM."
+        },
+        {
+          "title": "AI infrastructure earnings keep doing the lifting",
+          "url": "https://ng.investing.com/news/stock-market-news/us-stock-futures-flat-after-inline-cpi-upbeat-tech-earnings-2656893",
+          "sentence": "Super Micro and CoreWeave each jumped about 19% after results, per Investing.com, extending the upbeat tech-earnings run that has carried the week."
+        },
+        {
+          "title": "JD.com before the open, Applied Materials after",
+          "url": "https://x.com/PrimeTrading_/status/2087702517073191398",
+          "sentence": "Trader Alex Desjardins' calendar on X has JD.com premarket and Applied Materials after the bell, with no voting Fed speakers scheduled."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump claims Hormuz control; Pakistan sees deal forming",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-compensation-negotiation/",
+          "sentence": "Trump called the US blockade 'infallible' while Pakistan's defense minister said things are shaping up 'in favor of a peace arrangement or a deal,' per CBS News."
+        },
+        {
+          "title": "Iran hardens military posture as talks sit frozen",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-12/iran-takes-more-aggressive-military-stance-with-us-talks-frozen",
+          "sentence": "Bloomberg reports Tehran is taking a more aggressive military stance with US talks frozen."
+        },
+        {
+          "title": "Houthi missiles kill six on Red Sea cargo ship",
+          "url": "https://www.justsecurity.org/153375/early-edition-august-12-2026/",
+          "sentence": "Just Security's digest says three ballistic missiles struck the vessel, killing four crew members and two rescuers; the Houthis claimed it carried Saudi military equipment."
+        },
+        {
+          "title": "Judge blocks mail-in voting order in all states",
+          "url": "https://www.justsecurity.org/153375/early-edition-august-12-2026/",
+          "sentence": "A federal judge expanded the injunction against Trump's mail-in voting executive order nationwide ahead of the November 3 midterms, per Just Security."
+        },
+        {
+          "title": "Ukraine hands Washington its proposals to end the war",
+          "url": "https://www.justsecurity.org/153375/early-edition-august-12-2026/",
+          "sentence": "Zelenskyy says Kyiv submitted war-ending proposals to US negotiators, per Just Security, after Vice President Vance asked Ukraine to halt strikes on non-Russian tankers."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic courts IPO investors for an October listing",
+          "url": "https://www.thestreet.com/technology/anthropic-ipo-prospectus-registration-filing-changes-ai-investing",
+          "sentence": "TheStreet reports a confidential S-1 filed June 1, Morgan Stanley, Goldman and JPMorgan leading, and a $965 billion post-money valuation from May's Series H."
+        },
+        {
+          "title": "Gemini passes 1 billion monthly users",
+          "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/11/gemini-becomes-googles-fastest-growing-product-ever-after-hitting-1-billion-monthly-users/",
+          "sentence": "Forbes reports Gemini became Google's fastest-growing product ever after crossing 1 billion monthly users."
+        },
+        {
+          "title": "IBM to build Together AI a Blackwell cluster",
+          "url": "https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/",
+          "sentence": "The $240 million multiyear deal covers roughly 2,000 Nvidia Blackwell chips in a US-based inference cluster, per Tech Startups."
+        },
+        {
+          "title": "Nvidia readies Nemotron 4 at a trillion parameters",
+          "url": "https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/",
+          "sentence": "Tech Startups says the next generation of Nvidia's open models targets roughly one trillion parameters."
+        },
+        {
+          "title": "AI agents ran a cyberattack on Taiwan nuclear plant",
+          "url": "https://techstartups.com/2026/08/12/top-tech-news-today-august-12-2026-anthropic-google-ibm-lovable-nvidia-openai-more/",
+          "sentence": "Tech Startups reports the China-linked operation used AI agents that conducted reconnaissance and attempted break-ins simultaneously."
+        }
+      ]
+    }
+  ]
+}
