@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-14",
+  "headline": "Kai, stocks carried records into Friday — at 8:30 the American consumer gets the last word.",
+  "subline": "July retail sales land this morning with September hike odds faded to about 35%, Hormuz stays shut with WTI near $82, and the S&P starts from Thursday's record 7,798.99.",
+  "asof": "Pre-market · as of 6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,829.00", "delta": "+0.08%", "dir": "up"},
+    {"label": "Nasdaq 100 fut.", "value": "30,248.00", "delta": "+0.20%", "dir": "up"},
+    {"label": "Dow fut.", "value": "53,873.00", "delta": "−0.11%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.67%", "delta": "+0.02pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,413.30", "delta": "−0.16%", "dir": "down"},
+    {"label": "WTI crude", "value": "$81.98", "delta": "+0.90%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$62,784", "delta": "−1.26%", "dir": "down"}
+  ],
+  "history": {"spx": 7798.99, "y10": 4.67, "btc": 62784},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures steady near records ahead of retail sales",
+          "url": "https://finance.yahoo.com/markets/",
+          "sentence": "Yahoo Finance's premarket board shows S&P 500 futures at 7,829.00, up 0.08%, with WTI near $82 and bitcoin easing about 1.3% to $62,784 ahead of the 8:30 data."
+        },
+        {
+          "title": "S&P 500 closes at a record 7,798.99",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/08/13/stock-market-today-aug-13-stocks-rise-as-inflation-cools-workday-soars-18/",
+          "sentence": "The index rose 0.65% Thursday — Nasdaq up 0.81%, Dow up 0.13% — and Workday jumped 18% on reported Silver Lake buyout talks, per The Motley Fool."
+        },
+        {
+          "title": "Retail sales seen up 0.1% this morning",
+          "url": "https://www.investing.com/news/stock-market-news/retail-sales-and-core-retail-sales-among-economic-data-due-friday-93CH-4858936",
+          "sentence": "Investing.com's calendar pegs July retail sales at +0.1% with core at +0.2%, and has Michigan consumer sentiment expected at 54.4 later in the morning."
+        },
+        {
+          "title": "Soft PPI pushes September hike odds toward 35%",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Markets now price roughly a 35% chance of a September rate increase, down from 55% a week earlier, after Thursday's softer-than-expected producer-price data, per Trading Economics."
+        },
+        {
+          "title": "Ten-year yield edges back up to 4.67%",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics marks the 10-year at 4.67% this morning — up 0.02 points on the session, 0.11 over the past month, and 0.35 in a year."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Hormuz stays shut as Iran sets reopening terms",
+          "url": "https://www.aljazeera.com/economy/2026/8/12/oil-prices-rise-as-attacks-dent-hopes-for-strait-of-hormuz-reopening",
+          "sentence": "Tehran says the strait stays closed until Washington pays war reparations and lifts sanctions, with daily crossings near 10 vessels versus 130 pre-war, per Al Jazeera."
+        },
+        {
+          "title": "Second carrier heads toward the Middle East",
+          "url": "https://www.npr.org/2026/08/14/nx-s1-5931183/new-aircraft-carrier-heads-toward-mideast-after-reports-of-issues-on-long-deployed-uss-lincoln",
+          "sentence": "The USS George Washington is steaming toward the region after reports of strain and supply problems aboard the long-deployed USS Abraham Lincoln, per NPR."
+        },
+        {
+          "title": "Magnitude-7.4 earthquake shakes western Colombia",
+          "url": "https://www.npr.org/2026/08/14/nx-s1-5928981/colombia-earthquake-venezuela-fault",
+          "sentence": "NPR examines the quake that struck western Colombia and the potential for additional seismic events along the fault."
+        },
+        {
+          "title": "Judge tosses Trump antisemitism case against Harvard",
+          "url": "https://www.npr.org/2026/08/14/g-s1-138721/trump-antisemitism-harvard",
+          "sentence": "A federal judge dismissed the administration's civil-rights case against the university, per NPR."
+        },
+        {
+          "title": "Nevada fake-electors case dismissed",
+          "url": "https://www.npr.org/2026/08/14/nx-s1-5931179/judge-drops-nevada-case-against-electors-accused-of-forging-certificate-in-2020-election",
+          "sentence": "A judge dropped the prosecution of Nevadans accused of forging electoral certificates in the 2020 election, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Z.ai aims at Anthropic and OpenAI in coding",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-14/z-ai-aims-to-catch-anthropic-openai-in-coding-with-new-ai-model",
+          "sentence": "Bloomberg reports Z.ai's new AI model is built to catch Anthropic and OpenAI in the coding market."
+        },
+        {
+          "title": "Nvidia opens Nemotron 3.5 Lightning",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "The open 30B mixture-of-experts model claims up to 4x higher output speed and ships alongside a new routing library, per AI Weekly."
+        },
+        {
+          "title": "SpaceX holds above its $135 IPO price",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-13-2026",
+          "sentence": "Shares traded at $146.59 after a Starlink satellite launch, comfortably above the $135 IPO price, per TheStreet."
+        },
+        {
+          "title": "UK courts ban Meta smart glasses",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Courtrooms in England and Wales barred the glasses over covert-recording concerns, per AI Weekly."
+        },
+        {
+          "title": "Anthropic signs 191 MW compute deal with Riot",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "AI Weekly reports a 20-year contract with Riot Platforms worth about $9.1 billion through 2048 — one more bitcoin miner routing its power toward AI."
+        }
+      ]
+    }
+  ]
+}
