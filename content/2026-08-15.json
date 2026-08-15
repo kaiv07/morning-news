@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-15",
+  "headline": "Kai, the American consumer flinched — retail sales fell, sentiment hit 51, and the market still banked a third straight winning week.",
+  "subline": "Oil holds above $81 under the Hormuz blockade, the 10-year sits at 4.70%, and the Warsh Fed's first Jackson Hole is on deck.",
+  "asof": "Saturday · markets closed · strip shows Friday's session · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,785.76", "delta": "−0.17%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,729.16", "delta": "−0.28%", "dir": "down"},
+    {"label": "Dow", "value": "53,732.41", "delta": "−0.20%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.70%", "delta": "+0.05pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,405.30", "delta": "−0.35%", "dir": "down"},
+    {"label": "WTI crude", "value": "$81.71", "delta": "+0.57%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$62,681", "delta": "−1.53%", "dir": "down"}
+  ],
+  "history": {"spx": 7785.76, "y10": 4.70, "btc": 62680.69},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Retail sales fall 0.6%, weakest in a year",
+          "url": "https://finance.yahoo.com/economy/articles/us-retail-sales-weakest-over-133017202.html",
+          "sentence": "July sales fell 0.6% to $763.6 billion against forecasts for a 0.1% gain, the weakest reading in over a year, per Yahoo Finance."
+        },
+        {
+          "title": "Consumer sentiment sinks to 51; inflation expectations rise",
+          "url": "https://finance.yahoo.com/economy/articles/u-consumer-sentiment-falls-august-171815784.html",
+          "sentence": "The University of Michigan's preliminary index dropped to 51.0 from 55.2 as year-ahead inflation expectations rose to 4.3%, per Yahoo Finance — and American Banker reports markets now lean toward a Fed hold."
+        },
+        {
+          "title": "Third straight weekly gain; Nvidia looms August 26",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+          "sentence": "The S&P 500 closed at 7,785.76, down 0.17% from Thursday's record, still capping a third straight winning week ahead of Walmart and Target earnings and Nvidia's August 26 report, per Yahoo Finance."
+        },
+        {
+          "title": "Ten-year tests 19-month highs, settles at 4.70%",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "The 10-year touched 19-month highs near 4.75% during the week before settling Friday at 4.70%, up 0.05 points on the day, per Trading Economics."
+        },
+        {
+          "title": "Russell 2000 sets records as Reddit joins S&P",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-14-2026",
+          "sentence": "TheStreet's Friday board shows WTI at $81.71, gold at $4,405.30, and bitcoin at $62,681, with the Russell 2000 at fresh records and Reddit joining the S&P 500 before Monday's open."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "U.S. says Iran blockade can run indefinitely",
+          "url": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last",
+          "sentence": "Defense Secretary Pete Hegseth said the Navy can rotate ships to hold the blockade 'indefinitely' as ceasefire talks stall and Iran's crude revenues run at least $6 billion short since April, per Al Jazeera."
+        },
+        {
+          "title": "Black Sea strikes send food prices to multi-year highs",
+          "url": "https://www.democracynow.org/2026/8/14/headlines",
+          "sentence": "Russian and Ukrainian attacks on civilian shipping are squeezing grain exports, with food prices at their highest since early 2023, per Democracy Now."
+        },
+        {
+          "title": "Indiana declares statewide emergency amid catastrophic flooding",
+          "url": "https://abcnews.com/US/indiana-governor-declares-statewide-disaster-emergency-midwest-floodwaters/story?id=135609692",
+          "sentence": "Gov. Mike Braun declared a statewide disaster emergency as Midwest floodwaters rise, with record rainfall pushing rivers to historic highs, per ABC News and OANN."
+        },
+        {
+          "title": "China calls Taiwan drills a 'wasteful charade'",
+          "url": "https://www.fdd.org/overnight-brief/august-14-2026/",
+          "sentence": "Beijing's defense ministry dismissed Taiwan's military drills as a 'wasteful charade' that 'stoked war panic,' per Reuters coverage in FDD's overnight brief."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Apple trains China-specific AI model with Alibaba",
+          "url": "https://finance.yahoo.com/technology/ai/articles/apple-trains-china-specific-ai-140316517.html",
+          "sentence": "Apple trained its own model for China with Alibaba's assistance to expand Apple Intelligence there, per a Reuters report carried by Yahoo Finance."
+        },
+        {
+          "title": "Google ships Gemini 3.7 Flash at half price",
+          "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+          "sentence": "The new model targets coding and agent workloads and carries a 50% introductory price cut through year-end, per VentureBeat."
+        },
+        {
+          "title": "OpenAI and Anthropic cut prices; DeepSeek hikes 1,100%",
+          "url": "https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/",
+          "sentence": "OpenAI cut GPT-5.6 Luna pricing and added a Cerebras-backed Ultrafast mode, Anthropic trimmed Claude Opus 5 rates, and DeepSeek raised premium API prices as much as 1,100% — the price war now runs in both directions, per Tech Startups."
+        },
+        {
+          "title": "Pony.ai and Uber plan 2,000 European robotaxis",
+          "url": "https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/",
+          "sentence": "The two companies plan more than 2,000 robotaxis across five European cities in an expanded autonomous-driving partnership, per Tech Startups."
+        },
+        {
+          "title": "Big Tech's AI buildout nears $1.5 trillion committed",
+          "url": "https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/",
+          "sentence": "Tech Startups tallies Big Tech's AI infrastructure commitments near $1.5 trillion, with SMIC raising chip prices on 93.7% factory utilization."
+        }
+      ]
+    }
+  ]
+}
