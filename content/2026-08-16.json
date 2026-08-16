@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-16",
+  "headline": "Kai, Washington says unprecedented Iran sanctions arrive this week — oil already trades like it believes them.",
+  "subline": "Walmart and Target report this week with Nvidia and Jackson Hole close behind, OpenAI wraps a $7 billion tender ahead of a potential IPO, and Indonesia's quake toll reaches 51.",
+  "asof": "Sunday · markets closed · strip shows Friday's close, bitcoin as of Saturday evening ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,785.76", "delta": "−0.17%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,729.16", "delta": "−0.28%", "dir": "down"},
+    {"label": "Dow", "value": "53,732.41", "delta": "−0.20%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.70%", "delta": "+0.05pp", "dir": "up"},
+    {"label": "Gold (spot)", "value": "$4,375.50", "delta": "+0.60%", "dir": "up"},
+    {"label": "Brent crude", "value": "$88.52", "delta": "+1.67%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$63,107", "delta": "+0.45%", "dir": "up"}
+  ],
+  "history": {"spx": 7785.76, "y10": 4.70, "btc": 63106.59},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Walmart and Target report this week",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-14-dow-sp-500-nasdaq-102635519.html",
+          "sentence": "After Friday's drift to 7,785.76 on the S&P 500, attention shifts to Walmart and Target results this week and Nvidia's report on August 26, per Yahoo Finance."
+        },
+        {
+          "title": "Brent books a 5% week on Iran risk",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+          "sentence": "Brent settled at $88.52 Friday, up 1.67% on the day and more than 5% on the week as US pressure on Iran over the Strait of Hormuz built, per Trading Economics."
+        },
+        {
+          "title": "Yields enter sanctions week at 4.70%",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "The 10-year ended Friday at 4.70% as inflation worries and Middle East tension brought renewed selling in bonds, per Trading Economics."
+        },
+        {
+          "title": "Gold takes a second straight weekly gain",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Spot gold ended Friday at $4,375.50, up 0.60% on the day to secure a second consecutive weekly gain, per Trading Economics."
+        },
+        {
+          "title": "Bitcoin idles near $63,000 into the new week",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "Bitcoin trades at $63,106.59, up 0.45% over the past 24 hours as of Saturday evening, per CoinDesk."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Unprecedented Iran sanctions promised this week",
+          "url": "https://www.rigzone.com/news/wire/us_to_soon_unveil_unprecedented_sanctions_on_iran-14-aug-2026-184374-article/",
+          "sentence": "Treasury Secretary Scott Bessent promised measures 'like have never been seen in the history of economic isolation,' with announcements due this week nearly six months into the war, per Bloomberg via Rigzone."
+        },
+        {
+          "title": "Quake toll on Indonesia's Flores reaches 51",
+          "url": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands",
+          "sentence": "The magnitude-7.7 quake off Flores Island has killed at least 51 people, pushed about 5,000 to evacuate, and destroyed 157 homes, with the tsunami warning since lifted, per Al Jazeera."
+        },
+        {
+          "title": "USS Lincoln families decry conditions aboard",
+          "url": "https://www.npr.org/2026/08/15/nx-s1-5932539/uss-lincoln-trump-dire-conditions",
+          "sentence": "Families of sailors on the carrier's extended Middle East deployment say Trump should be 'ashamed' of conditions on board, with NBC News describing supply and food shortages, per NPR."
+        },
+        {
+          "title": "Ukraine presses Crimea by sky and sea",
+          "url": "https://www.npr.org/2026/08/13/nx-s1-5904418/ukraine-crimea-russia-drone-strikes",
+          "sentence": "Drone campaigns from the air and the sea are disrupting Russian military operations and daily life on the peninsula, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI wraps $7 billion employee share sale",
+          "url": "https://www.cnbc.com/2026/08/10/openai-wraps-7-billion-share-sale-ahead-of-potential-ipo-.html",
+          "sentence": "The employee tender closed this past week as the company positions for a potential public listing, per CNBC."
+        },
+        {
+          "title": "OpenAI revenue run rate tops $40 billion",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+          "sentence": "Bloomberg reported Thursday that annualized revenue crossed $40 billion as IPO groundwork continues."
+        },
+        {
+          "title": "IBM and OpenAI strike enterprise partnership",
+          "url": "https://techstartups.com/2026/08/14/top-tech-news-today-august-14-2026-apple-anthropic-deepseek-google-ibm-pony-ai-openai-spacex-uber-more/",
+          "sentence": "The deal puts OpenAI technology into IBM enterprise workflows, including cybersecurity and application modernization, per Tech Startups."
+        },
+        {
+          "title": "Google consolidates AI leadership in California",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-06/google-shifts-ai-power-to-california-in-race-against-anthropic-openai",
+          "sentence": "Bloomberg reports Google is shifting AI power to California as its race with Anthropic and OpenAI tightens."
+        }
+      ]
+    }
+  ]
+}
