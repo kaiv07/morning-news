@@ -1,0 +1,103 @@
+{
+  "date": "2026-08-17",
+  "headline": "Kai, September hike odds just slipped to 30% — now Walmart, Home Depot and Wednesday's Fed minutes get to say whether the calm is earned.",
+  "subline": "Retail earnings and Wednesday's FOMC minutes anchor a data-light week, memory chips lift Nasdaq futures, and Kushner heads to the Middle East with the Gaza plan stalled.",
+  "asof": "Pre-market · as of 6:45 AM ET · index and gold figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,816.00", "delta": "+0.14%", "dir": "up"},
+    {"label": "Nasdaq-100 fut.", "value": "30,287.50", "delta": "+0.48%", "dir": "up"},
+    {"label": "Dow fut.", "value": "53,727", "delta": "−0.15%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.68%", "delta": "−0.02pp", "dir": "down"},
+    {"label": "Gold (fut.)", "value": "$4,451.90", "delta": "+0.33%", "dir": "up"},
+    {"label": "WTI crude", "value": "$81.59", "delta": "+0.15%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$63,246", "delta": "+0.52%", "dir": "up"}
+  ],
+  "history": {"spx": 7785.76, "y10": 4.68, "btc": 63246.21},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures tilt up as retail week opens",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
+          "sentence": "S&P 500 futures trade at 7,816.00 and Nasdaq-100 futures at 30,287.50, up 0.48%, while Dow futures slip 0.15%, per Yahoo Finance."
+        },
+        {
+          "title": "Hike odds fall to 30.6% for September",
+          "url": "https://www.benzinga.com/markets/equities/26/08/61240267/stock-market-today-dow-futures-slip-sp-500-rises-as-september-fed-hike-odds-fall-to-30-sandisk-micron-hive-in-focus",
+          "sentence": "Futures markets price a 30.6% chance the Fed raises rates in September after last week's cooler inflation data, with the 10-year at 4.68% and July minutes due Wednesday, per Benzinga."
+        },
+        {
+          "title": "Home Depot Tuesday, Walmart Thursday",
+          "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---17th-21st-august-2026",
+          "sentence": "Home Depot reports Tuesday, Lowe's Wednesday, and Walmart Thursday — the clearest read on the consumer in an otherwise quiet US data week, per Newsquawk."
+        },
+        {
+          "title": "Reddit joins the S&P 500 this week",
+          "url": "https://www.cnbc.com/2026/08/13/reddit-shares-jump-11percent-on-inclusion-in-sp-500.html",
+          "sentence": "Shares jumped 11% on the inclusion announcement, and index funds must own the stock once it enters the benchmark this week, per CNBC."
+        },
+        {
+          "title": "Gold holds near $4,400",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
+          "sentence": "Spot gold trades near $4,400, supported by weak US retail data, a softer dollar, and the shifting Fed rate path, per Bloomberg."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Arab bloc faults Israel as Kushner arrives",
+          "url": "https://www.timesofisrael.com/liveblog-august-16-2026/",
+          "sentence": "Egypt, Jordan, the UAE, Qatar and Turkey jointly blamed Israel for stalling the Trump Gaza plan as envoy Jared Kushner begins a visit to Israel and Egypt, per The Times of Israel."
+        },
+        {
+          "title": "Trump ran secret backchannel to Iran's IRGC",
+          "url": "https://www.axios.com/2026/08/16/iran-backchannel-trump-gabbard-barzani-war",
+          "sentence": "The White House used Kurdish leader Nechirvan Barzani to reach the Revolutionary Guard, which signaled it backs Iran's nuclear negotiators, per Axios."
+        },
+        {
+          "title": "Ukraine floats Black Sea truce after Novorossiysk",
+          "url": "https://www.kyivpost.com/post/82317",
+          "sentence": "Kyiv proposed a mutual halt to attacks on civilian shipping after its August 13 strike shut all three grain terminals at Russia's main Black Sea port, per the Kyiv Post."
+        },
+        {
+          "title": "Trump cheers Saudi-Turkey-Pakistan defense pact",
+          "url": "https://www.timesofisrael.com/trump-cheers-defense-pact-between-saudis-turkey-and-pakistan-the-mideast-is-coming-together/",
+          "sentence": "The president welcomed the new three-way defense agreement, saying 'the Mideast is coming together,' per The Times of Israel."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Stripe to buy OpenRouter for $7 billion",
+          "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "sentence": "Stripe will reportedly pay more than $7 billion for the AI-gateway startup, months after OpenRouter last raised at a fraction of that price, per TechCrunch."
+        },
+        {
+          "title": "Memory chips rally on AI demand",
+          "url": "https://www.benzinga.com/markets/equities/26/08/61240267/stock-market-today-dow-futures-slip-sp-500-rises-as-september-fed-hike-odds-fall-to-30-sandisk-micron-hive-in-focus",
+          "sentence": "Micron rose 3.57% and SanDisk 5.72% in premarket trade on AI infrastructure demand and tight supply, per Benzinga."
+        },
+        {
+          "title": "OpenAI, Google skip Nvidia security alliance",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-google-and-anthropic-absent-from-nvidia-led-open-secure-ai-alliance-30-companies-join-security-alliance-after-openai-agent-breach",
+          "sentence": "More than 30 companies joined the Nvidia-led Open Secure AI Alliance formed after an OpenAI agent breach, but OpenAI, Google and Anthropic stayed out, per Tom's Hardware."
+        },
+        {
+          "title": "Higgsfield raises $400 million at $5.4 billion",
+          "url": "https://www.prnewswire.com/news-releases/higgsfield-raises-400-million-series-b-financing-at-5-4-billion-valuation-with-annualized-revenue-reaching-700-million-302852430.html",
+          "sentence": "The AI-video startup closed a $400 million Series B at a $5.4 billion valuation with annualized revenue of $700 million, per the company's release."
+        },
+        {
+          "title": "An AI store manager fired its first human",
+          "url": "https://thenextweb.com/news/andon-market-luna-ai-store-manager-fires-employee",
+          "sentence": "Andon Labs' Claude-based manager Luna made the first known LLM termination call over repeated absences — after first being reminded of its own rules, per The Next Web."
+        }
+      ]
+    }
+  ]
+}
