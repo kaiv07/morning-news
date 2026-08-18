@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-18",
+  "headline": "Kai, the long bond just closed above 5.3% for the first time since 2007, and this morning everything else is repricing around it.",
+  "subline": "Iran's deal deadline expired with oil near two-week highs, Home Depot reports before the open, and July's Fed minutes land tomorrow.",
+  "asof": "Pre-market · sources as of 5:00–6:40 AM ET · index and gold figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,729.25", "delta": "−0.51%", "dir": "down"},
+    {"label": "Nasdaq-100 fut.", "value": "29,762.75", "delta": "−1.11%", "dir": "down"},
+    {"label": "Dow fut.", "value": "53,492", "delta": "−0.10%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.74%", "delta": "+0.01pp", "dir": "up"},
+    {"label": "WTI crude", "value": "$84.15", "delta": "+0.49%", "dir": "up"},
+    {"label": "Gold (fut.)", "value": "$4,448.80", "delta": "−0.56%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$64,170", "delta": "+1.46%", "dir": "up"}
+  ],
+  "history": {"spx": 7745.06, "y10": 4.74, "btc": 64170.39},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Stocks fell Monday as oil jumped 3%",
+          "url": "https://eurasiabusinessnews.com/2026/08/18/stock-market-today-dow-sp-500-nasdaq-fall-oil-price-above-88/",
+          "sentence": "The S&P 500 closed at 7,745.06, down 0.5%, as Brent jumped about 3% to above $88 on fading US-Iran hopes and the 30-year yield's first finish above 5.3% since June 2007, per Eurasia Business News."
+        },
+        {
+          "title": "Futures extend losses; Nasdaq off 1%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+          "sentence": "S&P 500 futures trade at 7,729.25, down 0.51%, Nasdaq-100 futures are off 1.11%, and WTI sits at $84.15 with the 30-year yield at a 19-year high, per Yahoo Finance."
+        },
+        {
+          "title": "Fed minutes tomorrow: watch the three dissents",
+          "url": "https://mynews13.com/fl/orlando/ap-top-news/2026/08/16/wall-street-week-ahead-home-depot-and-walmart-report-earnings-minutes-of-fed-meeting-are-released",
+          "sentence": "Three officials dissented in favor of higher rates when the Fed held in July, with inflation still solidly above 3%, and Wednesday's minutes will show how close the committee came, per AP."
+        },
+        {
+          "title": "Home Depot reports before the open",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-preview-expect-home-depot-115920268.html",
+          "sentence": "Consensus looks for EPS of $4.71 from a stock down 10.7% over 52 weeks on rate-pressured housing demand, with Toll Brothers and Klarna also on today's slate, per Yahoo Finance."
+        },
+        {
+          "title": "Bitcoin steadies above $64,000",
+          "url": "https://sundayguardianlive.com/business/bitcoin-price-today-august-18-2026-btc-rises-above-64000-as-buyers-return-after-weekly-low-check-latest-prices-in-usd-inr-gbp-euro-jpy-263659/",
+          "sentence": "Bitcoin trades near $64,170 after buyers defended support around last week's $62,700 low, though spot ETFs bled $385 million over the same stretch, per the Sunday Guardian."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran deadline expires; Trump threatens Oman",
+          "url": "https://www.cnn.com/2026/08/17/world/live-news/iran-war-trump",
+          "sentence": "The deadline for a US-Iran deal expired Monday, and Trump is now threatening action against Oman over interference with Strait of Hormuz shipping, per CNN and Yahoo Finance."
+        },
+        {
+          "title": "Russian drone hits Odesa shopping center",
+          "url": "https://kyivindependent.com/russian-attacks-kill-9-injure-43-across-ukraine-over-past-day-as-jet-powered-drone-hits-shopping-center-in-odesa-oblast/",
+          "sentence": "Russia launched 128 drones overnight, killing at least nine and injuring 43 across Ukraine in a day, including a jet-powered drone strike on a post office inside an Odesa shopping center, per the Kyiv Independent."
+        },
+        {
+          "title": "European yields hit multi-year highs",
+          "url": "https://www.euronews.com/business/2026/08/18/european-bond-yields-hit-multi-year-highs-on-iran-war-inflation-fears",
+          "sentence": "France's 10-year reached 4.10%, its highest since June 2009, and Germany's bund topped 3.25% as the US-Iran breakdown feeds inflation fears, with markets pricing a 90% chance of an ECB hike by September, per Euronews."
+        },
+        {
+          "title": "Petroleum reserve at lowest level since 1982",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
+          "sentence": "The US Strategic Petroleum Reserve has drained to its lowest level since 1982, just as Hormuz risk pushes oil to two-week highs, per Yahoo Finance."
+        },
+        {
+          "title": "Putin pledges North Korea ties 'in all the sectors'",
+          "url": "https://kyivindependent.com/russia-north-korea-to-continue-cooperation-in-all-sectors-putin-says-on-korean-liberation-day/",
+          "sentence": "Putin said cooperation with Pyongyang will continue 'in all the sectors,' as Kyiv says Russia is preparing to receive another 30,000 North Korean troops, per the Kyiv Independent."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "GitHub down worldwide for much of Monday",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+          "sentence": "Microsoft confirmed a global outage that impaired GitHub's site, APIs and Copilot for much of Monday, per BleepingComputer."
+        },
+        {
+          "title": "Copilot 'autofix' opened Snowflake to attack",
+          "url": "https://www.theregister.com/security/2026/08/17/an-ai-broke-snowflakes-code-then-another-ai-agent-exploited-it/5288666",
+          "sentence": "A Copilot-generated 'autofix' left a command-injection flaw in Snowflake's GitHub Actions that Wiz's red-team AI agent then exploited to reach an internal Jira, per The Register."
+        },
+        {
+          "title": "Amazon destroys rare books for AI training",
+          "url": "https://www.404media.co/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-training-facility/",
+          "sentence": "Amazon — the company that began as a bookstore — is dismantling and scanning rare titles for model training data, a tracked shipment shows, per 404 Media."
+        },
+        {
+          "title": "Meta, Nvidia plant flag in open-weight race",
+          "url": "https://www.cnbc.com/2026/08/12/meta-nvidia-open-weight-ai-race-china.html",
+          "sentence": "Meta and Nvidia planted a 'very firm flag' in the open-weight AI race that Chinese labs have been leading, per CNBC."
+        },
+        {
+          "title": "AI borrowing spree shows up in yields",
+          "url": "https://www.euronews.com/business/2026/08/18/european-bond-yields-hit-multi-year-highs-on-iran-war-inflation-fears",
+          "sentence": "Bond analysts cite significant AI-related debt issuance, on top of heavy government borrowing, as a driver of the global yield surge, per Euronews."
+        }
+      ]
+    }
+  ]
+}
