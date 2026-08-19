@@ -1,0 +1,108 @@
+{
+  "date": "2026-08-19",
+  "headline": "Kai, markets now price a one-in-three chance the Fed's next move is a hike, and this afternoon's minutes show how seriously to take it.",
+  "subline": "Fed minutes at 2 p.m., a retail earnings gauntlet led by Target and Lowe's, and a Korean chip rout testing the AI trade while Hormuz stays shut.",
+  "asof": "Pre-market · as of ~6:40 AM ET · index cells show futures moves vs Tuesday's closes · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "+0.08%", "delta": "Tue −0.69%", "dir": "up"},
+    {"label": "Nasdaq-100 fut.", "value": "+0.16%", "delta": "Tue −1.68%", "dir": "up"},
+    {"label": "Dow fut.", "value": "−0.02%", "delta": "Tue −0.22%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.69%", "delta": "−0.03pp", "dir": "down"},
+    {"label": "WTI crude", "value": "$84.38", "delta": "+0.38%", "dir": "up"},
+    {"label": "Gold", "value": "$4,362", "delta": "+0.63%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$64,405", "delta": "+0.30%", "dir": "up"}
+  ],
+  "history": {"spx": 7692.62, "y10": 4.69, "btc": 64404.74},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Fed minutes at 2 p.m.; September hike odds near 33%",
+          "url": "https://www.benzinga.com/markets/equities/26/08/61293924/stock-market-today-sp-500-nasdaq-100-futures-rise-as-trump-says-no-talks-are-happening-with-iran-keysight-technologies-mercury-systems-sk-hynix-in-focus",
+          "sentence": "July's minutes land at 2 p.m. ET with CME FedWatch pricing a 32.8% chance of a September rate hike, per Benzinga."
+        },
+        {
+          "title": "Target, Lowe's and TJX headline a retail earnings day",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+          "sentence": "Target, Lowe's, TJX, Analog Devices and Estée Lauder all report today, per Schwab, a day after Home Depot's improved sales earned its stock a shrug."
+        },
+        {
+          "title": "S&P 500 fell 0.69% Tuesday; Nasdaq-100 worse",
+          "url": "https://tradingeconomics.com/united-states/stock-market",
+          "sentence": "The S&P 500 closed at 7,692.62 and the Nasdaq-100 lost 1.68% amid heavy selling in semiconductor and other technology stocks, per Trading Economics."
+        },
+        {
+          "title": "KOSPI sinks 5% as the chip selloff goes global",
+          "url": "https://www.benzinga.com/markets/equities/26/08/61293924/stock-market-today-sp-500-nasdaq-100-futures-rise-as-trump-says-no-talks-are-happening-with-iran-keysight-technologies-mercury-systems-sk-hynix-in-focus",
+          "sentence": "Seoul's index plunged more than 5% with SK Hynix down 9.75% locally even after it announced a $29 billion buyback, per Benzinga."
+        },
+        {
+          "title": "Oil holds near $85 with Hormuz shipping stalled",
+          "url": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+          "sentence": "WTI trades at $84.38 with Brent above $91, per Benzinga, after CNBC reported Strait of Hormuz traffic slowing to a crawl around the ceasefire's expiry."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump: no talks with Iran as UAE detects threat",
+          "url": "https://www.cnn.com/2026/08/18/world/live-news/iran-war-trump",
+          "sentence": "There are 'no talks or conversations going on, or scheduled' with Tehran, Trump said, as the UAE reported detecting a missile threat, per CNN."
+        },
+        {
+          "title": "Ukraine hits Moscow with drones; Russian strike kills 10",
+          "url": "https://www.washingtontimes.com/news/2026/aug/18/ukraine-aims-drone-attack-moscow-russian-missiles-kill-10-ukrainian/",
+          "sentence": "Ukraine aimed a drone blitz at Moscow overnight while Russian missiles killed 10 people in a Ukrainian village, per the Washington Times."
+        },
+        {
+          "title": "Supreme Court again rejects Trump's Carroll appeal",
+          "url": "https://www.cbsnews.com/news/supreme-court-trump-appeal-of-e-jean-carroll-case/",
+          "sentence": "The court declined to rehear Trump's challenge to the $5 million E. Jean Carroll verdict, its second denial in the case, per CBS News."
+        },
+        {
+          "title": "Kushner, Netanyahu agree on Gaza demilitarization overseer",
+          "url": "https://www.nbcnews.com/world/gaza/kushner-netanyahu-hamas-talks-gaza-plan-peace-trump-rcna592871",
+          "sentence": "After marathon meetings, Kushner and Netanyahu agreed a U.S. general should oversee Hamas's demilitarization under the Gaza plan, per NBC News."
+        },
+        {
+          "title": "Judge blocks FBI headquarters move to Washington",
+          "url": "https://www.justsecurity.org/154447/early-edition-august-18-2026/",
+          "sentence": "A federal judge blocked the administration's plan to relocate FBI headquarters, finding prior Maryland facility approvals were unlawfully discarded, per AP via Just Security."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Stripe buys OpenRouter for more than $7 billion",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "sentence": "Stripe finalized its acquisition of the AI model-routing gateway for over $7 billion, folding model selection into payments infrastructure, per Bloomberg."
+        },
+        {
+          "title": "Unitree soars 629% in Shanghai trading debut",
+          "url": "https://www.scmp.com/tech/tech-trends/article/3364499/unitree-robotics-surges-629-us66-billion-valuation-shanghai-share-debut",
+          "sentence": "The humanoid-robot maker surged 629% on its first day to a roughly $66 billion valuation, per the South China Morning Post."
+        },
+        {
+          "title": "Beijing lets ByteDance, Tencent import Nvidia H200s",
+          "url": "https://www.engadget.com/2239738/china-reportedly-allows-bytedance-tencent-import-10000-h200-chips/",
+          "sentence": "China is reportedly allowing ByteDance and Tencent to import 10,000 H200 chips apiece, an easing of Beijing's own curbs, per Engadget."
+        },
+        {
+          "title": "Anthropic passes $11.5 billion in quarterly revenue",
+          "url": "https://fortune.com/2026/08/15/anthropic-revenue-q2-11-5-billion-ipo-investors/",
+          "sentence": "Anthropic's second-quarter revenue surged past $11.5 billion, per Fortune, with the Journal reporting OpenAI's growth now lags its rival's."
+        },
+        {
+          "title": "Pennsylvania reins in AI data-center buildout",
+          "url": "https://www.pa.gov/governor/newsroom/2026-press-releases/governor-shapiro-signs-executive-order-on-data-center-developmen",
+          "sentence": "Gov. Shapiro signed an executive order giving local communities more control over new AI data-center development in Pennsylvania, per the governor's office."
+        }
+      ]
+    }
+  ]
+}
