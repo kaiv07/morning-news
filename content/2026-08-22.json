@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-22",
+  "headline": "Kai, a bruising week for Treasurys ended with Bessent expanding buybacks, bitcoin reclaiming $78,000, and Kevin Warsh's Jackson Hole debut six days out.",
+  "subline": "Stocks fell for the week despite Friday's bounce, the 10-year sits at 4.74% near 20-month highs, and Bessent unveils the Iran isolation plan Monday.",
+  "asof": "Saturday · markets closed · figures are Friday's closes (bitcoin: Saturday-morning print) · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,674", "delta": "+0.4%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,180", "delta": "+0.4%", "dir": "up"},
+    {"label": "Dow", "value": "53,277", "delta": "+1.0%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.74%", "delta": "+0.03pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,680", "delta": "+2.4%", "dir": "up"},
+    {"label": "WTI crude", "value": "$86.72", "delta": "−0.1%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$78,335", "delta": "+7.3%", "dir": "up"}
+  ],
+  "history": {"spx": 7674.31, "y10": 4.74, "btc": 78335},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Friday bounce couldn't save the week for stocks",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+        "sentence": "The Dow rose 1% Friday to 53,276.81 and the S&P 500 added 0.4% to 7,674.31, but all three majors logged weekly losses as the bond selloff spilled into risk assets, per Yahoo Finance."
+      },
+      {
+        "title": "Ten-year ends at 4.74%, testing 20-month highs",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+        "sentence": "The 10-year yield rose to 4.74% Friday, back near the 20-month highs set earlier in the week, per TradingEconomics, after the relief from Treasury Secretary Bessent's expanded bond buybacks faded within a day."
+      },
+      {
+        "title": "Bitcoin clears $78,000 in best week since 2024",
+        "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-saturday-august-22-2026/",
+        "sentence": "Bitcoin ended Friday at $78,335, up 7.26% in 24 hours to cap its strongest week since 2024, per the Rio Times. The move was broad rather than bitcoin-only — the same report has ether up 8.12% to $2,515 and XRP up 14.61% — worth knowing before reading too much into one coin's chart."
+      },
+      {
+        "title": "Gold holds near records as US debt tops $40 trillion",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-21-2026-gold-remains-strong-amid-us-debt-concerns-161052751.html",
+        "sentence": "December gold traded around $4,634 Friday morning, up 36.7% in a year, with Yahoo Finance pointing at a national debt that hit a record $40 trillion this week as the safe-haven bid."
+      },
+      {
+        "title": "Next week: Iran plan Monday, Warsh at Jackson Hole",
+        "url": "https://www.techtimes.com/articles/325228/20260821/jackson-hole-2026-what-watch-when-warsh-steps-podium-friday.htm",
+        "sentence": "Bessent details the Iran plan at a Monday press conference, then the Kansas City Fed's symposium runs August 27–29, where Chair Kevin Warsh gives his first keynote Friday at 10 a.m. ET with markets pricing September hike odds near one-in-three, per Tech Times."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Bessent to unveil Iran economic-isolation plan Monday",
+        "url": "https://finance.yahoo.com/economy/policy/articles/bessent-detail-us-plans-isolate-155247246.html",
+        "sentence": "Bloomberg reports the Treasury secretary will press allies to join what he calls potentially 'the greatest coordinated economic isolation in the history of the world,' aimed at an Iran already running near-80% inflation with its currency down 30%."
+      },
+      {
+        "title": "US hits Canada with 50% tariffs on $20 billion",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "sentence": "The tariffs took effect after negotiations collapsed, and Ottawa has pledged immediate retaliation, per NPR."
+      },
+      {
+        "title": "Trump claims 'total control' of Hormuz, dismisses Iran deal",
+        "url": "https://www.timesofisrael.com/liveblog-august-22-2026/",
+        "sentence": "In Saturday remarks Trump said Iran is not ready to make the 'right deal' and boasted of 'total control' over the strait, per The Times of Israel's live coverage."
+      },
+      {
+        "title": "Supreme Court lets White House ballroom construction continue",
+        "url": "https://www.npr.org/2026/08/21/nx-s1-5935417/supreme-court-allows-trumps-ballroom-construction-to-continue-for-now",
+        "sentence": "The court declined to halt the $250 million project for now, turning aside preservation groups' emergency challenge, per NPR."
+      },
+      {
+        "title": "Backlash against Flock cameras turns to vandalism",
+        "url": "https://www.npr.org/2026/08/21/nx-s1-5939851/flock-cameras-police-block-surveillance-vandalize",
+        "sentence": "NPR reports people in several states are disabling the license-plate readers as resistance to police surveillance networks hardens."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Anthropic preps IPO on $65 billion revenue run-rate",
+        "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-revenue-run-rate-surpasses-193745178.html",
+        "sentence": "Bloomberg reports the lab's annualized revenue passed $65 billion in late July — roughly sevenfold its pace at the end of last year — with confidential IPO paperwork filed and a Wall Street debut possible as soon as this fall."
+      },
+      {
+        "title": "Nvidia pays Poolside $6 billion, invests $1 billion",
+        "url": "https://www.newcomer.co/p/sources-poolside-strikes-6-billion",
+        "sentence": "Newcomer reports a non-exclusive license for the coding-model startup's technology plus a $1 billion investment at a $12 billion pre-money valuation, with job offers going to about 109 Poolside staff."
+      },
+      {
+        "title": "Broadcom's AI chip debt deal may top $70 billion",
+        "url": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+        "sentence": "Per CNBC, a Broadcom-backed vehicle is tapping debt markets for financing expected to reach upwards of $70 billion to fund the AI infrastructure buildout tied to its Anthropic chip business."
+      },
+      {
+        "title": "Nevada clears up to 8,000 Las Vegas robotaxis",
+        "url": "https://techcrunch.com/2026/08/20/tesla-uber-and-waymo-all-get-the-ok-to-operate-thousands-of-robotaxis-in-nevada/",
+        "sentence": "Tesla may run up to 5,000 in Clark County over twelve months with Waymo and Uber capped at 1,000 each, per TechCrunch, though Tesla's own engineers expect closer to 2,500."
+      },
+      {
+        "title": "ChatGPT can now read and send Mac iMessages",
+        "url": "https://9to5mac.com/2026/08/20/chatgpt-update-adds-apple-messages-integration-on-mac/",
+        "sentence": "9to5Mac reports the updated Mac app can read, search, summarize, draft and send Apple Messages once a user grants permissions."
+      }
+    ]}
+  ]
+}
