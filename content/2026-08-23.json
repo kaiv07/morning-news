@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-23",
+  "headline": "Kai, the tariff fight with Canada has hardened into dollar-for-dollar retaliation, and the week ahead stacks Bessent's Iran plan, Nvidia's earnings and Warsh's Jackson Hole debut on top of it.",
+  "subline": "The 10-year enters the week at 4.73%, bitcoin sits near $76,600 after its best week in two years, and Wednesday brings PCE, GDP and Nvidia in one day.",
+  "asof": "Weekend edition · Sunday ~6:40 AM ET · stocks, yields, gold and oil are Friday's closes; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,674", "delta": "+0.4%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,180", "delta": "+0.4%", "dir": "up"},
+    {"label": "Dow", "value": "53,277", "delta": "+1.0%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.73%", "delta": "+0.04pp (wk)", "dir": "up"},
+    {"label": "Gold", "value": "$4,680", "delta": "+2.4%", "dir": "up"},
+    {"label": "WTI crude", "value": "$87.06", "delta": "+0.3%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$76,562", "delta": "−0.6% (24h)", "dir": "down"}
+  ],
+  "history": {"spx": 7674.37, "y10": 4.73, "btc": 76562},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "S&P finishes the week at 7,674 after Friday bounce",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+        "sentence": "Friday's rally — the Dow up 517.80 points to 53,277, the S&P 500 up 0.43% to 7,674.37, gold 2.39% higher at $4,680.60 and WTI at $87.06 — still left all three major indexes with losses for the week, per Yahoo Finance's closing wrap."
+      },
+      {
+        "title": "Ten-year enters the week at 4.73% after the scare",
+        "url": "https://www.watrust.com/articles/week-in-review-august-21-2026",
+        "sentence": "The 10-year yield ended the week at 4.73%, up 0.04 points across five sessions in which it touched its highest level since January 2025, while the Fed's July minutes showed officials counseling patience on rates, per Washington Trust Bank's week in review."
+      },
+      {
+        "title": "Bitcoin cools to $76,600, keeps its 21% week",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "sentence": "Bitcoin sits at $76,562 this morning — off 0.6% over 24 hours but still up 21.3% for the week, per CoinGecko — after a run Yahoo Finance called its best week in two years, one that tracked Treasury's expanded bond buybacks rather than any crypto-native news."
+      },
+      {
+        "title": "Wednesday stacks PCE, GDP and Nvidia after the close",
+        "url": "https://www.fxempire.com/forecasts/article/the-week-ahead-nvidia-pce-and-jackson-hole-test-the-stock-market-rally-1618238",
+        "sentence": "FXEmpire's calendar puts core PCE (forecast +0.2% month over month), the preliminary GDP revision and durable goods all on Wednesday morning, with Nvidia reporting after that day's close against $92.07 billion in expected revenue and Chair Warsh speaking at Jackson Hole Friday."
+      },
+      {
+        "title": "Moderna jumps 17% on cancer-vaccine results",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-21-2026",
+        "sentence": "The stock rose 17% Friday on positive Phase 3 cancer-vaccine results — the day's standout mover alongside Ross Stores, up 8.1% on earnings — per TheStreet's market diary."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Carney suspends talks, promises dollar-for-dollar tariff match",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "sentence": "With 50% tariffs now in force on $20 billion of Canadian goods — dairy, alcohol, cement, hockey equipment — Prime Minister Carney called the last-minute US demands 'unfair, uneconomic,' suspended negotiations and set matching tariffs to begin September 8, per NPR."
+      },
+      {
+        "title": "Tehran calls new US sanctions a declaration of war",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war",
+        "sentence": "Iran's foreign ministry said the sanctions amount to a 'declaration of war on all nations,' while Trump said Tehran is 'not ready to make the right deal' and described the Strait of Hormuz as 'an American territory right now,' per Al Jazeera's live coverage."
+      },
+      {
+        "title": "Bessent lays out the Iran isolation plan Monday",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-bitcoin-080533702.html",
+        "sentence": "Per Yahoo Finance, markets head into Monday watching a Treasury press conference where Bessent will detail plans to economically isolate Iran, with tariffs threatened against countries that keep trading with it."
+      },
+      {
+        "title": "Gas is up nearly a dollar in a year",
+        "url": "https://www.cnn.com/2026/08/21/world/live-news/iran-war-trump",
+        "sentence": "CNN's Friday live coverage put US gas prices up nearly a dollar a gallon from a year ago, with tanker traffic through the Strait of Hormuz still running low."
+      },
+      {
+        "title": "Judge strikes down visa ban on 75 countries",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941765/trump-immigration-visa-ban-75-countries",
+        "sentence": "A federal judge has ruled that the administration's 75-country visa ban illegally discriminated based on nationality, per NPR."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Meta's $1.4 trillion child-safety trial is underway",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5935458/meta-child-safety-social-media-addiction-trial-opening",
+        "sentence": "In federal court in Oakland, California, Colorado, Kentucky and New Jersey are arguing Meta deliberately hooked minors — 'hook the users, hold them for as long as they can, harvest their data, and then hide the truth,' as one state attorney put it in openings — with penalties that could reach $1.4 trillion, per NPR."
+      },
+      {
+        "title": "Anthropic aims past SpaceX's $86 billion IPO record",
+        "url": "https://www.benzinga.com/markets/private-markets/26/08/61345435/anthropic-is-coming-for-spacexs-86-billion-ipo-record",
+        "sentence": "Benzinga reports the lab could file by the end of August with Morgan Stanley, Goldman Sachs and JPMorgan as underwriters, aiming to match or top SpaceX's $86.2 billion record raise on the back of a $65 billion annualized revenue run-rate."
+      },
+      {
+        "title": "GitHub spent seven hours down this week",
+        "url": "https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/",
+        "sentence": "A data-center capacity failure took GitHub down for about seven hours, per Tech Startups' roundup — an involuntary quiet day for a large share of the world's programmers."
+      },
+      {
+        "title": "Apple Music will label songs made with AI",
+        "url": "https://www.billboard.com/pro/apple-music-to-label-ai-generated-music/",
+        "sentence": "Apple Music will add labels identifying AI-generated music later this year, per Billboard."
+      },
+      {
+        "title": "Italian brainrot will test AI copyright law",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5867638/artificial-intelligence-brainrot-memes-copyright-spyder-tung-tung-sahur",
+        "sentence": "NPR reports a legal fight over 'Italian brainrot' meme characters could help decide who owns AI-generated creative work."
+      }
+    ]}
+  ]
+}
