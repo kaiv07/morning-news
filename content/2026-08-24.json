@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-24",
+  "headline": "Kai, the first trading day of the Canada-tariff era opens with futures leaning red, Bessent's Iran offensive due this afternoon, and Nvidia's Wednesday hanging over all of it.",
+  "subline": "Nasdaq futures are off 0.7%, the 10-year eased to 4.71%, and bitcoin is holding near $77,000 after its biggest week in more than two years.",
+  "asof": "Pre-market · Monday ~6:35 AM ET · index values are futures; the S&P sparkline uses Friday's cash close · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,674", "delta": "−0.2%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "29,176", "delta": "−0.7%", "dir": "down"},
+    {"label": "Dow fut", "value": "53,306", "delta": "−0.1%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.71%", "delta": "−0.02pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,693", "delta": "+0.3%", "dir": "up"},
+    {"label": "WTI crude", "value": "$85.74", "delta": "−1.5%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$76,973", "delta": "+0.7% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7674.37, "y10": 4.71, "btc": 76973},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Futures slip into the tariff week's first session",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+        "sentence": "Nasdaq 100 futures are down 0.7% and S&P 500 futures 0.2% early Monday, with the VIX up 5% to 15.9, after the weekend's US-Canada breakdown left new tariffs in force, per Yahoo Finance's live blog."
+      },
+      {
+        "title": "Ten-year eases to 4.71% before a supply test",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+        "sentence": "The 10-year opened the week at 4.71% and the 30-year near 5.25%, per Trading Economics, which ties the long end's climb since July to federal deficits and AI companies' debt issuance — with Treasury now planning to double buybacks of longer-dated paper."
+      },
+      {
+        "title": "Bitcoin holds $77,000 after a 20%-plus week",
+        "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+        "sentence": "The Block puts bitcoin's move — its biggest weekly gain in two years, briefly crossing $79,000 Friday before settling near $77,000 — down to spot and ETF demand, a historic short squeeze and the liquidity kick from Treasury's expanded buybacks, with XRP up nearly 40% on the week alongside."
+      },
+      {
+        "title": "Wednesday stacks PCE, GDP, then Nvidia at the close",
+        "url": "https://www.tradingview.com/news/moodys:99b7aae541f56:0-wall-street-week-ahead-warsh-s-jackson-speech-pce-inflation-and-nvidia-earnings-in-focus/",
+        "sentence": "TradingView News puts July core PCE and the second GDP estimate on Wednesday morning and Nvidia after that day's close — its China exposure a key question — while $183 billion of 2-, 5- and 7-year Treasury auctions run Tuesday through Thursday."
+      },
+      {
+        "title": "Warsh makes his Jackson Hole debut Friday",
+        "url": "https://www.regardsofwallstreet.com/news/jackson-hole-2026-dates-schedule-warsh-first-speech",
+        "sentence": "The Kansas City Fed's symposium runs August 27-29 in Wyoming, and Kevin Warsh speaks Friday in his first Jackson Hole appearance as Fed chair, per Regards of Wall Street."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Canada sets its counter-tariffs for September 8",
+        "url": "https://www.npr.org/2026/08/22/nx-s1-5941584/us-canada-tariffs",
+        "sentence": "With Washington's 50% tariffs on $20 billion of Canadian goods in force since Friday night, Ottawa's retaliation on steel, dairy, appliances and electronics starts September 8 — 'You're at war when you get attacked,' Carney said, per NPR."
+      },
+      {
+        "title": "Bessent details the Iran sanctions this afternoon",
+        "url": "https://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
+        "sentence": "Today's Treasury briefing is expected to layer secondary sanctions on buyers of Iranian oil atop the existing naval blockade — 'the single greatest financial offensive ever marshalled against an adversary,' in Bessent's words — with Brent near $91.50, per Euronews."
+      },
+      {
+        "title": "Ukraine marks 35 years, rules out ceding Donbas",
+        "url": "https://www.koreatimes.co.kr/world/20260824/ukraine-wants-peace-but-wont-give-in-zelenskyy-says-on-independence-day",
+        "sentence": "On a wartime Independence Day, Zelenskyy said Ukraine 'absolutely wants peace, but it's not ready to simply surrender,' as fighting runs along a 1,200-kilometer front and Russia presses Kostiantynivka, per The Korea Times."
+      },
+      {
+        "title": "Israel threatens wider Gaza strikes over kite launches",
+        "url": "https://www.timesofisrael.com/liveblog-august-23-2026/",
+        "sentence": "Israel is threatening to intensify strikes and order new evacuations in Gaza over kite launches, per The Times of Israel's live blog."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Broadcom shops a $100 billion AI debt package",
+        "url": "https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/",
+        "sentence": "Broadcom is seeking $60-70 billion in senior secured debt plus roughly $30 billion junior for AI infrastructure tied to Anthropic, per Tech Startups — financing on a scale once reserved for governments."
+      },
+      {
+        "title": "AI's borrowing binge competes with Uncle Sam",
+        "url": "https://www.benzinga.com/markets/bonds/26/08/61279800/ais-half-trillion-dollar-borrowing-binge-is-competing-with-uncle-sam-for-bond-buyers",
+        "sentence": "Benzinga reports AI companies' half-trillion-dollar borrowing binge is now competing with the US government itself for bond buyers."
+      },
+      {
+        "title": "OpenAI's Nvidia deal lands $145 billion smaller",
+        "url": "https://fortune.com/2026/08/18/openai-data-center-deal-with-nvidia-comes-in-145-billion-lower-than-reportedsignaling-concerns-of-artificial-demand-for-chips/",
+        "sentence": "Fortune reports OpenAI's data-center deal with Nvidia came in $145 billion below earlier reports, feeding concern that some chip demand was artificial — three days before Nvidia's earnings."
+      },
+      {
+        "title": "Nvidia signs Poolside for $6 billion",
+        "url": "https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/",
+        "sentence": "Nvidia struck a $6 billion AI licensing deal with coding startup Poolside plus a $1 billion investment at a $12 billion pre-money valuation, with about 109 Poolside employees receiving Nvidia offers, per Tech Startups."
+      },
+      {
+        "title": "ChatGPT moves into Apple Messages",
+        "url": "https://techstartups.com/2026/08/21/top-tech-news-today-august-21-2026-anthropic-apple-broadcom-google-nvidia-openai-tesla-more/",
+        "sentence": "OpenAI is rolling ChatGPT into Apple Messages on macOS — reading, searching, summarizing and drafting, with the data processed locally, per Tech Startups."
+      }
+    ]}
+  ]
+}
