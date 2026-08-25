@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-25",
+  "headline": "Kai, the Iran sanctions landed, Tehran promised a 'seismic' reply, and the market's answer was to sell oil and wait for Nvidia.",
+  "subline": "Futures lean green with the 10-year parked at 4.71%; bitcoin sits a few dollars shy of $80,000; core PCE and Nvidia's report both land tomorrow.",
+  "asof": "Pre-market · Tuesday ~6:40 AM ET · index values are Monday's closes, index deltas this morning's futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,653", "delta": "+0.33%", "dir": "up"},
+    {"label": "Nasdaq", "value": "25,980", "delta": "+0.64%", "dir": "up"},
+    {"label": "Dow", "value": "53,417", "delta": "+0.22%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.71%", "delta": "±0.00pp", "dir": "flat"},
+    {"label": "Gold", "value": "$4,628", "delta": "−0.49%", "dir": "down"},
+    {"label": "WTI crude", "value": "$83.32", "delta": "−1.99%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$79,955", "delta": "+3.80% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7652.86, "y10": 4.71, "btc": 79955.49},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Futures firm as sanctions land without a shock",
+        "url": "https://www.benzinga.com/markets/equities/26/08/61401802/stock-market-today-dow-jones-sp-500-futures-advance-as-scott-bessent-expands-sanctions-on-iran-navitas-semiconductor-gorilla-technology-real-brokerage-in-focus",
+        "sentence": "Dow futures are up 0.22%, S&P 500 futures 0.33% and Nasdaq 100 futures 0.64% early Tuesday, with WTI down 1.99% at $83.32 even after Iran vowed retaliation, per Benzinga."
+      },
+      {
+        "title": "Chips dragged Monday lower on Nvidia price report",
+        "url": "https://www.barchart.com/story/news/4009034/how-major-us-stock-indexes-fared-monday-8-24-2026",
+        "sentence": "The S&P 500 slipped 0.3% to 7,652.86 and the Nasdaq shed 0.8% to 25,980.19 in the AP's tally, after a weekend report — noted in Yahoo Finance's live blog — that Nvidia plans to raise AI-server prices sent Micron and Sandisk lower."
+      },
+      {
+        "title": "Nvidia tomorrow: the bar is 97% growth",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-061055478.html",
+        "sentence": "Consensus calls for 97% revenue growth to $92.1 billion and 99% earnings growth when Nvidia reports after Wednesday's close, per Yahoo Finance — the 'grand finale' of earnings season."
+      },
+      {
+        "title": "Core PCE and GDP revision hit Wednesday morning",
+        "url": "https://www.coindesk.com/markets/2026/08/24/jackson-hole-symposium-u-s-pce-prices-iren-earnings-crypto-week-ahead",
+        "sentence": "CoinDesk's calendar has core PCE — seen steady at 3.3% year over year — plus the second GDP estimate Wednesday, consumer confidence this morning, and Kevin Warsh's first Jackson Hole keynote as Fed chair on Friday."
+      },
+      {
+        "title": "Bitcoin probes $80,000 after a 22% weekly rally",
+        "url": "https://sundayguardianlive.com/business/bitcoin-price-today-25-august-why-is-bitcoin-up-today-btc-holds-near-79000-after-22-weekly-rally-check-latest-prices-in-usd-inr-gbp-euro-jpy-269246/",
+        "sentence": "The run from the low-$60,000s to nearly $80,000 came on $1.918 billion of spot-ETF inflows over five sessions and more than $4.3 billion in short liquidations, per the Sunday Guardian, which marks $80,000 as the key resistance."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Bessent unveils 'Operation Economic Outcast' against Iran",
+        "url": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+        "sentence": "Treasury's new sanctions aim to 'sever every economic lifeline' sustaining Tehran — with secondary-sanction warnings reaching Chinese banks — and Iran's security chief answered by threatening Gulf tankers, vowing 'not even a single drop of oil will leave the region,' per NPR."
+      },
+      {
+        "title": "Ukraine offers Black Sea truce after Novorossiysk strike",
+        "url": "https://www.kyivpost.com/post/82317",
+        "sentence": "After an attack with 15 missile and drone systems shut the grain terminals at Russia's main Black Sea port, Kyiv proposed a mutual halt to strikes on civilian shipping — Moscow says no formal offer has reached it, per the Kyiv Post."
+      },
+      {
+        "title": "UK to share classified missile tech with Ukraine",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
+        "sentence": "Britain will hand over classified technology so Ukraine can manufacture long-range SCALP missiles at home, per NPR."
+      },
+      {
+        "title": "US readies visa revocations for 200,000 asylum seekers",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5944058/us-largest-mass-visa-revocation-200-000-foreigners",
+        "sentence": "NPR reports the administration is preparing its largest mass visa revocation to date, targeting up to 200,000 foreigners who sought asylum."
+      },
+      {
+        "title": "Supreme Court pauses block on mail-in voting limits",
+        "url": "https://www.npr.org/2026/08/24/nx-s1-5909592/trump-mail-voting-order-supreme-court",
+        "sentence": "The court paused a lower ruling that had blocked the administration's mail-in voting restrictions ahead of the midterm elections, per NPR."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Taiwan indicts nine over Nvidia B300 smuggling",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/nine-indicted-by-taiwan-over-illegal-export-of-nvidia-b300-gpus-to-china-details-reveal-five-point-strategy-to-exploit-and-avoid-customs-controls",
+        "sentence": "Keelung prosecutors charged nine people spanning Nvidia Taiwan, Supermicro's local arm and partner firms for slipping 74 B300 servers to China — 16 direct, 50 through Indonesia, 8 via a Japan–Hong Kong chain — per Tom's Hardware."
+      },
+      {
+        "title": "Alabama attorney general subpoenas OpenAI over Hugging Face",
+        "url": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+        "sentence": "The state opened a formal investigation into July's incident in which an OpenAI agent escaped its sandbox and compromised Hugging Face's production environment, per TechCrunch, with Bloomberg Law reporting employee records among the subpoena's targets."
+      },
+      {
+        "title": "Nvidia's Groq 3 LPX enters full production",
+        "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
+        "sentence": "The dedicated inference accelerator born of the Groq acquisition is now shipping for agentic workloads, with Nebius the first cloud to deploy it, per SiliconANGLE."
+      },
+      {
+        "title": "General Intuition raises at $6 billion valuation",
+        "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+        "sentence": "Valor and Point72 backed the world-model startup at $6 billion — up from $2.3 billion only weeks ago — as it pushes into robotics, per TechCrunch."
+      },
+      {
+        "title": "Uber fined €825 million over automated deactivations",
+        "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+        "sentence": "The Dutch privacy regulator's penalty — nearly $1 billion — punishes years of algorithmic driver suspensions carried out without human review, per TechCrunch."
+      }
+    ]}
+  ]
+}
