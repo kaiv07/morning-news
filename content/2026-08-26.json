@@ -1,0 +1,89 @@
+{
+  "date": "2026-08-26",
+  "headline": "Kai, the week narrows to a single Wednesday: inflation at 8:30, Nvidia after the bell, and Warsh waiting at Jackson Hole.",
+  "subline": "Core PCE, durable goods and a GDP revision land this morning; the Street wants $92.2 billion from Nvidia tonight; oil keeps sliding as Iran and Oman talk about reopening Hormuz.",
+  "asof": "Pre-market · Wednesday ~6:40 AM ET · index rows are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,687", "delta": "−0.07%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "29,216", "delta": "−0.21%", "dir": "down"},
+    {"label": "Dow fut", "value": "53,701", "delta": "+0.10%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.65%", "delta": "+0.02pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,683", "delta": "−0.25%", "dir": "down"},
+    {"label": "WTI crude", "value": "$80.15", "delta": "−2.68%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$78,999", "delta": "−1.14%", "dir": "down"}
+  ],
+  "history": {"spx": 7677.28, "y10": 4.65, "btc": 78998.81},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Futures idle into a stacked data morning",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-26-dow-sp-500-nasdaq-081834782.html",
+        "sentence": "S&P 500 futures sit at 7,687 (−0.07%) and Nasdaq 100 futures at 29,215.50 (−0.21%) while Dow futures add 0.10% to 53,701, with gold at $4,682.80, WTI down another 2.68% to $80.15, and bitcoin at $78,998.81, per Yahoo Finance's live blog."
+      },
+      {
+        "title": "The 10-year firms to 4.65% before PCE",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+        "sentence": "The benchmark yield edged up 0.02 percentage points to 4.65% early Wednesday, per Trading Economics, leaving little cushion if the 8:30 inflation print runs hot."
+      },
+      {
+        "title": "Nvidia tonight: Street wants $92.2 billion, 97% growth",
+        "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
+        "sentence": "Consensus calls for fiscal Q2 revenue of $92.2 billion, up 97.4%, and EPS of $2.09 when Nvidia reports after the close, per Kiplinger — which notes the stock is roughly flat since October despite three straight beats."
+      },
+      {
+        "title": "Core PCE, durables and a GDP revision at 8:30",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+        "sentence": "July core PCE — Barclays looks for +0.2% on the month and 3.2% on the year — arrives alongside durable goods orders and the second read on Q2 GDP, per Kiplinger, ahead of Fed Chair Kevin Warsh's Jackson Hole keynote Friday at 10 a.m."
+      },
+      {
+        "title": "Bitcoin pauses below $79,000 after the Treasury-fueled sprint",
+        "url": "https://finance.yahoo.com/markets/article/why-bitcoin-prices-are-suddenly-rallying-big-time-094451450.html",
+        "sentence": "The roughly 18% burst over 48 hours — bitcoin's first time above $70,000 since late May — tracked the Treasury's decision to double long-bond buybacks to $4 billion per session, a liquidity shift Bernstein calls the trigger, per Yahoo Finance."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Canada answers with dollar-for-dollar tariffs on $20 billion",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5944240/canada-us-tariffs",
+        "sentence": "Ottawa set duties of 15% to 50% on nearly $20 billion of US steel, dairy, appliances and electronics effective September 8, after Prime Minister Carney — 'we got attacked' — ended talks over Washington's 50% tariffs, per NPR."
+      },
+      {
+        "title": "Oil slides as Iran and Oman talk Hormuz reopening",
+        "url": "https://www.cnbcafrica.com/2026/oil-prices-fall-on-hormuz-deal-hopes-u-s-pivots-to-economic-pressure-on-iran",
+        "sentence": "Brent fell 2.08% overnight to $86.74 as Muscat negotiates a temporary joint shipping route through the strait with Tehran — a precursor, Oman's foreign minister says, to a permanent arrangement — while Washington pivots to economic pressure, per CNBC Africa."
+      },
+      {
+        "title": "Meta and 29 states discuss settling the teen-harm trial",
+        "url": "https://kfgo.com/2026/08/25/meta-us-states-have-discussed-settling-teen-social-media-harm-case-bloomberg-news-reports/",
+        "sentence": "Meta and attorneys general from 29 states have held mid-trial settlement talks in the federal case accusing it of deliberately designing Facebook and Instagram to addict young users, Reuters reports via Bloomberg News, with a California jury seated since mid-August."
+      },
+      {
+        "title": "Moderna's melanoma vaccine delivers the first mRNA cancer win",
+        "url": "https://easternherald.com/2026/08/25/sp-500-today-august-25-2026/",
+        "sentence": "Shares rose 14% Tuesday on Phase 3 results for intismeran autogene, the Merck-partnered personalized vaccine, in what the Eastern Herald calls the first late-stage clinical proof of mRNA applied to oncology."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "OpenAI's Jalapeño outruns Blackwell on inference benchmarks",
+        "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+        "sentence": "On SemiAnalysis's InferenceX test the Broadcom-co-designed chip served more tokens per user and more throughput per kilowatt than an Nvidia Blackwell system, with volume deployment due in 2027, per TechCrunch."
+      },
+      {
+        "title": "Apple's M6 goes 2-nanometer in a new Mac mini",
+        "url": "https://www.macrumors.com/2026/08/25/apple-reveals-m6/",
+        "sentence": "The 12-core M6 — which Apple says has the world's fastest single-threaded performance — arrives in a new Mac mini on September 22, per MacRumors."
+      },
+      {
+        "title": "Super Micro rallies on a Cisco AI-infrastructure pact",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-25-2026",
+        "sentence": "Shares jumped Tuesday after the company announced a partnership with Cisco to build AI infrastructure, per TheStreet."
+      },
+      {
+        "title": "Amazon shuts down Mechanical Turk",
+        "url": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+        "sentence": "Amazon is winding down the crowd-work service Jeff Bezos once called 'artificial artificial intelligence,' per CNBC — the unmodified kind won."
+      }
+    ]}
+  ]
+}
