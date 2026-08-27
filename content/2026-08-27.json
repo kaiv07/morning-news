@@ -1,0 +1,99 @@
+{
+  "date": "2026-08-27",
+  "headline": "Kai, Nvidia grew 106% and promised $108 billion more; the last word this week still belongs to Warsh.",
+  "subline": "The beat lifts futures, July PCE stayed stuck at 3.7%, and Kyiv spent the night under a rare hours-long aerial attack.",
+  "asof": "Pre-market · Thursday ~6:40 AM ET · index rows are overnight futures; yield and gold at Wednesday's settle · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,717", "delta": "+0.34%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "29,478", "delta": "+0.64%", "dir": "up"},
+    {"label": "Dow fut", "value": "53,642", "delta": "+0.33%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.63%", "delta": "−0.07pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,656", "delta": "−0.83%", "dir": "down"},
+    {"label": "Brent crude", "value": "$88.03", "delta": "+0.22%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$79,027", "delta": "+0.59%", "dir": "up"}
+  ],
+  "history": {"spx": 7677.24, "y10": 4.63, "btc": 79027},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Nvidia: a $96.2 billion quarter, a $108 billion guide",
+        "url": "https://www.globenewswire.com/news-release/2026/08/26/3351702/0/en/nvidia-announces-financial-results-for-second-quarter-fiscal-2027.html",
+        "sentence": "Revenue rose 106% to $96.2 billion with data-center sales of $89.0 billion and gross margin at 75.0%, and Nvidia guided the October quarter to $108.0 billion, plus or minus 2%, per the company's release."
+      },
+      {
+        "title": "Futures firm behind the beat",
+        "url": "https://www.investing.com/indices/us-spx-500-futures",
+        "sentence": "S&P 500 futures rose 0.34% to 7,716.50 overnight, Nasdaq 100 futures gained 0.64% to 29,477.75 and Dow futures added 0.33% to 53,642.30, per Investing.com's futures boards."
+      },
+      {
+        "title": "July PCE holds at 3.7%; core stalls at 3.3%",
+        "url": "https://nchstats.com/pce-inflation-remain-same-in-july-2026/",
+        "sentence": "Wednesday's report ran firmer than forecast — headline PCE flat at 3.7% year over year and core at 3.3% against expectations near 3.2% — an uncomfortable backdrop for a Fed about to speak, per NCH Stats."
+      },
+      {
+        "title": "Today: claims, goods trade, KC Fed; Warsh tomorrow",
+        "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+        "sentence": "Weekly jobless claims, advance goods trade and wholesale inventories land at 8:30 a.m. with the Kansas City Fed survey at 11, per Kiplinger's calendar, before Fed Chair Kevin Warsh's 10 a.m. Jackson Hole keynote on Friday."
+      },
+      {
+        "title": "Wednesday: chips led, confidence sagged",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-aug-26-130500595.html",
+        "sentence": "The S&P 500 closed up 0.3% at 7,677.24 and the Nasdaq rose 0.7% as chipmakers rallied into the print, while the 10-year slid to settle at 4.625%, gold eased 0.83% to $4,655.50 and consumer confidence hit a seven-month low of 89.4, per Yahoo Finance."
+      },
+      {
+        "title": "Bitcoin holds $79,000 after the squeeze",
+        "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-thursday-august-27-2026/",
+        "sentence": "Bitcoin settled Wednesday at $79,027, up 0.59%, still riding the squeeze that liquidated more than $1.4 billion in bearish bets and briefly carried it above $80,000, per The Rio Times."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Hours-long Russian aerial attack rocks Kyiv overnight",
+        "url": "https://kyivindependent.com/explosions-rock-kyiv-as-russia-launches-ballistic-missiles-at-the-capital-and-other-regions-across-ukraine/",
+        "sentence": "Jet-powered drones and ballistic missiles struck the capital into Thursday morning, with Ukraine's Air Force reporting seven Iskander-M or KN-23 missiles intercepted, per the Kyiv Independent."
+      },
+      {
+        "title": "Canada's tariffs on $20 billion of US goods bite",
+        "url": "https://www.npr.org/2026/08/26/nx-s1-5944392/canada-strikes-back-in-a-trade-war-with-the-u-s",
+        "sentence": "Ottawa's retaliatory duties on nearly $20 billion of US goods moved ahead as businesses on both sides of the border absorb the uncertainty, per NPR's Morning Edition."
+      },
+      {
+        "title": "Hormuz diplomacy keeps Brent pinned near $88",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+        "sentence": "Brent sat at $88.03, up 0.22% and 29.5% in a year, as Iran and Oman advanced a Strait of Hormuz arrangement — Trump said 10 million barrels transited Tuesday — and US sanctions on Iran landed lighter than feared, per Trading Economics."
+      },
+      {
+        "title": "Lukoil refineries go dark after Ukrainian strikes",
+        "url": "https://kyivindependent.com/russias-2nd-largest-gasoline-producer-suspends-oil-processing-yet-again-after-ukrainian-strike/",
+        "sentence": "Russia's second-largest gasoline producer suspended oil processing again, leaving all major Lukoil refineries in Russia offline, per the Kyiv Independent."
+      },
+      {
+        "title": "CIA chief warned Moscow off the Baltics",
+        "url": "https://kyivindependent.com/cia-chief-warned-moscow-against-escalation-toward-baltic-nato-states-politico-reports/",
+        "sentence": "John Ratcliffe used a Moscow visit to warn against escalation toward NATO's Baltic members, the Kyiv Independent reports, citing Politico."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Kress calls fiscal 2028: 70% growth, supply-constrained",
+        "url": "https://www.kiplinger.com/investing/live/nvidia-earnings-live-updates-and-commentary-august-2026",
+        "sentence": "Nvidia dipped 1.3% on the print and recovered to roughly +5% after CFO Colette Kress guided fiscal 2028 to 70% revenue growth she called supply-constrained, with backlog above $2 trillion and first Rubin shipments expected in Q3, per Kiplinger."
+      },
+      {
+        "title": "DeepMind's grip on elite AI talent slips",
+        "url": "https://fortune.com/2026/08/27/google-deepmind-losing-talent-to-rival-ai-labs-startups-new-data-show/",
+        "sentence": "Zeki Data shows DeepMind's share of Europe's elite research hires falling from 49% in 2022-23 to 18.6% in 2025-26, with a quarter of departing staff landing at Anthropic, per Fortune."
+      },
+      {
+        "title": "Meta settles the teen case for $16.68 billion",
+        "url": "https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/",
+        "sentence": "The settlement — up to $16.68 billion, plus two-hour daily caps and a midnight-to-6 a.m. lockout for under-18 accounts — resolves the states' social-media addiction case that went to trial this month, per TechStartups."
+      },
+      {
+        "title": "Anthropic shops a $2 trillion IPO pitch",
+        "url": "https://techstartups.com/2026/08/26/top-tech-news-today-august-26-2026-amazon-anthropic-google-microsoft-waymo-more/",
+        "sentence": "The company is pitching an IPO on a claimed $30-trillion-plus addressable market and a valuation target near $2 trillion, per TechStartups, while SoftBank explores a $10–20 billion bond sale to refinance its $40 billion OpenAI bridge loan."
+      }
+    ]}
+  ]
+}
