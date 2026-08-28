@@ -1,0 +1,104 @@
+{
+  "date": "2026-08-28",
+  "headline": "Kai, today turns on 10 a.m. in Jackson Hole, where Kevin Warsh gives his first keynote as Fed chair with a third of bond traders pricing a September hike.",
+  "subline": "Futures are idling after Nvidia's blowout carried the S&P 500 to 7,731, and core inflation stuck at 3.3% is the number Warsh has to answer for.",
+  "asof": "Pre-market · Friday ~6:40 AM ET · index rows are overnight futures · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,741", "delta": "−0.02%", "dir": "flat"},
+    {"label": "Nasdaq fut", "value": "29,664", "delta": "−0.11%", "dir": "down"},
+    {"label": "Dow fut", "value": "53,688", "delta": "+0.12%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.68%", "delta": "+0.004", "dir": "flat"},
+    {"label": "Gold", "value": "$4,612", "delta": "+0.24%", "dir": "up"},
+    {"label": "Brent crude", "value": "$88.10", "delta": "−0.47%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$79,841", "delta": "+1.5%", "dir": "up"}
+  ],
+  "history": {"spx": 7731, "y10": 4.68, "btc": 79841},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Warsh takes the Jackson Hole podium at 10",
+        "url": "https://finance.yahoo.com/economy/live/jackson-hole-fed-summit-live-kevin-warsh-keynote-speech-180442096.html",
+        "sentence": "Kevin Warsh delivers his first Jackson Hole keynote as Fed chair at 10 a.m. ET, with roughly a third of bond traders pricing a September hike and Cleveland Fed officials calling policy too accommodative, per Yahoo Finance."
+      },
+      {
+        "title": "Futures idle into the speech",
+        "url": "https://www.investing.com/indices/indices-futures",
+        "sentence": "S&P 500 futures are off 0.02% at 7,741, with Nasdaq 100 futures down 0.11% and Dow futures up 0.12%, per Investing.com's futures board."
+      },
+      {
+        "title": "Also today: Chicago PMI, Michigan sentiment",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-064321491.html",
+        "sentence": "Chicago PMI prints at 9:45 a.m. and final August Michigan consumer sentiment at 10 — both likely footnotes by the time Warsh clears his throat, per Yahoo Finance."
+      },
+      {
+        "title": "Ten-year yield firms to 4.68%",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+        "sentence": "The 10-year Treasury yield sits at 4.68% after two straight sessions of gains, up 0.45 points over the past year, per Trading Economics."
+      },
+      {
+        "title": "Gold holds $4,612 on the debasement trade",
+        "url": "https://tradingeconomics.com/commodity/gold",
+        "sentence": "Gold added 0.24% to $4,611.72 as expanded Treasury debt buybacks kept debt-crisis worries — the so-called debasement trade — alive, still below January's $5,608 record, per Trading Economics."
+      },
+      {
+        "title": "Bitcoin surges past $80,000, then settles",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "sentence": "Bitcoin touched $81,281 overnight and now trades at $79,841, up 6.3% on the week amid strong ETF inflows and institutional demand, per CoinGecko."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Hormuz deal stops short of reopening",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+        "sentence": "Brent eased 0.47% to $88.10 after Iran and Oman's Hormuz revenue-sharing pact came with no guarantee of an immediate reopening of the strait, per Trading Economics."
+      },
+      {
+        "title": "Nepal-Tibet floods kill more than 400",
+        "url": "https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods",
+        "sentence": "Flash floods along the Nepal-Tibet border have killed more than 400 people and swept away villages, with 90 Americans among the missing, NPR reports."
+      },
+      {
+        "title": "US, South Korea and Japan schedule drills",
+        "url": "https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea",
+        "sentence": "Washington, Seoul and Tokyo announced a trilateral military exercise as North Korea ramps up pressure on the US, NPR reports."
+      },
+      {
+        "title": "Ceasefire envoy faults Israel's continued attacks",
+        "url": "https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire",
+        "sentence": "The official leading the White House's Gaza ceasefire effort warned that continued Israeli attacks threaten the proposed peace plan, NPR reports."
+      },
+      {
+        "title": "Ratko Mladic dies in custody at 84",
+        "url": "https://www.npr.org/2026/08/27/nx-s1-5946375/ratko-mladic-dead",
+        "sentence": "The Bosnian Serb commander who oversaw atrocities in a war that killed more than 100,000 people died in custody at 84, NPR reports."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Nvidia's answer: up 8.74% on double volume",
+        "url": "https://www.fool.com/coverage/stock-market-today/2026/08/27/stock-market-today-aug-27-nvidia-surges-on-blowout-results-and-surprising-guidance/",
+        "sentence": "Nvidia closed up 8.74% at $227.98 on twice its normal volume, dragging the S&P 500 up 0.72% to 7,731 and the Nasdaq up 1.57%, per the Motley Fool."
+      },
+      {
+        "title": "AI industry closes ranks on cyber defense",
+        "url": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+        "sentence": "OpenAI, Anthropic, Google, Microsoft and more than 100 other firms called for new cyber defenses, warning that AI-enabled attacks will spread as models improve, TechCrunch reports."
+      },
+      {
+        "title": "Software earnings ignite: Salesforce up 20.1%",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-aug-27-2026",
+        "sentence": "Salesforce jumped 20.1% and Okta 23.3% in a software-and-cybersecurity surge that left tech the only advancing S&P 500 sector Thursday, per TheStreet."
+      },
+      {
+        "title": "OpenAI reportedly eyes $1 trillion debut",
+        "url": "https://www.fool.com/investing/2026/08/27/openai-is-reportedly-targeting-an-ipo-debut-above/",
+        "sentence": "OpenAI is reportedly targeting an IPO debut valued above $1 trillion, per the Motley Fool."
+      },
+      {
+        "title": "Marvell beats, raises, falls anyway",
+        "url": "https://siliconangle.com/2026/08/27/marvells-stock-sinks-despite-earnings-beat-and-strong-guidance/",
+        "sentence": "Marvell dropped more than 7% after hours despite lifting its fiscal 2028 revenue outlook to $18 billion, with investors wanting a wider margin of victory, per SiliconANGLE."
+      }
+    ]}
+  ]
+}
