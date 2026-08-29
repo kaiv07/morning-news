@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-29",
+  "headline": "Kai, Warsh warned Jackson Hole the Fed will 'have work to do' on inflation, and by Friday's close a September hike was nearly a coin flip.",
+  "subline": "Hike odds jumped to 46% after headline PCE ran hot, gold and bitcoin each fell about 3%, and the Nepal–Tibet flood toll neared 400 with 1,500 missing.",
+  "asof": "Saturday edition · U.S. markets closed · all figures are Friday's close · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,722.06", "delta": "−0.12%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,450.59", "delta": "−0.34%", "dir": "down"},
+    {"label": "Dow", "value": "53,598.14", "delta": "+0.05%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.67%", "delta": "—", "dir": "flat"},
+    {"label": "Gold", "value": "$4,528.60", "delta": "−2.90%", "dir": "down"},
+    {"label": "WTI crude", "value": "$83.11", "delta": "−0.50%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$77,899", "delta": "−3.09%", "dir": "down"}
+  ],
+  "history": {"spx": 7722.06, "y10": 4.67, "btc": 77898.76},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Warsh puts a September hike in play",
+          "url": "https://finance.yahoo.com/economy/policy/articles/rate-hike-expectations-rise-warsh-144023525.html",
+          "sentence": "The new Fed chair said policymakers will 'have work to do' if inflation is not clearly returning to 2%, and Yahoo Finance reports markets now price a 46% chance of a September hike, up from 35%."
+        },
+        {
+          "title": "Headline PCE hot at 3.7%, core in line",
+          "url": "https://finance.yahoo.com/economy/policy/articles/july-2026-pce-inflation-data-124921061.html",
+          "sentence": "July's headline rate came in at 3.7% against a 3.6% forecast while core held at 3.3%, matching expectations, per Yahoo Finance."
+        },
+        {
+          "title": "PayPal drops 11% as buyout collapses",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+          "sentence": "Advent and Stripe withdrew from their $50 billion acquisition and PayPal fell 11%, per Yahoo Finance's close report, which also logged gold's 2.90% slide on the rate repricing."
+        },
+        {
+          "title": "Bitcoin's 3% slide keeps it below $80,000",
+          "url": "https://fortune.com/article/price-of-bitcoin-08-28-2026/",
+          "sentence": "Friday's drop to $77,899 leaves bitcoin up 24.33% over the past month but 29.70% below the $112,567 of a year ago, per Fortune and Yahoo Finance."
+        },
+        {
+          "title": "Next test: August jobs report Friday",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/08/27/the-week-ahead-august-jobs-report-takes-center-stage",
+          "sentence": "Schaeffer's Research flags Friday's employment report as the week's main event, after ISM manufacturing Tuesday and the Beige Book Wednesday — a quiet Monday is the calendar's only mercy."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Nepal–Tibet toll passes 390 with 1,500 missing",
+          "url": "https://www.aljazeera.com/news/2026/8/27/nepal-tibet-floods-what-happened-what-caused-them-and-who-is-missing",
+          "sentence": "Al Jazeera reports 392 confirmed dead and more than 1,500 missing, including hundreds of foreign tourists, after Wednesday's glacier collapse sent a wall of water and debris through Nepal's Rasuwa district."
+        },
+        {
+          "title": "Iran names its price to reopen Hormuz",
+          "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz",
+          "sentence": "Tehran is demanding sanctions relief and compensation before reopening the strait, Al Jazeera reports, and the impasse continues to prop up crude."
+        },
+        {
+          "title": "Patriot stocks in Europe 'beyond critical'",
+          "url": "https://www.pbs.org/newshour/world/ap-exclusive-u-s-patriot-missile-stocks-in-europe-beyond-critical-due-to-iran-war-officials-say",
+          "sentence": "An AP exclusive carried by PBS says officials describe U.S. Patriot interceptor stocks in Europe as 'beyond critical' after months of defending against Iranian missile and drone attacks."
+        },
+        {
+          "title": "Second Haiti deportation flight in a week",
+          "url": "https://haitiantimes.com/2026/08/28/haiti-deportations-us-bahamas-to-cap-haitien/",
+          "sentence": "More than 160 deportees from the U.S. and the Bahamas landed in Cap-Haïtien in a single day as removals accelerate after the end of TPS, per the Haitian Times."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Judge voids Pentagon blacklist of Anthropic",
+          "url": "https://thehill.com/policy/technology/6056436-judge-rules-pentagon-anthropic-blacklist-illegal/",
+          "sentence": "A federal judge ruled the supply-chain-risk designation was unlawful retaliation that violated the First Amendment, The Hill reports."
+        },
+        {
+          "title": "Nvidia: $96.2 billion quarter, $108 billion guide",
+          "url": "https://www.globenewswire.com/news-release/2026/08/26/3351702/0/en/nvidia-announces-financial-results-for-second-quarter-fiscal-2027.html",
+          "sentence": "Wednesday's release showed revenue up 106% with data-center sales of $89.0 billion, and a Q3 outlook of $108 billion that excludes China data-center compute, per Nvidia."
+        },
+        {
+          "title": "Reddit nearly vanishes from ChatGPT citations",
+          "url": "https://www.forbes.com/sites/gabrielalinzainescu/2026/08/20/reddit-nearly-vanishes-from-chatgpt-citations-after-openai-search-change/",
+          "sentence": "Forbes reports Reddit all but disappeared from ChatGPT citations after an unannounced change to OpenAI's search retrieval."
+        },
+        {
+          "title": "OpenAI tells staff: public in 2027",
+          "url": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+          "sentence": "CFO Sarah Friar told employees OpenAI 'will be a public company in 2027' or sooner, per CNBC."
+        }
+      ]
+    }
+  ]
+}
