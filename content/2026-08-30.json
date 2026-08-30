@@ -1,0 +1,93 @@
+{
+  "date": "2026-08-30",
+  "headline": "Kai, the September hike question now belongs to Friday's jobs report — the market went into the weekend pricing it at 57 percent.",
+  "subline": "Bitcoin idled near $78,000 through the weekend, Sony and Warner's publishing arms sued Anthropic, and a Russian strike near Kyiv killed 37.",
+  "asof": "Sunday edition · U.S. markets closed · strip is Friday's close, bitcoin live as of 6:50 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,711.76", "delta": "−0.25%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,402.42", "delta": "−0.52%", "dir": "down"},
+    {"label": "Dow", "value": "53,559.99", "delta": "−0.02%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.72%", "delta": "+0.04", "dir": "up"},
+    {"label": "Gold", "value": "$4,529.90", "delta": "−2.88%", "dir": "down"},
+    {"label": "Brent crude", "value": "$90.55", "delta": "+0.97%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$78,120", "delta": "+0.70%", "dir": "up"}
+  ],
+  "history": {"spx": 7711.76, "y10": 4.72, "btc": 78119.75},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Hike odds end the week at 57%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+          "sentence": "Yahoo Finance's close report has markets pricing a 57% chance of a September quarter-point hike, up from 35% a day earlier, after Chair Warsh said the Fed's 'predominant focus right now should be on prices.'"
+        },
+        {
+          "title": "Bitcoin holds $78,000 through a quiet weekend",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "sentence": "CoinGecko shows bitcoin at $78,120 early Sunday — up 0.70% over 24 hours and 2.0% on the week — a calm close to a week it spent swinging on rate repricing."
+        },
+        {
+          "title": "Gold's 2.9% slide; Brent ends August at $90.55",
+          "url": "https://fortune.com/article/price-of-oil-08-28-2026/",
+          "sentence": "Fortune has Brent up 0.97% Friday and 32.75% over a year, while Yahoo Finance logged gold's drop to $4,529.90 as yields repriced after Jackson Hole."
+        },
+        {
+          "title": "Jobs Friday headlines a stacked macro week",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/08/27/the-week-ahead-august-jobs-report-takes-center-stage",
+          "sentence": "Schaeffer's Research lays out ISM manufacturing and JOLTS Tuesday, ADP and the Beige Book Wednesday, ISM services Thursday, then the August employment report Friday, with Broadcom and Dell reporting before the Fed's September 15–16 meeting."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Russian strike near Kyiv kills 37",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5948714/russian-strike-kyiv",
+          "sentence": "NPR reports Saturday's strike near the capital killed 37 people, one of the deadliest attacks of the year."
+        },
+        {
+          "title": "Norway's King Harald V dies at 89",
+          "url": "https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii",
+          "sentence": "NPR reports the king's death at 89; his son takes the throne as King Haakon VIII."
+        },
+        {
+          "title": "Icelanders vote on joining the EU",
+          "url": "https://www.npr.org/2026/08/29/nx-s1-5948759/iceland-european-union-referendum-vote",
+          "sentence": "Saturday's referendum asked whether Iceland should pursue European Union membership, per NPR."
+        },
+        {
+          "title": "Hospital nursery fire kills 14 newborns in Pakistan",
+          "url": "https://www.npr.org/2026/08/26/nx-s1-5944808/hospital-nursery-fire-kills-14-newborns-pakistan",
+          "sentence": "The fire swept a nursery in Pakistan's capital on Wednesday, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Sony and Warner publishers sue Anthropic",
+          "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "sentence": "Sony Music Publishing and Warner Chappell filed suit Saturday alleging a 'brazen campaign' of intellectual property theft, per TechCrunch."
+        },
+        {
+          "title": "OpenAI will cut Cursor off November 12",
+          "url": "https://the-decoder.com/openai-cuts-off-cursor-after-spacex-acquisition-citing-musks-history-of-breaking-contracts/",
+          "sentence": "After SpaceX's $60 billion Cursor bet, OpenAI says model access ends November 12 over trust in Musk's contract record — Cursor counters that OpenAI models carry about 5% of its traffic, per The Decoder."
+        },
+        {
+          "title": "a16z raises $1.1 billion 'Machine Age' fund",
+          "url": "https://techcrunch.com/2026/08/28/a16z-creates-a-1-1b-machine-age-fund-to-accelerate-the-physical-buildout-of-ai/",
+          "sentence": "TechCrunch reports the fund will 'accelerate the physical buildout of AI' — hardware from chips and cooling to robotics."
+        },
+        {
+          "title": "SK Hynix breaks ground on $4 billion Indiana plant",
+          "url": "https://www.purdue.edu/newsroom/2026/Q3/sk-hynix-breaks-ground-on-4-billion-advanced-packaging-production-facility-in-purdue-research-park/",
+          "sentence": "The memory maker started construction of a $4 billion advanced-packaging plant for high-bandwidth memory at Purdue Research Park, per Purdue News."
+        }
+      ]
+    }
+  ]
+}
