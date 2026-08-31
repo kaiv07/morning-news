@@ -1,0 +1,98 @@
+{
+  "date": "2026-08-31",
+  "headline": "Kai, Iran answered the Larak strike at dawn — ballistic missiles at two U.S. bases in Jordan, eight intercepted, and futures barely flinched.",
+  "subline": "WTI is back near $85, September hike odds went into the weekend at 57%, and Friday's jobs report is still the week's main event.",
+  "asof": "Pre-market · index futures as of ~6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,698.24", "delta": "−0.25%", "dir": "down"},
+    {"label": "Nasdaq 100 fut.", "value": "29,350.42", "delta": "−0.70%", "dir": "down"},
+    {"label": "Dow fut.", "value": "53,499.73", "delta": "−0.02%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.72%", "delta": "—", "dir": "flat"},
+    {"label": "Gold", "value": "$4,436.85", "delta": "−0.36%", "dir": "down"},
+    {"label": "WTI crude", "value": "$84.76", "delta": "+1.63%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$78,512", "delta": "+0.47%", "dir": "up"}
+  ],
+  "history": {"spx": 7711.71, "y10": 4.72, "btc": 78512},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures drift lower; oil firms again",
+          "url": "https://tradingeconomics.com/united-states/stock-market",
+          "sentence": "Trading Economics quotes S&P futures down 0.25% and Nasdaq 100 futures down 0.70% early Monday, with WTI up 1.63% at $84.76, gold easing to $4,436.85, and the 10-year steady near 4.72%."
+        },
+        {
+          "title": "Hormuz transits: 24 ships last week",
+          "url": "https://www.opb.org/article/2026/08/30/us-strikes-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks/",
+          "sentence": "OPB's wire report says commercial passages through the strait fell to 24 vessels last week from roughly 130 a day before the February war, after U.S. forces destroyed IRGC launchers being readied to mine the waterway."
+        },
+        {
+          "title": "Bitcoin steady above $78,000",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk quotes bitcoin at $78,512 early Monday, up 0.47% over 24 hours — holding its ground through a weekend that brought U.S. and Iranian strikes."
+        },
+        {
+          "title": "Payrolls Friday is the week's last word",
+          "url": "https://www.newsquawk.com/headlines/newsquawk-weekly-economic-calendar---31st-august---4th-september-2026",
+          "sentence": "Newsquawk's calendar shows a quiet U.S. Monday, ISM manufacturing and JOLTS Tuesday, ADP Wednesday, then the August jobs report Friday — the last big print before the Fed's mid-September meeting."
+        },
+        {
+          "title": "PayPal −12% after $50 billion bid dies",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-28-dow-sp-500-nasdaq-dip-fed-warsh-jackson-hole-speech-081514091.html",
+          "sentence": "Yahoo Finance's Friday wrap logged PayPal down 12% after Stripe and Advent abandoned their $50 billion takeover approach."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran fires ballistic missiles at bases in Jordan",
+          "url": "https://www.rferl.org/a/iran-live-blog-trump-middle-east/33803414.html",
+          "sentence": "RFE/RL reports the IRGC struck at the King Hussein and Al Azraq bases at dawn after Sunday's U.S. strike on Larak Island launchers, while Jordan's military says it intercepted eight missiles."
+        },
+        {
+          "title": "G20 finance chiefs meet in Asheville",
+          "url": "https://www.euronews.com/business/2026/08/31/g20-finance-chiefs-gather-in-north-carolina-with-iran-sanctions-and-tariffs-in-focus",
+          "sentence": "Euronews reports Iran sanctions and tariffs will shadow the talks opening in North Carolina today."
+        },
+        {
+          "title": "Italy extends Spain border checks 15 days",
+          "url": "https://www.euronews.com/my-europe/2026/08/31/italy-keeps-schengen-suspension-with-spain-in-place-for-further-15-days-over-ceuta-tension",
+          "sentence": "Euronews reports Rome kept its Schengen suspension with Spain in place for another fifteen days over the Ceuta tensions."
+        },
+        {
+          "title": "Shein prices Hong Kong IPO at $26 billion",
+          "url": "https://fortune.com/2026/08/31/customer-service-call-center-employment-philippines-ai-displacement-flock-shein-ipo/",
+          "sentence": "Fortune reports the retailer raised $1.7 billion at a $26 billion valuation — down from $100 billion in 2022 — on $41.9 billion of 2025 revenue."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Taiwan raids Nvidia board supplier Unimicron",
+          "url": "https://focustaiwan.tw/business/202608290008",
+          "sentence": "Focus Taiwan reports Taoyuan prosecutors searched the PCB maker and questioned 14 people over China-made boards allegedly relabeled as Taiwan-origin, releasing one general manager on NT$15 million bail."
+        },
+        {
+          "title": "EU puts ChatGPT under strictest platform rules",
+          "url": "https://www.euronews.com/next/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules",
+          "sentence": "Euronews reports ChatGPT, Reddit and Roblox now fall under the bloc's most stringent digital-safety obligations."
+        },
+        {
+          "title": "SB Energy hands OpenAI $5.5 billion sweetener",
+          "url": "https://seekingalpha.com/news/4638112-openai-issued-55b-in-sb-energy-warrants-wsj-reports",
+          "sentence": "Seeking Alpha, citing the WSJ, says SB Energy issued OpenAI $5.5 billion in warrants to anchor the Ports-Pike data-center campus in Ohio."
+        },
+        {
+          "title": "Flock cameras draw Hawley probe, city cancellations",
+          "url": "https://fortune.com/2026/08/31/customer-service-call-center-employment-philippines-ai-displacement-flock-shein-ipo/",
+          "sentence": "Fortune reports Senator Hawley opened an investigation and more than 90 cities have moved to cancel or reject contracts for the 120,000-camera license-plate network."
+        }
+      ]
+    }
+  ]
+}
