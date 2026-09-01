@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-01",
+  "headline": "Kai, the shrug is over — futures are red, oil is pushing $88, and markets now lean toward a September hike.",
+  "subline": "Trump threatened to hit Iran 'hard' after the weekend exchange, JOLTS and ISM manufacturing land this morning, and hike odds sit near 68%.",
+  "asof": "Pre-market · index futures as of 5:00 AM ET, yields & bitcoin ~6:40 · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,655.50", "delta": "−0.57%", "dir": "down"},
+    {"label": "Nasdaq 100 fut.", "value": "29,212.75", "delta": "−1.02%", "dir": "down"},
+    {"label": "Dow fut.", "value": "52,960", "delta": "−0.53%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.79%", "delta": "+0.03", "dir": "up"},
+    {"label": "Gold", "value": "$4,423.40", "delta": "−1.30%", "dir": "down"},
+    {"label": "WTI crude", "value": "$87.75", "delta": "+2.32%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$78,301", "delta": "+0.20%", "dir": "up"}
+  ],
+  "history": {"spx": 7686.14, "y10": 4.79, "btc": 78301},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "September hike odds climb toward 68%",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics puts market-implied odds of a September hike near 68% after Chair Kevin Warsh's Jackson Hole inflation warning, with the 10-year up about three basis points at 4.79% as dearer oil feeds the case."
+        },
+        {
+          "title": "Oil extends gains; futures open September lower",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+          "sentence": "Yahoo Finance quotes WTI up 2.32% at $87.75 on fears of another U.S.–Iran round, with S&P 500 futures off 0.57%, Nasdaq 100 futures down 1.02%, and gold easing 1.30% to $4,423.40."
+        },
+        {
+          "title": "JOLTS, ISM manufacturing and four earnings reports today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-1-dow-sp-500-nasdaq-080617884.html",
+          "sentence": "Yahoo Finance's calendar has JOLTS job openings, ISM manufacturing and construction spending this morning, with Dell, Palo Alto Networks, Medtronic and MongoDB reporting after the bell."
+        },
+        {
+          "title": "A red Monday still sealed a winning August",
+          "url": "https://www.stl.news/us-stock-market-today-monday-august-31-2026/",
+          "sentence": "The S&P 500 slipped 0.33% to 7,686.14 and the Dow lost 374 points Monday, but the Dow still booked a fifth straight monthly gain and the Nasdaq added about 3.9% in August, per STL.News."
+        },
+        {
+          "title": "Bitcoin enters September near $78,300",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "sentence": "CoinGecko has bitcoin at $78,301 this morning, up 0.2% over 24 hours and about 38% below last October's $126,080 peak. It gets there off an August that Bitcoin.com News counts among its best months of 2026 — a rebound that repaired most of this year's drawdown."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump threatens to hit Iran 'hard' as strikes resume",
+          "url": "https://www.nbcnews.com/politics/national-security/us-forces-strike-iranian-rocket-launchers-strait-hormuz-first-military-rcna595194",
+          "sentence": "U.S. forces struck Iranian rocket launchers near the Strait of Hormuz in the first exchange between the two in a month, and Trump warned he would respond 'hard,' per NBC News."
+        },
+        {
+          "title": "Tankers struck in the Strait of Hormuz",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-strikes-strait-of-hormuz-larak-island/",
+          "sentence": "CBS News reports commercial tankers were hit in the strait as Trump weighs further strikes in what he calls a 'relatively little war.'"
+        },
+        {
+          "title": "U.S. takes majority stake in Venezuelan oil",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5949407/us-venezuelan-oil-deal",
+          "sentence": "The administration announced a deal giving the U.S. a majority stake in Venezuela's oil reserves, though energy experts doubt it will do much for pump prices, per NPR."
+        },
+        {
+          "title": "House returns with a stopgap bill on deck",
+          "url": "https://www.npr.org/2026/08/31/nx-s1-5947993/glenn-ivey-house-stopgap-spending-bill",
+          "sentence": "Congress is back from recess with a temporary spending measure atop the agenda, per NPR."
+        },
+        {
+          "title": "Jury convicts Duane Davis of Tupac Shakur's murder",
+          "url": "https://www.npr.org/2026/09/01/g-s1-141341/conviction-tupac-shakur-murder",
+          "sentence": "A jury found Davis guilty of orchestrating the 1996 killing of the rap icon, resolving a case three decades old, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Pentagon opens GenAI.mil, with Claude conspicuously absent",
+          "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "sentence": "ChatGPT Mil and Grok for Government joined Gemini on the Pentagon's secure portal for three million personnel — 1.7 million already onboarded — while Anthropic remains excluded under its 'supply-chain risk' label, per TechCrunch."
+        },
+        {
+          "title": "Judge voids the Pentagon's Anthropic blacklist",
+          "url": "https://www.cnn.com/2026/08/27/tech/anthropic-pentagon-supply-chain-risk-unlawful-hnk",
+          "sentence": "A federal judge ruled that supply-chain-risk designation unlawful, per CNN — the company's first court win in the dispute."
+        },
+        {
+          "title": "Nvidia pauses its $36 billion AI-cloud financing",
+          "url": "https://techstrong.ai/articles/nvidia-pauses-36-billion-revenue-sharing-financing-model-amid-antitrust-scrutiny-partner-pushback/",
+          "sentence": "Nvidia suspended its AI Compute Partnership revenue-sharing model — about $36 billion in disclosed commitments — amid antitrust scrutiny and partner pushback, per Techstrong.ai."
+        },
+        {
+          "title": "DeepSeek open-sources its first native vision model",
+          "url": "https://www.opensourceforu.com/2026/09/deepseek-opens-its-first-native-vision-model/",
+          "sentence": "DeepSeek published open weights for V4-Flash-Vision-Exp, the experimental multimodal model it claims brings agent performance close to Anthropic's Opus 4.8, per Open Source For You and The Next Web."
+        },
+        {
+          "title": "Runway's Solaris draws working interfaces frame by frame",
+          "url": "https://runway.com/news/research/introducing-solaris",
+          "sentence": "Runway unveiled Solaris, an 'interface world model' that generates interactive apps in real time with no code, per the company's research note."
+        }
+      ]
+    }
+  ]
+}
