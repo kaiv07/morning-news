@@ -1,0 +1,104 @@
+{
+  "date": "2026-09-02",
+  "headline": "Kai, Brent is pressing $95 after Tuesday's strikes on Iran, and the bond market now trades the war as an inflation problem.",
+  "subline": "The 10-year sits at 4.80% with a September 16 hike about two-thirds priced, ADP private payrolls land this morning, and Broadcom reports after the close.",
+  "asof": "Pre-market · index futures ~4:30 AM ET, oil, yields, gold & bitcoin ~6:40 · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,640", "delta": "−0.40%", "dir": "down"},
+    {"label": "Nasdaq 100 fut.", "value": "29,070", "delta": "−0.19%", "dir": "down"},
+    {"label": "Dow fut.", "value": "52,850", "delta": "+0.05%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.80%", "delta": "+0.01 pt", "dir": "up"},
+    {"label": "Brent crude", "value": "$94.81", "delta": "+0.17%", "dir": "up"},
+    {"label": "Gold", "value": "$4,356", "delta": "−0.91%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$76,632", "delta": "−1.61%", "dir": "down"}
+  ],
+  "history": {"spx": 7631.47, "y10": 4.80, "btc": 76632},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Brent holds near $95; Hormuz still flowing",
+        "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+        "sentence": "Brent trades at $94.81 this morning, near its highest level in weeks, and Trading Economics notes 17 million barrels of oil still transited the Strait of Hormuz on Monday — the most in a single day since the war began."
+      },
+      {
+        "title": "Futures hold steady; 17bp of hikes priced",
+        "url": "https://www.fxstreet.com/news/dow-jones-futures-steady-amid-bond-selloff-rising-geopolitical-tensions-202609020828",
+        "sentence": "Dow futures sit near 52,850 and S&P futures near 7,640 in early trade, per FXStreet, which relays MUFG's count of 17 basis points of Fed hikes now priced ahead of the September 16 meeting."
+      },
+      {
+        "title": "War, oil, inflation: the chain behind Tuesday's slide",
+        "url": "https://www.alainguillot.com/stock-market-recap-september-1-2026/",
+        "sentence": "The S&P 500 closed Tuesday at 7,631.47, down 0.7%, with the Nasdaq off 1.0%, per Alain Guillot's recap, which frames the selling as one chain reaction — war lifts oil, oil threatens inflation, inflation feeds Fed-tightening bets — with the 10-year at 4.79%, its highest since January 2025."
+      },
+      {
+        "title": "ADP and the Beige Book open jobs week",
+        "url": "https://www.investing.com/news/stock-market-news/adp-jobs-report-oil-inventories-and-fed-beige-book-due-wednesday-93CH-4884464",
+        "sentence": "Investing.com's calendar shows ADP private payrolls due this morning with 48,000 jobs expected against 44,000 prior, plus the Fed's Beige Book, weekly crude inventories, and factory orders ahead of Friday's nonfarm payrolls report."
+      },
+      {
+        "title": "Broadcom reports tonight after the close",
+        "url": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announce-third-quarter-fiscal-year-2026-financial",
+        "sentence": "Broadcom releases fiscal third-quarter results and its business outlook after today's close, per the company's investor site, with the conference call set for 5 PM Eastern."
+      },
+      {
+        "title": "Bitcoin eases toward $76,600 as 'Rektember' opens",
+        "url": "https://www.coindesk.com/markets/2026/09/01/bitcoin-enters-rektember-as-rate-hike-risks-threaten-its-august-rally",
+        "sentence": "Bitcoin entered September just below $78,000 after climbing 25% in August, its strongest month since November 2024, per CoinDesk, and trades near $76,600 this morning. CoinDesk's seasonals show September averaging a roughly 3% decline since 2013, and with markets pricing a 66% chance of a hike on September 16, rate math rather than crypto news is doing the pushing."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Trump threatens to hit Iran 'much harder'",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html",
+        "sentence": "President Trump threatened to strike Iran 'much harder' after Tuesday's US airstrikes, per Yahoo Finance's live coverage, which reports the conflict has pushed Brent above $95 and bond yields higher worldwide."
+      },
+      {
+        "title": "Hundreds still missing in Nepal and Tibet floods",
+        "url": "https://www.npr.org/2026/09/01/nx-s1-5953077/rescuing-those-still-trapped-by-flash-floods-in-nepal-and-tibet",
+        "sentence": "Rescue teams are working to reach hundreds of people still missing after flash floods tore through valleys near Himalayan hydropower plants, per NPR, with Hindu pilgrims on a mountain trek among them."
+      },
+      {
+        "title": "FTC and 22 states sue Amazon over ads",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "sentence": "The FTC and 22 state attorneys general allege Amazon manipulated its advertising auction to overcharge advertisers by more than $20 billion without disclosure, per Tech Startups' roundup."
+      },
+      {
+        "title": "Microsoft 365 outage drags into a second day",
+        "url": "https://www.computerworld.com/article/4216867/microsoft-365-outage-enters-second-day-as-search-disruptions-persist.html",
+        "sentence": "An authentication-configuration failure that began August 31 kept degrading search and file access across Exchange Online, SharePoint, OneDrive, and Teams into a second day, per Computerworld, with mail flow largely recovered but no timeline yet for full resolution."
+      },
+      {
+        "title": "The company behind Trump's Venezuela oil deal",
+        "url": "https://www.npr.org/2026/09/01/nx-s1-5951558/what-do-we-know-about-the-company-behind-president-trumps-venezuelan-oil-deal",
+        "sentence": "NPR examines what is known about the private company managing President Trump's Venezuelan oil partnership, a deal drawing fresh attention as war puts a risk premium back into crude."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "John Ternus replaces Tim Cook as Apple CEO",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "sentence": "Apple hardware chief John Ternus took over as chief executive, ending Tim Cook's 15-year tenure, per Tech Startups, and will front a September 9 event expected to feature a foldable iPhone."
+      },
+      {
+        "title": "Sony and Warner publishers sue Anthropic over lyrics",
+        "url": "https://fortune.com/2026/09/01/anthropic-warner-sony-music-songs-lawsuit/",
+        "sentence": "Sony Music Publishing and Warner Chappell sued Anthropic in federal court in Northern California over lyrics from thousands of songs — 'Hallelujah' and 'I Am the Walrus' among them — seeking up to $150,000 per work, per Fortune, while Anthropic called the claims recycled and said it will contest them."
+      },
+      {
+        "title": "OpenAI's Astra crosses its 'Critical' cyber threshold",
+        "url": "https://openai.com/index/path-to-astra/",
+        "sentence": "OpenAI said its forthcoming Astra model is the first to meet the Critical cybersecurity tier of its Preparedness Framework — it found two zero-day vulnerabilities during testing — so the most advanced capabilities will launch gated to a small alpha group, per the company's announcement."
+      },
+      {
+        "title": "Anthropic signs $35 billion Lambda compute deal",
+        "url": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+        "sentence": "Anthropic agreed to a $35 billion cloud-computing deal with Nvidia-backed Lambda for capacity at a Texas data center developed by Hut 8, per Tech Startups' roundup."
+      },
+      {
+        "title": "Claude 5.1 arrives with cheaper cache reads",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "Anthropic released Claude Fable 5.1 alongside a restricted-access Mythos 5.1, cutting cache-read pricing by 75% for workloads it says run about 25% cheaper, per AI Weekly's digest."
+      }
+    ]}
+  ]
+}
