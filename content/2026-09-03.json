@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-03",
+  "headline": "Kai, the rebound is holding — futures lean green with oil at $90, and tomorrow's payrolls will test the rate path.",
+  "subline": "Wednesday's bounce carried into the pre-market, ADP and ISM services land this morning, and the 10-year sits near 4.78% ahead of Friday's jobs report.",
+  "asof": "Pre-market · as of 6:40 AM ET · equity figures are futures · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,659", "delta": "+0.46%", "dir": "up"},
+    {"label": "Nasdaq 100 fut.", "value": "28,976", "delta": "+0.23%", "dir": "up"},
+    {"label": "Dow fut.", "value": "53,086", "delta": "+0.56%", "dir": "up"},
+    {"label": "10-yr Treasury", "value": "4.78%", "delta": "+0.01", "dir": "flat"},
+    {"label": "Gold", "value": "$4,427", "delta": "+0.90%", "dir": "up"},
+    {"label": "WTI crude", "value": "$90.50", "delta": "−0.57%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$77,560", "delta": "+0.35%", "dir": "up"}
+  ],
+  "history": {"spx": 7667.35, "y10": 4.78, "btc": 77560},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Stocks rebound; Dow adds 324 ahead of payrolls",
+       "url": "https://247wallst.com/cards/all-three-major-indexes-finished-green-with-the-dow-s-324-p-gspc-market-bell-01m1hvgqqs9pk4pyhq877zm73r",
+       "sentence": "The S&P 500 closed Wednesday at 7,667.35, up 0.47%, with the Dow adding 324 points and buying steady into the close ahead of what 24/7 Wall St calls the next test of the rate path."},
+      {"title": "Jobs report Friday: 58,000 expected after July's decline",
+       "url": "https://tradingeconomics.com/united-states/calendar",
+       "sentence": "Economists look for 58,000 August jobs and 4.1% unemployment after July's reported 23,000-job decline, per the Trading Economics calendar."},
+      {"title": "ADP, claims and ISM services land this morning",
+       "url": "https://tradingeconomics.com/united-states/adp-employment-change",
+       "sentence": "ADP private payrolls (46,000 expected), jobless claims and ISM services arrive today as the last reads before Friday's number, per Trading Economics."},
+      {"title": "Ten-year yield holds near a 20-month high",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-2-095800348.html",
+       "sentence": "The 10-year closed Tuesday at 4.804%, its highest in 20 months per Yahoo Finance, and sits near 4.78% in the pre-market per Trading Economics."},
+      {"title": "Bitcoin steady near $77,500, down 31% on the year",
+       "url": "https://fortune.com/article/price-of-bitcoin-09-02-2026/",
+       "sentence": "Bitcoin trades near $77,560, up 0.35% overnight per Trading Economics but about 31% below the $111,250 it fetched a year ago, per Fortune."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Tankers struck as Hormuz stays contested",
+       "url": "https://theplaintruth.com/the-status-of-the-strait-of-hormuz-as-of-september-2/",
+       "sentence": "Two supertankers were hit by projectiles minutes apart on August 31, and CENTCOM says more than 20 warships have redirected 82 commercial vessels since mid-July, per The Plain Truth."},
+      {"title": "US strikes 100 IRGC sites; Iran hits back",
+       "url": "https://www.profilenews.com/en/daily-report-september-1-2026/",
+       "sentence": "CENTCOM says it struck roughly 100 IRGC facilities across Iran, drawing retaliatory missiles and drones at US-linked bases in Jordan, Bahrain and Erbil, per Profile News."},
+      {"title": "Shutdown averted: funding extended to December 11",
+       "url": "https://halrogers.house.gov/2026/9/congress-passes-federal-funding-extension-to-avoid-government-shutdown",
+       "sentence": "The House cleared the Senate's stopgap 370–48 on September 1 — four weeks before the deadline, which counts as early for Congress — funding the government through December 11, per Rep. Hal Rogers's office."},
+      {"title": "Russia hits Kyiv; Ukraine strikes Baltic port",
+       "url": "https://www.profilenews.com/en/daily-report-september-1-2026/",
+       "sentence": "Russian attacks killed 12 people in and around Kyiv as Ukraine struck the Ust-Luga port and the Novatek energy complex, per Profile News."},
+      {"title": "Oil holds above $90 after Tuesday's 5% spike",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-2-095800348.html",
+       "sentence": "WTI jumped 5.2% to $90.22 Tuesday on the US–Iran escalation per Yahoo Finance, and holds near $90.50 this morning per Trading Economics."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Anthropic ships Fable 5.1, cuts agent costs 45%",
+       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+       "sentence": "Anthropic released Claude Fable 5.1 and Mythos 5.1, cutting agentic workload costs by up to 45% while tightening cybersecurity safeguards, per TechStartups."},
+      {"title": "OpenAI labels Astra a critical cyber risk",
+       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+       "sentence": "OpenAI classified its forthcoming Astra model as carrying Critical cybersecurity capability, requiring stronger safeguards before broad deployment, per TechStartups."},
+      {"title": "China's Enflame IPO draws 6,000x subscription demand",
+       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+       "sentence": "The Tencent-backed AI chipmaker raised about $900 million in Shanghai as demand ran more than 6,000 times the offering, per TechStartups."},
+      {"title": "Uber cuts 10% of staff for autonomy push",
+       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+       "sentence": "Uber eliminated 3,300 positions, about a tenth of its workforce, to flatten management and shift resources toward autonomous vehicles, per TechStartups."},
+      {"title": "Nvidia backs photonic chips for AI networking",
+       "url": "https://techstartups.com/2026/09/02/top-tech-news-today-september-2-2026-anthropic-google-meta-nvidia-perplexity-openai-tencent-more/",
+       "sentence": "Nvidia joined a $125 million round for Spain's iPronics, whose photonic chips target AI data-center networking, per TechStartups."}
+    ]}
+  ]
+}
