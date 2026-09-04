@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-04",
+  "headline": "Kai, payrolls land at 8:30 with a September hike still on the table — bitcoin didn't wait, clearing $81,000 overnight.",
+  "subline": "Jobs day with hike bets fading, oil near $91 after a week of Hormuz strikes, and Thursday's 1% rally recouped most of the week's losses.",
+  "asof": "Pre-market · as of 6:45 AM ET · equity levels are Thursday's close · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,747.02", "delta": "+1.06%", "dir": "up"},
+    {"label": "Nasdaq 100", "value": "29,428.27", "delta": "+1.16%", "dir": "up"},
+    {"label": "Dow", "value": "53,628.81", "delta": "+1.18%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.76%", "delta": "−1 bp", "dir": "down"},
+    {"label": "Gold", "value": "$4,475", "delta": "+0.04%", "dir": "flat"},
+    {"label": "WTI crude", "value": "$91.25", "delta": "−0.05%", "dir": "flat"},
+    {"label": "Bitcoin", "value": "$81,024", "delta": "+4.12%", "dir": "up"}
+  ],
+  "history": {"spx": 7747.02, "y10": 4.765, "btc": 81024.45},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "August payrolls land at 8:30 this morning",
+       "url": "https://www.kiplinger.com/investing/economy/jobs-report-august-2026-what-to-expect",
+       "sentence": "Economists look for about 58,000 new jobs and 4.1% unemployment, with BofA still calling for a September hike, per Kiplinger."},
+      {"title": "S&P 500 rose 1.06% to 7,747 Thursday",
+       "url": "https://tradingeconomics.com/united-states/stock-market",
+       "sentence": "Stocks recouped most of the week's losses as bond yields eased, with the Dow adding 1.18%, per TradingEconomics."},
+      {"title": "WTI holds above $91, up nearly 10% this week",
+       "url": "https://tradingeconomics.com/commodity/crude-oil",
+       "sentence": "Crude sits at $91.25 with Brent at $95.50 as the U.S.–Iran war keeps Strait of Hormuz shipping at risk, per TradingEconomics."},
+      {"title": "Bitcoin clears $81,000 as hike bets fade",
+       "url": "https://www.coindesk.com/price/bitcoin",
+       "sentence": "CoinDesk puts it at $81,024, up 4.12% in 24 hours on a weaker dollar and fading rate-hike expectations, and notes one bitcoin now buys more than 18 ounces of gold for the first time since January."},
+      {"title": "Dell jumps 15.8% on a blowout quarter",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-sep-3-095800036.html",
+       "sentence": "Adjusted EPS of $7.04 beat the $4.97 consensus on $46.97 billion in revenue, and GitLab rose 10% on its own beat, per Zacks via Yahoo Finance."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "U.S. strikes Iranian tankers in Hormuz retaliation",
+       "url": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+       "sentence": "The roughly 100 targets included two Iranian government tankers and missile sites, retaliation for attacks on commercial shipping, per Axios."},
+      {"title": "Diesel prices hit a record high",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5948016/diesel-price-record-high",
+       "sentence": "The conflicts in Iran and Ukraine are squeezing fuel supply chains and pushing diesel to unprecedented levels, per NPR."},
+      {"title": "White House targets private-college tax exemptions",
+       "url": "https://www.npr.org/2026/09/04/g-s1-141947/trump-administration-pushes-to-remove-tax-exemption-for-private-colleges-with-dei-policies",
+       "sentence": "The administration proposed stripping tax-exempt status from private colleges that keep race-based student support programs, per NPR."},
+      {"title": "Mail-voting restrictions reach the Supreme Court",
+       "url": "https://www.npr.org/2026/09/03/nx-s1-5955614/trump-mail-in-voting-ruling-court-usps",
+       "sentence": "The administration asked the justices to lift a lower-court block on USPS mail-voting limits ahead of the midterms, per NPR."},
+      {"title": "Milei escalates the Falklands oil dispute",
+       "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
+       "sentence": "Argentina imposed tougher sanctions on companies working on offshore oil development around the islands, per NPR."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Nvidia confirms $12.9 billion Hugging Face deal",
+       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+       "sentence": "The chipmaker moves beyond hardware by buying the open-source model hub outright, per TechCrunch."},
+      {"title": "G20 adopts light-touch AI principles",
+       "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-strikes-light-touch-ai-regulation-accord-with-g20-members",
+       "sentence": "Members unanimously endorsed the non-binding, U.S.-backed Carolina Principles for AI governance, per Bloomberg."},
+      {"title": "Google ships Gemini 3.8 Flash weeks after 3.7",
+       "url": "https://9to5google.com/2026/09/02/gemini-3-8-flash-launch/",
+       "sentence": "The new model is priced at $0.75 in and $3.75 out per million tokens, three weeks after the last release, per 9to5Google."},
+      {"title": "Sanders bill would ban superintelligence development",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "The Sanders–Casar legislation would permanently prohibit ASI work and pause advanced AI research pending federal safety rules, per AI Weekly's digest."},
+      {"title": "Altman warns of 'unsustainable silliness' in compute",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "The OpenAI chief says new entrants are pledging massive compute capacity without matching revenue or demand, per The Decoder via AI Weekly."}
+    ]}
+  ]
+}
