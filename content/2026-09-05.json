@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-05",
+  "headline": "Kai, 162,000 jobs later, the market is bracing for a September hike.",
+  "subline": "Hike odds hit 63% for the Sept. 16 decision, stocks slipped while bitcoin held above $81,000, and CPI lands Friday.",
+  "asof": "Weekend edition · market figures are Friday's close, bitcoin as of Friday · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,718", "delta": "−0.38%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,506", "delta": "−0.29%", "dir": "down"},
+    {"label": "Dow", "value": "53,413", "delta": "−0.51%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.78%", "delta": "+2 bp", "dir": "up"},
+    {"label": "Gold", "value": "$4,476.60", "delta": "−$63.30", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.55", "delta": "−0.82%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$81,224.60", "delta": "+3.23%", "dir": "up"}
+  ],
+  "history": {"spx": 7718, "y10": 4.78, "btc": 81224.60},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Payrolls tripled the forecast; unemployment held at 4.1%",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026",
+       "sentence": "August added 162,000 jobs against a 55,000 consensus, and the S&P 500 gave back 0.38% as the 10-year yield rose to 4.78%, per TheStreet."},
+      {"title": "Rate-hike odds for September reached 63%",
+       "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+       "sentence": "Treasury yields jumped as futures priced a 63% chance the Fed hikes this month, with July's payroll reading revised from negative to positive, per Charles Schwab."},
+      {"title": "Lululemon fell to seven-year lows on cut guidance",
+       "url": "https://investrade.com/market-review-september-04-2026/",
+       "sentence": "The retailer cut its full-year outlook as China sales fell 4% year over year, one of Friday's sharpest single-stock moves, per Investrade's market review."},
+      {"title": "Bitcoin holds above $81,000 on heavy ETF inflows",
+       "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-september-4-2026-bitcoin-holding-above-81000-following-massive-etf-inflows-113751298.html",
+       "sentence": "Friday brought the largest spot-ETF inflow in nine months after Fed governor Waller's comments, per Yahoo Finance. The move leaves bitcoin up 28.1% over the past month, though still 27.3% below a year ago."},
+      {"title": "The docket: PPI Thursday, CPI Friday, Fed next week",
+       "url": "https://www.gomarkets.com/en/articles/september-us-market-outlook-jobs-cpi-fed",
+       "sentence": "Markets are closed Monday for Labor Day; then PPI lands September 10 and CPI September 11, the last inflation reads before the FOMC's September 15–16 meeting, with the funds rate at 3.50%–3.75%, per GO Markets."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Germany's AfD poised for a state-election breakthrough",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5946404/germany-far-right-election",
+       "sentence": "A win in Saxony-Anhalt would give the far right its first state governorship since World War II, per NPR."},
+      {"title": "Gloria Steinem dies at 92",
+       "url": "https://www.npr.org/2026/09/03/nx-s1-5955579/gloria-steinem-tributes",
+       "sentence": "Tributes from politics and entertainment poured in for the pioneering feminist organizer and writer, per NPR."},
+      {"title": "ICE officer charged with lying about a shooting",
+       "url": "https://www.npr.org/2026/09/03/nx-s1-5955654/justice-department-charges-castro-ice-officer",
+       "sentence": "The Justice Department says the officer misrepresented the circumstances of a Venezuelan immigrant's shooting, per NPR."},
+      {"title": "Heat deaths far exceed official counts",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5945241/a-new-investigation-shows-heat-is-even-deadlier-than-we-thought",
+       "sentence": "An NPR investigation with Boston University finds heat kills far more Americans than the records show."},
+      {"title": "Scientists map protein interactions behind profound autism",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5954823/profound-autism-proteins-genes-map-treatments",
+       "sentence": "Research published in Science charts the interactions and points to new targets for drug development, per NPR."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Claude autonomously formalizes Fermat's Last Theorem",
+       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
+       "sentence": "Working largely on its own for 11 days, the model produced 13 million lines of Lean proving the theorem from Lean's three standard axioms, per Anthropic."},
+      {"title": "Anthropic's IPO marketing moves to mid-October",
+       "url": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+       "sentence": "Reuters reports the roadshow now begins in mid-October at the earliest, per CNBC."},
+      {"title": "OpenAI says Astra is harder to monitor",
+       "url": "https://www.implicator.ai/openai-says-its-own-tests-found-gpt-6-astra-harder-to-monitor/",
+       "sentence": "GPT-6's recurrent-depth design reasons in latent space rather than visible chains of thought, and OpenAI's own testing flags the lost oversight, per Implicator."},
+      {"title": "Figure books $3.5 billion of GPU compute",
+       "url": "https://www.prnewswire.com/news-releases/nscale-and-figure-sign-strategic-partnership-to-power-the-next-generation-of-physical-ai-302868918.html",
+       "sentence": "The Nscale partnership deploys up to 100,000 Nvidia GPUs to train Figure's Helix humanoid models, per the companies' announcement."},
+      {"title": "OpenAI, Anthropic, and Google all stumbled this week",
+       "url": "https://cryptobriefing.com/openai-anthropic-google-ai-service-outages/",
+       "sentence": "All three suffered brief outages within two days of one another — even frontier labs take the occasional long lunch — per Crypto Briefing."}
+    ]}
+  ]
+}
