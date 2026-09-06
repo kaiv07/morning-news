@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-06",
+  "headline": "Kai, Witkoff and Kushner are in Moscow — and expected in Kyiv today — testing whether five years of war can be talked to a stop.",
+  "subline": "Hike odds sit near 60% into Friday's CPI, WTI held at $90.55 with the strait still contested, and U.S. markets are closed Monday for Labor Day.",
+  "asof": "Weekend edition · Sunday 6:45 AM ET · strip is Friday's close, bitcoin live · U.S. markets closed Monday for Labor Day · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,718.60", "delta": "−0.38%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,506.99", "delta": "−0.29%", "dir": "down"},
+    {"label": "Dow", "value": "53,414.25", "delta": "−0.51%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.78%", "delta": "+1.8 bp", "dir": "up"},
+    {"label": "Gold", "value": "$4,513.20", "delta": "−0.59%", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.55", "delta": "−0.82%", "dir": "down"},
+    {"label": "Bitcoin · live", "value": "$79,832", "delta": "+0.2% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7718.60, "y10": 4.78, "btc": 79832.17},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "This week: Oracle, Adobe, PPI Thursday, CPI Friday",
+       "url": "https://www.fool.com/investing/2026/09/04/the-nasdaq-sp-500-and-dow-all-fell-slightly-friday/",
+       "sentence": "The last inflation reads land just before the Sept. 15-16 meeting, where traders price roughly 60% odds of a quarter-point hike, per The Motley Fool, while Oracle and Adobe close out earnings season, per Seeking Alpha."},
+      {"title": "Friday closed slightly lower across the board",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-4-133716564.html",
+       "sentence": "The S&P 500 ended the holiday-shortened run at 7,718.60, the Nasdaq at 26,506.99 and the Dow at 53,414.25, modest losses that left the hike debate unresolved, per Yahoo Finance."},
+      {"title": "Washington ended FICO's mortgage-scoring lock; shares fell 17.5%",
+       "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-04-2026",
+       "sentence": "The FHFA's directive opening mortgage credit scores to competition was Friday's sharpest single-stock story, with Guidewire off 22.2% on weak guidance, per TheStreet."},
+      {"title": "Gold cooled Friday; still up 27.4% in a year",
+       "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-friday-september-4-2026-gold-price-lifts-ahead-of-jobs-report-105540094.html",
+       "sentence": "December futures opened at $4,522 and eased, leaving gold up 11.6% in a month, as Fed governor Waller floated holding rates if inflation cools, per Yahoo Finance."},
+      {"title": "Bitcoin idles near $80,000 into the holiday",
+       "url": "https://www.coingecko.com/en/coins/bitcoin",
+       "sentence": "CoinGecko shows bitcoin at $79,832 Sunday morning, up 2.4% on the week but cooled from Friday's pop above $81,000."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Witkoff and Kushner in Moscow; Kyiv expected Sunday",
+       "url": "https://www.npr.org/2026/09/05/nx-s1-5959114/us-envoys-in-moscow-in-new-push-for-peace",
+       "sentence": "The envoys made their first Kremlin visit since January to revive stalled talks, and Zelenskyy offered to pause airstrikes while they travel, per NPR."},
+      {"title": "U.S. claims control of Venezuela's oil reserves",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5958648/us-venezuela-oil-deal-reserves-trump",
+       "sentence": "The administration announced a deal it says hands the U.S. control of Venezuelan reserves at no taxpayer cost, per NPR."},
+      {"title": "Philippine VP Duterte bailed after assassination-threat arrest",
+       "url": "https://www.npr.org/2026/09/05/g-s1-142148/philippines-vice-president-posts-bail",
+       "sentence": "Sara Duterte posted bail after her arrest on charges of threatening the president's assassination, per NPR."},
+      {"title": "Flock's cameras unite left and right — against them",
+       "url": "https://www.npr.org/2026/09/05/nx-s1-5955778/flock-surveillance-camera-opposition-politics",
+       "sentence": "Opposition to the license-plate surveillance network is becoming a rare bipartisan cause in midterm races, per NPR."},
+      {"title": "U.N. adopts a map with Africa full-sized",
+       "url": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+       "sentence": "The body endorsed the Equal Earth projection, which shows continents at true relative size, with the U.S. voting against, per NPR."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Seattle Times and Newsday sue OpenAI and Microsoft",
+       "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+       "sentence": "The papers allege their paywalled journalism was used to train models without a license, joining the growing newspaper copyright docket, per TechCrunch."},
+      {"title": "OpenAI drafts rules for reporting rogue agents",
+       "url": "https://www.engadget.com/2251725/openai-responds-after-report-exposed-another-incident-in-which-its-ai-agents-went-rogue/",
+       "sentence": "After the exposed agent failure known as the wiki incident, OpenAI says it will build a formal framework for disclosing misalignment events, per Engadget."},
+      {"title": "Six fully open models, up to 375B parameters",
+       "url": "https://www.hpcwire.com/aiwire/2026/09/03/institute-of-foundation-models-releases-fully-open-k2-horizon-models-with-weights-code-and-training-data/",
+       "sentence": "MBZUAI's Institute of Foundation Models released the K2 Horizon fleet with weights, code and training data all public, per AIwire."},
+      {"title": "Data centers become a midterm campaign issue",
+       "url": "https://www.npr.org/2026/09/05/nx-s1-5913671/ai-data-center-campaign-spending",
+       "sentence": "Voter anger at AI build-outs has both parties spending on the issue ahead of November, per NPR."},
+      {"title": "Chrome patches its sixth zero-day of 2026",
+       "url": "https://www.techtimes.com/articles/326749/20260905/chrome-patches-sixth-zero-day-2026-v8-compiler-exploit-hits-wild.htm",
+       "sentence": "Google shipped a fix for CVE-2026-85046, a V8 compiler flaw already exploited in the wild, per Tech Times."}
+    ]}
+  ]
+}
