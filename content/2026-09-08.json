@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-08",
+  "headline": "Kai, the market comes back from the long weekend to $99 Brent, fresh Canadian tariffs at the border, and a Fed eight days from choosing a hike.",
+  "subline": "Futures are steady to lower, hike odds hold near 60 percent into Friday's CPI, and bitcoin sits near $79,000 after another rejection at $82,000.",
+  "asof": "Pre-market · as of 6:45 AM ET · index values are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,710", "delta": "−0.16%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "29,604", "delta": "+0.13%", "dir": "up"},
+    {"label": "Dow fut", "value": "53,174", "delta": "−0.50%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.79%", "delta": "−0.01 pp", "dir": "flat"},
+    {"label": "Gold", "value": "$4,432", "delta": "+0.6%", "dir": "up"},
+    {"label": "Brent crude", "value": "$99.32", "delta": "+2.2%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$79,025", "delta": "−1.4%", "dir": "down"}
+  ],
+  "history": {"spx": 7718.6, "y10": 4.79, "btc": 79025.1},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Futures tilt lower as the week reopens",
+       "url": "https://www.investing.com/indices/us-spx-500-futures",
+       "sentence": "Dow futures are off 0.5 percent and S&P 500 futures 0.2 percent while Nasdaq futures hold slightly green in the first session since Friday's jobs-driven slide, per Investing.com."},
+      {"title": "Warsh keeps a September hike alive",
+       "url": "https://www.marketplace.org/story/2026/08/31/will-the-fed-raise-rates-at-september-fomc-meeting",
+       "sentence": "Markets put the odds of a quarter-point hike at next Wednesday's decision near 60 percent, and Chair Kevin Warsh has said underlying inflation trends have not meaningfully improved, per Marketplace."},
+      {"title": "Brent probes $99, a six-week high",
+       "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+       "sentence": "Brent rose about 2 percent to $99.32 on Tuesday, up 13 percent in a month, after weekend strikes on tankers from both sides of the strait, per Trading Economics."},
+      {"title": "Quiet data today, CPI waits on Friday",
+       "url": "https://tradingeconomics.com/united-states/calendar",
+       "sentence": "Today brings NFIB small-business optimism, consumer inflation expectations, a 3-year note auction and July consumer credit, with August PPI due Thursday and CPI Friday at a 3.4 percent consensus, per Trading Economics."},
+      {"title": "Bitcoin backs off $82,000 again",
+       "url": "https://247wallst.com/investing/cryptocurrency/2026/09/07/bitcoin-keeps-getting-rejected-at-82000-can-it-break-through-in-september-2026/",
+       "sentence": "Bitcoin trades near $79,000 after a fourth rejection at $82,000 since late August — still up about 23 percent from its August 7 low but 10 percent below January's open — ahead of the Senate's September 15 CLARITY Act vote, per 24/7 Wall St."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Canada's counter-tariffs take effect this morning",
+       "url": "https://mohawkglobal.com/canada/canada-announces-new-retaliatory-tariffs-on-us-goods-effective-september-8/",
+       "sentence": "Ottawa's tariffs of 15 to 50 percent on $27.6 billion of US goods — steel, aluminum, dairy and electronics among them — answered Washington's 50 percent Section 338 duties at 12:01 a.m. today, per Mohawk Global."},
+      {"title": "Tanker war tightens the Strait of Hormuz",
+       "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
+       "sentence": "The US hit three Iranian oil tankers and Iran struck six vessels including US-linked ships over the weekend, leaving roughly ten commodity ships a day crossing a strait that normally carries a fifth of the world's oil, per Al Jazeera."},
+      {"title": "Kyiv talks substantive, but no deal",
+       "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv",
+       "sentence": "Witkoff and Kushner met Zelenskyy in Kyiv after seeing Putin in Moscow, with Washington now pressing for trilateral talks, per Al Jazeera."},
+      {"title": "Five dead in Miami cargo-plane overrun",
+       "url": "https://www.npr.org/2026/09/06/nx-s1-5959749/amazon-cargo-plane-crashes-at-miami-airport",
+       "sentence": "An Amazon Prime Air freighter overran a Miami International runway Sunday and struck a van, killing five, and the NTSB investigation is underway, per NPR."},
+      {"title": "AfD doubles its vote in Saxony-Anhalt",
+       "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-afd-far-right",
+       "sentence": "The far-right AfD more than doubled its vote share to finish first in Sunday's Saxony-Anhalt state election, a result NPR calls a historic victory."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "OpenAI's Astra keeps chip stocks running",
+       "url": "https://en.bloomingbit.io/feed/news/119830",
+       "sentence": "Samsung rose 3.9 percent and SK Hynix 5.5 percent Monday after Jensen Huang said GPT-6 Astra was trained on more than 100,000 Nvidia systems with 400,000 more GPUs to come, per Bloomingbit."},
+      {"title": "Anthropic books a fall IPO window",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-sets-fall-ipo-eyeing-185032639.html",
+       "sentence": "The Claude maker is targeting September or October at a post-money valuation near $965 billion, with Morgan Stanley, Goldman Sachs and JPMorgan running the book, per Yahoo Finance."},
+      {"title": "Samsung leads Mistral's record €3 billion",
+       "url": "https://www.euronews.com/business/2026/09/08/mistral-ai-raises-record-3-billion-in-samsung-led-funding-round",
+       "sentence": "Europe's largest-ever equity round, announced Tuesday, values the French lab above €21 billion, per Euronews."},
+      {"title": "NHTSA opens Cybercab compliance probe",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-3-dow-sp-500-nasdaq-august-jobs-report-081005475.html",
+       "sentence": "Tesla fell about 6 percent Friday after the safety regulator announced an investigation into Cybercab compliance, per Yahoo Finance."},
+      {"title": "Google begins one-way swap to Gemini",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "Google started replacing Assistant with Gemini across Android, Wear OS and cars on September 4, a rollout with no option to revert, per AI Weekly."}
+    ]}
+  ]
+}
