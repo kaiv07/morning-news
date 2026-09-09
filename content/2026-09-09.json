@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-09",
+  "headline": "Kai, oil at $99 cost the Dow 628 points, and this afternoon Apple bets $2,000 that you want a phone that folds.",
+  "subline": "Futures are flat after Tuesday's slide, a September 16 hike is roughly a coin flip into Friday's CPI, and OpenAI claims a Millennium Prize problem fell to its model.",
+  "asof": "Pre-market · as of 6:40 AM ET · index values are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,684", "delta": "+0.04%", "dir": "flat"},
+    {"label": "Nasdaq 100 fut", "value": "29,580", "delta": "+0.14%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,800", "delta": "−0.06%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.80%", "delta": "+0.01 pp", "dir": "flat"},
+    {"label": "WTI crude", "value": "$94.56", "delta": "+1.64%", "dir": "up"},
+    {"label": "Gold", "value": "$4,452", "delta": "+0.30%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$79,482", "delta": "+1.39%", "dir": "up"}
+  ],
+  "history": {"spx": 7673.52, "y10": 4.80, "btc": 79481.75},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Dow sheds 628 points as oil stokes inflation fear",
+       "url": "https://eurasiabusinessnews.com/2026/09/08/stock-market-today-dow-drops-628-points-as-oil-nears-100-and-gold-slides/",
+       "sentence": "The Dow closed down 628.18 points at 52,786.07 and the S&P 500 fell 0.6 percent to 7,673.52 as rising energy costs revived worries that central banks stay restrictive for longer, per Eurasia Business News."},
+      {"title": "Futures steady; WTI $94.56, Brent camped near $99",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-9-dow-sp-500-nasdaq-080411279.html",
+       "sentence": "S&P 500 futures sit near 7,684 and WTI is up 1.6 percent at $94.56 with Brent hovering just under $100, while Chewy and American Eagle headline today's earnings, per Yahoo Finance."},
+      {"title": "Next Wednesday's Fed decision is now a coin flip",
+       "url": "https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-201618784.html",
+       "sentence": "CME FedWatch puts the odds of a quarter-point hike at the September 16 meeting near 56 percent after Chair Kevin Warsh's Jackson Hole reset, with Friday's CPI the last big input, per Yahoo Finance."},
+      {"title": "The 10-year holds 4.80% as oil complicates the math",
+       "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+       "sentence": "The 10-year Treasury yield edged up to 4.80 percent this morning and sits 0.75 points above a year ago, per Trading Economics."},
+      {"title": "Bitcoin steadies near $79,500, well under October's record",
+       "url": "https://fortune.com/article/price-of-bitcoin-09-08-2026/",
+       "sentence": "Bitcoin trades near $79,482 pre-market — up about 21 percent over the past month but still 30 percent below a year ago and well under the October 2025 record of $126,198, per Fortune."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Iran fires missiles at US carriers; Washington strikes tankers",
+       "url": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed",
+       "sentence": "Iran launched ballistic missiles at US aircraft carriers after American strikes hit three of its tankers, and Admiral Brad Cooper promised 'an even higher economic cost' if US ships are targeted again, per Al Jazeera."},
+      {"title": "Russian strikes kill five in Kyiv as pause ends",
+       "url": "https://www.aljazeera.com/news/2026/9/8/russia-strikes-kyiv-as-three-day-pause-during-us-envoy-visits-ends",
+       "sentence": "Russian attacks on Kyiv killed at least five people as the three-day lull that accompanied US envoy visits came to an end, per Al Jazeera."},
+      {"title": "Senate leaders strike deal to avert pre-election shutdown",
+       "url": "https://www.nbcnews.com/politics/congress/senate-leaders-reach-deal-avert-shutdown-2026-elections-rcna590564",
+       "sentence": "Senate leaders reached a deal on a short-term funding bill to head off a government shutdown before the midterm elections, per NBC News."},
+      {"title": "Houthi attacks idle Saudi energy facilities",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-8-dow-sp-500-nasdaq-080440338.html",
+       "sentence": "Saudi Arabia halted operations at energy facilities after Houthi attacks, stacking a second supply shock on a crude market Goldman Sachs already calls in deficit, per Yahoo Finance."},
+      {"title": "Rubio: US won't join UK settlement sanctions",
+       "url": "https://www.timesofisrael.com/liveblog-september-8-2026/",
+       "sentence": "US Secretary of State Marco Rubio said Washington will 'obviously' not be joining new UK sanctions on West Bank settlements, per The Times of Israel."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Apple unfolds a $2,000 iPhone at 1 p.m.",
+       "url": "https://www.macrumors.com/guide/apple-september-2026-what-to-expect/",
+       "sentence": "The 'Surprise and Shine' event at 1 p.m. Eastern is expected to bring the $2,000-plus foldable iPhone Ultra, the iPhone 18 Pro line, and John Ternus's first keynote as chief executive, per MacRumors."},
+      {"title": "OpenAI says its model solved Navier-Stokes",
+       "url": "https://www.quantamagazine.org/ai-has-solved-one-of-maths-1-million-millennium-prize-problems-20260908/",
+       "sentence": "OpenAI says an unreleased model produced a proof for Navier-Stokes, one of math's $1 million Millennium Prize problems, per Quanta Magazine — though credit for the result is already in dispute."},
+      {"title": "Samsung leads €3 billion round for Mistral",
+       "url": "https://www.cnbc.com/2026/09/08/mistral-ai-funding-valuation-samsung.html",
+       "sentence": "Samsung led a €3 billion round that values the French lab at $24 billion, cementing Mistral as Europe's AI champion, per CNBC."},
+      {"title": "US agencies accuse six Chinese labs of model distillation",
+       "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a",
+       "sentence": "The NSA, CISA and FBI say six China-based AI companies, DeepSeek among them, ran industrial-scale distillation campaigns against US frontier models, per the agencies' joint advisory."},
+      {"title": "Meta ships Muse, a $20-a-month personal agent",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "Meta's Muse personal agent launched across web, mobile and WhatsApp with a $20 Power tier and a $100 Maximum tier, per AI Weekly."}
+    ]}
+  ]
+}
