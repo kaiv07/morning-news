@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-11",
+  "headline": "Kai, one inflation print at 8:30 stands between the Fed and its first hike since 2023.",
+  "subline": "Consensus sees August CPI at 3.3 percent, Brent has eased to $104 after its Red Sea spike, and the 10-year holds just under 5 percent.",
+  "asof": "Pre-market · as of 6:45 AM ET · index values are Thursday's close — futures feeds disagreed this morning · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,595", "delta": "−0.58%", "dir": "down"},
+    {"label": "Nasdaq 100", "value": "29,119", "delta": "−1.08%", "dir": "down"},
+    {"label": "Dow", "value": "52,057", "delta": "−0.60%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.94%", "delta": "−0.03 pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,347", "delta": "+0.69%", "dir": "up"},
+    {"label": "Brent crude", "value": "$103.98", "delta": "−3.39%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$77,063", "delta": "−1.7%", "dir": "down"}
+  ],
+  "history": {"spx": 7595.30, "y10": 4.94, "btc": 77062.99},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "August CPI lands at 8:30 this morning",
+       "url": "https://www.cbsnews.com/news/august-cpi-report-fed-rate-hike/",
+       "sentence": "Economists expect 3.3 percent headline inflation, down from 3.4 percent in July, and markets price roughly a 70 percent chance the September 16 meeting delivers the Fed's first hike since July 2023, per CBS News."},
+      {"title": "The 10-year eases to 4.94% into the print",
+       "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+       "sentence": "The yield climbed to about 4.97 percent Friday after August producer prices accelerated on energy costs and a $6 billion Treasury buyback drew only $5.2 billion, with markets putting a 71 percent probability on a rate increase, per Trading Economics."},
+      {"title": "Brent backs off to $104 on IEA demand cut",
+       "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+       "sentence": "Brent fell 3.39 percent to $103.98 and WTI to $99.16 after the IEA sharply downgraded its 2026 demand outlook, though renewed Houthi advances toward the Bab al-Mandeb Strait keep supply risk in the price, per Trading Economics."},
+      {"title": "Stocks fell again Thursday; chips led the damage",
+       "url": "https://tradingeconomics.com/united-states/stock-market",
+       "sentence": "The S&P 500 closed down 0.58 percent at 7,595.30, the Nasdaq 100 lost 1.08 percent to 29,119.46 and the Dow shed 316 points to 52,056.79, with Nvidia off 2.3 percent, Micron 4.9 and Intel 5.6 while Apple rose 3.6 percent, per Trading Economics."},
+      {"title": "Gold firms to $4,347 ahead of the data",
+       "url": "https://tradingeconomics.com/commodity/gold",
+       "sentence": "Gold rose 0.69 percent to about $4,347 an ounce Friday, recouping part of the prior session's losses as traders wait on the CPI report, per Trading Economics."},
+      {"title": "Oracle's cloud beat lands on AI demand",
+       "url": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-posts-cloud-sales-that-top-estimates-on-surging-ai-demand",
+       "sentence": "Oracle posted cloud sales that topped estimates on surging AI demand in results released after Thursday's close, per Bloomberg."},
+      {"title": "Bitcoin holds near $77,000 as ETF flows flip",
+       "url": "https://www.coindesk.com/price/bitcoin",
+       "sentence": "Bitcoin sits near $77,063 after a 1.7 percent daily drop tied to the hot PPI print and risk-off yields, with spot ETFs logging $167 million of outflows after a three-week run of inflows, per CoinDesk."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "America marks 25 years since September 11",
+       "url": "https://abcnews.com/US/live-updates/911-25th-anniversary-live-updates-families-gather-ceremonies/?id=136027765",
+       "sentence": "Families gather today for ceremonies at the World Trade Center, the Pentagon and Shanksville on the quarter-century anniversary of the attacks, per ABC News."},
+      {"title": "Houthis fight to choke off Saudi oil's exit",
+       "url": "https://www.washingtonpost.com/world/2026/09/10/iranian-backed-houthis-fight-block-red-sea-passage-saudi-oil/",
+       "sentence": "Iranian-backed Houthi forces are battling to block the Red Sea passage that carries Saudi oil, per The Washington Post, and Gulf foreign ministers meet Iran's counterpart in Oman on Monday to seek a temporary shipping arrangement."},
+      {"title": "Yemen's ground war is back",
+       "url": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea",
+       "sentence": "Government forces are counterattacking after a Houthi offensive through western Taiz and southern Hodeidah, with fighting intensifying early this week in Taiz, al-Bayda and al-Jawf provinces, per Al Jazeera."},
+      {"title": "US keeps shipping advisory on Red Sea lanes",
+       "url": "https://www.maritime.dot.gov/msci/2026-006-red-sea-bab-el-mandeb-strait-gulf-aden-arabian-sea-and-somali-basin-houthi-attacks",
+       "sentence": "The US Maritime Administration's active advisory covers Houthi attacks on commercial vessels across the Red Sea, Bab el-Mandeb Strait, Gulf of Aden and Arabian Sea, per MARAD."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Apple's foldable iPhone Duo is real",
+       "url": "https://www.cnn.com/2026/09/09/business/live-news/apple-event-foldable-iphone-ternus",
+       "sentence": "Chief executive John Ternus revealed the company's first foldable, the iPhone Duo, at Wednesday's event, per CNN, and the stock rose 3.6 percent Thursday."},
+      {"title": "Four frontier labs shipped models in one week",
+       "url": "https://startupfortune.com/anthropic-openai-meta-and-google-all-shipped-new-ai-models-in-one-week/",
+       "sentence": "Anthropic's Fable 5.1, Meta's Muse Spark 1.3, Google's Gemini 3.8 Flash and OpenAI's GPT-6 Astra all arrived within days of each other in early September, a pace CNBC has dubbed model fatigue, per Startup Fortune."},
+      {"title": "OpenAI opens its Agents API to the public",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "OpenAI moved its Agents API into public beta on Thursday, exposing the managed harness behind Codex — sessions, orchestration and recovery — to outside developers, per AI Weekly's roundup."},
+      {"title": "Pentagon weighs a $5 billion Fluidstack loan",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "The Pentagon is in talks to lend roughly $5 billion to AI cloud provider Fluidstack to strengthen US data-center infrastructure, AI Weekly reports, citing Yahoo Finance."},
+      {"title": "California signs chatbot rules for minors",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "Governor Newsom signed legislation requiring chatbot time limits, mental-health resources and safety plans for minors, along with infinite-scroll limits for under-16 social feeds, AI Weekly reports, citing CalMatters."}
+    ]}
+  ]
+}
