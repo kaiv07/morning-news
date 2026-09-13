@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-13",
+  "headline": "Kai, the week bends toward Wednesday: a Fed set to hike into $100 oil, a 10-year at 4.96 percent, and bitcoin turned back at $80,000.",
+  "subline": "A near-forecast CPI steadied stocks into the decision, the Houthis took Mayun island at the Red Sea's mouth, and Sweden votes today with the far right within reach of government.",
+  "asof": "Sunday · markets closed · stocks, yields, gold and oil are Friday's close · bitcoin early Sunday via CoinDesk · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,656.98", "delta": "+0.9%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,333.04", "delta": "+1.0%", "dir": "up"},
+    {"label": "Dow", "value": "52,573.29", "delta": "+1.0%", "dir": "up"},
+    {"label": "10-yr Treasury", "value": "4.96%", "delta": "—", "dir": "flat"},
+    {"label": "Gold", "value": "$4,389.70", "delta": "−0.4%", "dir": "down"},
+    {"label": "WTI crude", "value": "$100.13", "delta": "−2.3%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$77,266", "delta": "−0.02% (24h)", "dir": "flat"}
+  ],
+  "history": {"spx": 7656.98, "y10": 4.96, "btc": 77265.94},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The Fed decides Wednesday; a hike is the base case",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fomc-september-2026-odds-rate-201618784.html",
+          "sentence": "Chair Kevin Warsh's Jackson Hole message — summer's better inflation prints didn't prove the trend — moved Wednesday's hike odds from a long shot to roughly even or better across CME, Kalshi and Polymarket, per Yahoo Finance."
+        },
+        {
+          "title": "Stocks enter the week off a 0.9 percent rebound",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-9112026-136375931",
+          "sentence": "Friday's rise to 7,656.98 on the S&P clawed back much of the week's losses once oil eased and August CPI landed close to forecasts, per the AP's wrap — the last full session before the decision."
+        },
+        {
+          "title": "Yields: tens 4.96, twos 4.63, mortgages steady",
+          "url": "https://www.advisorperspectives.com/dshort/updates/2026/09/11/treasury-yields-snapshot-september-11-2026",
+          "sentence": "Advisor Perspectives' weekly snapshot has the 10-year finishing at 4.96 percent and the 2-year at 4.63, while Freddie Mac's 30-year mortgage held at 6.76 percent for a second week."
+        },
+        {
+          "title": "Friday under the hood: VIX sinks to 15.84",
+          "url": "https://stockmarketwatch.com/digest/2026-09-11",
+          "sentence": "StockMarketWatch's Friday digest shows the fear gauge down 11 percent to 15.84, gold easing 0.4 percent to $4,389.70 by its count, and WTI settling at $100.13, off 2.3 percent on the day."
+        },
+        {
+          "title": "Bitcoin's run at $80,000 fails into Fed week",
+          "url": "https://usethebitcoin.com/bitcoin/bitcoin-price-september-13-2026/",
+          "sentence": "Bitcoin touched $79,890 Saturday before fading back toward $77,000, a stall UseTheBitcoin ties to Fed-hike odds near 87 percent, Tuesday's CLARITY Act vote, and a fourth straight day of ETF outflows through Friday."
+        },
+        {
+          "title": "Spot check: $77,266, flat over 24 hours",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk lists bitcoin at $77,266 early Sunday, off 0.02 percent over 24 hours, which for bitcoin counts as parked."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Houthis seize Mayun island at the Red Sea's gate",
+          "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+          "sentence": "The Iran-backed group seized Mayun island in the Bab el-Mandeb strait — the passage carrying about 12 percent of world trade — and says shipping is safe for everyone but Saudi vessels, per NPR."
+        },
+        {
+          "title": "BRICS declaration urges 'maximum restraint' in the Mideast",
+          "url": "https://www.usnews.com/news/world/articles/2026-09-12/brics-adopts-joint-declaration-urges-maximum-restraint-in-mideast",
+          "sentence": "Leaders meeting in India, Putin and Xi among them, adopted a joint declaration pressing for 'maximum restraint' in the Mideast, per U.S. News."
+        },
+        {
+          "title": "Sweden votes with the far right near power",
+          "url": "https://www.timesofisrael.com/liveblog-september-13-2026/",
+          "sentence": "Polls opened Sunday in a general election that could put the far right in government for the first time, per The Times of Israel's live coverage."
+        },
+        {
+          "title": "Aoun visits Lebanon's south, vows Israeli withdrawal",
+          "url": "https://www.washingtontimes.com/news/2026/sep/12/president-joseph-aoun-lebanon-makes-rare-visit-nabatiyeh-amid-fears/",
+          "sentence": "President Joseph Aoun paid a rare visit to the southern city of Nabatiyeh as fears of new Israeli attacks grow, per the Washington Times."
+        },
+        {
+          "title": "The oil story behind Fed week: tit-for-tat strikes",
+          "url": "https://www.cnbc.com/2026/09/09/oil-prices-today-wti-brent-us-iran-hormuz-attacks.html",
+          "sentence": "U.S.–Iran exchanges and attacks around Hormuz stoked the supply worries that pushed Brent past $100 last week, per CNBC — the shock sitting under Wednesday's decision."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI hints at a second Millennium Prize result",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
+          "sentence": "Days after the 10,000-agent Navier–Stokes result, OpenAI claims 'substantial progress' on another Millennium Prize problem — rumored to be the Hodge conjecture — per The Neuron."
+        },
+        {
+          "title": "DOJ probes Nvidia's $20 billion Groq deal",
+          "url": "https://www.axios.com/2026/09/10/doj-nvidia-groq-antitrust",
+          "sentence": "The Justice Department is investigating whether the chipmaker's $20 billion licensing arrangement with Groq was structured to avoid merger review, per Axios."
+        },
+        {
+          "title": "SoftBank negotiates majority stake in 1X at $6 billion",
+          "url": "https://www.theinformation.com/articles/softbank-talks-buy-majority-stake-humanoid-maker-1x-6-billion-valuation",
+          "sentence": "The Information reports talks for a majority stake in the OpenAI-backed humanoid maker at roughly $6 billion, well below the $10 billion 1X sought last fall."
+        },
+        {
+          "title": "Universal and ElevenLabs strike an artist remix deal",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-september-10-2026/",
+          "sentence": "Universal Music and ElevenLabs agreed to a multi-year remix platform in which artists opt in to licensed AI versions of their work, per The Neuron."
+        },
+        {
+          "title": "Anthropic plans its first India office",
+          "url": "https://seekingalpha.com/news/4502538-anthropic-to-open-first-india-office-in-2026-as-ai-battle-heats-up-reuters",
+          "sentence": "Reuters reports the company will open its first India office in 2026 as the competition for that market heats up, per Seeking Alpha's summary."
+        }
+      ]
+    }
+  ]
+}
