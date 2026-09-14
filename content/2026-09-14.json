@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-14",
+  "headline": "Kai, Amodei and Altman asked the AI race to slow down, and the market spent the night deciding they might mean it.",
+  "subline": "Nasdaq futures are off 1.7 percent on the pacing call, Brent topped $108 with Saudi Arabia's Hormuz-bypass pipeline shut, and Wednesday's Fed decision carries an 86 percent-priced hike.",
+  "asof": "Pre-market · as of 6:40 AM ET · index values are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P futs", "value": "7,607.25", "delta": "−0.7%", "dir": "down"},
+    {"label": "Nasdaq futs", "value": "28,901.75", "delta": "−1.7%", "dir": "down"},
+    {"label": "Dow futs", "value": "52,880.00", "delta": "−0.2%", "dir": "down"},
+    {"label": "10-yr Treasury", "value": "4.96%", "delta": "−0.01 pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,353.80", "delta": "−1.3%", "dir": "down"},
+    {"label": "WTI crude", "value": "$103.29", "delta": "+3.2%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$77,654", "delta": "+1.1%", "dir": "up"}
+  ],
+  "history": {"spx": 7656.98, "y10": 4.96, "btc": 77653.81},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The Fed meets tomorrow with a hike priced in",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
+          "sentence": "The FOMC gathers Tuesday and Wednesday with traders putting 86 percent odds on a rate hike after Friday's hot core CPI, per Yahoo Finance's live coverage of CME FedWatch data."
+        },
+        {
+          "title": "Quiet Monday, then retail sales and the Fed",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262165022-week-ahead-fomc-rate-decision-dot-plot-ctrip-lennar-earnings-tradingkey",
+          "sentence": "Today's U.S. calendar is nearly bare; Empire State manufacturing lands Tuesday, August retail sales hit Wednesday at 8:30 a.m. before the 2 p.m. decision and Chair Warsh's press conference, and Lennar reports Wednesday after the close, per TradingKey."
+        },
+        {
+          "title": "Brent tops $108 with the Hormuz bypass shut",
+          "url": "https://www.euronews.com/business/2026/09/14/oil-surges-past-107-as-hormuz-attack-and-saudi-pipeline-shutdown-rattle-markets",
+          "sentence": "Brent gained more than 3 percent to trade above $108 after drone attacks kept Saudi Arabia's East-West pipeline — the main route around the strait — closed, with Hormuz crude flows down from roughly 20 million barrels a day before the war to about 7 million, per Euronews."
+        },
+        {
+          "title": "The 10-year holds at 4.96, five in sight",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "The 10-year yield eased 0.01 percentage points to 4.96 percent on Monday, leaving the 5 percent line within reach going into the decision, per Trading Economics."
+        },
+        {
+          "title": "Bitcoin firms to $77,700 into a hike week",
+          "url": "https://www.riotimesonline.com/crypto-markets-bitcoin-majors-monday-september-14-2026/",
+          "sentence": "Bitcoin trades near $77,700 Monday morning, up about 1 percent and still above $75,000 even after U.S. spot ETFs shed $462.7 million over the four sessions to Friday as hike odds firmed, per The Rio Times and Yahoo Finance."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Cargo ship struck near Qeshm; one crew dead",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
+          "sentence": "An Iranian cargo vessel was hit near Qeshm Island in the Strait of Hormuz on Sunday, killing one crew member and wounding four, per Iranian state media cited by CBS News."
+        },
+        {
+          "title": "Houthis complete control of the Bab el-Mandeb coast",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
+          "sentence": "The group captured Yemen's remaining Red Sea coastline and strategic islands at the strait's mouth late last week, with at least 46,000 people fleeing the fighting, per CBS News."
+        },
+        {
+          "title": "Sweden's centre-left leads; far right loses ground",
+          "url": "https://www.euronews.com/my-europe/2026/09/13/sweden-votes-in-tight-election-as-far-right-eyes-historic-breakthrough",
+          "sentence": "Preliminary counts from Sunday's general election put the left-wing opposition bloc narrowly ahead as the Sweden Democrats slipped, with the final result still too close to call, per Euronews."
+        },
+        {
+          "title": "US diesel hits a record $6.05 a gallon",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-diesel-price-record-houthis-red-sea/",
+          "sentence": "The national average reached $6.05 on Friday, up 60 percent from $3.71 a year earlier as the war chokes fuel supply, per CBS News."
+        },
+        {
+          "title": "Trump says the war could end 'around the midterms'",
+          "url": "https://www.iranintl.com/en/liveblog/202609121588",
+          "sentence": "The president predicted the Iran war winds down around November's midterms and said Tehran is pressing for a deal, per Iran International's live blog."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Amodei: 'We must slow' AI; Altman, Musk agree",
+          "url": "https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing",
+          "sentence": "Anthropic's CEO wrote that 'we must slow the pace at which we improve the capabilities of AI models,' Sam Altman answered that 'we need to pace the frontier,' and Elon Musk posted 'Dario is right,' per Axios."
+        },
+        {
+          "title": "Chip stocks slide as the pacing call lands",
+          "url": "https://www.tradingview.com/news/invezz:6e8473364094b:0-why-is-the-ai-chip-trade-cracking-nvidia-amd-and-intel-slide-premarket/",
+          "sentence": "Nvidia slipped more than 2 percent in premarket trading with AMD, Intel and Marvell off as much as 4.8 percent, a retreat Invezz pins on the slowdown talk plus near-5-percent long yields."
+        },
+        {
+          "title": "Cohere's Gomez: pacing body is 'a cartel'",
+          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
+          "sentence": "In an essay on Cohere's blog, Aidan Gomez called the industry standards body Anthropic, OpenAI and Google are pushing 'a cartel by any other name.'"
+        },
+        {
+          "title": "Beijing names frontier models a strategic-rivalry risk",
+          "url": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry",
+          "sentence": "State Security Minister Chen Yixin warned that frontier systems such as Claude Mythos and GPT-5.5-Cyber lower the barrier to cyberattacks, calling AI a 'new arena for strategic rivalry,' per the South China Morning Post."
+        },
+        {
+          "title": "Anthropic tied to Rum Group's $13.7 billion deal",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "The Information identified Anthropic as the unnamed customer in Rum Group's $13.7 billion, six-year GPU compute agreement at a Georgia data center still under construction, per AI Weekly's roundup."
+        }
+      ]
+    }
+  ]
+}
