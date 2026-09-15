@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-15",
+  "headline": "Kai, the Fed opens its meeting this morning with a hike 93 percent priced, oil past $103, and the ten-year above five for the first time since 2007.",
+  "subline": "The decision comes Wednesday at 2 p.m. ET, Saudi Arabia's Hormuz-bypass pipeline is still shut, and Jensen Huang told Trump an AI slowdown is 'not going to happen.'",
+  "asof": "Pre-market · as of 6:45 AM ET · index values are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P futs", "value": "7,654.75", "delta": "−0.49%", "dir": "down"},
+    {"label": "Nasdaq futs", "value": "29,283.75", "delta": "−0.56%", "dir": "down"},
+    {"label": "Dow futs", "value": "52,516.00", "delta": "−0.65%", "dir": "down"},
+    {"label": "10-yr Treasury", "value": "5.02%", "delta": "+0.03 pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,311.90", "delta": "−0.92%", "dir": "down"},
+    {"label": "WTI crude", "value": "$103.55", "delta": "+2.13%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$76,826", "delta": "−1.13%", "dir": "down"}
+  ],
+  "history": {"spx": 7619.95, "y10": 5.02, "btc": 76826.40},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The Fed convenes with a hike 93 percent priced",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
+          "sentence": "The FOMC opens its two-day meeting today and announces at 2 p.m. ET Wednesday, with CME FedWatch putting 93 percent odds on a quarter-point rise to a 3.75–4.00 percent range after August's hotter-than-expected CPI, per Kiplinger."
+        },
+        {
+          "title": "The ten-year touches 5.03, highest since 2007",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "The 10-year yield reached 5.03 percent early Tuesday, a level last seen in July 2007, as surging energy prices and rate-hike expectations extended the global bond selloff, per Trading Economics."
+        },
+        {
+          "title": "WTI tops $103 with the pipeline still shut",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-15-dow-sp-500-nasdaq-081307838.html",
+          "sentence": "WTI crude rose 2.13 percent pre-market to $103.55 as Saudi Arabia's East-West pipeline stayed closed after drone attacks, a disruption that could affect as much as 4 percent of global oil supply, per Yahoo Finance."
+        },
+        {
+          "title": "Chips dragged Monday's close; CrowdStrike jumped 10 percent",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-14-2026",
+          "sentence": "The S&P 500 closed Monday down 0.48 percent at 7,619.95 with the VanEck Semiconductor ETF off 4 percent on the AI-pacing debate, while CrowdStrike gained 10.45 percent and Palo Alto Networks 8.97 percent, per TheStreet."
+        },
+        {
+          "title": "Bitcoin at $76,800: soft night, strong month",
+          "url": "https://fortune.com/article/price-of-bitcoin-09-14-2026/",
+          "sentence": "Bitcoin slipped 1.13 percent overnight to $76,826, but it has gained 22.5 percent over the past month and still sits well below its October 2025 record of $126,198, per Fortune and Yahoo Finance."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Russian drone hits train that carried Petraeus",
+          "url": "https://www.justsecurity.org/157154/early-edition-september-14-2026/",
+          "sentence": "A Russian drone struck an evacuated passenger train near the Polish border — former CIA director David Petraeus had been aboard — and Germany's defense minister called it a 'calculated escalation,' per Just Security's roundup."
+        },
+        {
+          "title": "Houthis seize Hanish Islands, tightening Bab el-Mandeb grip",
+          "url": "https://www.euronews.com/2026/09/14/houthis-capture-more-yemeni-red-sea-islands-tightening-grip-on-bab-el-mandeb",
+          "sentence": "The group took the Greater and Lesser Hanish islands along with Mokha and Perim after government forces withdrew, with roughly 150 civilians killed and 80,000 displaced since fighting resumed September 3, per Euronews."
+        },
+        {
+          "title": "Riyadh blames Iraq-launched drones, withholds retaliation",
+          "url": "https://www.newsweek.com/saudi-arabias-east-west-oil-pipeline-hit-by-houthis-photos-appear-to-show-12430311",
+          "sentence": "Saudi Arabia said the drones that hit its East-West pipeline flew in from Iraq and called the shutdown precautionary while Baghdad investigates, after Crown Prince Mohammed bin Salman twice asked Trump for strikes on the Houthis and was declined, per Newsweek."
+        },
+        {
+          "title": "Second judge blocks Trump's mail-ballot order",
+          "url": "https://www.justsecurity.org/157154/early-edition-september-14-2026/",
+          "sentence": "A second federal judge barred the Postal Service from implementing the executive order restricting mail-in voting, and a separate ruling found DHS unlawfully cut FEMA's workforce in half, per Just Security's roundup."
+        },
+        {
+          "title": "Iran-Gulf talks postponed; Trump muses about the oil",
+          "url": "https://www.justsecurity.org/157154/early-edition-september-14-2026/",
+          "sentence": "A planned meeting between Iran and Gulf states was postponed indefinitely 'in the interests of consensus,' while Trump suggested the U.S. could stay in Iran, 'keep the oil,' and watch gasoline prices 'drop like a rock,' per Just Security's roundup."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Amodei's pacing essay keeps rattling chip stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/article/ai-stocks-get-drilled-because-of-anthropic-ceo-dario-amodeis-3800-word-warning-093637548.html",
+          "sentence": "The Anthropic chief's 3,800-word essay 'We Must Pace the Frontier,' which argues labs must 'slow the pace' of capability gains, drew public agreement from Sam Altman and helped send Marvell down 7 percent and Nvidia 3 percent Monday, per Yahoo Finance."
+        },
+        {
+          "title": "Huang tells Trump the slowdown will not happen",
+          "url": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "sentence": "Nvidia's chief executive took a call from the president Monday and told him 'we're not going to let it happen,' staking out the industry's counterposition a day after the pacing essay landed, per TechCrunch."
+        },
+        {
+          "title": "OpenAI reportedly buys Glass Imaging for $300 million",
+          "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "sentence": "The reported acquisition of the smartphone-camera company extends OpenAI's push into consumer hardware, per TechCrunch."
+        },
+        {
+          "title": "Microsoft gives its models a code of conduct",
+          "url": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+          "sentence": "The company published rules instructing its AI models not to hack systems or trick humans, per TechCrunch."
+        },
+        {
+          "title": "Anthropic flags Iran-linked misuse of Claude",
+          "url": "https://www.justsecurity.org/157154/early-edition-september-14-2026/",
+          "sentence": "Anthropic's latest threat report documented an Iran-linked operation that used Claude to target U.S. naval forces, per Just Security's roundup."
+        }
+      ]
+    }
+  ]
+}
