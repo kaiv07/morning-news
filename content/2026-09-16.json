@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-16",
+  "headline": "Kai, unless ninety-three percent of the market is wrong, the Fed raises rates this afternoon for the first time since July 2023.",
+  "subline": "The quarter-point move to 3.75–4.00 percent lands at 2 p.m. ET, August retail sales hit at 8:30, and oil holds above $100 with the ten-year parked at five.",
+  "asof": "Pre-market · as of 6:50 AM ET · index strip shows Tuesday's close, futures flat-to-higher pre-dawn · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,600.12", "delta": "−0.45%", "dir": "down"},
+    {"label": "Nasdaq 100", "value": "29,056.80", "delta": "−0.65%", "dir": "down"},
+    {"label": "Dow", "value": "52,139.92", "delta": "−0.63%", "dir": "down"},
+    {"label": "10-yr Treasury", "value": "4.99%", "delta": "−0.01 pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,340.11", "delta": "+1.11%", "dir": "up"},
+    {"label": "Brent crude", "value": "$107.67", "delta": "−0.99%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$75,844", "delta": "−2.2%", "dir": "down"}
+  ],
+  "history": {"spx": 7600.12, "y10": 4.99, "btc": 75844},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "A quarter-point hike, 93 percent priced, lands today",
+          "url": "https://www.kiplinger.com/investing/live/fed-meeting-updates-and-commentary-september-2026",
+          "sentence": "Markets put roughly 93 percent odds on a quarter-point rise to a 3.75–4.00 percent range at 2 p.m. ET — the first increase since July 2023 — with new chair Kevin Warsh's own posture the day's remaining question mark, per Kiplinger's live blog."
+        },
+        {
+          "title": "Ten-year pauses near five after five-session climb",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "The 10-year yield eased to 4.99 percent this morning after five straight rising sessions carried it to levels last seen in July 2007, per Trading Economics."
+        },
+        {
+          "title": "Rates squeezed the hyperscalers into Tuesday's close",
+          "url": "https://tradingeconomics.com/united-states/stock-market",
+          "sentence": "The S&P 500 fell 0.45 percent Tuesday to 7,600.12 — the Dow lost 0.63 percent and the Nasdaq 100 0.65 percent — with credit-sensitive AI names hit hardest as borrowing costs rose, Oracle down 3.1 percent and Amazon 2 percent, per Trading Economics."
+        },
+        {
+          "title": "Oil backs off on a surprise inventory build",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+          "sentence": "Brent slipped 0.99 percent to $107.67 and WTI 1.75 percent to $103.97 after U.S. crude stockpiles rose 7.14 million barrels against expected draws — even with Saudi Arabia's East-West pipeline still shut and Libya idling two oilfields, per Trading Economics."
+        },
+        {
+          "title": "Gold reclaims $4,300 ahead of the decision",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Gold rose 1.11 percent to $4,340.11 as momentum in oil and bond yields faded ahead of the Fed and other central-bank decisions this week, per Trading Economics."
+        },
+        {
+          "title": "Clarity Act dies 49–50; bitcoin holds the mid-$75,000s",
+          "url": "https://www.coindesk.com/policy/2026/09/15/crypto-clarity-act-flames-out-in-failed-u-s-senate-vote",
+          "sentence": "The Senate's crypto market-structure bill fell 49–50 on Tuesday's cloture vote, short of even a simple majority, triggering roughly $570 million in long liquidations, per CoinDesk. Bitcoin, which traded near $80,000 before the vote, sits at $75,844 this morning — down 2.2 percent over 24 hours, per CoinDesk's price tracker."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "House votes to end the Iran war",
+          "url": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour",
+          "sentence": "Seven Republicans joined Democrats as the House passed a resolution directing an end to U.S. hostilities with Iran, a bipartisan rebuke as casualties mount, per Al Jazeera."
+        },
+        {
+          "title": "Iran's top diplomat heads to Beijing",
+          "url": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing",
+          "sentence": "Tehran is testing diplomatic paths as its foreign minister travels to China, raising the question of whether Beijing can broker an end to the war, per Al Jazeera."
+        },
+        {
+          "title": "NATO jet downs Russian drone over Lithuania",
+          "url": "https://www.aljazeera.com/news/2026/9/15/nato-jet-shoots-down-suspected-russian-drone-over-lithuania",
+          "sentence": "A NATO jet shot down a suspected Russian drone over Lithuania as the EU chief warned border incursions risk a wider conflict, per Al Jazeera."
+        },
+        {
+          "title": "US plans $2.8bn bomb sale to Israel",
+          "url": "https://www.aljazeera.com/news/2026/9/16/trump-administration-plans-2-8bn-sale-of-2000-pound-bombs-to-israel",
+          "sentence": "The Trump administration plans a $2.8 billion sale of 2,000-pound bombs to Israel, signaling continued military support amid the regional war, per Al Jazeera."
+        },
+        {
+          "title": "Gaza building collapse kills at least 16",
+          "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped",
+          "sentence": "A residential building collapsed in Gaza with six families reportedly trapped beneath the rubble, killing at least 16 as rescue crews dig for survivors, per Al Jazeera."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Three rival labs coordinate on AI safety",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "sentence": "OpenAI, Anthropic and Google DeepMind have spent weeks discussing shared safety measures — embedding third-party evaluators and possibly an industry standards body — even as some flag antitrust risk in the coordination, per TechCrunch."
+        },
+        {
+          "title": "SK Hynix talks with Intel lift both stocks",
+          "url": "https://www.tradingview.com/news/stocktwits:1df81e446094b:0-why-are-nasdaq-futures-rising-premarket-intc-skhy-orcl-spcx-asts-crcl-coin-stocks-in-focus/",
+          "sentence": "SK Hynix is reportedly in talks with Intel about manufacturing memory chips in the U.S. for the first time, sending Intel up more than 3 percent pre-market, per Stocktwits."
+        },
+        {
+          "title": "Nvidia's Rubin doubles Blackwell in early testing",
+          "url": "https://aiweekly.co/ai-news-today/edition/2026-09-15",
+          "sentence": "SemiAnalysis pre-release testing has the Rubin NVL72 delivering 2.1 times Blackwell's throughput at 100 tokens per second, per AI Weekly's daily brief."
+        },
+        {
+          "title": "AI agents breach 395 organizations in 48 hours",
+          "url": "https://aiweekly.co/ai-news-today/edition/2026-09-15",
+          "sentence": "AI agents exploited two PaperCut flaws to compromise 395 organizations across 48 countries within 48 hours — 11 breaches came in 26 seconds — per AI Weekly's daily brief."
+        },
+        {
+          "title": "Starship Flight 14 targets first orbit September 22",
+          "url": "https://www.tradingview.com/news/stocktwits:1df81e446094b:0-why-are-nasdaq-futures-rising-premarket-intc-skhy-orcl-spcx-asts-crcl-coin-stocks-in-focus/",
+          "sentence": "SpaceX is targeting September 22 for Starship's fourteenth flight, its first attempt to reach orbit, pending regulatory approval, per Stocktwits."
+        }
+      ]
+    }
+  ]
+}
