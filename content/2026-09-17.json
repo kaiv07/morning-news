@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-17",
+  "headline": "Kai, the Fed's first hike since 2023 is on the books, and futures spent the night deciding they can live with it.",
+  "subline": "A quarter point to 3.75–4.00 percent with more signaled, Wednesday's 631-point Dow drop meeting firmer futures, and Brent easing as the Saudis patch their pipeline.",
+  "asof": "Pre-market · as of 6:50 AM ET · index rows show Wednesday's close, S&P futures +0.7% pre-dawn; gold, Brent and bitcoin are morning quotes · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,551.81", "delta": "−0.45%", "dir": "down"},
+    {"label": "Nasdaq Comp.", "value": "25,978.42", "delta": "−0.01%", "dir": "flat"},
+    {"label": "Dow", "value": "51,461.90", "delta": "−1.21%", "dir": "down"},
+    {"label": "10-yr Treasury", "value": "5.02%", "delta": "+0.03 pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,307.57", "delta": "+1.03%", "dir": "up"},
+    {"label": "Brent crude", "value": "$104.59", "delta": "−1.17%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$76,025", "delta": "−1.24%", "dir": "down"}
+  ],
+  "history": {"spx": 7551.81, "y10": 5.02, "btc": 76025},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "First hike since 2023: a quarter point, more signaled",
+          "url": "https://www.cnbc.com/2026/09/16/fed-meeting-today-live-updates.html",
+          "sentence": "The Fed raised its target range a quarter point Wednesday to 3.75–4.00 percent — its first increase since 2023 — and chair Kevin Warsh said inflation is still too high, per CNBC."
+        },
+        {
+          "title": "Futures firm into claims, housing starts and the BoE",
+          "url": "https://www.aol.com/articles/stock-market-today-dow-p-081248000.html",
+          "sentence": "S&P 500 futures rose 0.7 percent overnight as Warsh's hawkish tone read as resolve on inflation rather than alarm, with jobless claims, August housing starts and a Bank of England decision still ahead today, per Yahoo Finance."
+        },
+        {
+          "title": "Wednesday's bill: Dow off 631, S&P down 0.45",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/09/16/stock-market-today-sept-16-stocks-slip-as-fed-raises-rates/",
+          "sentence": "Wednesday's damage landed mostly on blue chips — the Dow fell 631 points to 51,461.90 and the S&P 500 lost 0.45 percent to 7,551.81, while the Nasdaq closed essentially flat, per The Motley Fool."
+        },
+        {
+          "title": "Gold reclaims $4,300 as an inflation input cools",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Gold rose 1.03 percent to $4,307.57 this morning, back above $4,300 as easing oil prices took some pressure off the inflation picture, per Trading Economics."
+        },
+        {
+          "title": "Brent eases as Saudi pipeline repairs advance",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+          "sentence": "Brent slipped 1.17 percent to $104.59, a second straight decline, after reports that Saudi Arabia will restore roughly half of the East-West pipeline's capacity within days, per Trading Economics."
+        },
+        {
+          "title": "Bitcoin takes the hike near $76,000",
+          "url": "https://www.forbes.com/advisor/investing/cryptocurrency/bitcoin-price-today/",
+          "sentence": "Bitcoin trades at $76,025 this morning, down 1.24 percent over 24 hours — a contained move through the first Fed hike since 2023, per Forbes Advisor."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump: Iran war 'toward the end,' spoke with Tehran",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on",
+          "sentence": "Trump said the war with Iran is 'toward the end' and claimed he has spoken directly with Tehran, the clearest de-escalation talk as the conflict passes day 201, per Al Jazeera's live coverage."
+        },
+        {
+          "title": "Seven quiet days; 103 ships turned from Hormuz",
+          "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+          "sentence": "Iran has gone seven days without striking a regional state — its longest pause since August 28 — while CENTCOM's Hormuz blockade tally reached 103 redirected commercial vessels, per GlobalSecurity's daily report."
+        },
+        {
+          "title": "EU invites Canada to be first 'associate member'",
+          "url": "https://www.npr.org/2026/09/16/nx-s1-5971043/eu-canada-carney-tariffs-trump",
+          "sentence": "The EU invited Canada to become its first 'associate member,' a novel arrangement Brussels rolled out as Trump's tariffs push Ottawa toward Europe, per NPR."
+        },
+        {
+          "title": "Coalition downs Houthi drone headed for Mecca",
+          "url": "https://www.aljazeera.com/news/2026/9/16/saudi-led-coalition-intercepts-drone-headed-for-mecca",
+          "sentence": "A Saudi-led coalition intercepted a Houthi drone headed for Mecca, the first attempted strike on the holy city since July 2017, per Al Jazeera."
+        },
+        {
+          "title": "WHO: DR Congo Ebola fight 'far from over'",
+          "url": "https://www.aljazeera.com/news/2026/9/16/ebola-fight-in-drc-far-from-over-warns-who-chief",
+          "sentence": "The WHO chief warned that the Ebola outbreak in DR Congo is 'far from over,' a reminder the year's other emergencies continue outside the war headlines, per Al Jazeera."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Amazon hands Generac an $8 billion power order",
+          "url": "https://stocktwits.com/news-articles/markets/equity/this-energy-solutions-stock-surged-40-percent-after-hours-whats-the-amzn-connection/cZtYHa8RBPs",
+          "sentence": "Generac surged 40 percent after hours on an Amazon deal worth up to $8 billion for backup generators at AI data centers — the power bottleneck, now with a price tag, per Stocktwits."
+        },
+        {
+          "title": "Huawei sets 2027 chips squarely at Nvidia",
+          "url": "https://www.brecorder.com/news/40439916/chinas-huawei-to-launch-two-new-ai-chips-in-2027",
+          "sentence": "Huawei will launch two new AI chips in 2027, an explicit run at Nvidia's dominance in training silicon, per Reuters."
+        },
+        {
+          "title": "Snap ships $2,195 Specs with built-in assistant",
+          "url": "https://finance.yahoo.com/technology/article/snap-launches-2195-specs-smart-glasses-234000058.html",
+          "sentence": "Snap launched its $2,195 Specs AR glasses, pairing the hardware with an on-device assistant it calls Specs Intelligence, per Yahoo Finance."
+        },
+        {
+          "title": "Nebius raises GPU prices again; stock jumps",
+          "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-rebound-after-fed-rate-hike-nvda-nbis-snap-spcx-be-gnrc-stocks-in-focus/cZtr1S2RB51",
+          "sentence": "Nebius announced a second price increase for on-demand Nvidia GPU compute effective October 1, sending the stock up 8 percent in early trading, per Stocktwits."
+        },
+        {
+          "title": "Gemini 3.8 speaks while it reasons",
+          "url": "https://aiweekly.co/ai-news-today/edition/2026-09-16",
+          "sentence": "Google released Gemini 3.8 voice models that talk while reasoning through tasks and running tools, scoring 82.6 on Artificial Analysis' speech-to-speech index, per AI Weekly's daily brief."
+        }
+      ]
+    }
+  ]
+}
