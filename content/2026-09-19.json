@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-19",
+  "headline": "Kai, the first rate hike in three years is on the books, the 10-year sits at 5 percent, and the market's verdict was a shrug.",
+  "subline": "Warsh signals one more hike this year, Brent eases to $103.87 as Aramco reroutes around its damaged pipeline, and bitcoin is back above $80,000.",
+  "asof": "Weekend edition · as of ~6:40 AM ET Saturday, Sep 19 · stocks, yields and commodities are Friday's close; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,650.50", "delta": "+0.17%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,522.55", "delta": "+0.39%", "dir": "up"},
+    {"label": "Dow", "value": "51,682.64", "delta": "−0.18%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.00%", "delta": "+5.3 bp wk", "dir": "up"},
+    {"label": "Gold", "value": "$4,421.30", "delta": "+0.49%", "dir": "up"},
+    {"label": "Brent crude", "value": "$103.87", "delta": "−0.91%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$81,247.25", "delta": "+3.88%", "dir": "up"}
+  ],
+  "history": {"spx": 7650.50, "y10": 5.00, "btc": 81247.25},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Stocks close out hike week without damage",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-18-2026",
+          "sentence": "The S&P 500 added 0.17 percent Friday to 7,650.50 and the Nasdaq 0.39 percent to 26,522.55, while the 10-year yield finished the Fed's hike week at 5.00 percent, up 5.3 basis points, per TheStreet."
+        },
+        {
+          "title": "Warsh's Fed pencils in one more hike",
+          "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+          "sentence": "Wednesday's quarter-point move to 3.75–4.00 percent came with August inflation at 3.4 percent, and projections show one more increase this year and none in 2027, per NPR."
+        },
+        {
+          "title": "Brent slips to $103.87 as Aramco reroutes",
+          "url": "https://tradingeconomics.com/commodity/brent-crude-oil",
+          "sentence": "Brent fell 0.91 percent Friday and 1.2 percent on the week as Saudi Arabia pushed 2.8 million barrels a day through Hormuz — versus 700,000 in August — and Aramco signaled half the damaged pipeline's flows will return, per Trading Economics."
+        },
+        {
+          "title": "Bitcoin reclaims $80,000 as hike nerves fade",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "Bitcoin trades at $81,247.25 early Saturday, up 3.88 percent in 24 hours on more than $180 million in short liquidations — a sharp rebound off the sub-$78,000 levels that followed the Fed's hike, per CoinDesk."
+        },
+        {
+          "title": "Next week: flash PMIs, Costco, $192B in auctions",
+          "url": "https://investrade.com/weekly-event-calendar-09-21-2026-09-25-2026/",
+          "sentence": "S&P Global flash PMIs land Wednesday, new home sales and Costco's report come Thursday, durable goods and final Michigan sentiment close the week, and the Treasury sells $78B in 2-year, $70B in 5-year and $44B in 7-year notes, per Investrade's calendar."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran fire pause reaches nine days",
+          "url": "https://www.globalsecurity.org/military/ops/iran-war-oprep.htm",
+          "sentence": "Tehran has held its fire for nine straight days and the coalition has gone eleven without strikes on Iranian territory, the quietest stretch since spring, per GlobalSecurity's day-203 report."
+        },
+        {
+          "title": "CBO calls the war inflation's main engine",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5974236/the-news-roundup-for-september-18-2026",
+          "sentence": "A Congressional Budget Office report identified the Iran conflict as the primary driver of the inflation still working through American households, per NPR's weekly roundup."
+        },
+        {
+          "title": "Houthis tighten grip on Bab el-Mandeb",
+          "url": "https://www.euronews.com/2026/09/14/houthis-capture-more-yemeni-red-sea-islands-tightening-grip-on-bab-el-mandeb",
+          "sentence": "After seizing the port of Mokha, Houthi forces captured more Red Sea islands commanding the strait that carries much of the world's seaborne trade, per Euronews."
+        },
+        {
+          "title": "Supreme Court blocks mail-ballot order",
+          "url": "https://www.votebeat.org/national/2026/09/15/trump-mail-voting-executive-order-supreme-court-decision-2026-election/",
+          "sentence": "The justices declined to let the administration enforce its executive order restricting mail-in voting ahead of the midterms, per Votebeat."
+        },
+        {
+          "title": "US approves $2.8 billion arms package for Israel",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5974236/the-news-roundup-for-september-18-2026",
+          "sentence": "The package features 2,000-pound bombs in the largest recent sale of that munition, per NPR's weekly roundup."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Frontier labs sketch a private AI watchdog",
+          "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "sentence": "OpenAI, Anthropic and Google have spent weeks discussing a standards body that would screen the most advanced models and coordinate slowdowns if dangers emerge — over open White House skepticism, per TechCrunch."
+        },
+        {
+          "title": "Unredacted filings sharpen the Times's case",
+          "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+          "sentence": "A Microsoft director privately called AI data scraping 'the largest theft of labor in human history,' and Microsoft's own data showed Copilot answers cutting click-throughs to the Times by up to 93 percent, per TechCrunch."
+        },
+        {
+          "title": "SEC opens a lane for tokenized stocks",
+          "url": "https://www.sec.gov/newsroom/press-releases/2026-90-sec-issues-innovation-exemption-facilitate-trading-tokenized-nms-stock-request-comment",
+          "sentence": "Thursday's 'Innovation Exemption' creates a regulated path for trading tokenized versions of US-listed stocks, per the SEC, and Coinbase and Robinhood rose 6.55 and 5.94 percent Friday on the news, per TheStreet."
+        },
+        {
+          "title": "Claude now does a quarter of Anthropic's R&D",
+          "url": "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/",
+          "sentence": "Anthropic says Claude completed roughly 26 percent of its research and engineering work by August — up from about zero in February — with some 30,000 agents on the job, per TechStartups' roundup."
+        },
+        {
+          "title": "Huang sees Nvidia chip sales doubling in 2027",
+          "url": "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/",
+          "sentence": "Fresh off a $96.2 billion quarter that grew 106 percent year over year, Nvidia's CEO projects the company will sell twice as many chips in 2027 as in 2026, per TechStartups' roundup."
+        }
+      ]
+    }
+  ]
+}
