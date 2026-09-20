@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-20",
+  "headline": "Kai, Iran has sent Washington its price for ending the war — through Doha, the same weekend a missile flew at Riyadh.",
+  "subline": "Tehran floats terms as its proxies test Saudi defenses; the Treasury tests a 5 percent 10-year with three auctions this week; Buffett hands Berkshire's chair to his son.",
+  "asof": "Weekend edition · as of ~6:40 AM ET Sunday, Sep 20 · stocks, yields and commodities are Friday's close; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,650.50", "delta": "+0.17%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,522.55", "delta": "+0.39%", "dir": "up"},
+    {"label": "Dow", "value": "51,682.64", "delta": "−0.18%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.01%", "delta": "+5 bp wk", "dir": "up"},
+    {"label": "Gold", "value": "$4,424.90", "delta": "+0.57%", "dir": "up"},
+    {"label": "WTI crude", "value": "$96.08", "delta": "−1.18%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$80,326", "delta": "−1.04%", "dir": "down"}
+  ],
+  "history": {"spx": 7650.50, "y10": 5.01, "btc": 80326.35},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Treasury tests a 5 percent world this week",
+          "url": "https://ts2.tech/en/10-year-treasury-yield-closes-at-5-01-before-183-billion-auction-test/",
+          "sentence": "Two-, five- and seven-year note auctions run Tuesday through Thursday with the 10-year at 5.01 percent, and strategists split from here — ING eyes 5.25 percent next while TD Economics sees 4.70 by the fourth quarter, per TS2."
+        },
+        {
+          "title": "Hike week ends with a split tape",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-18-dow-sp-500-nasdaq-080504071.html",
+          "sentence": "The week of the Fed's first hike in three years closed with the S&P 500 at 7,650.50 and a slim weekly loss, the Nasdaq in the green at 26,522.55, and the Dow down more than 1.5 percent over the five days, per Yahoo Finance."
+        },
+        {
+          "title": "Buffett gives up the Berkshire chair",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973852/warren-buffett-steps-down",
+          "sentence": "Warren Buffett is stepping down as Berkshire Hathaway's chairman after more than five decades, with son Howard taking the role, per NPR."
+        },
+        {
+          "title": "Sentiment near a record low into data week",
+          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+          "sentence": "September's preliminary Michigan reading fell to 47.8, the second-lowest on record, and the week brings flash PMIs Wednesday, durable goods and the final sentiment cut Friday, plus no fewer than ten Fed speakers to explain one hike, per Kiplinger."
+        },
+        {
+          "title": "Bitcoin keeps $80,000 through the weekend",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "It trades at $80,326.35 early Sunday, down 1.04 percent over 24 hours on $9.74 billion of volume — still on the right side of $80,000, per CoinDesk."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran's terms for ending the war reach Washington",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa",
+          "sentence": "Iranian official Rezaei said conditions for ending the war were passed to the US through Doha, even as Trump extended sanctions on Iran and Houthi backers in Sanaa, per Al Jazeera's live coverage."
+        },
+        {
+          "title": "Saudis say Houthis aimed a missile at Riyadh",
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+          "sentence": "Saudi Arabia said Iran-backed Houthi rebels attempted a ballistic-missile strike on Riyadh, the first attack aimed at the capital since regional tensions escalated, per NPR."
+        },
+        {
+          "title": "US and Denmark cut a Greenland military deal",
+          "url": "https://www.npr.org/2026/09/19/g-s1-144158/us-and-denmark-reach-deal",
+          "sentence": "Trump announced an agreement with Copenhagen to expand the American military presence on the island, after months of talk about acquiring it outright, per NPR."
+        },
+        {
+          "title": "Russia stages its vote in occupied Ukraine",
+          "url": "https://www.npr.org/2026/09/19/g-s1-144169/russia-holds-parliamentary-vote-in-areas-it-seized-from-ukraine",
+          "sentence": "For the first time, Moscow ran its parliamentary election inside Ukrainian territories it illegally annexed after the 2022 invasion, per NPR."
+        },
+        {
+          "title": "CNN, MS NOW and Politico barred from White House",
+          "url": "https://www.npr.org/2026/09/19/nx-s1-5974854/trump-cnn-msnow-politico-ban",
+          "sentence": "Reporters from the three outlets were turned away from White House grounds after Trump announced a ban over coverage he labeled 'FICTION and LIES,' per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Trump orders up an 'AI Force' and a czar",
+          "url": "https://abcnews.com/Politics/trump-form-new-ai-force-continues-call-ai/story?id=136591343",
+          "sentence": "The president said he will form a new 'AI Force' and appoint an AI czar while continuing to call AI fears a 'hoax,' per ABC News."
+        },
+        {
+          "title": "Anthropic nears a $100 billion pace before its IPO",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+          "sentence": "Annualized revenue is on track to top $100 billion in 2026 ahead of a November listing, per Bloomberg, citing New York Times reporting."
+        },
+        {
+          "title": "Labels sue Suno again over 60,202 recordings",
+          "url": "https://thenextweb.com/news/universal-sony-second-lawsuit-suno-60202-recordings",
+          "sentence": "Universal and Sony filed a second copyright suit claiming Suno's new v6 model still rests on 60,202 of their recordings, per The Next Web."
+        },
+        {
+          "title": "Google ships CC, a household agent",
+          "url": "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/",
+          "sentence": "The Gemini-powered assistant manages schedules, documents and tasks for up to six family members on isolated cloud infrastructure, per TechStartups' roundup."
+        },
+        {
+          "title": "Meta told to pull two AI deepfakes",
+          "url": "https://techstartups.com/2026/09/18/top-tech-news-today-september-18-2026-anthropic-google-meta-nvidia-openai-more/",
+          "sentence": "Meta's Oversight Board ordered two deepfakes removed and recommended cutting the algorithmic reach of manipulated content, with stronger labeling, per TechStartups' roundup."
+        }
+      ]
+    }
+  ]
+}
