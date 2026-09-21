@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-21",
+  "headline": "Kai, Washington gets Xi on Thursday, and markets are already trading the handshake — futures up, oil down, the 10-year back under 5 percent.",
+  "subline": "The Fed's first hike since 2023 keeps digesting, SoftBank borrows $11 billion to double down on OpenAI, and bitcoin holds above $81,000 after the SEC's tokenization green light.",
+  "asof": "Pre-market · as of 6:35 AM ET · equity figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,757.50", "delta": "+0.58%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "30,175.75", "delta": "+0.86%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,389", "delta": "+0.60%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.96%", "delta": "−4 bp", "dir": "down"},
+    {"label": "Gold", "value": "$4,385.30", "delta": "−0.89%", "dir": "down"},
+    {"label": "WTI crude", "value": "$94.12", "delta": "−2.04%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$81,841", "delta": "+2.01%", "dir": "up"}
+  ],
+  "history": {"spx": 7650.50, "y10": 4.96, "btc": 81841},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "One hike done, another penciled in",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176651-china-us-summit-washington-costco-earnings-fed-rate-path-week-tradingkey",
+          "sentence": "The September move to 3.75–4.00 percent was the Fed's first hike since July 2023, and median projections leave room for one more this year, per TradingKey."
+        },
+        {
+          "title": "The 10-year steps back from 5 percent",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics has the yield at 4.96 percent early Monday, off about four basis points, after last week's Fed-driven climb to a 19-year high."
+        },
+        {
+          "title": "Oil gives back some war premium",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+          "sentence": "WTI slipped about 2 percent to $94.12 and gold eased to $4,385 as summit diplomacy softened the risk bid, per Yahoo Finance's live blog."
+        },
+        {
+          "title": "The week's data test the Fed's hike",
+          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+          "sentence": "Kiplinger's calendar shows flash September PMIs Wednesday, then durable goods and the final Michigan sentiment reading Friday — the first broad look at activity since the Fed tightened."
+        },
+        {
+          "title": "Retail earnings week runs AutoZone through Costco",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176651-china-us-summit-washington-costco-earnings-fed-rate-path-week-tradingkey",
+          "sentence": "AutoZone reports Tuesday and Costco's fiscal fourth quarter lands after Thursday's close, with General Mills and Darden in between, per TradingKey."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Xi comes to Washington on Thursday",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262176651-china-us-summit-washington-costco-earnings-fed-rate-path-week-tradingkey",
+          "sentence": "TradingKey reports a September 24 summit spanning tariffs, tech export controls, rare earths, AI and farm trade, with pre-summit consultations already under way in New York."
+        },
+        {
+          "title": "Taiwan, technology, trade — and a state dinner",
+          "url": "https://www.thenationalnews.com/news/us/2026/09/21/trump-set-for-washington-summit-with-xi-focused-on-trade-taiwan-and-ai/",
+          "sentence": "The National reports a pending $14 billion Taiwan arms package hanging over the table, tech chiefs from Bezos to Jensen Huang invited to the state dinner, and analysts expecting no big breakthroughs."
+        },
+        {
+          "title": "Trump takes the Iran case to the world",
+          "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-19-26",
+          "sentence": "Fox News's live coverage has Trump pressing the case that Iran cannot get a nuclear weapon, with Strait of Hormuz security and gas prices shadowing the midterm season."
+        },
+        {
+          "title": "Government funding is settled into December",
+          "url": "https://thehill.com/homenews/house/6063667-house-government-funding-cr-shutdown-midterms/",
+          "sentence": "Congress passed a stopgap earlier this month that funds the government until December, averting a pre-election shutdown, per The Hill."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "SoftBank borrows $11 billion for its OpenAI bet",
+          "url": "https://www.japantimes.co.jp/business/2026/09/21/companies/softbank-11-billion-junk-bonds-openai-bet/",
+          "sentence": "The Japan Times reports SoftBank is seeking more than $11 billion in junk bonds to fund its next OpenAI tranche, which AI Weekly's roundup says lifts its total commitment toward $65 billion."
+        },
+        {
+          "title": "Anthropic pushes its IPO to November",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
+          "sentence": "Annualized revenue is nearing $100 billion ahead of a listing now slated for November, per Bloomberg's read of the New York Times."
+        },
+        {
+          "title": "House China hawk presses Trump on chip curbs",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Rep. John Moolenaar urged tighter chip rules and closed cloud loopholes before the summit, even as Treasury floats a US-China AI-incident notification channel, per AI Weekly's roundup."
+        },
+        {
+          "title": "Washington's AI divide: Nvidia versus the labs",
+          "url": "https://www.cnbc.com/2026/09/15/ai-regulation-trump-nvidia-openai-anthropic.html",
+          "sentence": "CNBC reports a regulatory split that puts the Trump administration and Nvidia on one side and OpenAI and Anthropic on the other over how far AI rules should reach."
+        },
+        {
+          "title": "Bitcoin clears $82,000 on the tokenization trade",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61886452/bitcoin-ethereum-xrp-dogecoin-crypto-sec-tokenization",
+          "sentence": "Bitcoin trades near $81,800 after touching $82,000 — up about 2 percent overnight, extending the run that began with Friday's SEC tokenized-stock clearance, per Benzinga and Yahoo Finance."
+        }
+      ]
+    }
+  ]
+}
