@@ -1,0 +1,98 @@
+{
+  "date": "2026-09-22",
+  "headline": "Kai, the market is trying to hold two thoughts at once — an AI trade at record highs, and a Gulf standoff that just put Brent back above $100.",
+  "subline": "The Nasdaq closed at a record on Meta and the chip rally, Treasury moves to ground Iran's airlines by Wednesday, and three Fed speakers fill the tape today.",
+  "asof": "Pre-market · as of 6:35 AM ET · equity figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,816.50", "delta": "−0.22%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "30,711.50", "delta": "−0.24%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,331", "delta": "−0.27%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.94%", "delta": "−2 bp", "dir": "down"},
+    {"label": "Gold (spot)", "value": "$4,294.59", "delta": "−1.14%", "dir": "down"},
+    {"label": "Brent crude", "value": "$101.39", "delta": "+1.05%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$85,435", "delta": "+2.04%", "dir": "up"}
+  ],
+  "history": {"spx": 7764.70, "y10": 4.94, "btc": 85434.87},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Nasdaq sets a record; S&P 500 nears one",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-203454849.html",
+          "sentence": "Monday ended with the Nasdaq up 2.3 percent at a record 27,122, the S&P 500 up 1.5 percent to 7,764.70 and the Dow up 0.7 percent, per the AP's wrap on Yahoo Finance."
+        },
+        {
+          "title": "Three Fed speakers today, flash PMIs Wednesday",
+          "url": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar",
+          "sentence": "Kiplinger's calendar has New York's John Williams at 10:05, Vice Chair Philip Jefferson at 10:20 and Richmond's Tom Barkin at 1 p.m., ahead of September's preliminary PMI readings tomorrow."
+        },
+        {
+          "title": "Brent back above $101 as Washington squeezes",
+          "url": "https://www.benzinga.com/markets/equities/26/09/61913270/stock-market-today-sp-500-futures-gain-nasdaq-100-slips-as-trump-administration-targets-iranian-airlines-len-grml-acn-in-focus",
+          "sentence": "Brent rose 1.05 percent to $101.39 on the Treasury's new Iran measures while WTI eased to $92.61, per Benzinga's premarket brief, and AutoZone, KB Home and Thor Industries report today."
+        },
+        {
+          "title": "Berkshire discloses a $1.2 billion Lennar stake",
+          "url": "https://www.benzinga.com/markets/equities/26/09/61913270/stock-market-today-sp-500-futures-gain-nasdaq-100-slips-as-trump-administration-targets-iranian-airlines-len-grml-acn-in-focus",
+          "sentence": "Benzinga reports the position in the homebuilder was disclosed under CEO Greg Abel, and Lennar added about 1 percent in premarket trade."
+        },
+        {
+          "title": "Bitcoin holds the rebound at $85,000",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+          "sentence": "Bitcoin trades at $85,435, up 2 percent overnight after Monday's 6 percent surge carried it briefly past $86,000 alongside the AI rally, per Yahoo Finance's live blogs."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Treasury moves to ground Iran's airlines worldwide",
+          "url": "https://www.benzinga.com/markets/equities/26/09/61913270/stock-market-today-sp-500-futures-gain-nasdaq-100-slips-as-trump-administration-targets-iranian-airlines-len-grml-acn-in-focus",
+          "sentence": "Scott Bessent said Iranian carriers will be shut down worldwide by Wednesday, with financial institutions in Egypt, Turkey and Russia sanctioned for facilitating Tehran's transactions, per Benzinga."
+        },
+        {
+          "title": "Qatar works to keep the ceasefire alive",
+          "url": "https://www.iranintl.com/en/liveblog/202609196155",
+          "sentence": "Iran International's live coverage has Doha pressing for a renewed US-Iran deal after two more ships were hit and Tehran issued a fresh threat."
+        },
+        {
+          "title": "Xi's visit this week now runs through AI",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+          "sentence": "Bessent called preliminary US-China talks 'very successful,' per Yahoo Finance, with the Trump-Xi capstone meeting this week centered on artificial-intelligence cooperation."
+        },
+        {
+          "title": "Trump floats an AI czar and 'AI Force'",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "AI Weekly's digest reports the president vowed to appoint an AI czar and stand up an 'AI Force' modeled on the Space Force."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Meta's Muse tops the App Store",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+          "sentence": "Meta rose 11 percent after its Muse assistant reached the App Store's top spot, per Yahoo Finance, a move traders read as bullish for chip demand heading into this week's Connect event."
+        },
+        {
+          "title": "AMD joins the trillion-dollar club",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-21-dow-sp-500-nasdaq-080214605.html",
+          "sentence": "AMD gained 10 percent to an all-time high above $610 and a $1 trillion market cap, with Intel up 12 percent and Arm up 10, per Yahoo Finance's Monday blog."
+        },
+        {
+          "title": "Accenture pairs with Anthropic on AI safety",
+          "url": "https://www.benzinga.com/markets/equities/26/09/61913270/stock-market-today-sp-500-futures-gain-nasdaq-100-slips-as-trump-administration-targets-iranian-airlines-len-grml-acn-in-focus",
+          "sentence": "Benzinga reports a new collaboration focused on AI safety and model evaluation, alongside an expanded Accenture-Google Cloud partnership with Volvo Cars as its lead Horizon partner."
+        },
+        {
+          "title": "Alibaba claims China's most powerful AI chip",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "The Zhenwu V900 debuts with plans for a multi-trillion-parameter Qwen successor and 20 gigawatts of data-center capacity by 2032, per AI Weekly's roundup."
+        }
+      ]
+    }
+  ]
+}
