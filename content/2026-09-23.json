@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-23",
+  "headline": "Kai, Trump gave the UN two endings for Iran — a deal or annihilation — and crude, down six straight sessions, is pricing the first one.",
+  "subline": "Oil keeps shedding its war premium, the Nasdaq set another record on the AI tape, and September's flash PMIs land mid-morning.",
+  "asof": "Pre-market · as of 6:40 AM ET · equity figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,771.29", "delta": "−0.06 pt", "dir": "flat"},
+    {"label": "Nasdaq 100 fut", "value": "30,722.48", "delta": "+0.82%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,908.58", "delta": "−0.36%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.96%", "delta": "−0.8 bp", "dir": "flat"},
+    {"label": "Gold (spot)", "value": "$4,315.98", "delta": "−1.11%", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.07", "delta": "−0.49%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$86,798", "delta": "+1.38%", "dir": "up"}
+  ],
+  "history": {"spx": 7764.64, "y10": 4.96, "btc": 86798},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Crude's slide reaches a sixth session",
+          "url": "https://tradingeconomics.com/commodity/crude-oil",
+          "sentence": "WTI slipped to about $90.07 and Brent held near $99.54 as Trading Economics counts a sixth straight daily decline, tied to US–Iran diplomacy and a restored Saudi pipeline."
+        },
+        {
+          "title": "Nasdaq notches another record close",
+          "url": "https://tradingeconomics.com/united-states/stock-market",
+          "sentence": "Trading Economics logs Tuesday's Nasdaq at a record 27,244 with the S&P 500 flat and the Dow down 185 points, and its futures board tilts the same way this morning."
+        },
+        {
+          "title": "The 10-year sits just under five percent",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics marks the 10-year essentially unchanged at 4.96%, still parked just below the five percent line."
+        },
+        {
+          "title": "Gold keeps sliding from January's record",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Spot gold is off 1.11% at $4,315.98, per Trading Economics, now well beneath the $5,608.35 record set in January."
+        },
+        {
+          "title": "Bitcoin holds above $86,000 into the open",
+          "url": "https://www.coinbase.com/price/bitcoin",
+          "sentence": "Coinbase quotes bitcoin at $86,798 this morning, up 1.38% over the past 24 hours from $85,600."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump to UN: an Iran deal, or annihilation",
+          "url": "https://www.axios.com/2026/09/22/trump-speech-un-general-assembly-iran-annihilate",
+          "sentence": "At the General Assembly he framed his choice as make a deal with Iran \"or do I annihilate the Islamic Republic,\" predicting a deal after the midterms, per Axios."
+        },
+        {
+          "title": "Zelenskyy floats energy ceasefire and trilateral meeting",
+          "url": "https://www.cnbc.com/2026/09/23/ukraine-war-zelenskyy-putin-trump-russia.html",
+          "sentence": "CNBC reports Zelenskyy says Ukraine is ready for an \"energy ceasefire\" and is calling for a three-way meeting with Putin and Trump."
+        },
+        {
+          "title": "Tehran warns it can widen the war",
+          "url": "https://www.justsecurity.org/158424/early-edition-september-22-2026/",
+          "sentence": "Iran's Revolutionary Guard said US escalation would \"change the geography of the war,\" AP reports via Just Security's roundup."
+        },
+        {
+          "title": "Houthis push for high ground in Yemen",
+          "url": "https://www.justsecurity.org/158424/early-edition-september-22-2026/",
+          "sentence": "Reuters, via the same roundup, reports Iran-aligned Houthi forces advanced on strategic heights while Trump reportedly declined to pledge support to Riyadh."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Meta's Muse tops the App Store",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-september-22-nasdaq-dow-sp-500-080625961.html",
+          "sentence": "Muse hit 2.8 million downloads in 12 days — a faster start than ChatGPT, per Evercore ISI in Yahoo Finance's live blog — and Monday's 11.3% Meta rally added $192 billion in value."
+        },
+        {
+          "title": "The frontier model price war is on",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "AI Weekly's roundup has OpenAI's new GPT-6 Sol and Luna at half prior pricing, Anthropic's Opus 5.5 at 40% lower cost, and xAI's Grok 4.7 undercutting both."
+        },
+        {
+          "title": "Newsom signs seven data-center bills",
+          "url": "https://www.cryptointegrat.com/p/ai-news-september-22-2026",
+          "sentence": "California's new laws cover data-center electricity costs, water use and local oversight, per Crypto Integrated's September 22 roundup."
+        },
+        {
+          "title": "X opens stock and crypto trading",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "Musk's X added trading through Coinbase, Kraken and Interactive Brokers, per CoinDesk, which also counts nearly $1 billion of Monday inflows into spot bitcoin ETFs, the ninth-largest day on record."
+        },
+        {
+          "title": "Nvidia adapts to a power-constrained buildout",
+          "url": "https://www.cryptointegrat.com/p/ai-news-september-22-2026",
+          "sentence": "Crypto Integrated reports Nvidia is steering toward smaller data centers, GPU-efficiency software and electricity partnerships as grid constraints bite."
+        }
+      ]
+    }
+  ]
+}
