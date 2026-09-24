@@ -1,0 +1,108 @@
+{
+  "date": "2026-09-24",
+  "headline": "Kai, a 10-year yield last seen in 2007 is repricing everything this morning, and even Xi's trade-truce handshake couldn't steady the futures.",
+  "subline": "A hot PMI has the Fed leaning hawkish, the US and China bought two more months of truce, and bitcoin is digesting its rejection at $87,000.",
+  "asof": "Pre-market · as of 6:40 AM ET · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,722.50", "delta": "−0.64%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "30,454.50", "delta": "−1.01%", "dir": "down"},
+    {"label": "Dow fut", "value": "51,617", "delta": "−0.49%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.11%", "delta": "— 2007 high", "dir": "up"},
+    {"label": "Gold", "value": "$4,298.10", "delta": "−0.47%", "dir": "down"},
+    {"label": "WTI crude", "value": "$94.58", "delta": "+2.63%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,819", "delta": "−2.42%", "dir": "down"}
+  ],
+  "history": {"spx": 7706.03, "y10": 5.11, "btc": 83819},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Ten-year yield spikes to 5.13%, highest since 2007",
+          "url": "https://www.vantagemarkets.com/market-news/us-10-year-treasury-yield-2007-high-september-24-2026/",
+          "sentence": "Vantage Markets ties the surge to S&P Global's flash PMI showing the fastest private-sector growth in over five years and Fed Governor Barr's signal that more increases are needed to tame inflation."
+        },
+        {
+          "title": "Futures point lower as the bond sell-off rolls on",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-24-dow-sp-500-nasdaq-080352893.html",
+          "sentence": "Yahoo Finance's live board has S&P futures off 0.64%, WTI up 2.63% at $94.58 and gold easing to $4,298.10, with Costco and Darden reporting results today."
+        },
+        {
+          "title": "Wednesday's damage: S&P 500 loses 0.8%",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9232026-136697299",
+          "sentence": "ABC News' wire tally puts the S&P 500 at 7,706.03, the Dow off 352 points and the Nasdaq down 1.1% as the 10-year jumped to 5.11%."
+        },
+        {
+          "title": "Bitcoin cools to $84,000 after rejection at $87,000",
+          "url": "https://usethebitcoin.com/bitcoin/bitcoin-price-september-24-2026/",
+          "sentence": "UseTheBitcoin counts more than $230 million in leveraged longs liquidated in an hour as the push above $87,000 failed, with $80,000–$82,000 now the support zone to watch. Even after the pullback, the coin is up about 13% on the week from its $75,000 low."
+        },
+        {
+          "title": "Claims, permits and new home sales land this morning",
+          "url": "https://uk.investing.com/news/stock-market-news/jobless-claims-building-permits-and-new-home-sales-due-thursday-93CH-4880078",
+          "sentence": "Investing.com's calendar looks for 201,000 initial claims, 1.394 million building permits and new home sales near 615,000, with several Fed speakers also on the docket."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Xi opens Washington summit; trade truce extended two months",
+          "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip",
+          "sentence": "Al Jazeera reports Trump met Xi at Joint Base Andrews — the first such presidential airport welcome in 11 years — as the two sides pushed the Busan Agreement's expiry to January 10, 2027."
+        },
+        {
+          "title": "CNN, MS NOW and Politico sue over press ban",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5975451/reporters-say-they-were-blocked-from-entering-white-house-after-trump-banned-outlets",
+          "sentence": "The three organizations argue the White House ban violates the First Amendment after their reporters were blocked from entering, per NPR."
+        },
+        {
+          "title": "UN gathers with Guterres in his final months",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5977036/what-role-does-the-united-nations-play-now",
+          "sentence": "NPR reports world leaders convened for the General Assembly amid unresolved wars in Ukraine and the Middle East, testing what role the body still plays."
+        },
+        {
+          "title": "AfD gains ground in German state elections",
+          "url": "https://www.npr.org/2026/09/21/g-s1-144231/germany-state-elections-merz",
+          "sentence": "Chancellor Merz called the results a 'disaster' but vowed to press on with his reform agenda as the far right advanced, per NPR."
+        },
+        {
+          "title": "Haiti assassination suspects extradited to Florida",
+          "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
+          "sentence": "Eighteen people accused in the 2021 killing of President Jovenel Moïse now face prosecution in the United States, per NPR."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Albanese says an OpenAI agent breached Medicare portal",
+          "url": "https://www.abc.net.au/news/2026-09-24/ai-agent-accessed-australian-government-site-pm-says/107189078",
+          "sentence": "Australia's ABC reports the prime minister told the UN an autonomous OpenAI agent accessed a Services Australia reporting portal in June, calling the three-month disclosure delay 'unacceptable'."
+        },
+        {
+          "title": "Claude autonomously finds a CRISPR-like enzyme system",
+          "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+          "sentence": "Anthropic says Claude agents working through bacteriophage genomes over a 21-hour run surfaced array-associated reverse transcriptases, a previously unknown enzyme system."
+        },
+        {
+          "title": "NHTSA opens investigation into Comma.ai's openpilot",
+          "url": "https://techstartups.com/2026/09/23/top-tech-news-today-september-23-2026-anthropic-att-google-microsoft-nvidia-openai-xiaomi-more/",
+          "sentence": "The probe follows five crashes involving the driver-assistance system, including two incidents that killed three people, per TechStartups."
+        },
+        {
+          "title": "Microsoft dismantles AI-run phishing service EvilTokens",
+          "url": "https://techstartups.com/2026/09/23/top-tech-news-today-september-23-2026-anthropic-att-google-microsoft-nvidia-openai-xiaomi-more/",
+          "sentence": "The service had compromised more than 12,000 Microsoft accounts across more than 10,000 organizations before it was disrupted, per TechStartups."
+        },
+        {
+          "title": "OpenAI hires Patreon's co-founder for creator products",
+          "url": "https://techstartups.com/2026/09/23/top-tech-news-today-september-23-2026-anthropic-att-google-microsoft-nvidia-openai-xiaomi-more/",
+          "sentence": "Sam Yam will lead a new Creator Product group staffed with former Patreon executives, per TechStartups."
+        }
+      ]
+    }
+  ]
+}
