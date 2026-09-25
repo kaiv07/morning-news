@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-25",
+  "headline": "Kai, talk of reopening Hormuz in phases has oil back under $93 and the 10-year finally catching its breath.",
+  "subline": "Futures lean green after Thursday's whipsaw, October-hike odds sit near 70 percent, and durable goods plus a weak Michigan sentiment read land this morning.",
+  "asof": "Pre-market · as of 6:55 AM ET · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,717.50", "delta": "+0.17%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "30,590.70", "delta": "+0.37%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,451.10", "delta": "+0.20%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.18%", "delta": "−3 bps", "dir": "down"},
+    {"label": "Gold", "value": "$4,300.00", "delta": "+0.59%", "dir": "up"},
+    {"label": "WTI crude", "value": "$92.77", "delta": "−1.95%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$83,505", "delta": "−2.47%", "dir": "down"}
+  ],
+  "history": {"spx": 7704.13, "y10": 5.18, "btc": 83504.59},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Thursday's whipsaw ends roughly where it started",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-thursday-9242026-136734081",
+          "sentence": "The AP tally at ABC News has the S&P 500 off 1.90 points at 7,704.13 after a couple of intraday reversals, with the Dow down 161.61 to 51,349.98 and the Nasdaq up 3.34 to 26,939.37."
+        },
+        {
+          "title": "Futures lean green into a durable-goods morning",
+          "url": "https://www.investing.com/indices/indices-futures",
+          "sentence": "Investing.com's board has S&P 500 futures up 0.17 percent, Nasdaq 100 futures up 0.37 percent and Dow futures 0.20 percent higher ahead of this morning's durable-goods orders and final September consumer-sentiment reading."
+        },
+        {
+          "title": "Ten-year eases to 5.18% after a three-day surge",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics shows the benchmark down about 3 basis points from 5.21 percent after a 23-basis-point, three-session climb, with markets still pricing roughly 70 percent odds of another Fed hike at the next meeting."
+        },
+        {
+          "title": "WTI snaps its rally below $93 on phased-deal reports",
+          "url": "https://tradingeconomics.com/commodity/crude-oil",
+          "sentence": "Trading Economics ties the 1.95 percent slide to $92.77 to reports of a Qatar-mediated US-Iran deal that would reopen the Strait of Hormuz in phases and lift blockades on Iranian ports, even as Houthi attacks on Saudi cities keep supply on edge."
+        },
+        {
+          "title": "Gold steadies at $4,300 as the yield surge pauses",
+          "url": "https://tradingeconomics.com/commodity/gold",
+          "sentence": "Trading Economics has bullion up $25.35 on the day after a week of pressure from a stronger dollar and rate-hike expectations, leaving the metal still down 6.39 percent on the month."
+        },
+        {
+          "title": "Costco beats on $95.7 billion in revenue",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/costco-tops-q4-estimates-revenue-210534397.html",
+          "sentence": "Yahoo Finance reports fiscal Q4 earnings of $6.75 a share against a $6.55 estimate on 19.5 percent e-commerce growth, a beat the market met with a 0.3 percent shrug after hours."
+        },
+        {
+          "title": "Bitcoin slips to $83,500 as hike bets mount",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk pegs the 24-hour drop at about $2,100, or 2.47 percent, as traders price in four Fed rate hikes by June 2027, with the broader CD20 index down 4.19 percent."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US and Iran said to weigh phased Hormuz reopening",
+          "url": "https://www.cnbc.com/2026/09/24/oil-iran-crude-kepler-trump-us-un-.html",
+          "sentence": "CNBC reported oil pulled back from session highs on word of talks over a phased reopening of the strait, the first sign of an off-ramp since the war closed it to shipping."
+        },
+        {
+          "title": "Trump and Xi de-escalate; Iran and Taiwan unresolved",
+          "url": "https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-four-key-takeaways-from-the-washington-dc-meeting",
+          "sentence": "Al Jazeera's summit read has Xi invoking the Thucydides Trap and pressing Trump to oppose Taiwanese independence, while Trump called it a 'great meeting' but offered few concrete outcomes and no breakthrough on isolating Iran."
+        },
+        {
+          "title": "Pope Leo XIV lands in France to ringing bells",
+          "url": "https://www.euronews.com/video/2026/09/25/france-welcomes-leo-xiv-at-orly-airport-as-bells-sound-nationwide",
+          "sentence": "Euronews shows President Macron greeting the pope at Orly Airport this morning as church bells sounded nationwide for the visit."
+        },
+        {
+          "title": "Fourteen Kazakh soldiers found dead in the Caspian",
+          "url": "https://www.euronews.com/2026/09/25/fourteen-kazakh-soldiers-found-dead-in-caspian-sea-after-naval-training",
+          "sentence": "The soldiers were discovered after a naval training exercise, per Euronews, which reports authorities are investigating what went wrong."
+        },
+        {
+          "title": "Russian strikes knock out Kyiv data centers",
+          "url": "https://techstartups.com/2026/09/24/top-tech-news-today-september-24-2026-amazon-anthropic-deepseek-google-meta-openai-oracle-more/",
+          "sentence": "TechStartups reports Tuesday's strikes damaged core network equipment and a central traffic-exchange facility, disconnecting roughly 100,000 households while repair crews work to restore service."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "DeepSeek hits $1 billion run rate, seeks $7.5 billion",
+          "url": "https://techstartups.com/2026/09/24/deepseek-hits-1-billion-revenue-run-rate-as-chinese-ai-startup-targets-7-5-billion-raise/",
+          "sentence": "TechStartups reports the Chinese lab's annualized revenue doubled after price increases of 2.3 to 4.5 times held up under demand, as it prepares a raise valuing it near $74 billion."
+        },
+        {
+          "title": "Gemini 4 enters post-training, ships by year-end",
+          "url": "https://techstartups.com/2026/09/24/top-tech-news-today-september-24-2026-amazon-anthropic-deepseek-google-meta-openai-oracle-more/",
+          "sentence": "DeepMind chief Koray Kavukcuoglu says he is 'a hundred percent confident' Google remains at the frontier, with the model already used internally on its Antigravity coding tool, per TechStartups."
+        },
+        {
+          "title": "Amazon opens seller accounts to AI agents, Claude first",
+          "url": "https://techstartups.com/2026/09/24/top-tech-news-today-september-24-2026-amazon-anthropic-deepseek-google-meta-openai-oracle-more/",
+          "sentence": "A new beta lets autonomous agents manage listings, inventory and advertising for US sellers, beginning with Anthropic's Claude, per TechStartups."
+        },
+        {
+          "title": "Filings: ChatGPT underperformed inside Apple Intelligence",
+          "url": "https://techstartups.com/2026/09/24/top-tech-news-today-september-24-2026-amazon-anthropic-deepseek-google-meta-openai-oracle-more/",
+          "sentence": "Court documents show the integration 'dramatically underperformed' expectations and the anticipated halo effect never materialized, per TechStartups."
+        },
+        {
+          "title": "Oracle invokes force majeure on 2.45-gigawatt data center",
+          "url": "https://techstartups.com/2026/09/24/top-tech-news-today-september-24-2026-amazon-anthropic-deepseek-google-meta-openai-oracle-more/",
+          "sentence": "The move shields Oracle from payment obligations if the New Mexico Project Jupiter site misses its 2028 launch deadline, per TechStartups, a reminder that AI capex timelines are starting to meet reality."
+        }
+      ]
+    }
+  ]
+}
