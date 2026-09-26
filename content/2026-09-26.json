@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-26",
+  "headline": "Kai, Iran has named its terms for reopening Hormuz in seven days, and Washington is not calling it a breakthrough yet.",
+  "subline": "The Dow snapped a three-week skid, the ten-year ended the week at a post-crisis 5.18 percent, and August PCE lands Wednesday.",
+  "asof": "Weekend edition · as of 6:45 AM ET Saturday · stocks, yield, gold and oil are Friday's close; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,743.41", "delta": "+0.51%", "dir": "up"},
+    {"label": "Nasdaq", "value": "27,068.72", "delta": "+0.48%", "dir": "up"},
+    {"label": "Dow", "value": "51,828.62", "delta": "+0.93%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.18%", "delta": "+2 bps", "dir": "up"},
+    {"label": "Gold", "value": "$4,321.20", "delta": "+0.54%", "dir": "up"},
+    {"label": "WTI crude", "value": "$92.41", "delta": "−2.33%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$83,995", "delta": "−0.2%", "dir": "down"}
+  ],
+  "history": {"spx": 7743.41, "y10": 5.18, "btc": 83995.30},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "A winning week; the Dow snaps its skid",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+          "sentence": "Yahoo Finance's wrap has the S&P 500 up 0.51 percent Friday at 7,743.41, the Nasdaq up 0.48 percent at 27,068.72 and the Dow up 0.93 percent at 51,828.62, snapping a three-week losing streak for the blue chips."
+        },
+        {
+          "title": "The ten-year's post-crisis high gets a shrug",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+          "sentence": "The benchmark ended the week at 5.18 percent, its highest level since the financial crisis, a climb BlackRock's Rick Rieder calls 'not a crisis but an eye-opener,' per Yahoo Finance."
+        },
+        {
+          "title": "Consumer sentiment eases to a four-month low",
+          "url": "https://finance.yahoo.com/economy/articles/us-consumer-sentiment-eases-four-143459057.html",
+          "sentence": "The University of Michigan's final September index slipped to a four-month low, per Yahoo Finance, with respondents citing elevated fuel prices and re-escalating trade disputes, which suggests households have been paying attention."
+        },
+        {
+          "title": "WTI settles at $92.41 as diplomacy firms up",
+          "url": "https://www.foxnews.com/live-news/iran-war-president-news-oil-prices-deal-9-25-26",
+          "sentence": "Crude slid 2.33 percent Friday as US and Iranian negotiators discussed reopening the Strait of Hormuz, per Fox News' live coverage, with Yahoo Finance marking the November WTI contract's close at $92.41."
+        },
+        {
+          "title": "Bitcoin consolidates near $84,000 as ETF flows recover",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk has the coin at $83,995, off 0.2 percent over 24 hours and holding the mid-$80,000s, as 2026 ETF flows turn positive after erasing a $5.8 billion deficit and altcoins do the week's rallying."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran puts a seven-day Hormuz reopening on offer",
+          "url": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz",
+          "sentence": "Foreign Minister Abbas Araghchi says the strait opens on day seven if fighting stops on all fronts, sanctions lift and frozen assets are released, per Al Jazeera, though Secretary Rubio cautioned it would be wrong to call the talks a major breakthrough."
+        },
+        {
+          "title": "Trump and Xi part with deadlines, not deals",
+          "url": "https://finance.yahoo.com/markets/article/us-china-summit-ends-with-little-progress-on-trade-and-ai--other-than-2-new-deadlines-174257772.html",
+          "sentence": "The state visit closed with little movement on trade or AI beyond two new negotiating deadlines, per Yahoo Finance, leaving the hard questions to the next round."
+        },
+        {
+          "title": "Aerial war intensifies; seven dead across Ukraine",
+          "url": "https://www.yahoo.com/news/world/articles/7-dead-russia-ukraine-exchange-102918105.html",
+          "sentence": "Seven people died as Russia and Ukraine exchanged missile and drone strikes overnight, per the AP, with Kyiv under attack for a second straight day."
+        },
+        {
+          "title": "Netanyahu attacks enemies and allies at the UN",
+          "url": "https://www.timesofisrael.com/in-fiery-un-speech-netanyahu-blasts-iran-qatar-turkey-slams-gaza-genocide-accusation/",
+          "sentence": "In a fiery General Assembly speech the Israeli prime minister blasted Iran, Qatar and Turkey and rejected the genocide accusation over Gaza, per The Times of Israel."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Meta leans into Muse; the stock adds 13 percent",
+          "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
+          "sentence": "TechCrunch reports Meta is putting its product muscle behind the fast-growing assistant, and Yahoo Finance's wrap had the stock gaining roughly 13 percent Friday on the enthusiasm."
+        },
+        {
+          "title": "Anthropic signs an $11.6 billion Akamai cloud deal",
+          "url": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+          "sentence": "TechCrunch reports the lab will pay Akamai $11.6 billion over seven years for cloud capacity, another data point on what frontier compute now costs."
+        },
+        {
+          "title": "Washington and Beijing book an AI summit in Shenzhen",
+          "url": "https://www.cnbc.com/2026/09/23/trump-xi-meeting-ai-safety-chips-us-china-dialogue.html",
+          "sentence": "The Trump-Xi visit ended with plans for an AI-safety summit in Shenzhen in November, per Yahoo Finance, though CNBC notes neither side wants to slow its own buildout."
+        },
+        {
+          "title": "Astra and Opus crack unsolved Enigma messages",
+          "url": "https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/",
+          "sentence": "TechCrunch reports OpenAI's Astra and Anthropic's Claude Opus 5 each decoded WWII Enigma messages that had resisted researchers for decades — one unbroken since 2005 — leaving only seven unsolved."
+        },
+        {
+          "title": "OpenAI's agent swarms scour databases for obscure facts",
+          "url": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
+          "sentence": "For months the company's automated agents have been hitting online databases in search of hard-to-find information, per TechCrunch, a preview of what agent traffic does to the open web."
+        }
+      ]
+    }
+  ]
+}
