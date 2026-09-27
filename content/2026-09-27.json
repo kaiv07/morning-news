@@ -1,0 +1,103 @@
+{
+  "date": "2026-09-27",
+  "headline": "Kai, Trump has rejected Iran's seven-day ceasefire offer, and the cost of a longer war is already posted at the pump.",
+  "subline": "Gas is at a late-September record, the ten-year reopens at a post-crisis 5.18 percent, and PCE, GDP and Micron land this week.",
+  "asof": "Weekend edition · as of 6:40 AM ET Sunday · stocks, yield, gold and oil are Friday's close; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,743.41", "delta": "+0.51%", "dir": "up"},
+    {"label": "Nasdaq", "value": "27,068.72", "delta": "+0.48%", "dir": "up"},
+    {"label": "Dow", "value": "51,828.62", "delta": "+0.93%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.18%", "delta": "+2 bps", "dir": "up"},
+    {"label": "Gold", "value": "$4,321.20", "delta": "+0.54%", "dir": "up"},
+    {"label": "WTI crude", "value": "$92.41", "delta": "−2.33%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$84,339", "delta": "+0.53%", "dir": "up"}
+  ],
+  "history": {"spx": 7743.41, "y10": 5.18, "btc": 84338.83},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Monday reopens at 7,743 on the S&P",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-september-25-dow-sp-500-nasdaq-081738529.html",
+          "sentence": "The week starts from Friday's marks — S&P 500 at 7,743.41, Nasdaq at 27,068.72, Dow at 51,828.62 — with Yahoo Finance's wrap noting stocks shrugged off the bond selloff while oil eased on reports of US-Iran diplomacy."
+        },
+        {
+          "title": "PCE, GDP and Micron crowd the week ahead",
+          "url": "https://www.vicuscapital.com/2026/09/25/the-week-ahead-september-28-2026/",
+          "sentence": "Vicus Capital's calendar lists the Fed's preferred PCE inflation gauge, the GDP report on September 30, and earnings from Micron, Nike and Carnival, with Micron guiding for $49 to $51 billion in quarterly revenue."
+        },
+        {
+          "title": "Sixteen of nineteen Fed officials see another hike",
+          "url": "https://www.schwab.com/learn/story/fomc-meeting",
+          "sentence": "Charles Schwab's FOMC recap notes the September 16 hike to 3.75–4.00 percent passed 12–0, with 16 of 19 officials projecting at least one more increase by year-end and no return to 2 percent inflation until 2029."
+        },
+        {
+          "title": "The thirty-year touches 5.5 percent, a 2004 high",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-sept-25-2026",
+          "sentence": "TheStreet's Friday wrap has the 10-year peaking at 5.225 percent, its highest since 2007, and the 30-year at 5.502 percent, its highest since 2004, even as megacap tech carried the indexes to weekly gains."
+        },
+        {
+          "title": "Bitcoin holds $84,000, a third below last October",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk has bitcoin at $84,339 Sunday morning, up 0.53 percent over 24 hours on a $1.69 trillion market cap, still roughly a third below the $126,000 all-time high it set last October."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump rejects Iran's seven-day ceasefire offer",
+          "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
+          "sentence": "The president turned down Tehran's proposal to reopen Hormuz in exchange for lifting the naval blockade and easing sanctions, saying the US has 'total control' of the strait, with bombing expected to resume after the November midterms, per Fox News' live coverage."
+        },
+        {
+          "title": "Gas hits $4.49, a late-September record",
+          "url": "https://gasprices.aaa.com/news/",
+          "sentence": "AAA puts the national average at $4.49 a gallon — up nearly five cents in a week, more than a dollar above a year ago, and the highest late-September average it has recorded — citing Hormuz volatility behind elevated crude."
+        },
+        {
+          "title": "Saudi defenses down Houthi drones aimed at Riyadh",
+          "url": "https://www.foxnews.com/live-news/iran-war-strait-hormuz-trump-talks-oil-gas-prices-midterms-09-26-26",
+          "sentence": "Saudi air defenses intercepted drones and a ballistic missile fired by Iran-backed Houthis toward Riyadh and Khamis Mushait, per Fox News, a reminder the war's edges keep moving."
+        },
+        {
+          "title": "Russian strikes kill two as Berlin's outreach fizzles",
+          "url": "https://www.ksat.com/news/world/2026/09/27/russian-strikes-kill-2-in-ukraine-after-moscow-rejects-german-calls-to-de-escalate/",
+          "sentence": "The AP reports overnight drone strikes killed a man in Kyiv and another person in the Odesa region, after Moscow brushed aside Germany's UN General Assembly push for de-escalation."
+        },
+        {
+          "title": "Democrats lead Marist's midterm poll by twelve",
+          "url": "https://maristpoll.marist.edu/polls/2026-midterm-elections-september-2026/",
+          "sentence": "Marist's mid-September national survey — the shop a short walk from your lectures — has Democrats up 53–41 on the generic congressional ballot, with independents breaking 57–32 and Trump's approval at 39 percent."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Sanders and Casar move to ban superintelligence",
+          "url": "https://www.nbcnews.com/politics/congress/bernie-sanders-greg-casar-propose-ai-superintelligence-ban-20-year-jai-rcna599460",
+          "sentence": "NBC News reports the bill would ban development of artificial superintelligence outright, pause advanced AI work under a new federal agency, and expose violators to up to 20 years in prison."
+        },
+        {
+          "title": "Brookings prices the AI buildout at $10.3 trillion",
+          "url": "https://www.brookings.edu/articles/financing-the-ai-buildout/",
+          "sentence": "Brookings estimates US AI infrastructure will absorb $10.3 trillion from 2025 to 2032 — about 3.6 percent of GDP a year, larger relative to the economy than the railroad or highway booms — and warns the financing is drifting off Big Tech's balance sheets."
+        },
+        {
+          "title": "Cute, cuddly, and it wants your data",
+          "url": "https://www.nbcnews.com/tech/tech-news/meta-muse-ai-agent-response-animated-avatar-cute-rcna599736",
+          "sentence": "That is NBC News' verdict on Meta's fast-growing Muse assistant, whose disarming animated avatar is drawing questions about how much user data the agent collects."
+        },
+        {
+          "title": "Google tests Flipkart checkout inside Gemini",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Google is piloting direct Flipkart checkout inside Gemini and AI Mode in India ahead of the festive shopping season, per AI Weekly's Sunday roundup, the next live test of agentic commerce."
+        }
+      ]
+    }
+  ]
+}
