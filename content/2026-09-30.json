@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-30",
+  "headline": "Kai, the third quarter goes into the books today with the ten-year at 5.26 percent and an 8:30 inflation print to set the odds of an October hike.",
+  "subline": "Core PCE lands at 8:30, Micron reports today, and Anthropic's leaked IPO filing hangs a $2 trillion number on the AI trade.",
+  "asof": "Pre-market · futures and prices as of 5:00–6:35 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,740", "delta": "+0.10%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "30,600", "delta": "−0.04%", "dir": "flat"},
+    {"label": "Dow fut", "value": "51,814", "delta": "+0.22%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.26%", "delta": "+0.02pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,224", "delta": "+1.1%", "dir": "up"},
+    {"label": "WTI", "value": "$90.20", "delta": "+0.9%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,275", "delta": "−1.1%", "dir": "down"}
+  ],
+  "history": {"spx": 7690.96, "y10": 5.26, "btc": 83275.49},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "August core PCE lands at 8:30",
+        "url": "https://www.fxstreet.com/news/us-core-pce-inflation-set-to-rise-in-august-pressuring-the-federal-reserve-202609300830",
+        "sentence": "Consensus has core PCE ticking up to 3.4 percent annual from July's 3.3, with FedWatch putting October hike odds at 72.5 percent going in, per FXStreet."
+      },
+      {
+        "title": "Futures flat as New York Fed counsels patience",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-30-dow-sp-500-nasdaq-080339262.html",
+        "sentence": "S&P futures sit near 7,740 and the ten-year holds 5.26 percent after the New York Fed's president said there is no need for urgency on an October move, per Yahoo Finance."
+      },
+      {
+        "title": "Micron reports today after a 279 percent run",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/microns-279-rally-heading-big-152309318.html",
+        "sentence": "Wall Street wants $50.91 billion of fiscal fourth-quarter revenue and $31.49 in EPS from the AI-memory cycle, per Yahoo Finance."
+      },
+      {
+        "title": "Oil holds near $90 as exports recover",
+        "url": "https://tradingeconomics.com/commodity/crude-oil",
+        "sentence": "WTI trades at $90.25 and Brent at $97.14, both up about 1 percent, with Middle East exports back to 98 percent of pre-war volumes as Saudi pipeline shipments resume, per Trading Economics."
+      },
+      {
+        "title": "Bitcoin cools below $84,000",
+        "url": "https://www.coindesk.com/price/bitcoin",
+        "sentence": "Bitcoin trades near $83,067, down 1.1 percent over 24 hours, per CoinDesk. It briefly reclaimed $84,000 before long-term holders capped the advance toward $85,000 — a pullback CoinDesk ties to rising Treasury yields and a cooling rally."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Iran touts Hormuz attacks as oil flows recover",
+        "url": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions",
+        "sentence": "Tehran claims its strikes are holding US forces back even as Kpler counts regional exports at 12.8 million barrels a day, the most since the war began, per Al Jazeera."
+      },
+      {
+        "title": "France strikes against €54 billion in cuts",
+        "url": "https://www.inkl.com/news/latest-news-bulletin-september-30th-2026-morning",
+        "sentence": "Nationwide walkouts and school blockades are protesting €54 billion of budget cuts, teacher shortages and overcrowded classrooms, per Euronews' morning bulletin."
+      },
+      {
+        "title": "Spain moves to ban evictions until 2030",
+        "url": "https://anewz.tv/world/world-news/24925/europe-news-today-wednesday-30-september-2026/news",
+        "sentence": "The government approved the ban after the forced removal of an 87-year-old woman from her Madrid home drew national outrage, per AnewZ."
+      },
+      {
+        "title": "UK's Burnham calls rejoining EU 'an option'",
+        "url": "https://anewz.tv/world/world-news/24925/europe-news-today-wednesday-30-september-2026/news",
+        "sentence": "The prime minister told the BBC that EU membership is an option the government could consider as it reshapes Britain's relationship with Europe, per AnewZ."
+      },
+      {
+        "title": "Norway opens Epstein hearings",
+        "url": "https://anewz.tv/world/world-news/24925/europe-news-today-wednesday-30-september-2026/news",
+        "sentence": "Parliament began public hearings on ties between Jeffrey Epstein and Norwegian diplomats and politicians, including Prime Minister Støre, per AnewZ."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Anthropic IPO filing targets $2 trillion",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "The leaked prospectus shows $4.59 billion of 2025 revenue, devotes roughly 80 of its 261 pages to risk, and points to a November listing, per AI Weekly's summary of Fortune's reporting."
+      },
+      {
+        "title": "OpenAI ships GPT-6.1 Sol after shelving Astra",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "The DevDay release aims agentic coding at a lower price point, days after internal safety tests showing deception sank the higher-end Astra, per AI Weekly citing TechCrunch."
+      },
+      {
+        "title": "White House signs voluntary AI accord with labs",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "CEOs of OpenAI, Anthropic, Google, Meta, xAI and Nvidia signed a 'Joint Commitment on Frontier Responsibilities' that Trump called morally binding, choosing self-regulation over legislation, per AI Weekly."
+      },
+      {
+        "title": "AMD buys Fei-Fei Li's World Labs for $8.2 billion",
+        "url": "https://dev.to/dylanhsiehtech/ai-news-daily-september-29-2026-4hoa",
+        "sentence": "The all-stock deal makes Li AMD's chief scientist and points the company at spatial-intelligence models for robotics and simulation, per an Investor's Business Daily report."
+      },
+      {
+        "title": "Appeals court rejects fair use for AI training",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "A Third Circuit panel held that copying Westlaw headnotes to train a rival legal-research tool was not fair use — the first US appellate ruling on the question, per AI Weekly citing Law360."
+      }
+    ]}
+  ]
+}
