@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-01",
+  "headline": "Kai, the fourth quarter opens with the ten-year fresh off its first 5.30 percent print since 2002 and Brent holding above $100 a barrel.",
+  "subline": "Jobless claims and ISM manufacturing land this morning, Friday brings the September jobs report, and Micron just printed a $54 billion quarter.",
+  "asof": "Pre-market · futures and prices as of 6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,732", "delta": "+0.22%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "30,874", "delta": "+0.57%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,212", "delta": "−0.13%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.29%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,194", "delta": "+0.18%", "dir": "up"},
+    {"label": "Brent", "value": "$100.14", "delta": "+2.15%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,720", "delta": "−0.20%", "dir": "down"}
+  ],
+  "history": {"spx": 7651.54, "y10": 5.29, "btc": 83719.68},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Ten-year yield breaks 5.30, highest since 2002",
+        "url": "https://invezz.com/ng/news/2026/09/30/us-10-year-treasury-yield-hits-24-year-high-above-530percent/",
+        "sentence": "The benchmark yield pushed above 5.30 percent Wednesday for the first time in 24 years, per Invezz, and starts October near 5.29."
+      },
+      {
+        "title": "Futures tilt up with Brent back above $100",
+        "url": "https://finance.yahoo.com/markets/",
+        "sentence": "S&P futures trade near 7,732 with Nasdaq futures up 0.6 percent, Brent at $100.14 and gold at $4,194, per Yahoo Finance's live board."
+      },
+      {
+        "title": "September closes in the red for stocks",
+        "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112",
+        "sentence": "The S&P 500 slipped 0.3 percent Wednesday to 7,651.54 and the Dow fell 443.87 points as strong growth data pushed yields higher, per ABC News."
+      },
+      {
+        "title": "Micron beats and guides next quarter to $61.5 billion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-023846562.html",
+        "sentence": "Fiscal fourth-quarter revenue of $54.23 billion rose 379 percent on the AI-memory cycle, yet the stock barely moved on the print, per Yahoo Finance."
+      },
+      {
+        "title": "Bitcoin logs a fourth straight green September",
+        "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-september-30-2026-red-september-a-thing-of-the-past-monthly-gains-holding-for-crypto-113317483.html",
+        "sentence": "Bitcoin gained 5.16 percent in September — its longest run of positive Septembers on record — and opens October near $83,700, per Yahoo Finance."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Iran says US ceasefire counterproposal has arrived",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+        "sentence": "Iranian officials say Washington delivered a formal response to Tehran's seven-day ceasefire plan, with the two sides split over sequencing, per CBS News."
+      },
+      {
+        "title": "Hormuz oil flow claws back to 94 percent",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-negotiations-strait-of-hormuz-oil/",
+        "sentence": "Weekly crude and fuel exports reached about 21.8 million barrels a day against a 23.3 million prewar baseline, even after three ships were struck Tuesday, per CBS News."
+      },
+      {
+        "title": "New fiscal year opens with government funded",
+        "url": "https://breakingdefense.com/2026/09/house-passes-funding-stopgap-averting-government-shutdown-in-october/",
+        "sentence": "September's 370–48 House vote keeps agencies running through December 11, sparing October 1 a shutdown, per Breaking Defense."
+      },
+      {
+        "title": "French school protests turn violent",
+        "url": "https://www.euronews.com/video/2026/10/01/latest-news-bulletin-october-1st-2026-morning",
+        "sentence": "Demonstrations over classroom resources left dozens wounded and hundreds detained, per Euronews' morning bulletin."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Chinese hackers posed as US AI insiders",
+        "url": "https://krdo.com/politics/cnn-us-politics/2026/10/01/china-linked-hackers-impersonated-us-ai-insiders-as-global-race-heats-up/",
+        "sentence": "Proofpoint says a Beijing-aligned group impersonated a former White House tech official and an Anthropic employee to phish AI export-control experts, per CNN."
+      },
+      {
+        "title": "FTC opens probe into AI agent safety claims",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026",
+        "sentence": "The commission is investigating OpenAI, Anthropic and METR over agent safety claims and consumer protection, per The Neuron's daily digest."
+      },
+      {
+        "title": "Google ships Gemini 4 Argon with million-token context",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026",
+        "sentence": "The model lists at $2 per million input tokens and debuts at No. 1 on Text Arena, per The Neuron."
+      },
+      {
+        "title": "Nvidia authorizes a $150 billion buyback",
+        "url": "https://techstartups.com/2026/09/29/top-tech-news-today-september-29-2026-anthropic-bytedance-google-meta-openai-samsung-more/",
+        "sentence": "Nvidia authorized $150 billion of share repurchases as AI infrastructure demand surges, per Tech Startups."
+      },
+      {
+        "title": "Amazon signs 20-year nuclear supply deal",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-023846562.html",
+        "sentence": "Constellation shares rose after it agreed to supply Amazon with 190 megawatts from a Maryland facility for 20 years, per Yahoo Finance."
+      }
+    ]}
+  ]
+}
