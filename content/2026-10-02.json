@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "headline": "Kai, a payroll print near 84,000 arrives at 8:30 with the ten-year easing off 24-year highs and futures leaning higher.",
+  "subline": "September payrolls and Tesla deliveries land this morning, oil backs off its sanctions run, and bitcoin clears $86,000.",
+  "asof": "Pre-market · futures and prices as of 4:06 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,760", "delta": "+0.46%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "31,005", "delta": "+0.79%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,489", "delta": "+0.48%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.24%", "delta": "−0.06pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,210", "delta": "+0.18%", "dir": "up"},
+    {"label": "WTI crude", "value": "$89.31", "delta": "−3.83%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$86,304", "delta": "+3.34%", "dir": "up"}
+  ],
+  "history": {"spx": 7699.88, "y10": 5.24, "btc": 86303.53},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "September payrolls land at 8:30 this morning",
+        "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+        "sentence": "Consensus sits near 84,000 new jobs, a print that could sway rate-hike expectations with the ten-year just under 24-year highs, per Charles Schwab."
+      },
+      {
+        "title": "Factory activity cools but keeps expanding",
+        "url": "https://tradingeconomics.com/united-states/business-confidence",
+        "sentence": "The ISM manufacturing index eased to 54.5 in September from 54.6, short of the 55 forecast, with prices still pushed by steel, aluminum and tariffs, per Trading Economics."
+      },
+      {
+        "title": "Oil backs off its sanctions-driven run",
+        "url": "https://tradingeconomics.com/commodity/crude-oil",
+        "sentence": "WTI slipped to $89.73 and Brent to $100.12 on Friday, both down more than 2 percent as the US-Iran risk premium cooled, per Trading Economics."
+      },
+      {
+        "title": "Bitcoin clears $86,000 ahead of the jobs print",
+        "url": "https://www.coindesk.com/price/bitcoin",
+        "sentence": "CoinDesk has bitcoin near $86,400, up about 3.5 percent in 24 hours, with Citigroup lifting its 12-month target to $113,000 as ETF inflows resume."
+      },
+      {
+        "title": "Tesla's third-quarter delivery count due before the open",
+        "url": "https://www.basenor.com/blogs/news/tesla-q3-2026-delivery-report-expected-friday-what-wall-street-sees",
+        "sentence": "Tesla's own compiled consensus points to 461,974 vehicles against Street estimates spanning 435,000 to 480,100, per Basenor."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "US extends Iran sanctions to land transport",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-054725536.html",
+        "sentence": "Washington escalated sanctions to cover Iran's land transportation sectors, the latest turn in a conflict that has kept crude near $90, per Yahoo Finance."
+      },
+      {
+        "title": "Trump ties Flydubai cockpit incident to Iran",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008779866",
+        "sentence": "He suggested Tehran may have had a role in a co-pilot's attempted crash of a passenger jet and hinted at emergency powers ahead of the midterms, per SBS News."
+      },
+      {
+        "title": "Seoul retires its prosecutors' office after 78 years",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008779866",
+        "sentence": "South Korea's new Prosecution Service and Serious Crime Investigation Agency opened Friday with their top leadership posts still unfilled, per SBS News."
+      },
+      {
+        "title": "Both chambers in play a month from midterms",
+        "url": "https://decisiondeskhq.substack.com/p/2026-midterm-election-forecast-tight-race-congress-senate-house",
+        "sentence": "Decision Desk HQ's forecast has Democrats slightly favored in the House and Republicans narrowly ahead in the Senate, with a sizable chance one party takes both."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Anthropic lines up $42 billion of compute",
+        "url": "https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/",
+        "sentence": "Broadcom and Anthropic agreed on $42 billion in financing to expand compute capacity over five years, per Tech Startups."
+      },
+      {
+        "title": "OpenAI courts $30 billion at $1.4 trillion",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026",
+        "sentence": "Bloomberg reporting relayed by The Neuron has OpenAI seeking $30 billion at a roughly $1.4 trillion pre-money valuation, even as Sam Altman calls a 2026 listing ill-advised."
+      },
+      {
+        "title": "Robinhood builds AI agents for nonstop trading",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026",
+        "sentence": "The brokerage unveiled agentic trading features with expanded weekend hours, pointing retail toward a market that never quite closes, per The Neuron."
+      },
+      {
+        "title": "Tencent books $7 billion of Oracle compute",
+        "url": "https://techstartups.com/2026/10/01/top-tech-news-today-october-1-2026-amd-broadcom-google-lg-meta-micron-openai-reddit-more/",
+        "sentence": "A five-year deal gives Tencent access to roughly 100,000 advanced AI chips hosted in Southeast Asia, per Tech Startups."
+      },
+      {
+        "title": "Bank of England flags AI-linked debt risk",
+        "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-september-30-2026",
+        "sentence": "The central bank warned that AI-linked debt and stretched valuations could amplify losses if the promised productivity fails to arrive, per The Neuron."
+      }
+    ]}
+  ]
+}
