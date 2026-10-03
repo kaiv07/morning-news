@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-03",
+  "headline": "Kai, September's 29,000 payrolls all but killed an October hike, and the G7 is opening the taps against $100 crude.",
+  "subline": "Hike odds collapsed to 16%, Hormuz stayed shut with oil near $100, and Anthropic set course for the largest IPO ever.",
+  "asof": "Weekend edition · strip shows Friday's close, October 2 · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,722.72", "delta": "+0.73%", "dir": "up"},
+    {"label": "Nasdaq", "value": "27,190.86", "delta": "+1.19%", "dir": "up"},
+    {"label": "Dow", "value": "51,176.96", "delta": "+0.49%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.28%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,172.10", "delta": "−0.72%", "dir": "down"},
+    {"label": "WTI crude", "value": "$91.26", "delta": "−1.73%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$84,647.91", "delta": "−0.27%", "dir": "down"}
+  ],
+  "history": {"spx": 7722.72, "y10": 5.28, "btc": 84647.91},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "September payrolls land at 29,000",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+        "sentence": "The U.S. added 29,000 jobs in September against 90,000 expected, and unemployment ticked up to 4.2% from 4.1%, per Yahoo Finance."
+      },
+      {
+        "title": "An October hike is all but off",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+        "sentence": "Bond traders cut the odds of an October rate increase to 16% from 64% a week earlier, and all three major indexes closed Friday higher on the news, per Yahoo Finance."
+      },
+      {
+        "title": "G7 opens reserves against record diesel",
+        "url": "https://www.upi.com/Top_News/World-News/2026/10/02/g7-diesel-crude-oil-reserve-release-fuel-prices/7111790963774/",
+        "sentence": "The G7 and the IEA will release up to 100 million barrels of diesel and crude over four months, a large share within 20 days, to pull fuel prices off record highs, per UPI."
+      },
+      {
+        "title": "Nvidia tops $5.7 trillion intraday",
+        "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-02-2026",
+        "sentence": "Nvidia traded as high as $237.88 on Friday, pushing its market value past $5.7 trillion, per TheStreet."
+      },
+      {
+        "title": "Quiet data week, then earnings season",
+        "url": "https://www.cmcmarkets.com/en-gb/news-and-analysis/the-week-ahead-us-ism-services-fed-minutes-pepsico-earnings",
+        "sentence": "Monday brings September ISM services, Wednesday the Fed's September minutes, and Thursday PepsiCo's results, a light slate before earnings season gathers pace the following week, per CMC Markets."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Hormuz stays shut as ceasefire talks stall",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+        "sentence": "Tehran awaits a formal U.S. answer on a seven-day ceasefire and phased Hormuz reopening that Trump has publicly dismissed, with the closed strait still disrupting roughly 20% of the world's traded oil and gas, per CBS News."
+      },
+      {
+        "title": "Third carrier group ordered to the region",
+        "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
+        "sentence": "The Pentagon is sending a third carrier strike group and 9,000 to 10,000 additional troops to the Middle East by the end of November, per Anadolu Agency."
+      },
+      {
+        "title": "Supertanker burns in the Strait of Hormuz",
+        "url": "https://www.aa.com.tr/en/middle-east/supertanker-hit-catches-fire-near-oman-in-strait-of-hormuz-report/4075532",
+        "sentence": "A supertanker was struck and caught fire near Oman while transiting the strait, per Anadolu Agency."
+      },
+      {
+        "title": "Shutdown averted ahead of the midterms",
+        "url": "https://www.nbcnews.com/politics/congress/senate-leaders-reach-deal-avert-shutdown-2026-elections-rcna590564",
+        "sentence": "Senate leaders reached a funding deal that keeps the government open into the fall campaign season, per NBC News."
+      },
+      {
+        "title": "Ethiopia expels Eritrean diplomats",
+        "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-2-2026/4075660",
+        "sentence": "Ethiopia closed its embassy in Eritrea and expelled 10 diplomats over what it called direct and indirect acts of hostility, per Anadolu Agency."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Anthropic points at a $2 trillion IPO",
+        "url": "https://finance.yahoo.com/technology/article/anthropic-reportedly-looking-to-ipo-as-early-as-mid-november-180315768.html",
+        "sentence": "Anthropic is reportedly preparing to go public as soon as mid-November at up to a $2 trillion valuation, the largest IPO ever, after 2025 revenue of roughly $4.6 billion, per Yahoo Finance citing Bloomberg and Reuters."
+      },
+      {
+        "title": "Google ships Gemini 4 Argon to defenders first",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+        "sentence": "Google's new frontier model posts 77.9% on DeepSWE v1.1 with a 1-million-token output limit and reaches trusted cyber defenders first under the Fairwind Program, per Google."
+      },
+      {
+        "title": "Six labs sign the superintelligence accord",
+        "url": "https://www.axios.com/2026/09/30/ai-constitution-trump-white-house",
+        "sentence": "OpenAI, Anthropic, Google, Meta, xAI and Nvidia signed the White House's one-page, 'morally binding' accord on four layers of controls and auditing, which Dario Amodei called 'a start,' per Axios."
+      },
+      {
+        "title": "OpenAI shelves GPT-6.1 Astra",
+        "url": "https://aimagazine.com/news/this-weeks-top-five-stories-in-ai-week-1-october",
+        "sentence": "OpenAI scrapped its planned GPT-6.1 Astra release after internal testing surfaced alignment failures, per AI Magazine."
+      },
+      {
+        "title": "Bitcoin reclaims $86,000 as Uptober opens",
+        "url": "https://coinpedia.org/news/bitcoin-price-today-btc-reclaims-86k-as-uptober-rally-begins",
+        "sentence": "Bitcoin jumped over 2.2% to retake $86,000 on October 1, spot ETFs took in $102.7 million, and Citi raised its 12-month target to $113,000 from $82,000, per Coinpedia."
+      }
+    ]}
+  ]
+}
