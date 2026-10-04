@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-04",
+  "headline": "Kai, the Houthis say they hit an Aramco facility in Riyadh — the oil war is no longer confined to the strait.",
+  "subline": "Smoke over Riyadh, Tehran's seven-day offer still unanswered, and OpenAI's DevDay priced always-on agents at $500 a month.",
+  "asof": "Weekend edition · strip shows Friday's close, October 2 — bitcoin is live, 6:40 AM ET Sunday · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,722.72", "delta": "+0.73%", "dir": "up"},
+    {"label": "Nasdaq", "value": "27,190.86", "delta": "+1.19%", "dir": "up"},
+    {"label": "Dow", "value": "51,176.96", "delta": "+0.49%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.28%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,162.30", "delta": "−0.95%", "dir": "down"},
+    {"label": "WTI crude", "value": "$91.11", "delta": "−1.90%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$85,244.31", "delta": "+0.8% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7722.72, "y10": 5.28, "btc": 85244.31},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Soft payrolls, higher stocks, hike odds crushed",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-2-dow-sp-500-nasdaq-september-jobs-report-080623878.html",
+        "sentence": "The S&P 500 closed Friday up 0.73% at 7,722.72 after September payrolls of 29,000 missed the 90,000 consensus, and bond traders cut the odds of an October hike to 16% from 64% a week earlier, per Yahoo Finance."
+      },
+      {
+        "title": "Wage growth slowest since May 2021",
+        "url": "https://www.eoption.com/market-review-october-02-2026/",
+        "sentence": "Average hourly earnings rose 3.0% year over year in September, the lowest reading since May 2021, taking most of the urgency out of the hike debate, per eOption's market review."
+      },
+      {
+        "title": "Crude slipped Friday; the weekend didn't",
+        "url": "https://www.eoption.com/market-review-october-02-2026/",
+        "sentence": "WTI settled 1.9% lower at $91.11 with Brent at $102.25, hours before the Houthi claim on Aramco put fresh supply risk into Monday's open, per eOption."
+      },
+      {
+        "title": "Minutes Wednesday, PepsiCo Thursday, Delta Friday",
+        "url": "https://tradingkey.com/analysis/stocks/us-stocks/262199038-weekly-preview-fed-september-minutes-pepsi-delta-earnings-tradingkey",
+        "sentence": "The Fed's September minutes land Wednesday at 2 p.m. ET, PepsiCo reports Thursday morning and Delta on Friday, with Monday's ISM services print watched for a prices-paid index that hit 72.6 in August, per TradingKey."
+      },
+      {
+        "title": "Bitcoin holds $85,000 through the weekend",
+        "url": "https://www.coingecko.com/en/coins/bitcoin",
+        "sentence": "Bitcoin traded at $85,244 early Sunday, up 0.8% over the past 24 hours, per CoinGecko, keeping its firm start to October intact while the rest of the strip slept."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Houthis claim missile strike on Riyadh Aramco site",
+        "url": "https://www.aljazeera.com/news/2026/10/4/houthis-claim-strike-on-saudi-energy-facility-as-yemen-fighting-intensifies",
+        "sentence": "Houthi spokesman Yahya Saree said ballistic missiles and drones struck Aramco in Riyadh on Saturday, where witnesses saw smoke and fire, a claim the Saudi coalition called misleading, per Al Jazeera."
+      },
+      {
+        "title": "Tehran's seven-day offer stays on Trump's desk",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-talks-strait-of-hormuz/",
+        "sentence": "Iran says it has not modified its seven-point proposal to reopen Hormuz over seven days and still awaits a formal U.S. answer, an offer Trump has already called unacceptable, per CBS News."
+      },
+      {
+        "title": "War cabinet convenes at Camp David",
+        "url": "https://www.cbsnews.com/live-updates/trump-iran-war-us-midterm-elections-troops-deployment/",
+        "sentence": "Senior officials met at Camp David on Friday as the Theodore Roosevelt and Makin Island groups sail for the region, lifting U.S. forces toward roughly 20,000 by late October, per CBS News."
+      },
+      {
+        "title": "FlyDubai cockpit attack ruled a terrorist act",
+        "url": "https://www.profilenews.com/en/daily-report-october-3-2026/",
+        "sentence": "UAE prosecutors say flight FZ1073's co-pilot attacked the captain with a crash axe and tried to seize the controls, an act they now call terrorism, per Profile News."
+      },
+      {
+        "title": "Kyiv vows deeper strikes on Russian refineries",
+        "url": "https://www.profilenews.com/en/daily-report-october-3-2026/",
+        "sentence": "Zelenskyy said Ukraine will step up attacks on Russian oil refineries in response to Moscow's widening strikes on Ukrainian energy infrastructure, per Profile News."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "OpenAI ships Sol, Dots, and a $500 tier",
+        "url": "https://pulse2.com/openai-unveils-dots-gpt-6-1-sol-500-pro-tier-and-new-enterprise-ai-tools/",
+        "sentence": "GPT-6.1 Sol lands at $2 per million input tokens and $10 per million output, alongside always-on Dots agents that run in their own cloud environments and a Pro tier that now tops out at $500 a month, per Pulse 2.0."
+      },
+      {
+        "title": "Anthropic books investors for October 14",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/",
+        "sentence": "Anthropic has invited selected institutional investors to its San Francisco headquarters on October 14, with formal IPO marketing possible the week of November 9 and a valuation that could reach or top $2 trillion, per The Neuron."
+      },
+      {
+        "title": "Claude Sonnet 5.5 cuts task costs 30%",
+        "url": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-5-with-30-cost-reduction-per-task-due-to-faster-speeds-and-fewer-tool-calls",
+        "sentence": "Anthropic's Claude Sonnet 5.5 cuts per-task cost roughly 30% through faster speeds and fewer tool calls, per VentureBeat."
+      },
+      {
+        "title": "A $30 trillion data-center bill through 2050",
+        "url": "https://www.profilenews.com/en/daily-report-october-3-2026/",
+        "sentence": "One new projection has global data-center spending exceeding $30 trillion through 2050, with the open question whether revenue growth can ever justify the outlay, per Profile News."
+      },
+      {
+        "title": "Google puts four TPUs into orbit",
+        "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-october-1-2026/",
+        "sentence": "Google's Project Suncatcher launched four Trillium TPUs on a SpaceX satellite to test space-based machine-learning infrastructure, per The Neuron."
+      }
+    ]}
+  ]
+}
