@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-05",
+  "headline": "Kai, tankers took hits near two straits over the weekend and crude still opened lower — the week belongs to Wednesday's Fed minutes.",
+  "subline": "Hike bets keep fading after a 29,000-job September; ISM services prints at 10 a.m.; gold is at $4,195.80 and the 10-year at 5.28%.",
+  "asof": "Pre-market · futures, as of 6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,771.75", "delta": "−0.07%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "31,036.50", "delta": "−0.08%", "dir": "down"},
+    {"label": "Dow fut", "value": "51,470", "delta": "−0.01%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "5.28%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,195.80", "delta": "+0.80%", "dir": "up"},
+    {"label": "WTI crude", "value": "$90.11", "delta": "−1.10%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$86,276", "delta": "+1.76% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7722.72, "y10": 5.28, "btc": 86276.12},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Futures flat, crude lower into minutes week",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html",
+        "sentence": "S&P futures sit at 7,771.75 and WTI is 1.1% lower at $90.11 — the weekend's Gulf headlines bought no Monday panic — while rising yields and the coming earnings season keep the tone cautious, per Yahoo Finance."
+      },
+      {
+        "title": "ISM today, Fed minutes Wednesday, JPMorgan October 13",
+        "url": "https://www.financecalendar.com/events/category/earnings-season/day/2026-10-05/",
+        "sentence": "ISM services prints at 10 a.m. ET today and September's FOMC minutes land Wednesday, per Yahoo Finance, while Finance Calendar shows no earnings on the slate until the season opens October 13 with JPMorgan — PepsiCo, Delta and Levi's report later this week."
+      },
+      {
+        "title": "Schneider buys PTC for $22.6 billion",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085240343.html",
+        "sentence": "Schneider Electric agreed to acquire the industrial-software maker at $205 a share — a $22.6 billion equity value that sent PTC up 34% pre-market, per Yahoo Finance."
+      },
+      {
+        "title": "Bitcoin holds $86,000 as leverage builds",
+        "url": "https://www.coindesk.com/price/bitcoin",
+        "sentence": "Bitcoin trades at $86,276, up 1.76% over 24 hours, and futures open interest has jumped $2.3 billion as traders pay a premium for bullish positions, per CoinDesk."
+      },
+      {
+        "title": "VIX up 7%, still only 16",
+        "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-5-dow-sp-500-nasdaq-081220790.html",
+        "sentence": "The VIX rose about 7% to 16.38 this morning, per Yahoo Finance — attention, not alarm."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "U.S. proposals reach Tehran through mediators",
+        "url": "https://www.clickondetroit.com/news/world/2026/10/04/israeli-strike-kills-1-palestinian-in-gaza-and-other-mideast-news/",
+        "sentence": "Iran's parliament speaker said Washington has submitted proposals through mediators, and Iran's oil minister resigned under the pressure of U.S. sanctions and the naval blockade, per an AP roundup."
+      },
+      {
+        "title": "Yemen opens Houthi offensive; tankers hit near chokepoints",
+        "url": "https://www.clickondetroit.com/news/world/2026/10/04/israeli-strike-kills-1-palestinian-in-gaza-and-other-mideast-news/",
+        "sentence": "Yemen's government announced a major operation against the Houthis, who hold the Red Sea coast, as tankers reported explosions near Bab el-Mandeb and another was struck in the Strait of Hormuz, per the AP."
+      },
+      {
+        "title": "Germany brings Kyiv $1.46 billion in air defense",
+        "url": "https://kyivindependent.com/germany-announces-1-46-billion-in-aid-for-ukraine-including-interceptor-drones/",
+        "sentence": "Chancellor Merz announced a $1.46 billion package of interceptor drones and air-defense missiles during a Kyiv visit with Zelensky, per the Kyiv Independent."
+      },
+      {
+        "title": "Kyiv says half of Russia's refining capacity wrecked",
+        "url": "https://kyivindependent.com/ukraines-deep-strikes-have-wrecked-over-half-of-russias-oil-refining-capacity-defense-ministry-says/",
+        "sentence": "Ukraine's Defense Ministry says deep strikes have damaged 51% of Russian oil-refining infrastructure, per the Kyiv Independent — a number that belongs next to the crude price above."
+      },
+      {
+        "title": "Supreme Court opens its new term today",
+        "url": "https://www.jenkinslaw.org/news/us-supreme-court-october-argument-session",
+        "sentence": "The October argument session runs today through the 14th, opening with Suncor Energy v. Boulder County and Johnson v. United States Congress, per Jenkins Law Library."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "Gemini 4 Argon ships to cyber defenders first",
+        "url": "https://aiweekly.co/alerts/googles-gemini-4-argon-rolls-out-to-cyber-defenders-first",
+        "sentence": "Google is rolling its new frontier model out to cyber-defense customers first, positioning it against GPT-6 Astra and Claude Opus 5.5 with a 1M-token output ceiling, per AI Weekly."
+      },
+      {
+        "title": "AI chiefs sign frontier pledge at White House",
+        "url": "https://fortune.com/2026/10/01/trump-ai-regulation-luncheon-huang-amodei-pichai-brockman-zuckerberg-musk-joint-committment-frontier-responsibilities/",
+        "sentence": "Nvidia's Huang, Anthropic's Amodei, Google's Pichai, Meta's Zuckerberg and OpenAI's Brockman joined a joint commitment on frontier-model responsibilities at a White House luncheon, per Fortune."
+      },
+      {
+        "title": "Musk confirms TSMC talks for Texas chips",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085240343.html",
+        "sentence": "Tesla traded higher pre-market after Musk confirmed discussions with TSMC about potential chip-manufacturing partnerships in Texas, per Yahoo Finance."
+      },
+      {
+        "title": "Bloomberg Intelligence: US-China model gap near 3%",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "After DeepSeek's V4.1-Flash release, Bloomberg Intelligence estimates Chinese frontier models now trail U.S. leaders by roughly 3%, per AI Weekly's daily roundup."
+      },
+      {
+        "title": "Altman calls Cerebras 'a close partner'",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-p-500-dow-futures-085240343.html",
+        "sentence": "Cerebras rose 7% pre-market after OpenAI's chief executive said the company 'remains a close partner,' per Yahoo Finance."
+      }
+    ]}
+  ]
+}
