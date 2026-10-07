@@ -1,0 +1,99 @@
+{
+  "date": "2026-10-07",
+  "headline": "Kai, the Fed's September minutes land this afternoon with the ten-year at 5.33% and the S&P fresh off its first close above 7,800.",
+  "subline": "Hormuz has Brent back above $101; bitcoin slipped below $84,000 overnight; Monday's hot PMIs gave the bond market something to chew on.",
+  "asof": "Pre-market · as of 6:45 AM ET, futures from a 4 AM read · gold at Tuesday's settle · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,876.00", "delta": "+0.03%", "dir": "flat"},
+    {"label": "Nasdaq 100 fut", "value": "31,422.50", "delta": "−0.19%", "dir": "down"},
+    {"label": "Dow fut", "value": "51,786", "delta": "−0.06%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.33%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold (Tue)", "value": "$4,186.20", "delta": "+0.71%", "dir": "up"},
+    {"label": "Brent crude", "value": "$101.67", "delta": "+1.08%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,754", "delta": "−2.57% (24h)", "dir": "down"}
+  ],
+  "history": {"spx": 7818.93, "y10": 5.33, "btc": 83753.63},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {
+        "title": "Fed minutes land with the 10-year at 5.33%",
+        "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+        "sentence": "Minutes from the September FOMC meeting arrive this afternoon alongside consumer credit data, per Finviz's week-ahead, with the 10-year at 5.33% — near 24-year highs and up more than 110 basis points this year, per TradingEconomics."
+      },
+      {
+        "title": "S&P 500 posts first close above 7,800",
+        "url": "https://thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-06-2026",
+        "sentence": "Tuesday ended at a record 7,818.93, up 0.58%, with the Dow at 51,521.28 and the Nasdaq at 27,599.79, as easing oil and a small retreat in yields let AI earnings growth lead again, per TheStreet."
+      },
+      {
+        "title": "Brent holds above $101 despite supply fixes",
+        "url": "https://tradingeconomics.com/commodity/crude-oil",
+        "sentence": "Brent trades at $101.67 this morning and WTI at $89.86, per TradingEconomics, even as G7 reserve releases and Gulf exports running above pre-war levels lean against the Hormuz risk premium, per Invezz."
+      },
+      {
+        "title": "Bitcoin breaks below $84,000 on Gulf risk",
+        "url": "https://www.coindesk.com/price/bitcoin",
+        "sentence": "Bitcoin trades at $83,754 after briefly dipping below $84,000 overnight, down 2.57% over 24 hours, per CoinDesk. That is a drop of about $2,211 per coin in a day, which CoinDesk ties to the Gulf escalation while its analyst note still calls the longer stair-step uptrend intact."
+      },
+      {
+        "title": "Hot PMIs set up a quiet earnings week",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-market-today-p-081149765.html",
+        "sentence": "Futures are little changed after Monday's ISM services print of 54.9 and a composite PMI of 58.4 — the fastest private-sector expansion in more than five years, with prices rising — per Yahoo Finance, while Finviz's slate this week holds Constellation Brands, Delta, Levi's, PepsiCo and Applied Digital."
+      }
+    ]},
+    {"title": "Top headlines", "items": [
+      {
+        "title": "Iran sets seven conditions to reopen Hormuz",
+        "url": "https://aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions",
+        "sentence": "Parliament speaker Ghalibaf says reopening rests on seven conditions from the Islamabad memorandum — 'the era of wasting time and dictating unilateral demands is over' — a roadmap Trump has already rejected, per Al Jazeera."
+      },
+      {
+        "title": "Trump says the strait belongs to the Navy",
+        "url": "https://www.wionews.com/world/live-blog-latest-india-world-news-today-live-updates-7-october-2026-breaking-news-headlines-jantar-mantar-iran-war-trump-russia-modi-1791346423122/amp",
+        "sentence": "Trump called the US naval presence an effective blockade and said the conflict ends the 'nice way' or the 'not-so-nice way,' while Secretary of State Rubio claimed Iran has lost complete control of Hormuz, per WION's live coverage."
+      },
+      {
+        "title": "Houthis hit Riyadh; Bab el-Mandeb contested",
+        "url": "https://cbsnews.com/live-updates/iran-war-trump-us-oil-prices-yemen-red-sea-houthis-bab-el-mandeb",
+        "sentence": "Yemen's Houthis fired a ballistic missile at Riyadh's King Khalid Airport and claimed hits on Aramco facilities while Saudi-backed forces push to retake the Red Sea coast, with one day's fighting put above 270 dead by sources AFP cites, per CBS News."
+      },
+      {
+        "title": "G7 taps 100 million barrels of reserves",
+        "url": "https://invezz.com/en-ae/news/2026/10/06/crude-oil-price-forecast-is-brents-dollar100-floor-about-to-crack-or-hold-again/",
+        "sentence": "The G7 is releasing 100 million barrels of crude and diesel over four months, and Middle East exports have exceeded the pre-war average of about 18 million barrels a day, per Invezz — the supply math holding Brent near its $100 line."
+      },
+      {
+        "title": "US declines OSCE monitors for the midterms",
+        "url": "https://heathercoxrichardson.substack.com/p/october-6-2026",
+        "sentence": "The administration will not invite OSCE election observers for November, the first US refusal since 2002 — a step previously taken only by Russia and Belarus among member states, per Heather Cox Richardson's letter."
+      }
+    ]},
+    {"title": "Tech & AI", "items": [
+      {
+        "title": "AI chiefs won't guarantee agents under oath",
+        "url": "https://www.foxnews.com/live-news/ai-super-intelligence-safety-10-06",
+        "sentence": "At a New York City Council hearing, OpenAI, Anthropic, Google and Meta executives declined to promise their agents will always follow safeguards — Anthropic's Logan Graham called the control science 'fundamentally hard and unsettled,' per Fox News."
+      },
+      {
+        "title": "Mistral ships a trillion-parameter open model",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "Mistral Large 4, nicknamed 'Le Chonk,' is a 1-trillion-parameter mixture-of-experts with 49 billion active parameters, trained on 4,000 Grace Blackwell GPUs, with open weights due at the end of October, per AI Weekly."
+      },
+      {
+        "title": "Google buys 3,590 MW from Constellation",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "A 20-year power purchase agreement routes 3,590 megawatts to Google, about a quarter of it new nuclear capacity from 11 reactor upgrades, and triggers more than $4.3 billion of Constellation investment, per AI Weekly."
+      },
+      {
+        "title": "Anthropic opens tiered access for cyber defense",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "A new verification program splits advanced cyber capability into defense, red-team and specialized tiers, after Project Glasswing partners surfaced more than 129,000 software flaws between April and July, per AI Weekly."
+      },
+      {
+        "title": "OpenAI claims 372 math results from one prompt",
+        "url": "https://aiweekly.co/ai-news-today",
+        "sentence": "OpenAI says a single-agent prompt produced 372 new mathematical results, nearly all from the one prompt with some requiring repeated attempts, per AI Weekly — peer review will have a busy quarter."
+      }
+    ]}
+  ]
+}
