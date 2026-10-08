@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-08",
+  "headline": "Kai, the war premium is back: oil up 4% on Pentagon strike reports, futures lower, and the 10-year just off its 24-year high.",
+  "subline": "The Fed's minutes point to one more hike this year, PepsiCo opens the Q3 earnings season this morning, and jobless claims land at 8:30 ET.",
+  "asof": "Pre-market · as of ~6:35 AM ET, futures and quotes from a ~6 AM board · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,821.00", "delta": "−0.40%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "31,232.50", "delta": "−0.54%", "dir": "down"},
+    {"label": "Dow fut", "value": "51,029", "delta": "−0.82%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.28%", "delta": "+0.01pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,146.30", "delta": "+0.14%", "dir": "up"},
+    {"label": "WTI crude", "value": "$91.93", "delta": "+4.13%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,107", "delta": "−0.73%", "dir": "down"}
+  ],
+  "history": {"spx": 7801.77, "y10": 5.28, "btc": 83107.10},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Ten-year touches 5.35%, a 24-year high",
+          "url": "https://fxstreet.com/news/us-treasury-yields-hit-24-year-highs-as-10-year-tests-535-202610071450",
+          "sentence": "The 10-year hit 5.35% on Wednesday, up more than 60 basis points since late July, as investors demand a higher premium for inflation and fiscal risk, per FXStreet."
+        },
+        {
+          "title": "Fed minutes point to one more hike this year",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-07-2026",
+          "sentence": "September's minutes show a committee that expects another hike before year-end but is keeping an open mind between October 28 and December 9, per TheStreet, which put Wednesday's S&P 500 close at 7,801.77."
+        },
+        {
+          "title": "Oil jumps 4% as Gulf shipping comes under fire",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-8-dow-sp-500-nasdaq-080537884.html",
+          "sentence": "WTI rose above $91 after fresh attacks on shipping around the Strait of Hormuz, eight months into the US-Israeli conflict with Iran, per Yahoo Finance's morning board, the source for the strip above."
+        },
+        {
+          "title": "PepsiCo opens a Q3 season priced for 29.5% growth",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+          "sentence": "PepsiCo reports this morning to start a season FactSet pegs at 29.5% S&P 500 earnings growth, with tech seen up 65%, per Schwab's market update."
+        },
+        {
+          "title": "Bitcoin slips toward $83,000 as yields bite",
+          "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-slips-to-usd-82900-as-treasury-yields-liquidations-test-support",
+          "sentence": "Bitcoin traded near $82,900 early Thursday, down 1.8% on the day, after more than $500 million in long liquidations and roughly $213 million of crypto-ETF outflows Wednesday, per Analytics Insight — competition from a 5%-plus Treasury is the stated culprit."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Pentagon reportedly drafting strikes on Iran nuclear, energy sites",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62239479/stock-market-today-sp-500-dow-jones-futures-decline-as-pentagon-prepares-for-potential-military-strikes-on-iran-apld-levi-mu-in-focus",
+          "sentence": "Benzinga reports the Pentagon is preparing options against Iranian nuclear and energy targets while a Marshall Islands-flagged tanker burns in the Gulf of Oman and Tehran insists Hormuz stays shut."
+        },
+        {
+          "title": "Hurricane Isaias takes aim at the Gulf Coast",
+          "url": "https://weather.com/2026/10/08/storms/hurricane/tropical-storm-hurricane-isaias-gulf-coast-louisiana-florida",
+          "sentence": "The season's first Atlantic hurricane carries warnings from Ocean Springs, Mississippi, to the Florida Panhandle ahead of a Friday-night landfall at Category 1 or 2 strength, per The Weather Channel."
+        },
+        {
+          "title": "Nobel week: the literature prize lands this morning",
+          "url": "https://www.britannica.com/topic/2026-Nobel-Prize-winners",
+          "sentence": "The Swedish Academy names its literature laureate today, after Wednesday's chemistry prize went to Henri Kagan and Kenso Soai for asymmetric autocatalysis, per Britannica."
+        },
+        {
+          "title": "New super PAC will spend against AI-backed candidates",
+          "url": "https://foxnews.com/live-news/open-ai-anthropic-us-tech-security-october-7",
+          "sentence": "The Guardrails Alliance plans $1.2 million to oppose midterm candidates aligned with the AI industry, demanding independent oversight with real enforcement power, per Fox News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Microsoft rebuilds Windows around AI agents",
+          "url": "https://fortune.com/2026/10/08/microsoft-revamps-windows-agentic-ai",
+          "sentence": "Satya Nadella pitched Windows as 'hybrid intelligence' that runs Copilot locally on-device, alongside a $2,599 Surface Laptop Ultra on Nvidia's RTX Spark chip due October 16, per Fortune."
+        },
+        {
+          "title": "SpaceX seeks $40 billion to buy Nvidia chips",
+          "url": "https://www.investing.com/news/stock-market-news/spacex-seeks-40-billion-to-buy-nvidia-chips-ft-reports-4935381",
+          "sentence": "Reuters confirms an FT report that Apollo would lead roughly $10 billion in bank loans plus $30 billion of investment-grade debt tied to xAI's Colossus 2 build-out, with SPCX shares off about 2% on the news."
+        },
+        {
+          "title": "OpenAI model posts proofs of unsolved math problems",
+          "url": "https://foxnews.com/live-news/open-ai-anthropic-us-tech-security-october-7",
+          "sentence": "OpenAI says an internal frontier model worked through hundreds of open problems at about three hours apiece and published the proofs to a public GitHub repository, per Fox News."
+        },
+        {
+          "title": "OpenAI retakes model-traffic share from Anthropic",
+          "url": "https://gizmodo.com/report-suggests-openai-has-clawed-tons-of-market-share-back-from-anthropic-in-2026-2000823382",
+          "sentence": "OpenRouter data seen by the Wall Street Journal puts OpenAI near 50% of routed usage, up from under 25% in January, per Gizmodo, which cautions the sample skews toward AI-native startups."
+        }
+      ]
+    }
+  ]
+}
