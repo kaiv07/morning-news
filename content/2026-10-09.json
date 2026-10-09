@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-09",
+  "headline": "Kai, a pledge to hold fire on Iran until after the midterms has oil down and futures green after a two-day tech slide.",
+  "subline": "Michigan sentiment lands at 10 a.m. with forecasts near 48, Delta opens earnings season before the bell, and the Nobel Peace Prize goes to Navi Pillay.",
+  "asof": "Pre-market · as of ~6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,847.25", "delta": "+0.40%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "31,213.25", "delta": "+0.79%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,567", "delta": "+0.14%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.23%", "delta": "−0.05pp", "dir": "down"},
+    {"label": "Gold", "value": "$4,210.30", "delta": "+1.28%", "dir": "up"},
+    {"label": "WTI crude", "value": "$90.56", "delta": "−1.02%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$82,590", "delta": "−0.08%", "dir": "flat"}
+  ],
+  "history": {"spx": 7765.36, "y10": 5.23, "btc": 82590},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures rise as oil slips on Iran pause",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+          "sentence": "S&P 500 futures rose 0.4% and WTI slipped about 1% after President Trump said the US would not strike Iran before the midterms, though traders remain skeptical the war ends there, per Yahoo Finance's morning board, which also supplies today's strip."
+        },
+        {
+          "title": "Michigan sentiment due at 10 a.m.",
+          "url": "https://fxstreet.com/news/uom-consumer-sentiment-index-expected-to-decline-in-october-amid-high-oil-prices-202610091000",
+          "sentence": "Forecasters see the October preliminary reading near 48, down from 48.1 and a third straight monthly decline as high oil prices weigh on households, per FXStreet."
+        },
+        {
+          "title": "Delta opens earnings season this morning",
+          "url": "https://seekingalpha.com/news/4651417-delta-air-lines-q3-setup-revenue-strength-vs-eps-cuts-fuel-costs",
+          "sentence": "Delta reports before the bell with analysts flagging revenue strength against fuel-driven EPS cuts, and the big banks follow Tuesday to open the season proper, per Seeking Alpha and Yahoo Finance."
+        },
+        {
+          "title": "Gold back above $4,200 as yields ease",
+          "url": "https://mitrade.com/au/insights/commodity/gold/gold-price-forecast-4200-october-9-2026",
+          "sentence": "Spot gold rebounded more than 1% from a two-month low as the 10-year eased a second day, even as St. Louis Fed's Musalem said further rate increases may be needed, per Reuters reporting cited by Mitrade."
+        },
+        {
+          "title": "Bitcoin steadies near $82,600 after Thursday dip",
+          "url": "https://coincentral.com/bitcoin-holds-near-82k-as-fed-bill-purchase-sparks-liquidity-debate213981-2",
+          "sentence": "Bitcoin recovered to about $82,000 after Thursday's slide to $80,400, capping a week of $487 million in spot-ETF outflows as 5%-plus Treasury yields pull capital away, per CoinCentral."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Nobel Peace Prize goes to Navi Pillay",
+          "url": "https://www.timesofisrael.com/liveblog-oct-9-2026/",
+          "sentence": "The Norwegian committee honored the 85-year-old former UN human rights chief, now an ICJ judge, saying the ability to resolve conflicts without force 'is dependent on the international rule of law,' per The Times of Israel."
+        },
+        {
+          "title": "Trump rules out Iran strikes before November 3",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
+          "sentence": "In a social post Trump said the US 'will not be attacking Iran at any time prior to the Midterm Elections' while keeping the naval blockade in full force, per ABC News."
+        },
+        {
+          "title": "Pentagon drafts options to renew Iran war",
+          "url": "https://www.nbcnews.com/politics/national-security/us-military-prepares-new-iran-war-options-ahead-midterm-elections-rcna601725",
+          "sentence": "The military is preparing new strike options for after the election, including a reported plan for three days of intense strikes, per NBC News and a New York Times report cited by The Times of Israel."
+        },
+        {
+          "title": "Houthis claim deadly attack on Riyadh airport",
+          "url": "https://www.timesofisrael.com/liveblog-oct-9-2026/",
+          "sentence": "Saudi authorities said three citizens, including a Saudia Airlines pilot, were killed in two attacks the Houthis claimed on the capital's airport, per The Times of Israel."
+        },
+        {
+          "title": "Hurricane Isaias puts Gulf Coast under warning",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-9th-2026-morning",
+          "sentence": "A hurricane warning stretches from Ocean Springs, Mississippi, to Florida's Gulf County line, with airports closed and Gulf oil and gas production already affected, per Inkl's morning bulletin."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI's $50 billion run rate misses projections",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+          "sentence": "The Financial Times reports annualized revenue near $50 billion — about $20 billion short of estimates — while Bloomberg says OpenAI expects $70 billion or more by year-end, per Yahoo Finance."
+        },
+        {
+          "title": "AI's arms race shifts to financing",
+          "url": "https://fortune.com/2026/10/09/ai-financing-broadcom-openai-debt",
+          "sentence": "Broadcom has reportedly discussed raising about $30 billion of debt to help OpenAI buy chips the two are co-developing, while Nvidia mobilizes over $500 billion in third-party capital for customers' build-outs, per Fortune."
+        },
+        {
+          "title": "SpaceX spectrum deal hammers telecom stocks",
+          "url": "https://finance.yahoo.com/markets/stocks/article/telecom-stocks-sink-after-spacexs-starlink-picks-up-spectrum-assets-224253321.html",
+          "sentence": "Starlink agreed to buy up to 14 MHz of nationwide 800 MHz spectrum from Grain Management, and AT&T, Verizon, and T-Mobile fell 7% to 8% in late trading, per Yahoo Finance."
+        },
+        {
+          "title": "Lumentum's AI optics sold out to 2029",
+          "url": "https://startupfortune.com/lumentum-says-its-ai-optical-parts-are-sold-out-all-the-way-to-2029/",
+          "sentence": "The optical-components maker says AI demand has its parts booked solid through 2029, per Startup Fortune; the hardware queue now runs three years deep."
+        }
+      ]
+    }
+  ]
+}
