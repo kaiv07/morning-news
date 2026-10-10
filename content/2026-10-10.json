@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-10",
+  "headline": "Kai, stocks ended a volatile week higher despite $90 oil and a 5.24 percent ten-year — and the banks report Tuesday.",
+  "subline": "Isaias comes ashore this morning with nearly two-thirds of Gulf crude shut in, the IRGC is still claiming tanker strikes near Hormuz, and consumer sentiment just hit a five-month low.",
+  "asof": "Weekend edition · strip is Friday's close (Oct 9), bitcoin early Saturday · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,811.54", "delta": "+0.59%", "dir": "up"},
+    {"label": "Nasdaq", "value": "27,366.17", "delta": "+0.64%", "dir": "up"},
+    {"label": "Dow", "value": "51,654.95", "delta": "+0.83%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.24%", "delta": "+0.01pp", "dir": "up"},
+    {"label": "Gold", "value": "$4,220.90", "delta": "+1.54%", "dir": "up"},
+    {"label": "WTI crude", "value": "$91.85", "delta": "+0.39%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$82,700", "delta": "+1.1%", "dir": "up"}
+  ],
+  "history": {"spx": 7811.54, "y10": 5.24, "btc": 82700},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Banks open earnings season Tuesday",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
+          "sentence": "Delta cut its 2026 outlook on fuel costs, the major banks report Tuesday, and the CPI report is due next week, per TheStreet."
+        },
+        {
+          "title": "Consumer sentiment hits a five-month low",
+          "url": "https://rockandturner.substack.com/p/fri-oct-9-2026-the-market-today",
+          "sentence": "Michigan's preliminary October reading fell to 46.3 from 48.1, and one-year inflation expectations rose to 4.7 percent, the highest since May, per Rock & Turner's daily market recap."
+        },
+        {
+          "title": "Committee formed to weigh removing Fed's Cook",
+          "url": "https://rockandturner.substack.com/p/fri-oct-9-2026-the-market-today",
+          "sentence": "The committee will consider removing governor Lisa Cook over mortgage-fraud allegations she denies, with a hearing expected November 5, per Rock & Turner's daily recap."
+        },
+        {
+          "title": "Bitcoin's down week ends with ETF inflows",
+          "url": "https://www.tradingkey.com/analysis/cryptocurrencies/btc/262209756-bitcoin-forecast-stabilize-82000-etf-funds-return-87000-tradingkey",
+          "sentence": "The coin sat near $82,700 early Saturday after a week that ran from almost $87,000 Monday to about $80,400 Thursday, down more than 4 percent, per TradingKey. Spot-ETF flows turned positive Friday with $21.1 million coming in, after roughly $729 million left on Wednesday and Thursday."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Isaias lands with two-thirds of Gulf crude shut",
+          "url": "https://oilprice.com/Energy/Crude-Oil/Hurricane-Isaias-Shuts-In-128-Million-Bpd-of-Gulf-Oil-Production.html",
+          "sentence": "The season's first hurricane neared Category 3 ahead of an early-Saturday landfall near the Florida Panhandle, with 1.28 million barrels a day — nearly 63 percent of Gulf output — shut in, per Oilprice."
+        },
+        {
+          "title": "IRGC claims strike on tanker near Hormuz",
+          "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-us-attack-iran-ahead/?id=137063637",
+          "sentence": "Iran's IRGC Navy said it set the LPG carrier NV Sunshine's engine room on fire south of the strait, days after Trump pledged no strikes on Iran before the midterms, per ABC News."
+        },
+        {
+          "title": "U.S. says it seized $1 billion in Iranian crypto",
+          "url": "https://www.theblock.co/post/403075/us-has-seized-nearly-1-billion-in-crypto-from-iran-bessent-says",
+          "sentence": "Treasury Secretary Scott Bessent said the United States has seized nearly $1 billion in cryptocurrency from Iran, per The Block."
+        },
+        {
+          "title": "OCC fines American Express $350 million",
+          "url": "https://rockandturner.substack.com/p/fri-oct-9-2026-the-market-today",
+          "sentence": "The penalty for anti-money-laundering failures landed the Friday before the big banks open their earnings week, per Rock & Turner's recap."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI counters with a $70 billion forecast",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-9-dow-sp-500-nasdaq-080148117.html",
+          "sentence": "After Thursday's selloff on a report putting annualized revenue near $50 billion, a later report said OpenAI expects $70 billion by year-end, and tech led Friday's rebound, per Yahoo Finance."
+        },
+        {
+          "title": "Apple trims iPhone 18 Pro component orders",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
+          "sentence": "Skyworks fell 6.41 percent on reports of the cuts, and HP slid after a filing pointed to lower PC volumes in 2027, per TheStreet."
+        },
+        {
+          "title": "Meta and Sierra propose an agent standard",
+          "url": "https://techstartups.com/2026/10/09/top-ai-news-stories-this-week-october-5-9-2026/",
+          "sentence": "The Personal Agent Protocol, an open standard for AI assistants dealing with businesses, arrived with 35 partners including OpenAI, Visa and Mastercard, per Tech Startups."
+        },
+        {
+          "title": "Nvidia pledges $1 billion to U.S. research",
+          "url": "https://techstartups.com/2026/10/09/top-ai-news-stories-this-week-october-5-9-2026/",
+          "sentence": "The five-year commitment covers AI, quantum computing, healthcare and energy security, per Tech Startups' weekly roundup."
+        },
+        {
+          "title": "Most Americans say AI moves too fast",
+          "url": "https://www.ksat.com/news/politics/2026/10/08/most-americans-think-artificial-intelligence-is-developing-too-fast-a-new-ap-norc-poll-finds/",
+          "sentence": "An AP-NORC poll found 64 percent of U.S. adults say AI is developing too fast, against 27 percent who call the pace about right, the Associated Press reports."
+        }
+      ]
+    }
+  ]
+}
