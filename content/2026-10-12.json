@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-12",
+  "headline": "Kai, fresh Houthi fire kept Riyadh's airport shut through Sunday, and futures still point higher into bank earnings and CPI week.",
+  "subline": "Brent holds near $103, JPMorgan opens earnings season Tuesday, and Wednesday's CPI decides whether the Fed gets to pause.",
+  "asof": "Pre-market · as of 6:40 AM ET · index values are futures; bond market closed for Columbus Day · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,879.25", "delta": "+0.25%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "31,169.00", "delta": "+0.19%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,020", "delta": "+0.18%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.24%", "delta": "— Fri close", "dir": "flat"},
+    {"label": "Gold fut", "value": "$4,202.90", "delta": "−0.32%", "dir": "down"},
+    {"label": "WTI crude", "value": "$91.42", "delta": "−0.47%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$83,507", "delta": "+0.66%", "dir": "up"}
+  ],
+  "history": {"spx": 7811.51, "y10": 5.24, "btc": 83507},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures rise with the big banks on deck Tuesday",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html",
+          "sentence": "S&P futures are up 0.25 percent early Monday as JPMorgan, Goldman Sachs and Citi open third-quarter earnings season Tuesday, per Yahoo Finance."
+        },
+        {
+          "title": "CPI Wednesday; markets lean December for the next hike",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-october-12-2026",
+          "sentence": "September CPI lands Wednesday as the week's main event, with Polymarket pricing a 16.5 percent chance of a hike on October 28 but 74.5 percent for a quarter point by December, per The Rio Times."
+        },
+        {
+          "title": "Bond market closed today; ten-year at 24-year high",
+          "url": "https://investinglive.com/stock-market-update/us-stocks-open-but-bond-market-shut-for-columbus-day-what-traders-need-to-know/",
+          "sentence": "Stocks trade normal hours but SIFMA closed dollar fixed income for Columbus Day, freezing the ten-year at last week's 24-year highs until Tuesday, per Investing Live."
+        },
+        {
+          "title": "Oil eases on the energy truce; diesel does not",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+          "sentence": "WTI slipped toward $91 after Trump's claimed Russia-Ukraine energy truce, while U.S. diesel averages $6.28 a gallon against $3.68 a year ago, per Yahoo Finance and CBS News."
+        },
+        {
+          "title": "Bitcoin steadies near $83,500 after a bruising week",
+          "url": "https://cryptotimes.io/2026/10/12/bitcoin-price-today-btc-back-above-84k-as-etf-selling-eases-and-shorts-unwind",
+          "sentence": "Bitcoin trades near $83,500 this morning, up 0.66 percent, per Yahoo Finance. The week behind it was a 3.3 percent slide driven by roughly $730 million in spot-ETF outflows and over $1.1 billion in liquidations before shorts began covering, per The Crypto Times."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "New strikes keep Riyadh's airport closed; flights suspended",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+          "sentence": "Saturday's strike on King Khalid International killed at least 12 and wounded 309, and another projectile closed the airport Sunday as Lufthansa, Emirates and others suspended Riyadh flights, per CBS News."
+        },
+        {
+          "title": "Iran calls U.S. response 'insufficient' as talks stall",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+          "sentence": "Tehran's top security official said Iran is no longer responding to Washington and threatened regional 'cables, data centers, AI facilities' if intense fighting resumes, per CBS News."
+        },
+        {
+          "title": "Kyiv says Russia already violated the energy truce",
+          "url": "https://www.nbcnews.com/world/ukraine/trump-russia-ukraine-agree-energy-ceasefire-zelenskyy-diesel-rcna602766",
+          "sentence": "A day after Trump announced an immediate energy ceasefire, Zelenskyy said Russian strikes on Ukraine's energy facilities have not stopped, per NBC News."
+        },
+        {
+          "title": "Gulf tanker attacks hit wartime highs around Hormuz",
+          "url": "https://www.cnbc.com/2026/10/09/iran-war-strait-hormuz-tanker-attack-oil.html",
+          "sentence": "Attacks on shipping have surged to wartime highs as Iran tries to choke off Gulf oil exports, with the IRGC blaming a mine for the latest tanker explosion, per CNBC."
+        },
+        {
+          "title": "Murphy warns the war is 'spiraling out of control'",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-elections-saudi-arabia-yemen-houthis/",
+          "sentence": "With midterms three weeks out, Sen. Chris Murphy said the U.S. should not retaliate on Saudi Arabia's behalf, per CBS News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Microsoft's leaders ask Washington to regulate AI now",
+          "url": "https://benzinga.com/markets/tech/26/10/62292069/microsoft-president-warns-ai-is-less-regulated-than-milk-washing-machines-as-he-pushes-governments-toward-tougher-safety-rules",
+          "sentence": "Brad Smith said a washing machine faces more safety rules than AI as he, Nadella and Gates pushed for pre-launch reviews and emergency kill switches, per Benzinga."
+        },
+        {
+          "title": "Amazon circles Decart at a reported $7 billion",
+          "url": "https://startupfortune.com/amazon-is-reportedly-circling-decart-after-nvidia-and-anthropic-both-walked-away/",
+          "sentence": "Amazon is reportedly in talks to buy the Israeli world-model startup after Anthropic agreed to roughly the same price and then walked away following diligence, per Startup Fortune."
+        },
+        {
+          "title": "TSMC expected to post a sixth straight record profit",
+          "url": "https://investing.com/news/stock-market-news/tsmc-expected-to-report-sixth-straight-quarter-of-record-profit-thanks-to-ai-boom-4943004",
+          "sentence": "TSMC reports Thursday and ASML Wednesday in the week's main test of AI-chip demand, with TSMC seen posting a sixth consecutive record quarterly profit, per Reuters."
+        },
+        {
+          "title": "Apple's smart-home event lands Tuesday in New York",
+          "url": "https://finance.yahoo.com/technology/articles/stocktwits-tech-watch-asml-tsmc-050342095.html",
+          "sentence": "Apple's 'Welcome Home' event is expected to show a touchscreen home hub plus refreshed HomePod mini and Apple TV hardware, per Stocktwits on Yahoo Finance."
+        },
+        {
+          "title": "An OpenAI revenue surprise dented chips last week",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-09-2026",
+          "sentence": "Thursday's tech selloff followed a report that OpenAI's annualized revenue runs about $20 billion below earlier estimates, and the SOXX chip ETF still ended the week down 5.1 percent, per TheStreet and Stocktwits."
+        }
+      ]
+    }
+  ]
+}
