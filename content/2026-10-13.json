@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-13",
+  "headline": "Kai, a Chinese memory threat knocked 10 percent off SK Hynix overnight, and the big banks open earnings season before today's bell.",
+  "subline": "Seoul's rout is the AI trade's stress test, JPMorgan, Goldman, Citi and Wells report this morning, and tomorrow's CPI decides whether December hike pricing sticks.",
+  "asof": "Pre-market · as of 6:55 AM ET · index values are December futures (delayed) · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,855.50", "delta": "−0.03%", "dir": "down"},
+    {"label": "Nasdaq 100 fut", "value": "30,718.75", "delta": "−0.58%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,425", "delta": "+0.60%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.19%", "delta": "−0.05 vs Fri", "dir": "down"},
+    {"label": "Gold", "value": "$4,187.39", "delta": "+0.37%", "dir": "up"},
+    {"label": "WTI crude", "value": "$92.07", "delta": "−1.78%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$83,334", "delta": "−0.20%", "dir": "down"}
+  ],
+  "history": {"spx": 7807.24, "y10": 5.19, "btc": 83334},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Four big banks report before the open",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-october-12-dow-sp-500-nasdaq-080321571.html",
+          "sentence": "JPMorgan, Goldman Sachs, Citigroup and Wells Fargo open third-quarter earnings season this morning with the KBW bank index down more than 14 percent from its August peak, per Yahoo Finance."
+        },
+        {
+          "title": "Seoul's 'Black Tuesday' guts the memory trade",
+          "url": "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-shares-plunge-on-black-tuesday-amid-concerns-over-chinese-chip/12918371",
+          "sentence": "SK Hynix fell 10.09 percent and Samsung Electronics 7.39 percent on reports of server-DRAM progress at China's CXMT, dragging the Kospi down more than 4 percent, per the Korea JoongAng Daily."
+        },
+        {
+          "title": "Futures split: Dow up, Nasdaq dragged lower",
+          "url": "https://www.investing.com/indices/indices-futures",
+          "sentence": "December contracts have the Dow up 0.60 percent while Nasdaq 100 futures fall 0.58 percent under the memory-stock weight, per Investing.com's delayed quotes."
+        },
+        {
+          "title": "Ten-year reopens at 5.19 percent",
+          "url": "https://benzinga.com/markets/equities/26/10/62316074/stock-market-today-dow-jones-sp-500-futures-gain-while-nasdaq-100-falls-as-scott-bessent-says-irans-economy-is-collapsing-sxtc-amat-cmg-in-focus",
+          "sentence": "Back from the Columbus Day bond holiday, the 10-year yield sits at 5.19 percent, spot gold holds near $4,187 and WTI trades around $92.07, per Benzinga."
+        },
+        {
+          "title": "CPI lands tomorrow; hike odds keep climbing",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-october-13-2026/",
+          "sentence": "September CPI prints Wednesday at 8:30 AM ET with consensus near 3.7 percent year over year against 3.4 prior, and Polymarket prices a 75.5 percent chance of a Fed hike by December, per The Rio Times."
+        },
+        {
+          "title": "Bitcoin defends $81,000, steadies near $83,700",
+          "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-holds-near-usd-83750-as-etf-outflows-and-cpi-risk-test-support",
+          "sentence": "Bitcoin dipped toward $81,000 overnight before buyers stepped in, leaving it near $83,750 this morning, per Analytics Insight. The same report counts about $680 million of weekly outflows from US spot ETFs, the first weekly outflow since early September, with CPI the next test."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Energy ceasefire wobbles on day two",
+          "url": "https://www.aljazeera.com/economy/2026/10/13/trump-insists-energy-ceasefire-holds-as-ukraine-reports-new-russian-strikes",
+          "sentence": "Trump says the truce holds, but Zelenskyy counted six Russian strikes on Ukrainian energy facilities Monday with 33 people wounded, and Lavrov rejected any pause in the fighting, per Al Jazeera."
+        },
+        {
+          "title": "Ukraine pauses refinery strikes; drones still fly",
+          "url": "https://www.themoscowtimes.com/2026/10/13/ukraine-holds-off-refinery-attacks-for-second-day-after-trump-ceasefire-claim-a93957",
+          "sentence": "Kyiv held off refinery attacks for a second day, even as Russia claimed 604 Ukrainian drones downed overnight and some 150 flights were delayed or canceled around Moscow, per The Moscow Times."
+        },
+        {
+          "title": "Economics Nobel goes to Hall and Woodford",
+          "url": "https://www.cnbc.com/2026/10/12/nobel-economics-prize-winner-woodford-hall.html",
+          "sentence": "Robert E. Hall and Michael Woodford won the 2026 prize for work on economic downturns, names any macro student will recognize, per CNBC and CNN."
+        },
+        {
+          "title": "Houthis warn Washington against joining Saudi strikes",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-saudi-arabia-houthi/",
+          "sentence": "The Houthis threatened a 'swift and painful' response if the US joins Saudi Arabia's strikes on the Iran-backed group, per CBS News."
+        },
+        {
+          "title": "Saudi coalition intercepts two more ballistic missiles",
+          "url": "https://www.thenationalnews.com/news/mena/2026/10/13/live-riyadh-airport-saudi-houthis/",
+          "sentence": "The Saudi-led coalition said it intercepted two ballistic missiles targeting a southern city, the latest in the barrage that has kept Riyadh's airport in crisis, per The National."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Meta ships Muse Wonder, its first frontier models",
+          "url": "https://tech.yahoo.com/ai/meta-ai/articles/meta-releases-first-frontier-model-175656485.html",
+          "sentence": "Meta's Superintelligence Lab released Wonder and Wonder Full, claiming parity with rivals' best models on its own tests and pricing the API at $4 per million input tokens, per TechCrunch."
+        },
+        {
+          "title": "CXMT's server-memory claim triggered the rout",
+          "url": "https://www.koreajoongangdaily.com/business/samsung-sk-hynix-shares-plunge-on-black-tuesday-amid-concerns-over-chinese-chip/12918371",
+          "sentence": "China's largest DRAM maker says it has made key progress on 4F² technology and plans DDR5 server modules by year-end, the claim that unnerved holders of Korean memory names, per the Korea JoongAng Daily."
+        },
+        {
+          "title": "Apple's 'Welcome Home' event is today",
+          "url": "https://www.tomsguide.com/news/live/apple-homeview-event-october-13-live-updates",
+          "sentence": "Apple is expected to show a HomeView smart display, a new Apple TV 4K and a HomePod mini 2 at today's smart-home event, per Tom's Guide."
+        },
+        {
+          "title": "OpenAI's $50 billion run rate, explained",
+          "url": "https://admiralmarkets.com/analytics/traders-blog/openai-revenue-ai-selloff-october-2026",
+          "sentence": "The FT put OpenAI's annualized revenue near $50 billion in September, roughly $20 billion under figures circulating among investors, a gap attributed mostly to how cloud-partner sales are booked, per Admiral Markets."
+        },
+        {
+          "title": "Fortune asks who checks the AI labs",
+          "url": "https://fortune.com/2026/10/12/can-we-trust-openai-and-anthropic-to-monitor-their-own-technology/",
+          "sentence": "Fortune's Diane Brady argues frontier models need an FAA-style licensing regime rather than self-monitoring, citing recent incident disclosures from OpenAI and Anthropic, per Fortune."
+        }
+      ]
+    }
+  ]
+}
