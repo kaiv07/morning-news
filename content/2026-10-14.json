@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-14",
+  "headline": "Kai, everything before the open is throat-clearing: the 8:30 CPI print decides whether an October Fed hike is back on the table.",
+  "subline": "Consensus sits at 3.6 percent, ASML posted a record AI-driven quarter overnight, and Brent holds above $105 with the Iran standoff unresolved.",
+  "asof": "Pre-market · futures, yield and crypto quotes as of about 4:15 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,872.75", "delta": "+0.22%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "30,839.50", "delta": "+0.16%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,095", "delta": "+0.31%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.22%", "delta": "−0.02", "dir": "down"},
+    {"label": "Gold", "value": "$4,173.60", "delta": "−0.09%", "dir": "down"},
+    {"label": "WTI crude", "value": "$94.14", "delta": "—", "dir": "flat"},
+    {"label": "Bitcoin", "value": "$83,593", "delta": "+0.13%", "dir": "up"}
+  ],
+  "history": {"spx": 7805, "y10": 5.22, "btc": 83592.84},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "CPI at 8:30: 3.6 percent is the bar",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-14-dow-sp-500-nasdaq-081136597.html",
+          "sentence": "Consensus puts September headline CPI at 3.6 percent year over year versus 3.4 in August with core near 2.5, and a hotter print puts an October Fed hike back in play, per Yahoo Finance and FXStreet."
+        },
+        {
+          "title": "Goldman beat big; three more banks report today",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+          "sentence": "Goldman earned $17.01 a share against a $12.86 consensus while JPMorgan missed on revenue, and Bank of America, Morgan Stanley and BlackRock are due this morning, per Charles Schwab and Yahoo Finance."
+        },
+        {
+          "title": "Williams pencils in one more hike, then done",
+          "url": "https://investrade.com/market-review-october-13-2026/",
+          "sentence": "New York Fed chief John Williams says one more increase this year is appropriate but expects none in 2027, with inflation slowing 'quite a bit' next year, per Investrade's market review."
+        },
+        {
+          "title": "Tudor Jones: unresolved Iran adds $20 to oil",
+          "url": "https://investrade.com/market-review-october-13-2026/",
+          "sentence": "WTI settled at $94.14 and Brent at $105.69 on Tuesday, and Paul Tudor Jones said the unresolved US-Iran conflict could add another $20 to $25 a barrel near term, per Investrade."
+        },
+        {
+          "title": "Bitcoin range-bound near $83,600 into CPI",
+          "url": "https://kucoin.com/news/articles/crypto-daily-market-report-october-14-2026",
+          "sentence": "Bitcoin is pinned between support near $82,800 and resistance at $84,000 after Tuesday's bounce from below $81,000, with this morning's CPI the next catalyst, per KuCoin's daily report and Yahoo Finance."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Tehran rejects US terms; Hormuz attacks widen",
+          "url": "https://www.benzinga.com/markets/equities/26/10/62292629/stock-market-today-sp-500-dow-jones-futures-gain-even-as-iran-flags-inadequate-us-response-to-peace-terms-smp-qmco-svrn-in-focus",
+          "sentence": "Iran stepped up attacks on shipping near the Strait of Hormuz and called Washington's response to its peace terms inadequate, with prediction markets seeing low odds the strait reopens soon, per Benzinga."
+        },
+        {
+          "title": "Vatican calls Pope Leo's cancer surgery successful",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-14th-2026-morning",
+          "sentence": "The Vatican says the operation on the US-born pontiff, diagnosed with lung cancer, went well and he is recovering, per the Guardian via Inkl's morning bulletin."
+        },
+        {
+          "title": "Trump stumps Arizona and Montana before midterms",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-14th-2026-morning",
+          "sentence": "Fresh off an Alaska stop, Trump is holding rallies in conservative-leaning corners of competitive states ahead of November's midterms, per the Guardian via Inkl."
+        },
+        {
+          "title": "Israel bars airline crews from 31 countries",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-14th-2026-morning",
+          "sentence": "Air France says it will comply with new Israeli rules barring flight crews of certain nationalities, reportedly covering 31 mostly Muslim-majority countries, per the Times of India via Inkl."
+        },
+        {
+          "title": "Hurricane Isaias insured losses: $1-2 billion",
+          "url": "https://investrade.com/market-review-october-13-2026/",
+          "sentence": "Catastrophe modeler Verisk puts insured losses from the hurricane at $1 billion to $2 billion, per Investrade's market review."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "ASML's record quarter: AI orders outrun capacity",
+          "url": "https://www.sec.gov/Archives/edgar/data/0000937966/000162828026065813/pressreleasefinancialresul.htm",
+          "sentence": "Third-quarter sales hit a record €11.7 billion, customers are placing orders out to 2029 and 2030, and ASML says planned 2027-28 capacity will not fully meet demand, per its results release filed with the SEC."
+        },
+        {
+          "title": "Gemini 4 Argon rolls out broadly",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026",
+          "sentence": "Google opened its flagship model to developers, enterprises and consumers on Tuesday after a late-September debut limited to cybersecurity partners, trying to regain ground on OpenAI and Anthropic, per The Neuron and Reuters."
+        },
+        {
+          "title": "Anthropic, OpenAI clash with safety evaluators",
+          "url": "https://thenextweb.com/news/anthropic-openai-ai-evaluators-publication-control",
+          "sentence": "Both labs sought sign-off rights over what outside evaluators such as METR and Accenture's Faculty can publish, a trade-secrets-versus-independence fight first reported by Reuters, per The Next Web."
+        },
+        {
+          "title": "OpenAI traces hidden recorder to its own employee",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026",
+          "sentence": "The company says its models helped identify a recording device planted in an office and trace it to an employee, since arrested and fired, with the case referred to the FBI, per The Neuron."
+        },
+        {
+          "title": "Nicolas Cage: 'not an AI-friendly actor'",
+          "url": "https://theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-13-2026",
+          "sentence": "The actor refused to sign an AI likeness waiver from Amazon, the studio behind Spider-Noir, the latest flashpoint in Hollywood's fight over performer consent, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
