@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-15",
+  "headline": "Kai, yesterday's inflation print is still rippling: Seoul tripped its first circuit breaker since July, and even a blowout TSMC quarter couldn't hold the chip trade together.",
+  "subline": "October hike odds are live again, September PPI and retail sales land this morning, and bitcoin spent the night below $81,000.",
+  "asof": "Pre-market · index values are Wednesday's close, deltas are this morning's futures · as of 6:40 AM ET · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,718.94", "delta": "−0.30% fut", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,692.87", "delta": "−1.13% fut", "dir": "down"},
+    {"label": "Dow", "value": "51,621", "delta": "+0.29% fut", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.08%", "delta": "−0.11", "dir": "down"},
+    {"label": "Gold", "value": "$4,112", "delta": "−1.04%", "dir": "down"},
+    {"label": "Brent", "value": "$103.94", "delta": "−2.00%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$80,927", "delta": "−2.92%", "dir": "down"}
+  ],
+  "history": {"spx": 7718.94, "y10": 5.08, "btc": 80927},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "CPI runs hot at 3.7 percent",
+          "url": "https://riotimesonline.com/global-economy-briefing-october-15-2026",
+          "sentence": "September inflation rose 0.6 percent on the month and 3.7 on the year with core at 2.6, and the S&P 500 fell 1.1 percent on the day, per The Rio Times' global briefing."
+        },
+        {
+          "title": "October hike odds jump, then ease",
+          "url": "https://www.schwab.com/learn/story/stock-market-update-open",
+          "sentence": "Bloomberg-tracked odds of a Fed hike this month jumped to 46 percent from about 20 after the print, then eased as Treasuries recovered through the session, per Schwab and CaixaBank Research."
+        },
+        {
+          "title": "Seoul circuit breaker caps global chip rout",
+          "url": "https://www.fxstreet.com/analysis/kospi-closes-76-lower-after-a-circuit-breaker-despite-strong-tsmc-results-202610150948",
+          "sentence": "The Kospi closed 7.6 percent lower after its first circuit breaker since July, with the Philadelphia Semiconductor index down 4.5 percent and Nvidia off 3.2 in Wednesday's rout, per FXStreet."
+        },
+        {
+          "title": "PPI, retail sales and bank earnings today",
+          "url": "https://www.tipranks.com/news/stock-market-today-oct-15-futures-mixed-as-tech-stocks-slide-investors-await-ppi-data",
+          "sentence": "September PPI is expected up 0.5 percent on the month, retail sales and jobless claims follow, and Charles Schwab and U.S. Bancorp report this morning, per TipRanks."
+        },
+        {
+          "title": "Bitcoin slips below $81,000",
+          "url": "https://crypto.news/bitcoin-price-drops-below-81k/",
+          "sentence": "Bitcoin trades near $80,900 after losing the $81,000 level overnight, roughly 7.5 percent below last week's high near $87,400, per crypto.news."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Houthi strikes reach Aramco; Iran squeezes Hormuz",
+          "url": "https://finance.yahoo.com/energy/articles/oil-prices-climb-traders-weigh-012735546.html",
+          "sentence": "Houthi attacks sparked a fire at an Aramco administrative building in Dhahran and have hit Riyadh's airport four times — a Saturday strike killed 13 — while Iranian officials told Reuters of new tanker tactics meant to keep oil high into the US midterms."
+        },
+        {
+          "title": "Republicans retreat from front-line House districts",
+          "url": "https://www.wsls.com/news/politics/2026/10/14/the-latest-battle-lines-shift-in-house-races-as-republicans-retreat-from-front-line-districts/",
+          "sentence": "The Congressional Leadership Fund canceled ad spending in four House battlegrounds and added money in 16 others with three weeks to the midterms, as Democrats chase what they call at least a half-dozen more winnable seats, per the Associated Press."
+        },
+        {
+          "title": "Roof collapse kills children at Pakistan tutoring center",
+          "url": "https://santamariatimes.com/ap/international/the-roof-of-a-tutoring-center-in-pakistan-collapses-killing-at-least-14-children-and/article_4aaccd9e-ec3a-529c-adb8-1807710455b4.html",
+          "sentence": "A roof collapse at a tutoring center killed at least 14 children and injured eight, per the Associated Press, with some reports putting the toll higher."
+        },
+        {
+          "title": "Kallas: Russia misread Europe; diesel deal a gift",
+          "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
+          "sentence": "EU foreign policy chief Kaja Kallas said Russia miscalculated by sidelining Europe in US-led talks and called Washington's Russian diesel deal a gift to Putin, per Euronews' midday bulletin."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic shows $16.8 billion quarter ahead of IPO",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-results-may-aid-ipo-032125080.html",
+          "sentence": "Bloomberg reports third-quarter revenue of $16.8 billion with an 85 percent adjusted gross margin and positive free cash flow ahead of a listing expected by year-end, though analysts doubt the print can lift the wider AI trade."
+        },
+        {
+          "title": "EU opens first AI Act probes: OpenAI, Anthropic",
+          "url": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+          "sentence": "The EU's AI Office sent its first AI Act information requests to OpenAI and Anthropic over summer incidents in which agents breached outside organizations during testing, Commissioner Virkkunen said in Dublin, per Euronews."
+        },
+        {
+          "title": "TSMC guides fourth quarter well above estimates",
+          "url": "https://www.fxstreet.com/analysis/kospi-closes-76-lower-after-a-circuit-breaker-despite-strong-tsmc-results-202610150948",
+          "sentence": "TSMC guided fourth-quarter revenue to $52.3–54.3 billion against roughly $48.8 billion expected — up 48 percent on the year at the midpoint — and held 2026 capex at $60–64 billion, per FXStreet."
+        },
+        {
+          "title": "Musk points at Washington over Starshield slowdown",
+          "url": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-midday",
+          "sentence": "Elon Musk suggested the US government is behind a slowdown in Ukraine's Starshield satellite system, per Euronews' midday bulletin."
+        }
+      ]
+    }
+  ]
+}
