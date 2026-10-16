@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-16",
+  "headline": "Kai, the market stared down a 6.3 percent wholesale-inflation print and rallied anyway — yields backed off their 24-year high, and the hike bet moved out to December.",
+  "subline": "Futures are mixed this morning, WTI holds near $97 on the Iran squeeze, and industrial production plus Travelers and Truist results land before the bell.",
+  "asof": "Pre-market · index values are Thursday's close, deltas are this morning's futures · as of 5:25–6:40 AM ET · every figure links to a source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,744.06", "delta": "−0.14% fut", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,713.02", "delta": "−0.56% fut", "dir": "down"},
+    {"label": "Dow", "value": "52,178", "delta": "+0.12% fut", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.07%", "delta": "−0.11", "dir": "down"},
+    {"label": "Gold", "value": "$4,185", "delta": "+0.70%", "dir": "up"},
+    {"label": "WTI", "value": "$97.01", "delta": "+0.98%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$82,100", "delta": "+0.9%", "dir": "up"}
+  ],
+  "history": {"spx": 7744.06, "y10": 5.07, "btc": 82100},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "PPI runs 6.3 percent; stocks rally regardless",
+          "url": "https://home.saxo/en-sg/content/articles/macro/market-quick-take--meltdown-in-ai-stocks-yields-to-late-recovery---16-october-2026-16102026",
+          "sentence": "Producer prices rose 1.3 percent in September — 6.3 on the year — with retail sales up 0.8 and jobless claims at 199,000, yet the Dow added 1.08 percent as the 10-year dipped below 5.04 intraday, per Saxo."
+        },
+        {
+          "title": "October hold, December hike: the market's new path",
+          "url": "https://www.riotimesonline.com/global-economy-briefing-october-16-2026/",
+          "sentence": "Polymarket prices a 70.5 percent chance the Fed holds on October 28 and a 78.5 percent chance of a quarter-point December hike, per The Rio Times' global briefing."
+        },
+        {
+          "title": "Futures mixed after Thursday's broad rally",
+          "url": "https://www.investing.com/indices/indices-futures",
+          "sentence": "S&P 500 futures slip 0.14 percent, Nasdaq 100 futures 0.56, and Dow futures edge up 0.12 in delayed quotes, per Investing.com."
+        },
+        {
+          "title": "Industrial production, import prices, bank earnings today",
+          "url": "https://au.investing.com/news/stock-market-news/rig-count-industrial-production-and-trade-prices-among-economic-data-due-friday-93CH-4693514",
+          "sentence": "September industrial production is seen up 0.4 percent, import and export prices and the Baker Hughes rig count follow, and Travelers, Truist, M&T Bank and Regions report, per Investing.com's calendar and Newsquawk."
+        },
+        {
+          "title": "Bitcoin steadies near $82,000 after Thursday dip",
+          "url": "https://cryptoticker.io/en/bitcoin-price-etf-inflows-standstill-october-16-2026/",
+          "sentence": "It fell to $79,806 Thursday afternoon and recovered $80,000 within hours, leaving it about 35 percent below last October's record while October ETF flows stay net negative, per CryptoTicker and Saxo."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US says Iran blockade can continue indefinitely",
+          "url": "https://www.nationthailand.com/news/world/40069780",
+          "sentence": "Treasury Secretary Scott Bessent says Washington will keep tightening economic pressure as the naval blockade cuts Iran's oil exports and the rial weakens, per Benzinga and The Nation Thailand."
+        },
+        {
+          "title": "Energy ceasefire strains as refinery strikes resume",
+          "url": "https://meduza.io/en/news/2026/10/12/trump-is-really-mad-white-house-source-says-president-expects-ukraine-to-stop-striking-russian-oil-refineries",
+          "sentence": "A White House source told Meduza that Trump expects Kyiv to stop hitting Russian refineries, and Friday's Everything Briefing roundup says Ukraine resumed those strikes after observing a three-day pause."
+        },
+        {
+          "title": "Midterm money floods in as Trump approval slips",
+          "url": "https://everythingbriefing.substack.com/p/october-16-2026",
+          "sentence": "A Fox News poll puts Trump's approval at a new low on cost-of-living strain, while Elon Musk has spent more than $276 million backing Republicans, per the Everything Briefing roundup."
+        },
+        {
+          "title": "Congo's Ebola outbreak tops 4,000 deaths, still spreading",
+          "url": "https://www.polity.org.za/article/congos-ebola-outbreak-has-killed-more-than-4-000-government-data-shows-2026-10-02",
+          "sentence": "Government data show more than 4,000 dead in the country's Ebola outbreak, per Reuters, and Friday's roundups report cases reaching North Ubangi province on the Central African Republic border."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI cuts 2026 revenue outlook by $20 billion",
+          "url": "https://finance.yahoo.com/technology/ai/articles/openais-2026-revenue-estimate-just-032000457.html",
+          "sentence": "The company now expects about $50 billion this year instead of $70 billion and has pushed its IPO to 2027, while Anthropic's $16.8 billion quarter heads toward a November listing, per Yahoo Finance citing the Financial Times."
+        },
+        {
+          "title": "Nvidia lines up $2 billion more for European AI",
+          "url": "https://fortune.com/2026/10/15/nvidias-european-spending-spree-is-about-much-more-than-europe/",
+          "sentence": "Jensen Huang says Nvidia has put roughly $8 billion into Europe over the past year and will unveil $2 billion in new deals within a week, ahead of GTC Berlin on October 20–22, per Fortune."
+        },
+        {
+          "title": "Tesla finally unveils the Roadster; shares jump premarket",
+          "url": "https://benzinga.com/markets/equities/26/10/62404483/stock-market-today-dow-sp-500-futures-rise-as-bessent-intensifies-economic-pressure-on-iran-treasury-yields-cool-off-tsla-aa-ibkr-in-focus",
+          "sentence": "The stock rose 4.36 percent in early trading after the long-promised sports car broke cover, per Benzinga."
+        },
+        {
+          "title": "AI stocks sell off, then claw most back",
+          "url": "https://home.saxo/en-sg/content/articles/macro/market-quick-take--meltdown-in-ai-stocks-yields-to-late-recovery---16-october-2026-16102026",
+          "sentence": "Nvidia fell 1.84 percent and ASML 5.7 before a late recovery, CoreWeave rebounded about 5 on Jensen Huang's reassurance, and Seoul's Kospi snapped back 4.11 percent overnight, per Saxo."
+        }
+      ]
+    }
+  ]
+}
