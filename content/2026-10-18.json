@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-18",
+  "headline": "Kai, the Gulf refused to take the weekend off — Iran says two more tankers hit mines, Hormuz flows are down a third, and oil near $110 heads into the Netflix, Tesla and Meta earnings week.",
+  "subline": "Washington is tapping data-centre backup power for the grid, Anthropic is offering 10 percent to finance chips, and the Fed decides a week from Wednesday.",
+  "asof": "Sunday edition · strip is Friday's close (Oct 16); bitcoin as of Sunday morning · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,659.44", "delta": "−1.09%", "dir": "down"},
+    {"label": "Nasdaq", "value": "26,140.03", "delta": "−2.14%", "dir": "down"},
+    {"label": "Dow", "value": "52,002.41", "delta": "−0.34%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.11%", "delta": "+0.03pp", "dir": "up"},
+    {"label": "Gold (spot)", "value": "$4,166", "delta": "−0.1%", "dir": "down"},
+    {"label": "Brent crude", "value": "$109.86", "delta": "+3.7%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$81,685", "delta": "+$250 2-day", "dir": "up"}
+  ],
+  "history": {"spx": 7659.44, "y10": 5.106, "btc": 81685},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Friday selloff seals a 4.5 percent Nasdaq week",
+          "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-friday-10162026-137331951",
+          "sentence": "The S&P 500 closed at 7,659.44, down 1.1 percent Friday, the Dow at 52,002.41 and the Nasdaq at 26,140.03, down 4.5 percent for the week, per the AP tally carried by ABC News."
+        },
+        {
+          "title": "Brent settles at $109.86, highest since May",
+          "url": "https://gvwire.com/2026/10/16/oil-touches-110-a-barrel-for-first-time-since-may-on-middle-east-russia-supply-fears/",
+          "sentence": "Friday's 3.7 percent jump made it a 4.9 percent week as Hormuz attacks cut Gulf crude flows, and the IEA agreed to release more than 20 million barrels of fuel, per Reuters."
+        },
+        {
+          "title": "October hike chances fade, December near 89 percent",
+          "url": "https://financefeeds.com/gold-price-4166-week-ahead-oil-110-fed-october-meeting-bull-4330-bear-3970/",
+          "sentence": "September CPI came in hot at 3.7 percent, and futures now price roughly a 16 percent chance of a hike at the October 27-28 meeting against 89 percent by December, per FinanceFeeds."
+        },
+        {
+          "title": "Netflix opens an AI-heavy earnings week Tuesday",
+          "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-october-18",
+          "sentence": "Tesla and Meta follow Wednesday, P&G Thursday and Exxon Friday, per TipRanks' week-ahead note, which also counts high-yield AI credit spreads 25 basis points wider in a single session."
+        },
+        {
+          "title": "Bitcoin holds near $81,700 through a quiet weekend",
+          "url": "https://cryptoticker.io/en/bitcoin-price-network-fee-mempool-18-october-2026/",
+          "sentence": "It changed hands at $81,685 Sunday morning, up about $250 across two quiet days inside an overnight range of $80,655 to $81,961, per CryptoTicker."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran says two tankers hit mines in Hormuz",
+          "url": "https://www.jpost.com/middle-east/iran-news/2026-10-17/live-updates-911954",
+          "sentence": "The IRGC claims both caught fire Saturday after taking an unauthorized route, while CENTCOM's Adm. Brad Cooper insists the strait 'remains open for business,' per the Jerusalem Post live blog."
+        },
+        {
+          "title": "Hormuz flows down to 68 percent of pre-war",
+          "url": "https://jonathanmaxwell.substack.com/p/the-edge-briefing-weekend-edition-828",
+          "sentence": "UKMTO counted at least 12 attacks on shipping in the week to Friday, one vessel sank, and Kpler puts Gulf flows at 11.6 million barrels a day, per the Edge Briefing's weekend digest."
+        },
+        {
+          "title": "Energy ceasefire collapses as Ryazan refinery burns",
+          "url": "https://gvwire.com/2026/10/16/oil-touches-110-a-barrel-for-first-time-since-may-on-middle-east-russia-supply-fears/",
+          "sentence": "Kyiv abandoned the Trump-announced truce on energy strikes, and a drone attack forced Russia's Ryazan refinery to suspend a crude distillation unit, per Reuters."
+        },
+        {
+          "title": "No Kings pivots its rallies to early voting",
+          "url": "https://www.yahoo.com/news/politics/articles/nationwide-no-kings-protests-shift-144823969.html",
+          "sentence": "Saturday's fourth round of protests planned more than 3,000 actions marching voters to polls and ballot drop boxes ahead of the November 3 midterms, per USA Today."
+        },
+        {
+          "title": "France counts 1,200 arrests in mass protests",
+          "url": "https://jonathanmaxwell.substack.com/p/the-edge-briefing-weekend-edition-828",
+          "sentence": "About 550,000 marched on the interior minister's count — the CGT union says 800,000 — and Limoges's city hall was set alight, per the Edge Briefing."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic offers 10 percent to fund 1.5 GW of TPUs",
+          "url": "https://cryptobriefing.com/anthropic-blackstone-double-digit-yield-chip-financing/",
+          "sentence": "Blackstone would take $9 billion of junior debt yielding above 10 percent in a $60 billion package to buy Google TPUs through a special-purpose vehicle, per Crypto Briefing."
+        },
+        {
+          "title": "Washington taps data-centre backup power for the grid",
+          "url": "https://jonathanmaxwell.substack.com/p/the-edge-briefing-weekend-edition-828",
+          "sentence": "Energy Secretary Chris Wright used emergency powers letting PJM call data-centre backup generators into service across 13 states, within 900 MW of its reserve margin, per the Edge Briefing."
+        },
+        {
+          "title": "Brussels opens the AI Act's first probes",
+          "url": "https://aiweekly.co/alerts/eu-ai-office-opens-first-ai-act-probes-into-openai-anthropic",
+          "sentence": "The EU AI Office sent its first formal information requests under the act to OpenAI and Anthropic, per AI Weekly."
+        },
+        {
+          "title": "Meta opens the weights on a coding model",
+          "url": "https://jackiechen.blog/2026/10/16/the-ai-intelligence-report-october-9-16-2026-the-week-safety-caught-up-with-the-frontier/",
+          "sentence": "Muse Spark Open, a coding-focused release, followed the week's million-token Muse Wonder launches, per the AI Intelligence Report."
+        },
+        {
+          "title": "Amodei and Nadella trade essays on frontier risk",
+          "url": "https://jackiechen.blog/2026/10/16/the-ai-intelligence-report-october-9-16-2026-the-week-safety-caught-up-with-the-frontier/",
+          "sentence": "Nadella argues frontier models should be governed like compromised insiders, while Amodei's 'We Must Pace the Frontier' says progress has run 'drastically faster' since summer, per the AI Intelligence Report."
+        }
+      ]
+    }
+  ]
+}
