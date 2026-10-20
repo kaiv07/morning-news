@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-20",
+  "headline": "Kai, earnings season hits full speed this morning with Brent at a five-month high and the ten-year holding above 5 percent.",
+  "subline": "Netflix, GM and GE Aerospace report today, September housing starts land at 8:30 AM ET, and bitcoin is — for once — quiet near $82,000.",
+  "asof": "Pre-market · overnight and early-morning quotes · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,747.75", "delta": "+0.17%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "29,747.50", "delta": "+0.08%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,314", "delta": "+0.25%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.12%", "delta": "−0.02pp", "dir": "down"},
+    {"label": "Gold (fut)", "value": "$4,154", "delta": "−0.13%", "dir": "down"},
+    {"label": "Brent crude", "value": "$109.96", "delta": "+0.37%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$81,993", "delta": "−0.94%", "dir": "down"}
+  ],
+  "history": {"spx": 7690.73, "y10": 5.12, "btc": 81993},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures idle after Monday's chip-led rebound",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-steady-wall-012119510.html",
+          "sentence": "S&P 500 futures sat near 7,748 overnight after chipmakers snapped an eight-session slide — Nvidia, AMD and Broadcom all rose — while oil eased in Asia on Trump's partial waiver of Russia-energy sanctions, per Yahoo Finance."
+        },
+        {
+          "title": "Monday's rebound puts the S&P 500 at 7,690.73",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-202016557.html",
+          "sentence": "The index rose 0.4 percent while the Nasdaq added 1.1 percent and the Dow slipped 36 points, recovering part of last week's tech-led drop, per the AP via Yahoo Finance."
+        },
+        {
+          "title": "Netflix leads a stacked earnings Tuesday",
+          "url": "https://www.benzinga.com/markets/prediction-markets/26/10/62457920/stock-market-will-sp-500-open-up-or-down-today-61",
+          "sentence": "Netflix, GM, GE Aerospace, 3M and RTX report today, September housing starts land at 8:30 AM ET, and markets price only about a 15 percent chance of a Fed hike at next week's meeting, per Benzinga."
+        },
+        {
+          "title": "Brent sits near $110 with Hormuz still tight",
+          "url": "https://www.home.saxo/content/articles/macro/market-quick-take---korea-slides-as-brent-holds-near-110---20-october-2026-20102026",
+          "sentence": "Persian Gulf oil flows are running at about 80 percent of pre-war levels as Iran tightens its grip on the strait, keeping Brent near a five-month high, per Saxo Bank's morning take."
+        },
+        {
+          "title": "Bitcoin coils between its moving averages",
+          "url": "https://cryptoticker.io/en/bitcoin-price-narrow-daily-range-sma50-20-october-2026/",
+          "sentence": "It traded at $81,993 this morning, 6 percent below its October 2 high of $87,229 and just above the 50-day line at $81,481, with three straight days of unusually narrow ranges, per CryptoTicker."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "France extends curfews to Nice, Lyon and Gironde",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-20-2026/4094091",
+          "sentence": "Overnight curfews spread beyond Paris after a weekend of rioting and looting, while Macron rejected his interior minister's offer to resign, per Anadolu Agency and the 10 Things briefing."
+        },
+        {
+          "title": "A Hormuz tanker attack tests the US-Iran truce",
+          "url": "https://nbcmontana.com/news/nation-world/gallery/strait-of-hormuz-attack-puts-fragile-ceasefire-to-the-test-vessel-damage-faith-freedom-washington-agreement",
+          "sentence": "An attack that damaged a vessel in the strait is straining the ceasefire that ended the February war and promised commercial ships 60 days of safe passage, per AP coverage."
+        },
+        {
+          "title": "Trump's approval falls to 31 percent before midterms",
+          "url": "https://www.10things.news/p/10-things-global-news-20th-october-7aa",
+          "sentence": "Reuters/Ipsos puts him at a term low with Democrats ahead by 12 points on the generic congressional ballot two weeks from November 3, per the 10 Things briefing."
+        },
+        {
+          "title": "Houthi missile strike kills 53 recruits in Shabwa",
+          "url": "https://www.10things.news/p/10-things-global-news-20th-october-7aa",
+          "sentence": "Three ballistic missiles hit a training camp near Ataq, killing at least 53 and wounding more than 200, as fighting escalates around the Bab al-Mandab strait, per the 10 Things briefing."
+        },
+        {
+          "title": "Alberta votes three-to-one to stay in Canada",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-oct-20-2026/4094091",
+          "sentence": "CBC projected 76.2 percent support for remaining in Canada in the nonbinding separation referendum, with about 1.36 million early and special ballots cast, per Anadolu Agency."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI accelerates toward a $1.4 trillion valuation",
+          "url": "https://pulse2.com/openai-reportedly-targets-at-least-30-billion-funding-at-1-4-trillion-valuation/",
+          "sentence": "The company is reportedly seeking at least $30 billion in new funding at a valuation around $1.4 trillion, per Pulse2."
+        },
+        {
+          "title": "AI agents ran a hundred-company breach campaign",
+          "url": "https://oodaloop.com/briefs/cyber/chinese-hacker-deployed-anthropic-and-deepseek-and-moonshot-ai-agents-in-massive-100-company-cyberattack/",
+          "sentence": "A Chinese-speaking hacker reportedly deployed Anthropic, DeepSeek and Moonshot AI agents in a cyberattack spanning roughly 100 companies, per OODA Loop."
+        },
+        {
+          "title": "AlphaGo's co-creator starts a London reasoning lab",
+          "url": "https://tech.eu/2026/10/20/former-google-deepmind-top-researcher-launches-london-compute-efficient-ai-company",
+          "sentence": "Thore Graepel's Metis Reasoning is reportedly raising tens of millions to build compute-efficient, verifiable alternatives to frontier models, per Tech.eu."
+        },
+        {
+          "title": "Meta opens the doors on Prometheus",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-20-2026/",
+          "sentence": "The company published an inside look at its gigawatt-scale Ohio supercluster, which trains the Muse model family and is still expanding, per The Neuron."
+        },
+        {
+          "title": "Canadian publishers sue Anthropic over training data",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-october-20-2026/",
+          "sentence": "A coalition including Postmedia and The Globe and Mail filed suit in Ontario alleging Claude was trained on their content without permission, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
