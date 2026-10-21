@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-21",
+  "headline": "Kai, the season's first Big Tech earnings land after today's close, and Tesla's call now carries a merger question Musk is recused from.",
+  "subline": "Meta and Tesla report tonight with no US economic data on the calendar to compete, Brent has pushed past $110 with the Gulf still tight, and bitcoin bounced above $83,000 overnight.",
+  "asof": "Pre-market · overnight and early-morning quotes · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,762.50", "delta": "+0.09%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "29,771.00", "delta": "+0.32%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,663", "delta": "−0.11%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.12%", "delta": "−0.02pp", "dir": "down"},
+    {"label": "Gold (fut)", "value": "$4,134", "delta": "−0.21%", "dir": "down"},
+    {"label": "Brent crude", "value": "$110.37", "delta": "+1.45%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$83,183", "delta": "+2.13%", "dir": "up"}
+  ],
+  "history": {"spx": 7712.57, "y10": 5.12, "btc": 83183},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Meta and Tesla headline the first Big Tech night",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-071724170.html",
+          "sentence": "Both report after the close alongside IBM, Texas Instruments and Lam Research, with Nasdaq 100 futures leading the pre-market advance and Polymarket pricing roughly a 68 percent chance of a higher open, per Yahoo Finance."
+        },
+        {
+          "title": "Tesla and SpaceX boards seat merger committees",
+          "url": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+          "sentence": "Musk said each board formed a committee of independent directors at shareholders' request, called the arrangement an odd kabuki dance he cannot join as a conflicted party, and noted Tesla would need 50 percent of all shareholders rather than only those who vote, per TechCrunch."
+        },
+        {
+          "title": "Netflix slides on soft fourth-quarter guidance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html",
+          "sentence": "Shares fell pre-market after a fourth-quarter revenue forecast short of estimates and lowered 2026 ad-revenue guidance, while SpaceX rose about 6 percent after hours on its own results, per Yahoo Finance."
+        },
+        {
+          "title": "Weak housing data pulled yields lower Tuesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-21-065700416.html",
+          "sentence": "September housing starts came in at 1.221 million against a 1.308 million estimate and pending home sales fell 7.3 percent on the month versus a forecast 0.3 percent decline, per Zacks via Yahoo Finance."
+        },
+        {
+          "title": "Bitcoin bounces above $83,000 but stays range-bound",
+          "url": "https://www.cryptotimes.io/2026/10/21/bitcoin-price-today-btc-stabilizes-amid-mixed-analyst-views-and-modest-100k-odds/",
+          "sentence": "It traded near $83,000 after a 24-hour range of roughly $81,273 to $83,249, leaving it about 34 percent below the October 2025 record near $126,080, with US spot ETFs taking in $526.7 million on October 19, per CryptoTimes."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Supreme Court takes a Maryland magnet-school case",
+          "url": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions",
+          "sentence": "The justices will review whether parents challenging Montgomery County's screen-and-lottery magnet admissions showed enough evidence of intentional discrimination, with arguments expected in the coming months and a ruling due by June, per Al Jazeera."
+        },
+        {
+          "title": "China's third-quarter growth comes in at 4.5 percent",
+          "url": "https://english.news.cn/20261019/89cd3cbf51d94ed7bc3156fa7c628667/c.html",
+          "sentence": "Official figures put gross domestic product up 4.5 percent year on year in the third quarter, per Xinhua."
+        },
+        {
+          "title": "Italy tightens protest law after days of looting",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-21st-2026-morning",
+          "sentence": "Meloni's government added teen detentions, parental liability and prison terms of up to five years, per The Times of India via inkl."
+        },
+        {
+          "title": "Zelenskyy says allies gave no grid-strike warning",
+          "url": "https://dailycuratednews.substack.com/p/news-headlines-october-21-2026",
+          "sentence": "He said Ukraine received no early warning from partners as Russia struck the power grid again, per the Daily Curated News roundup."
+        },
+        {
+          "title": "Delinquencies climb in the $1.7 trillion auto-loan market",
+          "url": "https://dailycuratednews.substack.com/p/news-headlines-october-21-2026",
+          "sentence": "Late payments are rising across the $1.7 trillion US auto-loan market even as Amazon prepares to recruit more than 300,000 holiday workers, per the Daily Curated News roundup."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic's draft IPO filing shows $16.3 billion",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-prospectus-shows-revenue-growing-224511416.html",
+          "sentence": "First-half revenue reached $16.3 billion against nearly $9 billion of compute and infrastructure spending and an $80.7 billion net loss that was mostly non-cash charges on convertible notes, per the Wall Street Journal via Yahoo Finance."
+        },
+        {
+          "title": "DHS bans DeepSeek from federal civilian systems",
+          "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+          "sentence": "The Department of Homeland Security barred DeepSeek products across federal civilian agency systems as the AI rift with China widens, per CNBC."
+        },
+        {
+          "title": "Google works to make TPUs feel native to PyTorch",
+          "url": "https://techinformed.com/google-moves-to-make-tpus-feel-native-to-pytorch-as-it-targets-nvidias-cuda-advantage/",
+          "sentence": "The effort targets Nvidia's CUDA advantage by letting PyTorch workloads run on Google's own accelerators with fewer code changes, per TechInformed."
+        },
+        {
+          "title": "Amazon opens TorchNeuron for its Trainium chips",
+          "url": "https://geekwire.com/2026/amazon-challenges-nvidias-software-advantage-with-new-tool-for-its-ai-chips",
+          "sentence": "The new PyTorch backend for Trainium was released this week under an open-source license, aimed squarely at Nvidia's software moat, per GeekWire."
+        },
+        {
+          "title": "SpaceX credits AI infrastructure for its revenue jump",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html",
+          "sentence": "The company pointed to $6.7 billion of incremental systems-integration and infrastructure revenue year over year, driven by AI infrastructure and cloud services, per Yahoo Finance."
+        }
+      ]
+    }
+  ]
+}
