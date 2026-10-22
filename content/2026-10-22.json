@@ -1,0 +1,103 @@
+{
+  "date": "2026-10-22",
+  "headline": "Kai, Meta and Tesla both beat and the tape sold off anyway — a 5.15 percent ten-year and $111 Brent are setting the terms this morning.",
+  "subline": "Meta raised its guide and split the stock, markets put December-hike odds near 89 percent, and jobless claims land at 8:30.",
+  "asof": "Pre-market · as of about 6:45 AM ET · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,721.00", "delta": "−1.02%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "29,471.75", "delta": "−1.78%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,702", "delta": "−0.67%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.15%", "delta": "+0.03pp", "dir": "up"},
+    {"label": "Gold (fut)", "value": "$4,107.90", "delta": "−1.01%", "dir": "down"},
+    {"label": "Brent crude", "value": "$111.03", "delta": "+2.03%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$81,921", "delta": "−1.47%", "dir": "down"}
+  ],
+  "history": {"spx": 7758, "y10": 5.15, "btc": 81921},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Meta beats, splits the stock, raises the guide",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-beats-meta-tesla-205600481.html",
+          "sentence": "Revenue hit a record $64.6 billion, up 26 percent, with EPS of $3.83 against $3.45 expected, a fourth-quarter guide of $73–76 billion, a 2-for-1 split and a $10 billion charge tied to an $18 billion multi-state youth-safety settlement, leaving shares up 3.9 percent after hours, per Zacks via Yahoo Finance."
+        },
+        {
+          "title": "Tesla posts a quiet beat on fatter margins",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/q3-earnings-beats-meta-tesla-205600481.html",
+          "sentence": "Revenue of $28.05 billion edged the $27.78 billion estimate with EPS three cents ahead, auto gross margin ex-credits at 18.1 percent, driving subscriptions up 67 percent to 1.74 million and Optimus production underway at Fremont, and the stock added 1.4 percent after hours, per Zacks via Yahoo Finance."
+        },
+        {
+          "title": "Futures sag as the ten-year tops 5.15 percent",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-p-500-open-060859514.html",
+          "sentence": "S&P 500 futures fell about 1 percent and Nasdaq-100 futures 1.8 percent early Thursday as the 10-year yield ticked up to 5.15 percent, gold eased near $4,108 and bitcoin slipped toward $81,900, with Iran's foreign minister saying diplomacy gets another chance, per Yahoo Finance."
+        },
+        {
+          "title": "Markets price a December hike at 89 percent",
+          "url": "https://financefeeds.com/gold-price-4120-yields-5-14-oil-110-december-hike-bull-4227-bear-4030/",
+          "sentence": "CME FedWatch pricing cited from Reuters puts roughly 89 percent odds on a December rate rise and about 82 percent on a hold at the October 27–28 meeting, with oil near $110 doing the inflation damage, per FinanceFeeds."
+        },
+        {
+          "title": "Jobless claims and the Leading Index this morning",
+          "url": "https://www.investing.com/news/stock-market-news/initial-jobless-claims-highlight-thursdays-economic-calendar-93CH-4963797",
+          "sentence": "Initial claims print at 8:30 AM ET with 200,000 expected against 199,000 prior, the Conference Board's Leading Index follows at 10 with minus 0.2 percent penciled in, and the KC Fed survey lands at 11, per Investing.com."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Houthis claim strikes on Saudi oil sites",
+          "url": "https://financefeeds.com/gold-price-4120-yields-5-14-oil-110-december-hike-bull-4227-bear-4030/",
+          "sentence": "The group claimed Monday attacks on an Aramco facility in Yanbu and the Shaybah oilfield, neither confirmed by Riyadh, and Brent settled at $109.55 before pressing higher, per Reuters via FinanceFeeds."
+        },
+        {
+          "title": "Iran is running out the clock to November 3",
+          "url": "https://www.al-monitor.com/originals/2026/10/iran-prolongs-talks-stalemate-influence-us-midterms-officials-say",
+          "sentence": "Senior Iranian officials told Reuters that Tehran is prolonging the stalled nuclear talks to deny Trump a pre-election win, with seaborne crude exports at zero since mid-September and officials expecting bombing to resume sooner or later, per Al-Monitor."
+        },
+        {
+          "title": "Russian strikes kill seven after Witkoff meets Putin",
+          "url": "https://www.euronews.com/2026/10/22/overnight-attacks-resume-between-russia-and-ukraine-following-us-envoy-visit",
+          "sentence": "Hours after Steve Witkoff's St. Petersburg session with Putin, strikes killed seven people across four Ukrainian regions and wounded 15 in Kyiv, while the Kremlin floated resuming trilateral talks in mid-November, per Euronews."
+        },
+        {
+          "title": "Democrats lead by nine with midterms two weeks out",
+          "url": "https://www.yahoo.com/news/politics/article/the-2026-midterms-are-less-than-2-weeks-away-which-party-has-a-better-chance-of-winning-heres-what-the-latest-polls-say-131448048.html",
+          "sentence": "Nate Silver's generic-ballot average has Democrats up about nine points ahead of the November 3 vote, needing a net three seats for the House, with Trump's approval at 38 percent, per Yahoo News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI's models land on Google Cloud",
+          "url": "https://www.pymnts.com/cpi-posts/openai-strikes-google-cloud-deal-in-push-beyond-microsoft/",
+          "sentence": "GPT-Astra, GPT-6.1 Sol, GPT-6 Luna and Codex are rolling out in private preview on Google Cloud's Model Garden, putting OpenAI on all three major US clouds while Microsoft remains its primary cloud partner, per PYMNTS."
+        },
+        {
+          "title": "Anthropic previews Claude Duet, a personal agent",
+          "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184",
+          "sentence": "The waitlisted research preview, designed around Claude Opus 5.5 with its own iOS and Android apps and roughly 6,000 connectors, is aimed at professionals against Meta's Muse and OpenAI's Dots, per Gizmodo."
+        },
+        {
+          "title": "Meta raises the AI capex floor to $135 billion",
+          "url": "https://abc.net.au/news/2026-10-22/asx-markets-business-news-live-updates-thursday-22-october/107295020",
+          "sentence": "The company lifted the bottom of its 2026 capital-spending range to $135 billion from $130 billion and will introduce non-voting shares that help fund the build-out while preserving Zuckerberg's voting control, per ABC News Australia."
+        },
+        {
+          "title": "Bitcoin consolidates near $82,000 after the October shakeout",
+          "url": "https://www.cryptotimes.io/2026/10/22/crypto-price-today-btc-at-82k-eth-at-2442-xrp-at-1-34-as-markets-weigh-corporate-bitcoin-consolidation/",
+          "sentence": "After mid-October's hot inflation prints and heavy liquidations briefly pushed it toward $80,000, bitcoin spent the past day between $82,567 and $84,808, and a Tesla–SpaceX combination would pool 30,221 existing corporate coins rather than add new demand, per The Crypto Times."
+        },
+        {
+          "title": "Draft federal bill would allow AI release halts",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-21-2026/",
+          "sentence": "The proposal would let the Commerce Department ask a federal judge to pause a model's release when it poses an imminent risk of more than 50 deaths or $1 billion in damage, per The Neuron's daily digest."
+        }
+      ]
+    }
+  ]
+}
