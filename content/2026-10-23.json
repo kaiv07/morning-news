@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-23",
+  "headline": "Kai, the AI trade is being repriced for the cost of money: the chip index fell 6.7 percent, the ten-year dropped to 4.95 percent, and Brent is above $114.",
+  "subline": "Meta's free cash flow went negative for the first time since it went public, Anthropic may make its S-1 public today, and flash PMIs land at 9:45.",
+  "asof": "Pre-market · quotes 4:00–6:45 AM ET · index figures are futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,688.75", "delta": "−0.20%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "29,134.50", "delta": "−0.03%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,764", "delta": "−0.57%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.95%", "delta": "−0.19pp", "dir": "down"},
+    {"label": "Gold (fut)", "value": "$4,038.50", "delta": "−0.54%", "dir": "down"},
+    {"label": "Brent crude", "value": "$114.73", "delta": "+0.90%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$81,705", "delta": "−0.28%", "dir": "down"}
+  ],
+  "history": {"spx": 7663.43, "y10": 4.953, "btc": 81705},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Chip index posts worst day since June",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html",
+          "sentence": "The Philadelphia SE Semiconductor Index fell 6.7 percent on Thursday, its steepest drop since June 23, with Intel, AMD, Sandisk and Marvell each down more than 8 percent, per Reuters."
+        },
+        {
+          "title": "Meta's free cash flow turns negative",
+          "url": "https://www.fxstreet.com/news/meta-platforms-share-split-negative-fcf-expanding-capex-lead-nasdaq-lower-202610221554",
+          "sentence": "FXStreet reports that $34.9 billion of third-quarter capital spending outran $32.8 billion of operating cash flow for minus $2.1 billion in free cash flow, Meta's first negative quarter since it went public, with full-year capex now guided to $135 to $145 billion."
+        },
+        {
+          "title": "Brent above $114 as freight costs bite",
+          "url": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds",
+          "sentence": "Brent traded at $114.73, up 0.9 percent after a 4 percent jump the session before, and Euronews notes that shipping crude from the Gulf to Asia now costs over $37 a barrel, more than five times the pre-war level."
+        },
+        {
+          "title": "Ten-year yield slides on a flight to Treasuries",
+          "url": "https://fortune.com/2026/10/23/another-horrible-day-markets-ai-oil-the-french/",
+          "sentence": "Fortune reports the ten-year Treasury yield fell to about 4.9 percent from a recent peak above 5.30 percent as traders treated Treasuries as the safe haven during the tech selloff."
+        },
+        {
+          "title": "Flash PMIs and Michigan sentiment today",
+          "url": "https://tradingeconomics.com/united-states/calendar",
+          "sentence": "Trading Economics lists S&P Global's flash manufacturing and services PMIs at 9:45 AM ET and the final October Michigan sentiment reading at 10:00, with the Fed's rate decision due Wednesday, October 28."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Houthi strikes on Saudi Arabia keep crude bid",
+          "url": "https://www.arabnews.com/business/oil-little-changed-as-supply-concern-lingers-amid-houthi-attacks-on-saudi-arabia-3007831",
+          "sentence": "Reuters reports crude held near five-month highs on concern over further supply disruption after Houthi attacks on Saudi Arabia, with a pipeline valve also shutting in output at Libya's Hamada and Tahara fields."
+        },
+        {
+          "title": "Putin agrees to resume three-way Ukraine talks",
+          "url": "https://www.pbs.org/newshour/amp/world/putin-agrees-to-resume-trilateral-russia-ukraine-u-s-talks-next-month",
+          "sentence": "PBS NewsHour reports Putin agreed in principle to restart Russia-Ukraine-US talks after November 10 following a three-hour meeting with Steve Witkoff in St. Petersburg, while overnight strikes killed five people and wounded 25 across Ukraine."
+        },
+        {
+          "title": "France's ten-year yield tops 5 percent",
+          "url": "https://www.axios.com/2026/10/21/france-bonds-borrowing",
+          "sentence": "Axios reports the French ten-year reached 5.01 percent, a post-2002 high and about 1.6 points above German bunds for the widest gap in fifteen years, which leaves France paying more to borrow for a decade than Washington does."
+        },
+        {
+          "title": "Democrats hold a nine-point generic-ballot lead",
+          "url": "https://www.forbes.com/sites/saradorn/2026/10/21/hottest-2026-midterm-races-democrats-lead-in-texas-ohio-michigan-iowa/",
+          "sentence": "Forbes cites the Silver Bulletin average at 49.7 percent to 41.1 percent, an 8.6-point edge, with the Michigan, Iowa and Maine Senate races each polling inside two points."
+        },
+        {
+          "title": "Gucci sales fall and Kering drops 10 percent",
+          "url": "https://www.euronews.com/2026/10/23/oil-prices-climb-above-113-as-ai-sell-off-rattles-stocks-and-investors-buy-bonds",
+          "sentence": "Euronews reports Kering fell more than 10 percent after Gucci's third-quarter sales declined 6 percent year on year, slightly worse than analysts had expected."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic may make its S-1 public today",
+          "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/anthropic-could-file-ipo-paperwork-as-soon-as-friday/",
+          "sentence": "PYMNTS, citing Yahoo Finance, reports Anthropic could publish its IPO prospectus as early as Friday, which would clear the way for a November listing."
+        },
+        {
+          "title": "Anthropic's quarterly revenue reaches $16.8 billion",
+          "url": "https://www.fool.com/investing/2026/10/22/why-anthropic-is-racing-to-ipo-while-openai-waits/",
+          "sentence": "The Motley Fool reports third-quarter revenue rose to $16.8 billion from $11.5 billion with a second straight adjusted-profitable quarter, while OpenAI has pushed its own listing out to 2027."
+        },
+        {
+          "title": "DHS orders DeepSeek off federal civilian systems",
+          "url": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
+          "sentence": "BleepingComputer reports a Federal Register notice published October 20 requires civilian agencies to remove DeepSeek products, including third-party services built on its technology, with exception requests due within 60 days."
+        },
+        {
+          "title": "Nvidia's 64GB DGX Spark ships today",
+          "url": "https://www.storagereview.com/news/nvidia-dgx-spark-64gb-october-23-4999-two-units-cluster-to-128gb",
+          "sentence": "StorageReview reports the $4,999 desktop box goes on sale October 23 through six PC makers, with two units pooling to 128GB of unified memory over ConnectX-7 for models up to 200 billion parameters."
+        },
+        {
+          "title": "Bitcoin slips below $82,000 on ETF outflows",
+          "url": "https://crypto.news/why-is-bitcoin-price-down-today-etf-outflows/",
+          "sentence": "Crypto.news reports bitcoin fell under $82,000 after failing to hold $84,000, as US spot ETFs saw $635 million of net outflows on October 22, the largest single day since June 25 and the end of three inflow sessions totaling about $1.08 billion."
+        }
+      ]
+    }
+  ]
+}
