@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-24",
+  "headline": "Kai, the Gulf is setting the tape now: Brent settled at a six-month high of $116.72, Washington is weighing post-midterm strikes, and Wednesday brings the Fed plus Alphabet and Microsoft.",
+  "subline": "Iran says US warships are barred from the Gulf, the ten-year closed back at 5.00 percent, and Anthropic's leaked S-1 shows $16.3 billion of first-half revenue against an $80.7 billion paper loss.",
+  "asof": "Weekend edition · markets closed · stocks, gold and oil are Friday's close · bitcoin as of Friday evening · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,623.68", "delta": "−0.52%", "dir": "down"},
+    {"label": "Nasdaq", "value": "25,955.34", "delta": "−0.21%", "dir": "down"},
+    {"label": "Dow", "value": "52,215.16", "delta": "−1.23%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.00%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold (spot)", "value": "$3,995.81", "delta": "−0.70%", "dir": "down"},
+    {"label": "Brent crude", "value": "$116.72", "delta": "+3.5%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$80,676", "delta": "−0.73%", "dir": "down"}
+  ],
+  "history": {"spx": 7623.68, "y10": 5.00, "btc": 80676},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Dow drops 653 to cap a volatile week",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+          "sentence": "The Dow fell 652.82 points to 52,215.16 while the S&P 500 lost 0.52 percent and the Nasdaq 0.21 percent, per Yahoo Finance, though the Dow still booked a third straight weekly gain."
+        },
+        {
+          "title": "Ten-year closes at 5.00 percent before the Fed",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+          "sentence": "Trading Economics shows the ten-year Treasury finishing Friday at 5.00 percent, up 0.04 points on the day, as Yahoo Finance reports hike bets for Wednesday's Fed decision faded and markets broadly expect a hold."
+        },
+        {
+          "title": "Brent settles at $116.72, a six-month high",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-drop-nasdaq-rises-after-sharp-tech-sell-off-160940864.html",
+          "sentence": "Per Yahoo Finance, Brent logged a third straight weekly gain as traders priced Middle East escalation, with WTI closing at $103.27 and airline stocks falling on fuel-cost concerns."
+        },
+        {
+          "title": "Gold falls more than 3.5 percent on the week",
+          "url": "https://www.kitco.com/news/article/2026-10-23/gold-silver-extend-weekly-losses-hormuz-tensions-push-crude-above-116-kitco",
+          "sentence": "Kitco reports spot gold ended at $3,995.81, down 0.70 percent Friday and more than 3.5 percent for the week even as crude surged, with silver near $53.90."
+        },
+        {
+          "title": "Alphabet, Microsoft and Amazon report next week",
+          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026",
+          "sentence": "StockTitan's calendar has Alphabet and Microsoft reporting Wednesday after the close and Amazon on Thursday, with Eli Lilly, Mastercard, Exxon and Chevron rounding out the week and Apple waiting until November 2."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran bars US warships from the Gulf",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-oil-gas-prices-strait-of-hormuz-midterms/",
+          "sentence": "CBS News reports Iran's armed forces chief declared US military vessels will not be allowed in the Persian Gulf 'under any circumstances and at any time,' as the State Department trims embassy staffing in Jordan, Lebanon, Qatar and the UAE."
+        },
+        {
+          "title": "US prepared for post-midterm strikes on Iran",
+          "url": "https://www.foxnews.com/live-news/us-iran-war-israel-netanyahu-oil-prices-10-23-26",
+          "sentence": "Fox News reports the US military has prepared for possible additional strikes on Iran after the November 3 midterms, while Netanyahu said the regime 'must be overthrown once and for all.'"
+        },
+        {
+          "title": "Midterm forecasts shift after pollster admits fabrication",
+          "url": "https://www.newsweek.com/nate-silver-forecast-shifts-towards-republicans-after-fake-polls-removed-12600692",
+          "sentence": "Newsweek reports Nate Silver's forecast moved toward Republicans once he removed data from Wedgewood, the polling firm that admitted this week it fabricated surveys major outlets had cited."
+        },
+        {
+          "title": "Study: Europe's summer heat killed about 50,000",
+          "url": "https://www.democracynow.org/2026/10/23/headlines",
+          "sentence": "Democracy Now cites a study estimating this summer's European heat waves killed about 50,000 people, with climate change responsible for roughly two-thirds of the deaths."
+        },
+        {
+          "title": "Macron moves to ban non-union protests",
+          "url": "https://www.nbcnews.com/world/france/france-emmanuel-macron-illegitimate-protests-banned-cities-rcna604952",
+          "sentence": "NBC News reports Macron says 'illegitimate' protests will be banned as French cities begin blocking demonstrations, following weeks of student-led unrest."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic's leaked S-1: big revenue, bigger paper loss",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+          "sentence": "An AI Daily Digest on Dev.to, citing draft documents reviewed by the Journal and Reuters, reports first-half revenue of $16.3 billion, a net loss of $80.7 billion of which about $72 billion was non-cash, and roughly $450 billion in long-term cloud commitments ahead of an expected public filing."
+        },
+        {
+          "title": "AI-found PHP flaws date to 2004",
+          "url": "https://www.cnbc.com/2026/10/22/php2shell-vulnerability-what-is-it-and-is-your-data-at-risk.html",
+          "sentence": "CNBC explains why governments pulled websites offline over 'PHP2Shell,' two critical AI-discovered flaws in code dating to PHP 5 in 2004, with fixes now shipped and agencies urged to patch immediately."
+        },
+        {
+          "title": "OpenAI ships Decisions API, seeks $1.25 trillion valuation",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+          "sentence": "The same Dev.to digest reports OpenAI's Decisions API reached general availability powered by GPT-6 Luna at $0.10 per million input tokens, with OpenAI separately reported to be raising up to $30 billion at a $1.25 trillion valuation."
+        },
+        {
+          "title": "Wayve, Stellantis and Nvidia take AVs to France",
+          "url": "https://thenextweb.com/news/wayve-stellantis-nvidia-france-self-driving",
+          "sentence": "TNW reports Wayve, Stellantis and Nvidia are joining the French government to deploy autonomous vehicles in France, pairing Stellantis's L4-Ready platforms with Wayve's AI Driver to speed an EU-wide rollout."
+        },
+        {
+          "title": "Bitcoin steadies near $80,700 after a volatile week",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "CoinDesk's tracker shows bitcoin at $80,676, down 0.73 percent over 24 hours and holding above $80,000 after a week in which it lost a key support level during Thursday's AI-led risk-off move."
+        }
+      ]
+    }
+  ]
+}
