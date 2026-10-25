@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-25",
+  "headline": "Kai, Brazil chooses between Lula and a Bolsonaro today, and Wednesday stacks the Fed's $116-oil decision on top of Microsoft and Alphabet earnings.",
+  "subline": "Hold odds sit near 91 percent, bitcoin starts the week at $80,853 under its 50-day line, and the Gulf keeps crude bid at a six-month high.",
+  "asof": "Sunday edition · markets closed · stocks, gold and oil are Friday's close · bitcoin as of 6:30 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,623.68", "delta": "−0.52%", "dir": "down"},
+    {"label": "Nasdaq", "value": "25,955.34", "delta": "−0.21%", "dir": "down"},
+    {"label": "Dow", "value": "52,215.16", "delta": "−1.23%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.99%", "delta": "+0.04pp", "dir": "up"},
+    {"label": "Gold (fut.)", "value": "$4,007.90", "delta": "−1.29%", "dir": "down"},
+    {"label": "Brent crude", "value": "$116.72", "delta": "+3.1%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$80,853", "delta": "+0.06%", "dir": "flat"}
+  ],
+  "history": {"spx": 7623.68, "y10": 4.99, "btc": 80853},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The week's ledger: S&P −0.5%, Russell +2%",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201458598.html",
+          "sentence": "AP's weekly ledger puts the S&P 500 at 7,623.68 (−0.5 percent for the week, +11.4 percent this year), the Dow at 52,215.16, the Nasdaq at 25,955.34, and the Russell 2000 up 2 percent on the week."
+        },
+        {
+          "title": "The Fed convenes Tuesday; hold odds near 91%",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262237761-weekly-fed-microsoft-alphabet-amazon-earnings-tradingkey",
+          "sentence": "TradingKey notes CME FedWatch prices a 90.6 percent hold for Wednesday's 2 pm statement — the first decision since September's hike to 3.75–4.00 percent — with no dot plot this round and Q3 GDP plus September PCE due Thursday."
+        },
+        {
+          "title": "Alphabet and Microsoft Wednesday, Amazon Thursday",
+          "url": "https://www.kiplinger.com/investing/stocks/17494/next-week-earnings-calendar-stocks",
+          "sentence": "Kiplinger's calendar has Alphabet ($3.00 a share expected on $127.9 billion of revenue) and Microsoft ($4.71) Wednesday after the close, Amazon ($1.96) and Intel Thursday, and Exxon and Chevron Friday morning."
+        },
+        {
+          "title": "Oil desks map $108 to $120 for Fed week",
+          "url": "https://financefeeds.com/brent-crude-oil-price-116-72-saturday-week-ahead-houthi-saudi-fed-28-october-bull-120-bear-108/",
+          "sentence": "FinanceFeeds' week-ahead pegs Brent's bull case at $120 on resumed US strikes and its bear case at $108 on a pre-midterm ceasefire signal, after Washington authorized an emergency SPR exchange of up to 400,000 barrels."
+        },
+        {
+          "title": "Bitcoin opens Fed week at $80,853",
+          "url": "https://cryptoticker.io/en/bitcoin-price-winter-time-fed-window-25-october-2026/",
+          "sentence": "CryptoTicker has bitcoin at $80,853 Sunday morning, flat over 24 hours and still below the 50-day line at $81,807 it lost Friday, with $909.7 million of two-week ETF outflows and an $11.1 billion options expiry this Friday."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Brazil picks between Lula and a Bolsonaro today",
+          "url": "https://www.riotimesonline.com/brazil-runoff-october-25-2026-flavio-bolsonaro-lula/",
+          "sentence": "Per The Rio Times, Brazilians vote today in a presidential runoff between President Lula and Senator Flávio Bolsonaro, son of the convicted former president."
+        },
+        {
+          "title": "Mines near Hormuz as US weighs new strikes",
+          "url": "https://gulfnews.com/world/mena/middle-east-war-houthi-missile-targets-riyadh-tankers-hit-mines-near-hormuz-1.500721804",
+          "sentence": "Gulf News reports Houthi missiles targeted Riyadh, tankers were hit and mines appeared near the Strait of Hormuz, as Washington prepares possible strikes on Iran."
+        },
+        {
+          "title": "Michigan's Senate race pulls in Trump and Obama",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-25th-2026-morning",
+          "sentence": "inkl's Sunday bulletin has Trump campaigning for Republican Mike Rogers while Obama backs Democrat Abdul El-Sayed, nine days before the November 3 midterms."
+        },
+        {
+          "title": "NATO rehearses drone-war defense over Germany",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-25th-2026-morning",
+          "sentence": "RFI reports, via the same bulletin, that French paratroopers joined British forces in a major airborne exercise testing NATO's defenses against drone and electronic-warfare threats."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Banks wall off accounts from unvetted AI agents",
+          "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+          "sentence": "Axios reports unvetted third-party AI agents have been accessing US bank accounts, prompting major banks to move to restrict their access."
+        },
+        {
+          "title": "UAE investors lead OpenAI's $30 billion round",
+          "url": "https://www.cnbc.com/video/2026/10/23/openai-nears-up-to-30b-funding-round-at-1-point-25t-valuation-led-by-uae-investors-sources.html",
+          "sentence": "CNBC reports OpenAI is nearing a funding round of up to $30 billion, led by UAE investors, that would value the company at $1.25 trillion."
+        },
+        {
+          "title": "Jack Clark takes the singularity to the IMF",
+          "url": "https://howmachinesthink.substack.com/p/ai-update-october-week-4",
+          "sentence": "How Machines Think's weekly roundup has Anthropic co-founder Jack Clark telling IMF and World Bank meetings that benchmark leaps leave policymakers 'a small number of years' to set limits."
+        },
+        {
+          "title": "Mega-cap earnings double as the AI referendum",
+          "url": "https://www.kucoin.com/news/flash/us-tech-stocks-face-earnings-test-as-microsoft-alphabet-and-amazon-report",
+          "sentence": "KuCoin News calls this week's Microsoft, Alphabet and Amazon reports an earnings test for US tech stocks still nursing October's AI-led selloff."
+        }
+      ]
+    }
+  ]
+}
