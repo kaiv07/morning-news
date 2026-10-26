@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-26",
+  "headline": "Kai, Lula took a fourth term overnight, Musk closed $40 billion of GPU debt while warning the AI lending window is narrowing, and futures lean green into the Fed's week.",
+  "subline": "Markets price a 90.6 percent hold for Wednesday, Alphabet, Microsoft and Amazon report this week, and Brent's slip to $114.34 still leaves crude as the inflation problem.",
+  "asof": "Pre-market · as of 6:45 AM ET · index values are Friday's close, deltas are overnight futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,623.68", "delta": "+0.31%", "dir": "up"},
+    {"label": "Nasdaq", "value": "25,955.34", "delta": "+0.25%", "dir": "up"},
+    {"label": "Dow", "value": "52,220.21", "delta": "+0.51%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.99%", "delta": "−16 bp wk", "dir": "down"},
+    {"label": "Gold (spot)", "value": "$3,988", "delta": "−4.1% wk", "dir": "down"},
+    {"label": "Brent crude", "value": "$114.34", "delta": "−2.04%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$80,045", "delta": "−0.96%", "dir": "down"}
+  ],
+  "history": {"spx": 7623.68, "y10": 4.99, "btc": 80045},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures lean green into a stacked week",
+          "url": "https://www.tipranks.com/news/stock-market-today-oct-26-futures-rise-ahead-of-big-tech-earnings-and-feds-rate-decision",
+          "sentence": "TipRanks has S&P 500 futures up 0.31 percent, Nasdaq 100 futures up 0.25 and Dow futures up 0.51 early Monday, with Brent down 2.04 percent to $114.34 ahead of earnings from Microsoft, Alphabet, Amazon, Visa, Boeing and Exxon."
+        },
+        {
+          "title": "Fed meets tomorrow; hold priced at 90.6%",
+          "url": "https://www.fxstreet.com/news/dow-jones-futures-rise-on-easing-middle-east-tensions-fed-rate-pause-bets-202610260846",
+          "sentence": "Markets give the Fed a 90.6 percent chance of holding rates at the October 27–28 meeting and price a 79.7 percent chance of a December hike, oil being the reason cuts are off the table, per FXStreet."
+        },
+        {
+          "title": "Friday's closes anchor a heavy Monday",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262238176-gold-below-4000-oil-retreats-musk-spacex-40-billion-tradingkey",
+          "sentence": "TradingKey's recap puts Friday's closes at 7,623.68 on the S&P 500, 25,955.34 on the Nasdaq and 52,220.21 on the Dow, with the 10-year yield near 4.99 percent and Monday's oil pullback erasing only part of the Saudi-attack spike."
+        },
+        {
+          "title": "Gold loses the $4,000 handle",
+          "url": "https://www.mitrade.com/insights/commodity-analysis/gold/gold-4000-break-oil-inflation-20261026J1441",
+          "sentence": "Spot gold closed last week at $3,995.60 — down 4.1 percent, its lowest since mid-July — and traded near $3,988 this morning as rising real yields outweighed Gulf risk, per Mitrade, which also has the 10-year down about 16 basis points on the week."
+        },
+        {
+          "title": "Bitcoin holds $80,000 into the Fed",
+          "url": "https://crypto.news/why-is-bitcoin-price-down-today-fed-etf-outflows/",
+          "sentence": "Bitcoin sat near $80,045 early Monday, down 0.96 percent over 24 hours, per crypto.news. The week's slide — about 3 percent — came as US spot ETFs shed a combined $773.5 million on Wednesday and Thursday before flows steadied."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Lula wins a fourth term in Brazil",
+          "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
+          "sentence": "Lula sealed a fourth presidential term in Sunday's tight runoff against Flávio Bolsonaro, a result NPR calls a stunning victory."
+        },
+        {
+          "title": "Trilateral Ukraine talks set for Abu Dhabi",
+          "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/",
+          "sentence": "Ukrainian, Russian and US negotiating teams plan to meet in Abu Dhabi in the first half of November, with leader-level talks to follow only if the technical round produces results, per the Kyiv Independent."
+        },
+        {
+          "title": "Trump holds fire on Iran, for now",
+          "url": "https://www.fxstreet.com/news/dow-jones-futures-rise-on-easing-middle-east-tensions-fed-rate-pause-bets-202610260846",
+          "sentence": "Trump ruled out immediate military action against Iran even as Yemen's Houthis vowed to keep targeting Riyadh's King Khalid Airport, per FXStreet, which is most of why crude eased this morning."
+        },
+        {
+          "title": "Just over a week to the midterms",
+          "url": "https://abcnews4.com/news/nation-world/fact-check-team-435-house-seats-and-35-senate-races-hit-the-ballot-in-november-election-day-congress-candidates-voters",
+          "sentence": "All 435 House seats and 35 Senate races are on the November 3 ballot, per Sinclair's fact-check desk, and the campaigns spent the weekend in Michigan."
+        },
+        {
+          "title": "Four Corners flooding forces rooftop rescues",
+          "url": "https://www.inkl.com/news/latest-news-bulletin-october-26th-2026-morning",
+          "sentence": "Severe flooding across Colorado, New Mexico, Arizona and Utah brought rooftop rescues and evacuation orders, with at least one person injured, per inkl's morning bulletin."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "SpaceX closes $40 billion GPU debt deal",
+          "url": "https://finance.yahoo.com/technology/ai/articles/spacex-secures-40b-financing-gpus-050945376.html",
+          "sentence": "Musk said Sunday the callable debt buys chips arriving in the first half of 2027, and warned that debt markets have nearly shut for pure-AI borrowers, leaving 200-plus neoclouds facing 'guppy-level death and consolidation,' per Fox Business."
+        },
+        {
+          "title": "Anthropic's S-1: $16.3 billion first half",
+          "url": "https://aiweekly.co/alerts/anthropic-s-1-shows-163b-h1-revenue-25-from-two-customers-and-807b-non-cash",
+          "sentence": "The filing shows $16.3 billion of first-half revenue, an $80.7 billion mostly non-cash loss and a quarter of revenue from two customers, ahead of a November IPO targeting about $2 trillion, per AI Weekly's read of the Wall Street Journal's reporting."
+        },
+        {
+          "title": "AI-found PHP flaws knock governments offline",
+          "url": "https://wjla.com/news/nation-world/critical-php-flaws-put-millions-of-websites-at-risk-as-governments-pull-sites-offline",
+          "sentence": "Two 9.2-severity PHP flaws discovered with AI tools took sites offline in Finland, the Netherlands, Belgium and France, and the FBI and NSA advised patching promptly or unplugging, per WJLA."
+        },
+        {
+          "title": "Modal passes a $1 billion run rate",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+          "sentence": "The serverless GPU platform crossed a $1 billion annualized run rate and raised a $750 million Series D at a $16 billion valuation, five months after its last round, per DEV Community's AI digest — context for Musk's shakeout call."
+        },
+        {
+          "title": "Stellantis, Wayve and Nvidia pick France",
+          "url": "https://dev.to/hiroki-ii-ai/ai-daily-digest-october-24-2026-anthropic-opens-the-books-ai-finds-phps-oldest-bugs-europe-118c",
+          "sentence": "The three will deploy Level 4-ready vehicles in France with EU-wide ambitions and a North American hands-free launch targeted for 2028, per DEV Community's AI digest."
+        }
+      ]
+    }
+  ]
+}
