@@ -1,0 +1,98 @@
+{
+  "date": "2026-10-27",
+  "headline": "Kai, the Fed sits down this morning with markets calling tomorrow's decision a hold — and keeping one-in-ten odds on a hike.",
+  "subline": "Israel votes with neither bloc assured a Knesset majority, Coca-Cola and Boeing open a packed earnings day, and bitcoin starts the morning under $80,000.",
+  "asof": "Pre-market · as of 6:40 AM ET · index values are Monday's close, deltas are overnight futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,676.77", "delta": "+0.05%", "dir": "up"},
+    {"label": "Nasdaq", "value": "26,169.38", "delta": "+0.07%", "dir": "up"},
+    {"label": "Dow", "value": "52,361.58", "delta": "+0.15%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.99%", "delta": "−0.2 bp", "dir": "flat"},
+    {"label": "Gold", "value": "$4,010", "delta": "−0.70%", "dir": "down"},
+    {"label": "WTI crude", "value": "$101.91", "delta": "+0.15%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$79,600", "delta": "−1.02%", "dir": "down"}
+  ],
+  "history": {"spx": 7676.77, "y10": 4.99, "btc": 79600},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Fed meeting opens; hike odds small but live",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-october-27-dow-sp-500-nasdaq-081901995.html",
+          "sentence": "The two-day meeting starts today with the decision due Wednesday, and after hotter-than-expected inflation CME pricing implies about 10 percent odds of a hike rather than a hold, per Yahoo Finance — the Conference Board's October consumer-confidence reading is this morning's main data print."
+        },
+        {
+          "title": "Monday's rally set the table",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-201302392.html",
+          "sentence": "The S&P 500 rose 0.7 percent Monday to 7,676.77, the Nasdaq added 0.8 percent to 26,169.38 and the Dow closed at 52,361.58, per AP's wrap carried by Yahoo Finance."
+        },
+        {
+          "title": "Coca-Cola, Boeing, Robinhood lead today's earnings",
+          "url": "https://www.tipranks.com/news/stock-market-today-oct-27-futures-edge-higher-ahead-of-key-earnings-and-the-feds-rate-decision",
+          "sentence": "Coca-Cola, Boeing and Robinhood headline today's slate, with Microsoft, Alphabet and Amazon due later in the week, per TipRanks."
+        },
+        {
+          "title": "Crude holds near six-month highs",
+          "url": "https://arynews.tv/oil-rises-slightly-as-diplomacy-hopes-counter-renewed-houthi-attacks",
+          "sentence": "Brent trades near $116, close to six-month highs, after renewed Houthi strikes on Saudi oil infrastructure, with diplomacy hopes out of Tehran capping the move, per ARY News and TipRanks."
+        },
+        {
+          "title": "Bitcoin starts the day under $80,000",
+          "url": "https://www.analyticsinsight.net/price-analysis/crypto-prices-today-bitcoin-slips-below-usd-80000-as-traders-await-fed-verdict",
+          "sentence": "Bitcoin slipped back below $80,000 to about $79,770, down more than 4 percent this month, after US spot ETFs shed $635.6 million on October 22 and traders turned cautious into the Fed, per Analytics Insight."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Israel votes; Netanyahu could linger either way",
+          "url": "https://www.euronews.com/2026/10/27/win-or-lose-netanyahu-could-remain-in-power-for-months-after-israeli-election-as-iran-tens",
+          "sentence": "Israelis are voting today in the first national election since October 7, 2023, and with neither Netanyahu's coalition nor Gadi Eisenkot's bloc assured 61 Knesset seats, Netanyahu could run a caretaker government with war powers for months, per Euronews."
+        },
+        {
+          "title": "Saudis intercept missiles aimed at oil heartland",
+          "url": "https://www.aljazeera.com/news/2026/10/27/saudi-led-coalition-destroys-four-houthi-drones",
+          "sentence": "The Saudi-led coalition said it intercepted three Houthi ballistic missiles aimed at the oil-rich Eastern Province and four drones headed south on Tuesday, a day after Saudi, Turkish and Pakistani officials met Iranian counterparts in Tehran and agreed to keep talking, per Al Jazeera."
+        },
+        {
+          "title": "Midterms one week out; average sits D+7.4",
+          "url": "https://uspollingdata.com/polls/2026-midterm-tracker/",
+          "sentence": "Election Day is one week from today, and US Polling Data's tracker puts the generic-ballot average at D+7.4 with Trump approval at 37 percent."
+        },
+        {
+          "title": "Kyiv hit overnight; firefighters pull dog free",
+          "url": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
+          "sentence": "Firefighters battled fires across Kyiv and pulled a dog from the rubble after an overnight Russian attack on the capital, per Euronews."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic will list as ANT on Nasdaq",
+          "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-updates-frontier-ai-lab-discloses-revenue-and-risks-in-highly-anticipated-s-1-filing-141702607.html",
+          "sentence": "Fresh S-1 detail has Anthropic listing as ANT on Nasdaq later this fall with Goldman Sachs and Morgan Stanley leading, Q2 operating income turning positive at $974 million, and Wall Street talk of a roughly $2 trillion valuation, per Yahoo Finance."
+        },
+        {
+          "title": "OpenAI claims a machine-checked complexity landmark",
+          "url": "https://thenextweb.com/news/openai-exponential-time-hypothesis-false-kakeya-yang-mills",
+          "sentence": "OpenAI says an internal model produced a Lean-verified disproof of the Exponential Time Hypothesis — a conjecture hundreds of computer-science papers lean on — and the researchers who proposed it are organizing an unpaid independent review, per The Next Web."
+        },
+        {
+          "title": "Nvidia puts $3 billion into Meta offering",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-meta-partner-on-muse-agent-as-nvidia-invests-3-billion-4974243",
+          "sentence": "Nvidia will invest $3 billion in Meta's share offering and expand their partnership around Meta's Muse AI agent, per Reuters."
+        },
+        {
+          "title": "SK Hynix pops on special-dividend report",
+          "url": "https://www.tipranks.com/news/stock-market-today-oct-27-futures-edge-higher-ahead-of-key-earnings-and-the-feds-rate-decision",
+          "sentence": "US-listed SK Hynix rose about 3 percent premarket on reports the memory maker is weighing a special dividend of roughly $12 billion, per TipRanks."
+        }
+      ]
+    }
+  ]
+}
