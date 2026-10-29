@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-29",
+  "headline": "Kai, Alphabet's first miss in nearly four years has Nasdaq futures down 1.1% this morning, one day after a split Fed held rates and again called inflation elevated.",
+  "subline": "Microsoft's 48% Azure growth cushions the tape, Q3 GDP and September PCE print at 8:30, and Amazon reports tonight.",
+  "asof": "Pre-market · as of 6:40 AM ET · equity values are overnight futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,760", "delta": "−0.30%", "dir": "down"},
+    {"label": "Nasdaq 100 fut.", "value": "29,638", "delta": "−1.14%", "dir": "down"},
+    {"label": "Dow fut.", "value": "52,995", "delta": "+0.57%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.05%", "delta": "+5 bp", "dir": "up"},
+    {"label": "Gold", "value": "$4,043.90", "delta": "−0.19%", "dir": "down"},
+    {"label": "WTI crude", "value": "$101.39", "delta": "−1.35%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$79,942", "delta": "−1.75%", "dir": "down"}
+  ],
+  "history": {"spx": 7743.98, "y10": 5.05, "btc": 79942},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Fed holds at 3.75–4%; two wanted a hike",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+          "sentence": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, and the statement still says inflation remains elevated, per the Federal Reserve."
+        },
+        {
+          "title": "Alphabet sinks 10% after hours; Microsoft gains",
+          "url": "https://cappnotes.substack.com/p/closing-look-wednesday-october-28",
+          "sentence": "Its first top- and bottom-line miss in nearly four years dropped the stock 10.12% in late trading, while Microsoft rose 2.63% on 48% Azure growth, per Capp Notes."
+        },
+        {
+          "title": "GDP, PCE and Amazon all land today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+          "sentence": "Consensus looks for 3.2% annualized Q3 growth and 3.1% core PCE, with Amazon, Eli Lilly, Mastercard, Intel and Caterpillar reporting, per Yahoo Finance."
+        },
+        {
+          "title": "Ten-year yield jumps most in a month",
+          "url": "https://cappnotes.substack.com/p/closing-look-wednesday-october-28",
+          "sentence": "It rose 5.2 basis points to 5.044% Wednesday, the biggest gain since late September, pressuring utilities and real estate, per Capp Notes."
+        },
+        {
+          "title": "Bitcoin slips back under $80,000",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-october-29-dow-sp-500-nasdaq-alphabet-microsoft-081708101.html",
+          "sentence": "It trades just under $80,000 pre-market, down 1.75% over 24 hours, as the Fed's hawkish hold ripples through risk assets, per Yahoo Finance."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Spanish rail collision kills 68 near Toledo",
+          "url": "https://www.10things.news/p/10-things-global-news-29th-october-e6a",
+          "sentence": "A Renfe high-speed train struck a stationary Iryo train near Urda in Spain's second deadly rail disaster this year, per 10 Things Global News."
+        },
+        {
+          "title": "Israel's election ends in deadlock",
+          "url": "https://everythingbriefing.substack.com/p/campaign-speeches-alaska-and-todays",
+          "sentence": "Netanyahu's bloc is projected at 53 of 120 seats on the highest turnout since 1999, and he is alleging fraud without public evidence, per Everything Briefing."
+        },
+        {
+          "title": "Midterms Tuesday: Trump and Obama barnstorm",
+          "url": "https://everythingbriefing.substack.com/p/campaign-speeches-alaska-and-todays",
+          "sentence": "Trump rallied in Ohio and Obama in Georgia, while a NYT/Siena poll has South Carolina's Senate race tied, per Everything Briefing."
+        },
+        {
+          "title": "Houthi strike on Ras Tanura jolts oil",
+          "url": "https://everythingbriefing.substack.com/p/campaign-speeches-alaska-and-todays",
+          "sentence": "Oil rose on the refinery attack, US pump prices average $4.24 a gallon, and the WSJ reports Washington warned Gulf states a renewed Iran campaign could follow the midterms, per Everything Briefing."
+        },
+        {
+          "title": "Lula wins; Bolsonaro's son surfaces in Miami",
+          "url": "https://www.10things.news/p/10-things-global-news-29th-october-e6a",
+          "sentence": "Flávio Bolsonaro reached Miami despite a court order to surrender his passport in a money-laundering probe, after losing to Lula by about 4.4 million votes, per 10 Things Global News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic files for a Nasdaq IPO as ANT",
+          "url": "https://www.anthropic.com/news/s1-sec",
+          "sentence": "Monday's S-1 proposes a Class A listing with Goldman Sachs and Morgan Stanley leading, share count and price range not yet set, per Anthropic."
+        },
+        {
+          "title": "OpenAI reportedly moves to buy Google TPUs",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/",
+          "sentence": "Reuters reports OpenAI plans to purchase the chips it has been renting, with terms undisclosed and neither company confirming, per The Neuron."
+        },
+        {
+          "title": "SK Hynix jumps 13% on AI memory",
+          "url": "https://whyitmoved.substack.com/p/daily-market-report-thursday-october-3b6",
+          "sentence": "Strong results from the high-bandwidth-memory supplier lifted Asian chip names overnight, one bright spot in a heavy tech tape, per Why It Moved."
+        },
+        {
+          "title": "DeepMind's Genie 4 does real-time worlds",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/",
+          "sentence": "The world model adds real-time interaction, native audio and physics simulation, reaching trusted testers first and Ultra subscribers next, per The Neuron."
+        },
+        {
+          "title": "The AI buildout's bill: maybe $10 trillion",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-october-28-2026/",
+          "sentence": "The Washington Post estimates AI firms could seek roughly $10 trillion for chips and data centers through 2032, as Anthropic warns power delays could slow its own $400 billion buildout, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
