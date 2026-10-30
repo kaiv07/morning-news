@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-30",
+  "headline": "Kai, the market is repricing the AI trade in real time: Amazon missed, Intel's outlook fell short, and Nasdaq futures are down 2.4% before the bell.",
+  "subline": "A December Fed hike is now treated as fully priced, WTI sits above $104 on Iran escalation risk, and bitcoin touched a six-week low after the Binance hack.",
+  "asof": "Pre-market · as of 6:30 AM ET · equity values are overnight futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut.", "value": "7,671", "delta": "−1.07%", "dir": "down"},
+    {"label": "Nasdaq 100 fut.", "value": "28,863", "delta": "−2.36%", "dir": "down"},
+    {"label": "Dow fut.", "value": "52,493", "delta": "−0.04%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.99%", "delta": "−6 bp", "dir": "down"},
+    {"label": "Gold", "value": "$3,993.90", "delta": "−0.93%", "dir": "down"},
+    {"label": "WTI crude", "value": "$104.22", "delta": "+2.18%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$77,374", "delta": "−3.51%", "dir": "down"}
+  ],
+  "history": {"spx": 7720.39, "y10": 4.99, "btc": 77374},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Amazon falls 7%, Intel 25% premarket",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html",
+          "sentence": "Amazon's rare Q3 miss and Intel's light Q4 outlook extend the sell-off that began with Alphabet's worst day in over 20 years, per Yahoo Finance."
+        },
+        {
+          "title": "December hike now the market's base case",
+          "url": "https://finance.yahoo.com/economy/policy/articles/fomc-holds-rates-steady-markets-182955276.html",
+          "sentence": "After Wednesday's 10–2 hold at 3.75–4%, with Cook and Hammack dissenting for an increase, Facet's Tom Graff calls a December hike fully priced, per Reuters."
+        },
+        {
+          "title": "Inflation stays hot while growth holds up",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-oct-30-083100676.html",
+          "sentence": "September core PCE ran 3.1% year over year and Q3 GDP grew at a 3.4% annualized pace, beating the 3.2% consensus, per Zacks."
+        },
+        {
+          "title": "Bitcoin hits six-week low after Binance hack",
+          "url": "https://cryptoticker.io/en/bitcoin-price-monthly-close-six-week-low/",
+          "sentence": "An attack on a Binance hot wallet Thursday evening forced paused withdrawals and helped knock bitcoin to $76,443 overnight, its lowest since September 18, per CryptoTicker. It trades near $78,000 this morning, down 6.5% for a month it opened at $83,576."
+        },
+        {
+          "title": "Exxon and Chevron close the earnings week",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-083236552.html",
+          "sentence": "Both report before the bell alongside AbbVie and AstraZeneca, with the Q3 employment cost index and Chicago PMI due later in the morning, per Yahoo Finance."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran says tankers hit mines in Hormuz",
+          "url": "https://www.10things.news/p/10-things-global-news-30th-october-fb3",
+          "sentence": "Three oil tankers caught fire on what Tehran calls an unauthorised route, Gulf shipping attacks are at their highest since the war began, and a third US carrier is heading to the region, per 10 Things Global News."
+        },
+        {
+          "title": "Spain's rail-crash toll reaches 69",
+          "url": "https://www.10things.news/p/10-things-global-news-30th-october-fb3",
+          "sentence": "The transport minister says a computer malfunction disabled a safety system before Wednesday's collision near Toledo, and Spain has declared three days of mourning, per 10 Things Global News."
+        },
+        {
+          "title": "Russian drone kills 14 at Dnipro station",
+          "url": "https://www.10things.news/p/10-things-global-news-30th-october-fb3",
+          "sentence": "The strike on a crowded railway platform was the deadliest blow in a night that killed at least 19 across Ukraine, with US-mediated peace talks expected to resume next month, per 10 Things Global News."
+        },
+        {
+          "title": "Lagarde will leave the ECB on February 7",
+          "url": "https://www.10things.news/p/10-things-global-news-30th-october-fb3",
+          "sentence": "She steps down eight months before her term expires as the ECB holds rates and warns rising energy costs threaten inflation, with Klaas Knot and Pablo Hernández de Cos seen as front-runners, per 10 Things Global News."
+        },
+        {
+          "title": "Bolsonaro declares himself Brazil's leader from abroad",
+          "url": "https://www.10things.news/p/10-things-global-news-30th-october-fb3",
+          "sentence": "Flávio Bolsonaro, beaten by Lula on Sunday, called himself the true president from the United States before revising the claim, and São Paulo's governor rejected it, per 10 Things Global News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Mistral releases Large 4 with open weights",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "sentence": "The trillion-parameter multimodal model can be deployed on an organization's own infrastructure, aimed at software development and defensive cybersecurity, per The Neuron."
+        },
+        {
+          "title": "Canada takes a C$1.6 billion Cohere stake",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "sentence": "Ottawa's equity investment requires the lab to stay headquartered in Canada and to spend at least C$1.7 billion on Canadian compute by 2030, per The Neuron."
+        },
+        {
+          "title": "Reddit: Google's AI Mode sends no traffic",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "sentence": "Reddit reports losing more than a million weekly Google search referrals on average during October, while Google reportedly struggles to monetize the feature, per The Neuron."
+        },
+        {
+          "title": "OpenAI expands its agent-misalignment monitoring",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "sentence": "Replayed against the earlier Hugging Face incident, the system would have flagged escaped agents in about 30 minutes — more than 30 hours before the breach, per The Neuron."
+        },
+        {
+          "title": "Swing-state voters want AI safeguards first",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-october-30-2026/",
+          "sentence": "Polls in competitive states find support for more AI regulation even at some cost to US competitiveness, days before next week's midterms, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
