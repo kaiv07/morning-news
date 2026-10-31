@@ -1,0 +1,108 @@
+{
+  "date": "2026-10-31",
+  "headline": "Kai, October went out ugly: a record $6.3 billion Binance heist, Intel's worst day in decades, and a Fed priced near 76% for a December hike.",
+  "subline": "The S&P fell 1.82% Friday to close the month, roughly half the stolen Binance funds are already frozen, and Tuesday's midterms open a week that ends with the October jobs report.",
+  "asof": "Weekend edition · markets closed · strip shows Friday's close, bitcoin early Saturday · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,580.07", "delta": "−1.82%", "dir": "down"},
+    {"label": "Nasdaq", "value": "25,437", "delta": "−2.86%", "dir": "down"},
+    {"label": "Dow", "value": "51,770", "delta": "−1.09%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.94%", "delta": "−4 bp", "dir": "down"},
+    {"label": "Gold", "value": "$3,898.90", "delta": "−3.3%", "dir": "down"},
+    {"label": "WTI crude", "value": "$104.12", "delta": "+2.08%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$77,175", "delta": "−1.71%", "dir": "down"}
+  ],
+  "history": {"spx": 7580.07, "y10": 4.94, "btc": 77175},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Intel's worst day in decades ends October",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026",
+          "sentence": "Intel fell 28.58% after guiding fourth-quarter earnings to 25 cents against 43 expected, chips lost 7.2% as a group, and the S&P logged its worst day since June, per Frank Cappelleri's closing wrap."
+        },
+        {
+          "title": "Fed speakers lean into a December hike",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-october-30-2026",
+          "sentence": "St. Louis's Musalem says more firming is needed \"and soon,\" Dallas's Logan wants at least two more quarter-point moves, and CME FedWatch puts December-hike odds near 76%, per CappNotes."
+        },
+        {
+          "title": "Gold sinks to a one-year low, oil climbs",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-october-30-2026",
+          "sentence": "December gold settled down 3.3% at $3,898.90, its weakest in about a year, while a tanker attack in the Strait of Hormuz pushed WTI up 2.08% to $104.12, per CappNotes."
+        },
+        {
+          "title": "Bitcoin steadies near $77,000 after the hack",
+          "url": "https://coincentral.com/bitcoin-btc-price-holds-above-77000-as-binance-hack-recovery-plan-takes-shape",
+          "sentence": "It traded at $77,175 early Saturday, down 1.71%, after dipping to $76,944 overnight while Binance's recovery plan took shape, per CoinCentral. Analysts there call $76,000–$77,000 the zone that has to hold and $80,000 the level to retake."
+        },
+        {
+          "title": "Jobs Friday headlines the week ahead",
+          "url": "https://fedratecalc.com/us-economic-calendar/november-2026/",
+          "sentence": "September JOLTS lands Tuesday at 10 AM and the October employment report follows Friday at 8:30 AM, per FedRateCalc's calendar — the first payrolls print since the Fed's October hold."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Judge halts DOJ threats against election workers",
+          "url": "https://www.yahoo.com/news/politics/articles/judge-orders-doj-stop-threatening-010547369.html",
+          "sentence": "US District Judge Trina Thompson barred the Justice Department from threatening election officials with prosecution and from demanding midterm ballots be set aside, a day after DOJ letters reached all 50 states, per Politico."
+        },
+        {
+          "title": "Netanyahu's party says the election was stolen",
+          "url": "https://www.yahoo.com/news/politics/articles/netanyahus-party-claims-israels-election-143920595.html",
+          "sentence": "After Arab-majority parties won a record 19 of 120 Knesset seats and the far-right bloc fell to 53, Likud alleges foreign-funded vote-buying and the Shin Bet is investigating, per CBS News."
+        },
+        {
+          "title": "Pentagon says fired general leaked war secrets",
+          "url": "https://www.yahoo.com/news/politics/articles/pentagon-accuses-newly-fired-general-173642624.html",
+          "sentence": "The department accuses Lt. Gen. Brett Sylvia, dismissed from the Joint Chiefs staff, of sharing classified material on the Iran war and Ukraine with journalists, claiming he failed three polygraphs, per the AP."
+        },
+        {
+          "title": "Alaska's two Dan Sullivans may decide the Senate",
+          "url": "https://www.yahoo.com/news/politics/article/alaska-democrats-linked-to-secret-effort-to-recruit-2nd-dan-sullivan-to-tip-senate-race-report-200632493.html",
+          "sentence": "Ahead of Tuesday's Nov. 3 vote, a Times investigation suggests Democrats recruited a second Dan Sullivan onto the ballot, where Mary Peltola leads the incumbent by 2 points in a race rated a toss-up, per Yahoo News."
+        },
+        {
+          "title": "Clocks fall back an hour this weekend",
+          "url": "https://www.yahoo.com/news/us/article/daylight-saving-time-2026-when-do-clocks-officially-fall-back-an-hour-this-weekend--and-why-is-it-still-so-controversial-173150536.html",
+          "sentence": "Daylight saving time ends this weekend and remains as controversial as ever, per Yahoo News — the one reliably free hour the calendar pays out each year."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Half the $6.3 billion Binance haul is frozen",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-circle-freeze-2-38-222607515.html",
+          "sentence": "Tether froze nearly $1.57 billion and Circle more than $800 million of a 20-minute theft that TRM Labs and Chainalysis pin on North Korea, and Binance said Friday it expects withdrawals back within 45 hours, per Reuters."
+        },
+        {
+          "title": "Reddit falls 29% on Google AI traffic squeeze",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026",
+          "sentence": "The stock dropped 29.22% Friday after guidance arrived wrapped in warnings that Google's AI search is squeezing its traffic, per TheStreet and CappNotes."
+        },
+        {
+          "title": "Google's TPU satellite is alive in orbit",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "The Suncatcher prototype launched October 1 is running Gemma 4 in space, powering one of its four TPUs for about 20 minutes at a time on a 1 kW budget, per TechCrunch via AI Weekly."
+        },
+        {
+          "title": "Comcast swaps 912 call-center jobs for AI",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "WARN notices cover 634 roles in Philadelphia plus cuts in New Jersey and Washington state effective December 31, with AI agents taking over customer contact, per the Philadelphia Inquirer via AI Weekly."
+        },
+        {
+          "title": "UK opens antitrust probe into Meta's AI terms",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "The CMA is examining whether terms that pull publisher content into Meta's AI features abuse a dominant position, after Meta paused changes slated for November 20, per BritBrief via AI Weekly."
+        }
+      ]
+    }
+  ]
+}
