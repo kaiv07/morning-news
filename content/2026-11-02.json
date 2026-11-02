@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-02",
+  "headline": "Kai, futures point higher after the worst day since June — Apple reports tonight, and the midterms are tomorrow.",
+  "subline": "The AI rout that just erased $5 trillion gets its rebound attempt, Doha talks are easing oil off its spike, and October payrolls land Friday.",
+  "asof": "Pre-market · futures and overnight quotes as of ~6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,654.50", "delta": "+0.53%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "28,778.50", "delta": "+0.86%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,217", "delta": "+0.58%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.93%", "delta": "−0.06", "dir": "down"},
+    {"label": "Gold", "value": "$3,913.40", "delta": "+0.37%", "dir": "up"},
+    {"label": "WTI crude", "value": "$99.38", "delta": "−4.55%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$77,791", "delta": "−0.05%", "dir": "flat"}
+  ],
+  "history": {"spx": 7580.07, "y10": 4.93, "btc": 77791},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures rise after the AI sell-off",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html",
+          "sentence": "S&P 500 futures are up 0.53%, Nasdaq-100 futures 0.86% and Dow futures 0.58% after an AI-fueled rout that briefly pushed the Nasdaq 100 into correction, per Yahoo Finance's live blog."
+        },
+        {
+          "title": "Worst day since June for the S&P 500",
+          "url": "https://www.bbntimes.com/financial/s-p-500-slips-to-7-580-07-in-worst-day-since-june-as-intel-and-amazon-deepen-ai-selloff",
+          "sentence": "Friday's 1.82% slide left the index at 7,580.07, its worst session since June, with Intel and Amazon deepening the AI sell-off, per BBN Times."
+        },
+        {
+          "title": "Apple and Palantir report after the bell",
+          "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-02/",
+          "sentence": "Apple (consensus EPS of $1.98) and Palantir ($0.33) post results after today's close, October ISM manufacturing lands at 10 a.m. ET, and Friday's payrolls consensus sits at 55,000 after September's 29,000, per Gotrade's week-ahead."
+        },
+        {
+          "title": "Oil slides on Doha talks; gold steadies",
+          "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026",
+          "sentence": "Brent's January contract trades near $110, down 3% from above $114 on Friday, as talks to end the US-Iran war continue, while gold holds near $3,915 after Friday's one-year low, per Saxo Bank."
+        },
+        {
+          "title": "Bitcoin holds near $78,000 after Binance hack",
+          "url": "https://crypto.news/crypto-week-ahead-bitcoin-us-midterms-jobs-data-fed",
+          "sentence": "The $6.3 billion Binance breach knocked bitcoin toward $76,000 and October closed down more than 7%, but it trades near $78,000 as withdrawals resume and spot-ETF outflows hit $643 million on October 30, per crypto.news."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Midterms tomorrow: Congress on the ballot",
+          "url": "https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night",
+          "sentence": "Voters decide control of the House and Senate on Tuesday, and NPR's election-night guide maps poll-closing times by state and the races that will tell the story early."
+        },
+        {
+          "title": "Trump: Iran war ends 'one way or the other'",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-diplomacy-threat-resume-attacks/",
+          "sentence": "Negotiators met in Doha for a third day of talks to end the US-Iran war, and Trump said the conflict will be put away very soon, 'one way or the other,' per CBS News."
+        },
+        {
+          "title": "Kherson ceasefire expires; civilians evacuated",
+          "url": "https://www.usnews.com/news/world/articles/2026-11-01/ukraine-evacuates-civilians-from-parts-of-kherson-region-as-expiry-of-oleshky-ceasefire-nears",
+          "sentence": "Ukraine evacuated civilians from parts of the Kherson region as the Oleshky humanitarian ceasefire ran out, with Russia declining to extend the pause, per AP reporting carried by US News."
+        },
+        {
+          "title": "Halevi: October 7 was preventable",
+          "url": "https://www.timesofisrael.com/liveblog-november-1-2026",
+          "sentence": "Former IDF chief Herzi Halevi said the October 7 attack was preventable while insisting there was 'absolutely no internal betrayal,' per The Times of Israel's liveblog."
+        },
+        {
+          "title": "China factory gauge slips back into contraction",
+          "url": "https://www.home.saxo/en-gb/content/articles/macro/market-quick-take---markets-find-calm-after-friday-turmoil----2-november-2026-02112026",
+          "sentence": "China's official manufacturing PMI fell to 49.3 in October from 50.1 in September, back below the line dividing growth from contraction, per Saxo Bank's morning rundown."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Data-center pause backers eye 15 governorships",
+          "url": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
+          "sentence": "Candidates backing a pause on new data centers could win up to 15 of the 36 governor races on Tuesday's ballot, per an analysis by The Information cited in AI Weekly."
+        },
+        {
+          "title": "OpenAI trims its raise to $20 billion",
+          "url": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
+          "sentence": "OpenAI is now seeking about $20 billion at a $1.25 trillion valuation, down from $30 billion at $1.4 trillion, per a Financial Times report relayed by AI Weekly."
+        },
+        {
+          "title": "AI borrowing hits $466 billion; Meta outlook cut",
+          "url": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
+          "sentence": "AI-linked companies have raised $466 billion of debt this year against $101 billion in the same period of 2025, and S&P cut Meta's credit outlook to negative, per Wall Street Journal and CNBC reporting collected by AI Weekly."
+        },
+        {
+          "title": "AMD undercuts Nvidia on inference cost",
+          "url": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
+          "sentence": "A SemiAnalysis test served the Kimi K3 model at $0.15 per million tokens on AMD's MI355X against $0.22 on Nvidia's GB200 racks, a day before AMD reports earnings, per AI Weekly."
+        },
+        {
+          "title": "Trojanized Claude Code extension hit Cursor",
+          "url": "https://aiweekly.co/issues/ai-week-ahead-data-center-pause-backers-could-win-15",
+          "sentence": "A tampered version of the Claude Code extension sat in Cursor's marketplace for about 11 hours, exposing up to 5,000 developers before a clean build shipped, per The Hacker News via AI Weekly."
+        }
+      ]
+    }
+  ]
+}
