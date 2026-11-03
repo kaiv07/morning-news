@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-03",
+  "headline": "Kai, America votes today: Congress is in play, traders put a Senate flip near 75%, and AMD reports after the close.",
+  "subline": "Futures are split ahead of tonight's count, Apple's memory-cost warning weighs on tech, and oil is bouncing after Monday's 7% slide.",
+  "asof": "Pre-market · futures and overnight quotes as of ~6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,568.75", "delta": "−0.08%", "dir": "flat"},
+    {"label": "Nasdaq 100 fut", "value": "28,237.00", "delta": "+0.39%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,806", "delta": "−0.63%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.89%", "delta": "−0.035", "dir": "down"},
+    {"label": "Gold", "value": "$3,916.80", "delta": "−1.33%", "dir": "down"},
+    {"label": "WTI crude", "value": "$98.03", "delta": "+1.63%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$77,024", "delta": "−0.98%", "dir": "down"}
+  ],
+  "history": {"spx": 7541.40, "y10": 4.89, "btc": 77023.84},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Markets brace for tonight's midterm count",
+          "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-aehr-in-focus/cNGXG5HR95L",
+          "sentence": "Traders go into the results pricing a nearly 75% chance Democrats take the Senate, and JPMorgan warns a sweep of both chambers could trigger a sell-off in AI stocks, per Stocktwits, citing CNBC."
+        },
+        {
+          "title": "Apple drops 4.5% on memory-cost warning",
+          "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-aehr-in-focus/cNGXG5HR95L",
+          "sentence": "Apple fell 4.5% premarket after saying surging memory-chip prices will keep pressuring gross margin, even though revenue and iPhone sales beat expectations, per Stocktwits."
+        },
+        {
+          "title": "Oil rebounds after Monday's 7% plunge",
+          "url": "https://www.atfxcapital.com/en/analysis/market-news/20261103-daily-market-highlight",
+          "sentence": "Brent settled 7.63% lower at $104.77 and WTI at $96.46 on US-Iran settlement hopes, then crude bounced more than 1% overnight on reports of a US strike on Qeshm Island, per ATFX and Stocktwits."
+        },
+        {
+          "title": "JOLTS and factory orders today; AMD tonight",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html",
+          "sentence": "September job openings (7.1 million expected) and factory orders land this morning, then AMD — with Q4 guidance the swing factor — leads an after-the-bell slate that includes Pfizer, Shopify and Super Micro, per Yahoo Finance."
+        },
+        {
+          "title": "Bitcoin defends $76,500 as ETF outflows run on",
+          "url": "https://crypto.news/why-is-bitcoin-price-down-today-btc-76000-support/",
+          "sentence": "Spot bitcoin ETFs bled $398.6 million on November 2 after $643.3 million on October 30, stretching bitcoin's seven-day decline to 3.59% with support eyed at $76,400, per crypto.news."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Election Day: control of Congress on the line",
+          "url": "https://cbsnews.com/live-updates/election-day-2026-midterms",
+          "sentence": "Voting wraps up today in midterms that decide control of both the House and Senate, with CBS News tracking results live as polls close tonight."
+        },
+        {
+          "title": "Record spending, low approval frame the vote",
+          "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6",
+          "sentence": "Campaign spending is projected at $11.9 billion, the most expensive midterm on record, while Trump enters the day at 32% approval, just above his 31% low, per 10 Things News."
+        },
+        {
+          "title": "Russian strike kills 26 ahead of peace talks",
+          "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6",
+          "sentence": "Russian airstrikes on an aid centre and shelter in southern Ukraine killed at least 26 people a week before delegations meet in Abu Dhabi on November 10-11, per 10 Things News."
+        },
+        {
+          "title": "US-Iran talks grind on without breakthrough",
+          "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6",
+          "sentence": "Indirect negotiations through Qatari mediators have produced revised proposals but no deal, and Tehran says its seven-step plan could be implemented within two days, per 10 Things News."
+        },
+        {
+          "title": "Cyberattacks hit supermarket freezers across Europe",
+          "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6",
+          "sentence": "Suspected cyberattacks altered refrigeration temperatures at supermarkets in seven European countries on Monday, forcing stores to discard food, per 10 Things News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Palantir beats, raises outlook; stock drops 5%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-3-dow-sp-500-nasdaq-midterms-amd-090846378.html",
+          "sentence": "Palantir beat Q3 estimates, raised its full-year revenue outlook, and saw US commercial sales pass government sales for the first time, but the stock fell about 5% premarket on valuation worries, per Yahoo Finance and Stocktwits."
+        },
+        {
+          "title": "Marvell strikes $115 billion deal for Lumentum",
+          "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-aehr-in-focus/cNGXG5HR95L",
+          "sentence": "Marvell agreed to buy AI-optics maker Lumentum in a deal Stocktwits puts at $115 billion, and its shares rose more than 2% premarket on the news."
+        },
+        {
+          "title": "Oracle raises $20 billion; shares fall 8.6%",
+          "url": "https://stocktwits.com/news-articles/markets/equity/us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-aehr-in-focus/cNGXG5HR95L",
+          "sentence": "Oracle dropped 8.6% Monday after launching a roughly $20 billion equity-and-bond raise that prices 86.2 million shares at $116, well below the 50-day average of $141.25, per Stocktwits."
+        },
+        {
+          "title": "Four AI labs back one training opt-out",
+          "url": "https://thenextweb.com/news/ai-training-opt-out-robots-txt-google-openai-microsoft-anthropic",
+          "sentence": "Google, OpenAI, Microsoft and Anthropic agreed to honor a single robots.txt opt-out token for AI training, with Microsoft committing from February 2027 and Google targeting early 2027, per The Next Web."
+        },
+        {
+          "title": "UK: AI-powered infrastructure attack likely by 2028",
+          "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6",
+          "sentence": "Britain's National Cyber Security Centre says an AI-powered ransomware attack on critical national infrastructure is highly likely by 2028, per 10 Things News."
+        }
+      ]
+    }
+  ]
+}
