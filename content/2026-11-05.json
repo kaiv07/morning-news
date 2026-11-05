@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-05",
+  "headline": "Kai, Democrats swept Congress, the Dow logged its best day since April 2025, and the AI trade is doing the math on a tougher regulatory map.",
+  "subline": "Nasdaq futures lag on data-center politics, oil's four-day slide pauses near $89, and a Bank of England hike is expected this morning.",
+  "asof": "Pre-market · futures and overnight quotes as of ~6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,733.25", "delta": "+0.17%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "28,421.25", "delta": "−0.51%", "dir": "down"},
+    {"label": "Dow fut", "value": "53,886", "delta": "+0.72%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.89%", "delta": "−0.06", "dir": "down"},
+    {"label": "Gold", "value": "$4,144.00", "delta": "+1.74%", "dir": "up"},
+    {"label": "WTI crude", "value": "$88.87", "delta": "+0.85%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$80,255", "delta": "+2.40%", "dir": "up"}
+  ],
+  "history": {"spx": 7688.62, "y10": 4.89, "btc": 80254.84},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Dow's best day since April 2025; futures split",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026",
+          "sentence": "Wednesday's sweep rally carried the Dow up 1,569 points to 53,356.12 and the S&P 500 up 1.58% to 7,688.62, and this morning Dow futures hold green while Nasdaq futures give some of it back, per StockTitan and Yahoo Finance."
+        },
+        {
+          "title": "Oil steadies near $89 after an 8% rout",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+          "sentence": "WTI settled 8% lower at $88.12 on Wednesday — a fourth straight decline built on hopes a weakened White House now deals with Iran — and trades near $88.87 this morning, per Yahoo Finance and StockTitan."
+        },
+        {
+          "title": "BoE hike expected; claims and productivity today",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "The Bank of England is expected to raise rates 25 basis points to 4% this morning, its first hike of the cycle, ahead of US jobless claims and third-quarter productivity, with futures still pricing a December Fed hike, per XTB."
+        },
+        {
+          "title": "Toyota raises outlook; ConocoPhillips and Airbnb today",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "Toyota beat with ¥1.13 trillion in operating profit, lifted its full-year forecast to ¥3.90 trillion and expanded its buyback, with ConocoPhillips due this morning and Airbnb after the close, per XTB and Yahoo Finance."
+        },
+        {
+          "title": "Bitcoin back above $80,000",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-oil-falls-090519607.html",
+          "sentence": "Bitcoin trades at $80,255, up 2.4% on the day, recovering an election-night dip that came as traders read a Democratic Congress as slower digital-asset deregulation, per Yahoo Finance and The Standard."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Democrats take the House and the Senate",
+          "url": "https://www.cnbc.com/2026/11/04/democrats-2026-midterm-election-results.html",
+          "sentence": "Democrats won control of both chambers — CNBC counts at least 54 Senate seats and at least 250 in the House — with Republicans failing to flip a single seat, per CNBC."
+        },
+        {
+          "title": "Vance blames the Iran war; Trump concurs",
+          "url": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026",
+          "sentence": "JD Vance said the war with Iran cost Republicans the Congress, Trump called that explanation 'largely true,' and Speaker Mike Johnson will not seek the minority-leader post, per The Standard."
+        },
+        {
+          "title": "Schumer: the war 'must end'",
+          "url": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026",
+          "sentence": "Chuck Schumer said the Iran war 'must end' and suggested the new majority could press the point through government funding, while Qatar-mediated talks leave the sides, in Tehran's words, 'still far apart,' per The Standard and XTB."
+        },
+        {
+          "title": "Allies begin planning Ukraine's post-war reconstruction",
+          "url": "https://www.thestandard.com.hk/news/article/347566/Morning-Recap-November-5-2026",
+          "sentence": "Delegations from the US, Ukraine, Germany, France and Britain met with NATO and the World Bank to discuss rebuilding Ukraine after the war, according to the EU, per The Standard."
+        },
+        {
+          "title": "Texas elects a Democratic governor and senator",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "Gina Hinojosa won the governorship on promises of tougher data-center rules and James Talarico beat Ken Paxton for the Senate, a race in which Elon Musk's record $224 million was not enough, per XTB."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Data-center stocks pay for the sweep",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Hut 8 fell 23% and Ohio voters passed data-center restrictions in at least 14 municipalities, with Goldman estimating 45% of planned US capacity sits in states that could now tighten rules, per AI Weekly and XTB."
+        },
+        {
+          "title": "Qualcomm and Arm wobble after earnings",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "Qualcomm dropped about 7.4% after hours on soft guidance with smartphone-chip revenue down 26% year over year, and Arm slipped as royalty revenue came in light, per XTB."
+        },
+        {
+          "title": "Korea's chip trade cracks; Kospi −4.8%",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "A 4.8% Kospi drop tripped Seoul's five-minute program-trading halt and SK Hynix lost about 9%, leaving the index roughly 40% below its June peak, per XTB."
+        },
+        {
+          "title": "Anthropic licenses AP's real-time election data",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Anthropic struck a deal for Associated Press real-time election feeds, in what AI Weekly calls its first paid content-licensing agreement with a digital publisher."
+        },
+        {
+          "title": "UBS lifts AI capex forecast to $1.4 trillion",
+          "url": "https://www.xtb.com/en/market-analysis/what-drives-the-market-top-morning-news-november-5-2026",
+          "sentence": "UBS now sees $1.4 trillion in AI infrastructure spending even as Citrini Research argues investment growth has peaked and the risk has tilted down, per XTB."
+        }
+      ]
+    }
+  ]
+}
