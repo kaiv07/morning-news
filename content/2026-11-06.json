@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-06",
+  "headline": "Kai, Thursday erased the election rally in Wall Street's worst session since April 2025, Asia fell harder overnight, and the October jobs report lands at 8:30.",
+  "subline": "Nasdaq futures are bouncing while Dow futures sag, bitcoin sits just under $76,000 after a $1 billion liquidation day, and oil holds above $90 on Strait of Hormuz attacks.",
+  "asof": "Pre-market · futures and overnight quotes as of ~6:00 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,397.00", "delta": "+0.19%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "27,066.25", "delta": "+1.17%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,125", "delta": "−0.95%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.84%", "delta": "−0.06", "dir": "down"},
+    {"label": "Gold", "value": "$4,073.90", "delta": "−0.96%", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.62", "delta": "+0.11%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$75,938", "delta": "−5.44%", "dir": "down"}
+  ],
+  "history": {"spx": 7353.73, "y10": 4.84, "btc": 75938.24},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The worst session since April 2025",
+          "url": "https://cestriancapitalresearch.com/cestrian-daily-market-review-friday-6-november-2026",
+          "sentence": "The S&P 500 closed at 7,353.73, down 4.36%, with the Dow off 3.44% and the Nasdaq-100 down 6.36%, in Wall Street's biggest one-day loss since April 2025, per Cestrian Capital Research and TipRanks."
+        },
+        {
+          "title": "October jobs report lands at 8:30 ET",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
+          "sentence": "The Labor Department reports at 8:30 a.m. ET, with economists expecting about 65,000 jobs added in October and unemployment holding at 4.2% after September's 29,000, per Yahoo Finance."
+        },
+        {
+          "title": "Asia's Friday was worse",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-6-futures-mixed-as-nasdaq-futures-rebound-after-tech-selloff",
+          "sentence": "Korea's Kospi plunged more than 6% to 5,059.69 — an 11.7% loss for the week — and Japan's Nikkei fell 5.9%, though Micron, SanDisk and SK Hynix were rebounding in US premarket, per TipRanks."
+        },
+        {
+          "title": "Airbnb clears the bar; Moderna, Humana today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-091927729.html",
+          "sentence": "Airbnb earned $3.16 a share on revenue up 19% to $4.87 billion and jumped after hours, per Yahoo Finance, with Moderna and Humana among today's reporters."
+        },
+        {
+          "title": "Hormuz attack keeps oil above $90",
+          "url": "https://www.mitrade.com/insights/commodity-analysis/gold/wall-street-plunges-yields-tumble-gold",
+          "sentence": "An attack on a commercial vessel near the Strait of Hormuz lifted Brent to $98.29 and WTI to $90.52, keeping crude's war premium in place even as equities buckled, per Mitrade."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump pins the plunge on the Democrats",
+          "url": "https://www.cbsnews.com/live-updates/election-day-2026-midterms/",
+          "sentence": "Fallout from the Democratic sweep of Congress consumed Washington on Thursday, with President Trump blaming the market plunge on the midterm result, per CBS News and Yahoo Finance."
+        },
+        {
+          "title": "DeSantis: an 'extinction-level event' for the GOP",
+          "url": "https://www.10things.news/p/10-things-global-news-6th-november-8ab",
+          "sentence": "JD Vance blamed the Iran war for the rout and pressed to end it, Ted Cruz attacked the war's length, and Vance leads the 2028 field without Trump's endorsement so far, per 10 Things News."
+        },
+        {
+          "title": "Tehran puts a price on reopening Hormuz",
+          "url": "https://www.10things.news/p/10-things-global-news-6th-november-8ab",
+          "sentence": "Iran's security chief Mohsen Rezaei tied reopening the Strait of Hormuz and a nuclear deal to seven demands on Washington, including sanctions relief and the release of frozen assets, with proposals moving through Qatari mediation, per 10 Things News."
+        },
+        {
+          "title": "France counts 575,000 in the streets",
+          "url": "https://www.10things.news/p/10-things-global-news-6th-november-8ab",
+          "sentence": "The Interior Ministry tallied 575,000 marchers over wages and the budget — the CGT union claimed nearly 1.6 million — with at least 448 people detained after clashes in several cities, per 10 Things News."
+        },
+        {
+          "title": "Newsom empties California's death row",
+          "url": "https://www.10things.news/p/10-things-global-news-6th-november-8ab",
+          "sentence": "Governor Gavin Newsom commuted all 548 death sentences to life without parole, the largest mass commutation of its kind in modern US history, per 10 Things News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia drops 9% as data centers turn political",
+          "url": "https://www.10things.news/p/10-things-global-news-6th-november-8ab",
+          "sentence": "Nvidia lost more than 9% as Democratic campaign opposition to rapid data-center expansion registered with investors, and Texas governor-elect Gina Hinojosa called for a moratorium on new approvals, per 10 Things News."
+        },
+        {
+          "title": "OpenAI's IPO slips toward 2027",
+          "url": "https://the-decoder.com/altman-wont-go-public-for-less-than-1-trillion-so-openais-ipo-may-slip-to-2027/",
+          "sentence": "Sam Altman won't take OpenAI public for less than a $1 trillion valuation, so the listing may slip to 2027, per The Decoder."
+        },
+        {
+          "title": "Bitcoin slides to a seven-week low",
+          "url": "https://coincentral.com/bitcoin-btc-price-slips-below-76000-as-midterm-rally-fades-and-ai-stocks-drop/",
+          "sentence": "Bitcoin fell more than 6% to $75,463, its lowest since mid-September, with over $1 billion in leveraged positions — most of them longs — liquidated in 24 hours, per CoinCentral."
+        },
+        {
+          "title": "Europe's chipmakers catch the rebound",
+          "url": "https://fourweekmba.com/ai-europes-chip-stocks-rise-after-nvidia-rout-asml-up-2-6/",
+          "sentence": "ASML rose 2.6% as European semiconductor names steadied after the Nvidia-led rout, per FourWeekMBA."
+        },
+        {
+          "title": "METR says Anthropic's pace has doubled",
+          "url": "https://dataconomy.com/2026/11/06/metr-says-anthropics-ai-development-pace-has-doubled",
+          "sentence": "The independent evaluation group METR reports that Anthropic's AI development pace has doubled, per Dataconomy."
+        }
+      ]
+    }
+  ]
+}
