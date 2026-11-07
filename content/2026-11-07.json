@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-07",
+  "headline": "Kai, a 165,000-payroll surprise put a December Fed hike in play, and Friday's chip rebound couldn't save the S&P from a 2.7% week.",
+  "subline": "Democrats' House majority is heading toward 257 seats, bitcoin is holding the $75,000 line, and October CPI lands Tuesday.",
+  "asof": "Weekend edition · built Saturday ~6:50 AM ET · strip shows Friday's close · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,376.86", "delta": "+0.3%", "dir": "up"},
+    {"label": "Nasdaq", "value": "24,579.42", "delta": "+1.1%", "dir": "up"},
+    {"label": "Dow", "value": "51,285.73", "delta": "−0.5%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.858%", "delta": "+2.3 bp", "dir": "up"},
+    {"label": "Gold (Dec)", "value": "$4,074.90", "delta": "−0.94%", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.83", "delta": "+0.34%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$75,496", "delta": "−5.2%", "dir": "down"}
+  ],
+  "history": {"spx": 7376.86, "y10": 4.858, "btc": 75495.91},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Chips bounce, but the week still closed red",
+          "url": "https://au.finance.yahoo.com/news/major-us-stock-indexes-fared-212037857.html",
+          "sentence": "The S&P 500 rose 0.3% Friday to 7,376.86 and the Nasdaq gained 1.1% as chip stocks rebounded, but the Dow fell 237.33 points and the S&P still lost 2.7% on the week, per the AP."
+        },
+        {
+          "title": "October payrolls nearly triple the forecast",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026",
+          "sentence": "Employers added 165,000 jobs against roughly 59,000 expected and unemployment fell to 4.1%, and traders now put the odds of a December Fed hike above 65%, per Stock Titan's live blog citing the BLS and CME FedWatch."
+        },
+        {
+          "title": "Yields and oil settle higher; gold slips",
+          "url": "https://investrade.com/market-review-november-06-2026/",
+          "sentence": "The 10-year Treasury rose 2.3 basis points to settle at 4.858%, December gold fell 0.94% to $4,074.90, and WTI crude settled at $90.83 with Brent at $98.32, per Hammerstone Markets' recap on Investrade."
+        },
+        {
+          "title": "Bitcoin holds the $75,000 shelf",
+          "url": "https://www.forexcrunch.com/blog/2026/11/07/bitcoin-falls-to-seven-week-low-as-over-1-billion-in-crypto-longs-liquidated/",
+          "sentence": "Bitcoin steadied near $75,500 after Thursday's 5.2% drop — a move that liquidated more than $1.27 billion in crypto positions and pulled $430.2 million from spot ETFs in a day — with Wintermute's desk flagging $73,000 and $68,000 as the next supports, per Forex Crunch."
+        },
+        {
+          "title": "CPI Tuesday, PPI Friday, Cisco Thursday",
+          "url": "https://stocktitan.net/articles/earnings-calendar-week-of-november-9-2026",
+          "sentence": "October CPI lands Tuesday morning and PPI follows Friday, while Cisco and Applied Materials headline Thursday's earnings alongside CoreWeave on Tuesday and Constellation Energy on Monday, per Stock Titan's calendar."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Democrats pad the House; Senate rests on two states",
+          "url": "https://everythingbriefing.substack.com/p/election-update-congress-and-todays",
+          "sentence": "Democrats hold 253 House seats with counting still under way and are expected to finish near 257, while Senate control turns on razor-thin leads for Scott Colom in Mississippi and Mary Peltola in Alaska, per Everything Briefing's tallies."
+        },
+        {
+          "title": "Trump nears a decision on resuming Iran strikes",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/",
+          "sentence": "President Trump said he will decide soon whether to resume military action against Iran now that the midterms are over, as Tehran routed a new nuclear proposal through Qatar, per Axios and Reuters items in Just Security's roundup."
+        },
+        {
+          "title": "A Kremlin envoy gets a White House meeting",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/",
+          "sentence": "Trump met Kremlin envoy Kirill Dmitriev at the White House and spoke of a Ukraine peace deal that might involve all of Europe, while Zelenskyy said Kyiv must adapt to Washington's new politics, per NYT and Reuters via Just Security."
+        },
+        {
+          "title": "Paraguay's president resigns over a bank seizure",
+          "url": "https://www.justsecurity.org/163619/early-edition-november-6-2026/",
+          "sentence": "Santiago Peña resigned after Paraguay's central bank seized Ueno Bank, a digital lender claiming more than 60% of the country's adults as customers, per New York Times reporting in Just Security's roundup."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic's IPO price talk drops by a third",
+          "url": "https://finance.yahoo.com/technology/article/anthropics-ipo-valuation-could-plunge-to-near-1-trillion-amid-market-turmoil-153332732.html",
+          "sentence": "Investors now peg Anthropic's imminent listing at $1 trillion to $1.3 trillion, down from roughly $2 trillion a month ago, and prediction-market odds of a debut before December 1 have slid from about 80% to 50%, per Yahoo Finance."
+        },
+        {
+          "title": "OpenAI ships GPT-6 Cyber and calls it Critical",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "sentence": "OpenAI launched GPT-6 Cyber, a model that lets vetted researchers find vulnerabilities and build exploits to test defenses, rating its cyber capabilities Critical and restricting initial access to selected organizations, per The Neuron."
+        },
+        {
+          "title": "Claude will read your bank account, if asked",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "sentence": "Anthropic opened a Claude Personal Finance beta that links US Pro, Max and Ultra accounts read-only through Plaid and can review up to two years of transactions, per The Neuron."
+        },
+        {
+          "title": "Google commits $17 billion to a Wyoming campus",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "sentence": "Google announced a $17 billion Wyoming data center leaning partly on a planned 702-megawatt fuel-cell development, even as governments from New York to Amsterdam tighten data-center rules, per The Neuron."
+        },
+        {
+          "title": "Justice Department opens an AI enforcement front",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-friday-november-6-2026/",
+          "sentence": "The DOJ stood up a Super Intelligence Task Force to investigate unlawful uses of advanced AI by foreign governments, criminal organizations and fraudsters, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
