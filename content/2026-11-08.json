@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-08",
+  "headline": "Kai, the US struck Iran again while claiming progress in talks, days after de-escalation hopes handed oil its steepest weekly slide since COVID.",
+  "subline": "A gunman killed at least five in Kraków's Main Square, Senate control starts resolving this week, and October CPI lands Tuesday morning.",
+  "asof": "Weekend edition · built Sunday ~6:45 AM ET · strip shows Friday's close; bitcoin is live · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,376.86", "delta": "+0.3%", "dir": "up"},
+    {"label": "Nasdaq", "value": "24,579.42", "delta": "+1.1%", "dir": "up"},
+    {"label": "Dow", "value": "51,285.73", "delta": "−0.5%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.858%", "delta": "+2.3 bp", "dir": "up"},
+    {"label": "Gold (Dec)", "value": "$4,074.90", "delta": "−0.94%", "dir": "down"},
+    {"label": "WTI crude", "value": "$90.83", "delta": "+0.34%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$75,814", "delta": "−3.0% 7d", "dir": "down"}
+  ],
+  "history": {"spx": 7376.86, "y10": 4.858, "btc": 75813.62},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Brent just logged its steepest week since COVID",
+          "url": "https://investrade.com/market-review-november-06-2026/",
+          "sentence": "Brent settled Friday at $98.32 after a 13% weekly slide built on hopes of US-Iran de-escalation — a bet now tested by the weekend's new strikes — per Hammerstone Markets' recap on Investrade."
+        },
+        {
+          "title": "Bitcoin rides out the weekend above $75,000",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "sentence": "Bitcoin sits at $75,813 Sunday morning, down about 3% on the week and 39.9% below its $126,080 all-time high, with CoinGecko flagging ETF outflows and Binance hack fallout as the drags."
+        },
+        {
+          "title": "Consumer mood improves as inflation expectations cool",
+          "url": "https://investrade.com/market-review-november-06-2026/",
+          "sentence": "Michigan's preliminary November consumer sentiment jumped to 51.0 from October's 48.0 while one-year inflation expectations eased to 4.3% from 4.7%, per Hammerstone's Friday recap on Investrade."
+        },
+        {
+          "title": "Susquehanna: 40% of planned data centers at risk",
+          "url": "https://investrade.com/market-review-november-06-2026/",
+          "sentence": "Susquehanna estimates 60 gigawatts of planned 2025-2030 AI data-center projects — roughly 40% — are at risk of delay under the incoming Democratic Congress, per the Hammerstone recap on Investrade."
+        },
+        {
+          "title": "Week ahead: October CPI lands Tuesday",
+          "url": "https://thriveinmarkets.com/calendar/dates/cpi-2026/",
+          "sentence": "October CPI arrives Tuesday at 8:30 AM ET as the week's main event, with Fed speakers and Treasury auctions stacked up Monday, per Thrive in Markets' calendar and Finwire's preview."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US launches new targeted strikes on Iran",
+          "url": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
+          "sentence": "The US launched new targeted strikes on Iran even as President Trump claimed progress in talks with Tehran, per Euronews."
+        },
+        {
+          "title": "Gunman kills at least five in Kraków",
+          "url": "https://www.euronews.com/2026/11/07/at-least-five-killed-in-shooting-in-krakow-polish-police-say",
+          "sentence": "A gunman firing from a passing car into the Main Square killed at least five people and wounded more than a dozen before police shot him, per Euronews, whose updated headline puts the toll at six."
+        },
+        {
+          "title": "Senate control narrows to mail and math",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "sentence": "Scott Colom leads Sen. Cindy Hyde-Smith by 2,574 votes in Mississippi, where mail ballots must arrive by Tuesday, and Mary Peltola's 637-vote Alaska lead heads to ranked-choice tabulation on Nov. 18, per AP counts in Yahoo News' live blog."
+        },
+        {
+          "title": "Stephen Miller to run the White House",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "sentence": "Trump said Stephen Miller will replace Susie Wiles as White House chief of staff starting Monday, a post-rout shake-up drawing criticism from Democrats and some Republicans, per Yahoo News' live blog."
+        },
+        {
+          "title": "Eisenkot gets first shot at Israeli coalition",
+          "url": "https://www.yahoo.com/news/world/articles/israeli-president-picks-gadi-eisenkot-193153373.html",
+          "sentence": "Israel's president tapped Gadi Eisenkot, Benjamin Netanyahu's strongest rival, to try to form a government after a deadlocked election left neither man a clear path to power, per Reuters via Yahoo News."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "OpenAI's trimmed $11 billion round reported closed",
+          "url": "https://techtrendsnewsupdate.substack.com/p/tech-trends-news-update-morning-brief-a1a",
+          "sentence": "A Saturday brief citing Bloomberg and Reuters reports OpenAI closed an $11 billion round at a $1.25 trillion valuation, trimmed from earlier targets, though some roundups still call the figures unconfirmed, per Tech Trends News Update."
+        },
+        {
+          "title": "Mistral opens weights on a trillion-parameter model",
+          "url": "https://letsdatascience.com/news/mistral-releases-open-weights-for-1-trillion-parameter-mistr-d712eb0e",
+          "sentence": "Mistral has released open weights for Large 4, its 1-trillion-parameter multimodal flagship, though model-resellers need a separate commercial license, per Lets Data Science."
+        },
+        {
+          "title": "Thinking Machines circles a $40 billion valuation",
+          "url": "https://men.industry.co.id/read/9732/global-ai-roundup-nov-7-2026-openai-launches-gpt-6-cyber",
+          "sentence": "Thinking Machines Lab is reportedly in talks to raise $5 billion to $6 billion at a pre-money valuation of at least $40 billion — Accel leading, Nvidia in for about $2.5 billion — per Industry.co.id's AI roundup."
+        },
+        {
+          "title": "Anthropic adds watermarks to older Claude models",
+          "url": "https://learnrudi.com/insights/rudi-daily-ai-news-2026-11-07.html",
+          "sentence": "RUDI's digest, citing Mezha, reports Anthropic is applying machine-readable watermarks to output from older Claude models across its products and API with no customer opt-out, ahead of an EU AI Act deadline in December."
+        },
+        {
+          "title": "Bombay court tosses order citing AI-invented judgments",
+          "url": "https://learnrudi.com/insights/rudi-daily-ai-news-2026-11-07.html",
+          "sentence": "The Bombay High Court quashed a customs order and sent it back for a fresh hearing after the petitioner showed it relied on two untraceable, apparently AI-hallucinated Supreme Court judgments, per RUDI's digest citing LawChakra."
+        }
+      ]
+    }
+  ]
+}
