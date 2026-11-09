@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-09",
+  "headline": "Kai, Nvidia's board is investigating whether its CEO was the target of Chinese intelligence, nine days before earnings — and futures are rising anyway.",
+  "subline": "Futures rebound from the S&P 500's worst week since the 2025 tariff crash, October CPI lands Tuesday, and Anthropic's IPO roadshow is reportedly underway.",
+  "asof": "Pre-market · as of 6:40 AM ET · index strip shows futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,445.75", "delta": "+0.59%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "27,183.75", "delta": "+0.36%", "dir": "up"},
+    {"label": "Dow fut", "value": "51,908", "delta": "+1.02%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.86%", "delta": "+2.2 bp", "dir": "up"},
+    {"label": "Gold (Dec)", "value": "$4,110.70", "delta": "+0.88%", "dir": "up"},
+    {"label": "WTI crude", "value": "$88.56", "delta": "−2.50%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$74,337", "delta": "−2.0%", "dir": "down"}
+  ],
+  "history": {"spx": 7376.86, "y10": 4.86, "btc": 74337},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures climb out of last week's AI wreckage",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+          "sentence": "Dow futures are up about 1% with the S&P 500's up 0.6% and the Nasdaq's 0.4% in Yahoo Finance's live blog, after the Kospi and Nikkei both rose more than 1% overnight."
+        },
+        {
+          "title": "The worst week since the tariff crash",
+          "url": "https://investrade.com/market-review-november-06-2026/",
+          "sentence": "Friday's 7,376.86 close on the S&P 500 sealed what Yahoo Finance called the worst week since the April 2025 tariff crash — down 2.7%, with the Nasdaq off 3.4% and briefly in correction — per TipRanks and Hammerstone's recap on Investrade."
+        },
+        {
+          "title": "Berkshire's cash pile reaches $377.4 billion",
+          "url": "https://uk.finance.yahoo.com/news/us-futures-mixed-ahead-inflation-100059388.html",
+          "sentence": "Investors are parsing Berkshire Hathaway earnings that put its cash hoard at $377.4 billion, one of the morning's crosscurrents in Yahoo Finance's futures wrap."
+        },
+        {
+          "title": "October CPI lands Tuesday, AI earnings stack up",
+          "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-09/",
+          "sentence": "October CPI headlines the week's data — Tuesday, per crypto.news — with CoreWeave reporting Tuesday and Cisco and Applied Materials Thursday, per HeyGoTrade's week-ahead and FourWeekMBA's calendar."
+        },
+        {
+          "title": "Bitcoin holds near $74,500 after $1 billion in liquidations",
+          "url": "https://crypto.news/bitcoin-price-below-75000-etf-outflows-liquidations/",
+          "sentence": "Bitcoin trades near $74,500 after 24-hour liquidations topped $1 billion and US spot ETFs shed $1.28 billion last week — $1.21 billion of it from BlackRock's IBIT — per crypto.news."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Senate control hangs on Mississippi and Alaska",
+          "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html",
+          "sentence": "Both Senate races remain too close to call — Alaska's ranked-choice tabulation comes Nov. 18 — while Yahoo News' live blog says the House could vote this week on impeaching Defense Secretary Hegseth."
+        },
+        {
+          "title": "Stephen Miller takes over as chief of staff",
+          "url": "https://cbsnews.com/news/stephen-miller-trump-chief-of-staff-susie-wiles",
+          "sentence": "Trump named Stephen Miller to replace Susie Wiles as White House chief of staff following the midterm losses, per CBS News, with the handover slated to start today."
+        },
+        {
+          "title": "US-Iran talks stuck as more forces deploy",
+          "url": "https://www.jpost.com/middle-east/article-913751",
+          "sentence": "Sources tell The Jerusalem Post the talks are stuck and additional US forces are headed to the region, while Iran's foreign minister says Tehran is waiting for the midterm 'shock' to settle, per Al Jazeera."
+        },
+        {
+          "title": "Hacked Rosstat data points to Russia's hidden war toll",
+          "url": "https://www.techradar.com/pro/security/russian-federal-state-statistics-service-says-it-was-hit-by-massive-cyberattack-hackers-steal-23tb-of-data-including-ukraine-war-casualty-figures",
+          "sentence": "Hackers say they stole 23TB from Russia's statistics service, including the Ukraine war casualty figures the Kremlin stopped publishing, per TechRadar, and Euronews reports the data suggests a far higher Russian death toll than Moscow admits."
+        },
+        {
+          "title": "Eisenkot reports progress on an Israeli coalition",
+          "url": "https://www.dailysabah.com/world/mid-east/eisenkot-reports-progress-in-israeli-government-coalition-talks",
+          "sentence": "Gadi Eisenkot, tapped first to form Israel's next government, reports progress in coalition talks built on Arab-party backing, per Daily Sabah and the Oman Observer."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia board probes spy allegations around Jensen Huang",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-9-nvidia-stock-falls-on-probe-into-ceo-huang-focus-on-inflation-data-ai-earnings",
+          "sentence": "Nvidia's board opened an investigation into reports that Huang — who admitted an affair in an email to staff — was targeted by a Chinese intelligence operative, sending shares down about 4% pre-market nine days before Nov. 17 earnings, per TipRanks and Yahoo Finance."
+        },
+        {
+          "title": "Anthropic's IPO roadshow is reportedly underway",
+          "url": "https://fourweekmba.com/ai-coreweave-nebius-openai-cyber-event-set-the-ai-week-ahead/",
+          "sentence": "The Information and Reuters report the roadshow proceeding this week with no date or price range announced, and Kalshi's confirm-by-Dec. 1 contract slipped from 90 to 70 cents, per FourWeekMBA's week-ahead."
+        },
+        {
+          "title": "Anthropic buys 1.7 gigawatts of gas generators",
+          "url": "https://fourweekmba.com/ai-daily-roundup-8-nov-2026-anthropic-1-7gw-nvidia-board",
+          "sentence": "Anthropic is paying $3.4 billion for 1.7 gigawatts of gas-fired generator commitments, taking over orders OnePWR placed with Caterpillar, per the Financial Times via FourWeekMBA's roundup."
+        },
+        {
+          "title": "OpenAI's cyber keynote caps an AI earnings week",
+          "url": "https://fourweekmba.com/ai-coreweave-nebius-openai-cyber-event-set-the-ai-week-ahead/",
+          "sentence": "OpenAI hosts 'Cyber at the Frontier' Thursday to introduce its latest cyber products — the same day Nebius reports, two days after CoreWeave and its $3.525 billion guidance midpoint — per FourWeekMBA."
+        },
+        {
+          "title": "Senate votes today on data-center grid costs",
+          "url": "https://fourweekmba.com/ai-daily-roundup-8-nov-2026-anthropic-1-7gw-nvidia-board",
+          "sentence": "A 5:30 PM cloture vote on H.R. 2347, a bipartisan permitting bill, would make new data centers pay for the grid costs they add, per the Congressional Record via FourWeekMBA."
+        }
+      ]
+    }
+  ]
+}
