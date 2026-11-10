@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-10",
+  "headline": "Kai, October's CPI prints at 8:30 this morning with no annual rate attached — and Waller is already talking about a December hike.",
+  "subline": "Monday's best session since April meets the inflation test, oil keeps easing as Iran talks inch forward, and Anthropic's IPO is now a week out.",
+  "asof": "Pre-market · as of 6:45 AM ET · index strip shows futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,576.50", "delta": "+0.03%", "dir": "flat"},
+    {"label": "Nasdaq fut", "value": "27,929.50", "delta": "−0.30%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,645", "delta": "+0.28%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.86%", "delta": "+0.5 bp", "dir": "flat"},
+    {"label": "Gold (Dec)", "value": "$4,082.60", "delta": "−0.78%", "dir": "down"},
+    {"label": "WTI crude", "value": "$85.22", "delta": "−1.88%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$74,101", "delta": "+0.07%", "dir": "flat"}
+  ],
+  "history": {"spx": 7549.94, "y10": 4.86, "btc": 74100.72},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "October CPI arrives at 8:30 missing its annual rate",
+          "url": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season",
+          "sentence": "Consensus looks for +0.3% headline and +0.2% core month over month, per ZeroHedge's week-ahead, which notes that last year's shutdown left no October 2025 index — so year-over-year rates simply can't be calculated for this release."
+        },
+        {
+          "title": "Waller floats a December hike, with four speakers today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-10-dow-sp-500-nasdaq-inflation-data-cpi-090627830.html",
+          "sentence": "Fed governor Chris Waller says he leans toward a 25-basis-point hike in December and would consider 50 if October inflation comes in hot, per Yahoo Finance's live blog, with Logan, Schmid and Bowman due at the podium later today per ZeroHedge."
+        },
+        {
+          "title": "Monday was the best day since April",
+          "url": "https://www.bbntimes.com/financial/s-p-500-today-index-jumps-2-35-to-7-549-94-in-best-day-since-april-as-oil-slides-and-chips-rebound-despite-nvidia-drop",
+          "sentence": "The S&P 500 jumped 2.35% to 7,549.94 as oil slid and chips rebounded despite Nvidia's drop, per BBN Times, and the crude assist continues — KuCoin's report has Brent down 5.8% Monday on US–Iran talks progress, with WTI near $85.22 this morning."
+        },
+        {
+          "title": "CoreWeave caps the earnings season tonight",
+          "url": "https://www.zerohedge.com/markets/key-events-week-cpi-ppi-fed-speakers-galore-and-end-earnings-season",
+          "sentence": "CoreWeave reports after the close alongside D-Wave and Rigetti, per Yahoo Finance, while ZeroHedge's calendar adds SoftBank, Infineon and Vodafone today, a $42 billion 10-year auction this afternoon, and a bond market closed Wednesday for Veterans Day — with close to 90% of the S&P 500 already reported."
+        },
+        {
+          "title": "Bitcoin pinned under $75,000 as ETFs bleed",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-10-2026",
+          "sentence": "Spot bitcoin ETFs shed a combined $842 million over two sessions and KuCoin's daily report says BTC needs to reclaim $76,000 for a sustained rebound — it sits at $74,101 on Yahoo Finance's board, roughly flat overnight after Monday's rally passed crypto by."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US pushes Europe-wide security pact in Ukraine talks",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "Envoys Witkoff and Kushner raised a broader European security agreement — a long-standing Russian demand — at Abu Dhabi talks that still exclude European representatives over Russian objections, per 10 Things' morning digest."
+        },
+        {
+          "title": "Trump calls the Iran war effectively over",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "After meeting Qatar's prime minister, Trump said further US strikes are unlikely while the naval blockade of Iranian ports stays, per 10 Things, and Tehran's response split between calling the claims fabricated and leaving the door open to talks."
+        },
+        {
+          "title": "Flooding puts Gaza's tent cities underwater",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "Days of heavy rain flooded tens of thousands of tents — Save the Children counts about 350,000 people living in them — and a landslide near Deir al-Balah killed five, per 10 Things' roundup of UN and aid-agency reports."
+        },
+        {
+          "title": "Washington and Beijing spar over a three-way summit",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "The two capitals disagree on the format of a possible Trump–Xi–Putin meeting at the Nov. 18-19 APEC gathering — Beijing wants scripted statements, Washington open discussion — per 10 Things, with New START expired since February and nothing in its place."
+        },
+        {
+          "title": "Trump alleges midterm fraud without offering evidence",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "Days after accepting results that handed Democrats both chambers, Trump questioned voting machines and early counts, per 10 Things, which cites a Pew analysis finding polls actually understated Democratic margins in 23 of 27 marquee races."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic ships 5.2 models a week before its IPO",
+          "url": "https://malaymail.com/news/money/2026/11/10/anthropic-rolls-out-faster-cheaper-ai-models-ahead-of-us100b-wall-street-debut/242666",
+          "sentence": "The new Fable and Mythos 5.2 run up to 30% faster and 20% cheaper, per Malay Mail, which says the IPO targeted for the week of Nov. 16 could raise up to $100 billion at a valuation above $1 trillion — on Q3 revenue of $17 billion and a $567 million operating loss."
+        },
+        {
+          "title": "The Huang probe cost Nvidia $200 billion Monday",
+          "url": "https://www.10things.news/p/10-things-global-news-10th-november-0fa",
+          "sentence": "Shares fell 4.3% — erasing almost $200 billion of market value — as the board investigates whether a foreign intelligence operation targeted its CEO, per 10 Things, and AI Weekly reports three House chairs want Huang at a closed-door briefing Nov. 18."
+        },
+        {
+          "title": "Google answers with two new TPUs",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "Google unveiled the TPU 8tx and TPU 8i Max on Monday and Alphabet shares rose more than 2% in premarket trading, per AI Weekly's digest."
+        },
+        {
+          "title": "TSMC's October revenue grew 59.7% from a year ago",
+          "url": "https://aiweekly.co/ai-news-today",
+          "sentence": "October revenue came in at NT$586.89 billion, up 59.7% year over year, per AI Weekly's digest of the company's monthly report — the AI buildout, measured at the foundry."
+        }
+      ]
+    }
+  ]
+}
