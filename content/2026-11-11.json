@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-11",
+  "headline": "Kai, after a third straight hot CPI the question for December is no longer whether the Fed hikes but by how much — the 10-year sits at 5% and the bond market takes today off.",
+  "subline": "Tech futures rebound on CoreWeave's results, Iran keeps hitting tankers with Brent back above $93, and Cisco and Applied Materials report Thursday.",
+  "asof": "Pre-market · as of ≈5:45 AM ET · index strip shows futures · cash Treasuries closed for Veterans Day · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,596.75", "delta": "+0.55%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "28,306.25", "delta": "+1.45%", "dir": "up"},
+    {"label": "Dow fut", "value": "52,319", "delta": "−0.11%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "5.00%", "delta": "— closed", "dir": "up"},
+    {"label": "Gold (Dec)", "value": "$4,062.60", "delta": "+0.55%", "dir": "up"},
+    {"label": "Brent crude", "value": "$93.25", "delta": "+2.01%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$73,830", "delta": "+0.18%", "dir": "flat"}
+  ],
+  "history": {"spx": 7520.93, "y10": 5.00, "btc": 73830.43},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "October CPI runs hot for a third straight month",
+          "url": "https://home.saxo/en-gb/content/articles/macro/market-quick-take---us-treasury-yields-rip-higher---11-november-2026-11112026",
+          "sentence": "Headline CPI rose 0.4% against 0.3% expected and core 0.3% against 0.2% — a third straight upside surprise, per Saxo's quick take, which says markets now fully price a December hike after Waller backed 25 basis points and said 50 'could be considered'."
+        },
+        {
+          "title": "Treasury pays 5.02% as household debt sets a record",
+          "url": "https://www.tipranks.com/news/u-s-stock-futures-climb-as-household-debt-hits-record-19-1-trillion-and-bond-market-shuts-for-holiday",
+          "sentence": "The Treasury sold $42 billion of 10-year notes at 5.020% — the highest new-issue yield since May 2006 — hours after the New York Fed reported household debt up $334 billion to a record $19.1 trillion, with 5.0% of it delinquent, per TipRanks."
+        },
+        {
+          "title": "Chips churned beneath Tuesday's CPI selloff",
+          "url": "https://journalarta.com/en/2026/11/11/stock-market-today-sp-500-slips-0-38-to-7520-93-and-nasdaq-falls-0-74-as-10-year-yield-rises-to-4-98/",
+          "sentence": "The hot print knocked the S&P 500 down 0.38% to 7,520.93 and the Nasdaq 0.74% while money rotated inside semis — Nvidia fell 4.27%, AMD rose 13.26% and Broadcom 8.78% — per JournalArta's close report."
+        },
+        {
+          "title": "Futures lean risk-on into the half-holiday",
+          "url": "https://www.cestriancapitalresearch.com/cestrian-daily-market-review-wednesday-11-november-2026/",
+          "sentence": "S&P 500 futures trade at 7,596.75 (+0.55%) and Nasdaq-100 futures up 1.45% with the SOXX chip ETF ahead 4.9% premarket, per Cestrian's daily review, which quotes the 10-year at 5.00% while cash Treasuries sit out Veterans Day."
+        },
+        {
+          "title": "Brent back above $93 as tanker attacks resume",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-11-u-s-tech-stocks-rise-after-coreweaves-strong-results",
+          "sentence": "Brent rebounded 2.01% to $93.25 and WTI 1.21% to $87.08 overnight as Strait of Hormuz ship attacks resumed, per TipRanks — a day after crude touched two-month lows when US officials downplayed the need for more strikes on Iran."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran keeps firing on tankers despite peace hopes",
+          "url": "https://www.jpost.com/middle-east/article-914514",
+          "sentence": "The IRGC claimed hits on three tankers taking 'unauthorised routes' Sunday and UKMTO logged another strike off Oman on Tuesday, per Reuters via the Jerusalem Post, which counts 37 ships attacked in October — the war's worst month — and at least 25 seafarers killed since February."
+        },
+        {
+          "title": "Qatar says it bought two weeks for diplomacy",
+          "url": "https://www.jpost.com/middle-east/article-914504",
+          "sentence": "Qatar's prime minister told G7 ministers in Paris that Doha secured 'at least two weeks' for talks before a potential US attack on Iran, per the Jerusalem Post, while Trump — after hosting him Tuesday — called Iran 'militarily effectively over' without ruling out further strikes."
+        },
+        {
+          "title": "Trump still disputes the midterms Democrats won",
+          "url": "https://www.cnbc.com/2026/11/09/trump-election-results-democrats.html",
+          "sentence": "Trump again questioned the results that gave Democrats control of both the House and the Senate, per CNBC, a week after the vote."
+        },
+        {
+          "title": "Houthi-claimed missiles reach an Aramco building in Riyadh",
+          "url": "https://www.jpost.com/middle-east/article-914514",
+          "sentence": "The strike landed Sunday, per Reuters via the Jerusalem Post, though the Saudi energy ministry called it an attempted attack with limited debris damage and no casualties."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Huang may survive; his Washington influence may not",
+          "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over",
+          "sentence": "Nvidia's board opened an independent investigation into Jensen Huang's ties to an alleged Chinese intelligence operative whose firm may have moved advanced chips into China, House Republicans want closed-door testimony next week, and Trump says the FBI is investigating, per Fortune."
+        },
+        {
+          "title": "Chips bounce premarket: Nvidia up 3%, Intel 5%",
+          "url": "https://www.tokenpost.com/news/investing/53733",
+          "sentence": "Nvidia recovered nearly 3% premarket after a 9.5% two-session slide and Intel gained 5% as semiconductors led Nasdaq-100 futures up 1.67%, per TokenPost."
+        },
+        {
+          "title": "Seven tech giants pledge $26 billion to Anthropic's IPO",
+          "url": "https://openthemagazine.com/business/google-nvidia-and-microsoft-join-26-billion-anthropic-deal-ahead-of-ipo",
+          "sentence": "Google, Nvidia and Microsoft are among seven companies taking a combined $26 billion private placement alongside an 825-million-share offering priced at $70 to $78, expected to price November 18, per Open Magazine."
+        },
+        {
+          "title": "CoreWeave grows 168% with a $133 billion backlog",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-11-u-s-tech-stocks-rise-after-coreweaves-strong-results",
+          "sentence": "Third-quarter revenue rose 168% to $3.66 billion against a $3.54 billion consensus and backlog grew 138% to $133 billion, per TipRanks, which credits the print for this morning's bid in AI-infrastructure names."
+        },
+        {
+          "title": "Anthropic buys 1.7 gigawatts of gas generation",
+          "url": "https://fortune.com/2026/11/10/nvidia-ceo-jensen-huang-might-hang-on-as-ceo-but-his-influence-on-u-s-ai-policy-is-over",
+          "sentence": "Fortune's AI newsletter reports Anthropic struck a $3.4 billion deal for 1.7 gigawatts of gas generators — a measure of the power now being lined up behind model training."
+        }
+      ]
+    }
+  ]
+}
