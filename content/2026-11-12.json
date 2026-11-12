@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-12",
+  "headline": "Kai, Nvidia's board spent Wednesday evening on Jensen Huang's future and announced nothing — so the premarket is writing its own verdict.",
+  "subline": "Nasdaq futures are off 0.9% with Nvidia down more than 6% overnight, December now trades as a Fed hike with the 10-year at 4.99%, and Anthropic's roadshow rolls toward a Nasdaq debut next week.",
+  "asof": "Pre-market · as of ≈6:40 AM ET · index strip shows futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,612.00", "delta": "−0.37%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "28,235.00", "delta": "−0.84%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,621", "delta": "+0.08%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "4.99%", "delta": "— steady", "dir": "flat"},
+    {"label": "Gold", "value": "$3,959.80", "delta": "−1.02%", "dir": "down"},
+    {"label": "Brent crude", "value": "$92.29", "delta": "−0.51%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$73,316", "delta": "−0.81%", "dir": "down"}
+  ],
+  "history": {"spx": 7619.34, "y10": 4.99, "btc": 73315.65},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures slip as Nvidia hangs over the tape",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/us-stock-futures-decline-nvidia-100323595.html",
+          "sentence": "Nasdaq-100 futures fell 0.9% overnight with S&P 500 futures off 0.4% and the Dow broadly unchanged, per Yahoo Finance, a day after the Nasdaq Composite rallied 1.6% behind chip stocks."
+        },
+        {
+          "title": "December hike fully priced; only the size debated",
+          "url": "https://www.foxbusiness.com/economy/cpi-inflation-october-2026",
+          "sentence": "After October's 0.4% CPI print, CME FedWatch put the odds of a quarter-point December hike at 87.3% and a half-point at 12.7%, per Fox Business, while Saxo says futures now price nearly 60 basis points of total tightening through March 2027."
+        },
+        {
+          "title": "Dollar extends its run; yen flirts with 160",
+          "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026",
+          "sentence": "USDJPY peaked at 159.94 — a level Japanese officials have already warned about — with the euro at a cycle low near 1.1065 and the 2-year Treasury yield up 3 basis points to 4.77%, per Saxo's quick take."
+        },
+        {
+          "title": "Gold tests $3,970; Brent near a two-month low",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-12-u-s-tech-stocks-fall-on-nvidia-ceo-uncertainty",
+          "sentence": "Brent eased 0.51% to $92.29 and WTI to $86.09 on hopes for Middle East and Russia-Ukraine diplomacy, per TipRanks, while Saxo has spot gold retreating to test support near $3,970 and calls the technical picture weak."
+        },
+        {
+          "title": "Claims, home sales, six Fed speakers, chip earnings",
+          "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---nvidia-stumble-weighs-on-sentiment---12-november-2026-12112026",
+          "sentence": "Weekly jobless claims land at 8:30 ET and October existing home sales at 10, per Saxo's calendar, with a 30-year auction, six Fed speakers including Hammack, Barr and Williams, and Cisco and Applied Materials reporting after the close."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US envoys back in Moscow after Abu Dhabi round",
+          "url": "https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/",
+          "sentence": "Steve Witkoff and Jared Kushner arrived to meet Putin after two days of Abu Dhabi talks yielded agreement in principle on a prisoner exchange but no breakthrough on Donbas, per Open Chronicle's morning brief."
+        },
+        {
+          "title": "Strike on Gaza's Nasser hospital complex kills six",
+          "url": "https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/",
+          "sentence": "Palestinian health officials say an Israeli strike on the Khan Younis complex killed six people including a medical worker, per Open Chronicle, while Israel says it targeted Hamas operatives inside."
+        },
+        {
+          "title": "Indonesia's vice president resigns over diploma rulings",
+          "url": "https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/",
+          "sentence": "Gibran Rakabuming Raka submitted his resignation after court rulings questioned his education credentials, per Open Chronicle, leaving lawmakers to confirm a successor nominated by President Prabowo."
+        },
+        {
+          "title": "G7 warns on Chinese pressure east of Taiwan",
+          "url": "https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/",
+          "sentence": "G7 foreign ministers said increasingly assertive Chinese maritime activity threatens regional stability and shipping, per Open Chronicle, with Taipei wary that overlapping coast-guard and military deployments could test blockade scenarios."
+        },
+        {
+          "title": "Mississippi's razor-close count points to Senate history",
+          "url": "https://openchronicle.org/2026/11/12/global-news-brief-key-developments-around-the-world-november-12-2026/",
+          "sentence": "Open Chronicle's brief says reports indicate Democrat Scott Colom has won the Senate count — which would make him Mississippi's first Black senator since Reconstruction — though wire coverage in recent days still described the tally as unresolved."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia's board met on Huang and announced nothing",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-12-u-s-tech-stocks-fall-on-nvidia-ceo-uncertainty",
+          "sentence": "The board convened Wednesday to weigh the CEO's future and no decision had been announced, per a Reuters report cited by TipRanks, and shares that closed up 2.9% fell more than 6% in extended trading."
+        },
+        {
+          "title": "Nvidia's own words: 'a foreign intelligence effort'",
+          "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+          "sentence": "The board's November 8 statement has independent directors investigating reporting that Huang 'has been the target of a foreign intelligence effort,' says it has 'no reason to believe' secrets were compromised, and voices confidence in him — language now a week old."
+        },
+        {
+          "title": "Anthropic's roadshow points toward a $1.4 trillion debut",
+          "url": "https://gizmodo.com/anthropic-still-plans-to-go-public-as-soon-as-next-week-report-2000837422",
+          "sentence": "The 825-million-share offering at $70 to $78 implies up to a $1.41 trillion fully diluted valuation with Nasdaq trading as ANT possible by November 19, per Gizmodo, and KuCoin's desk notes call the book several times oversubscribed."
+        },
+        {
+          "title": "CoreWeave jumps 24.7%; chip index gains 5.7%",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-12-2026",
+          "sentence": "Wednesday's rally ran through AI infrastructure after CoreWeave's roughly 168% revenue quarter and raised guidance, per KuCoin's market report, which has the Philadelphia Semiconductor Index up 5.7% on the day."
+        },
+        {
+          "title": "MSCI drops bitcoin treasuries; Strategy braces for selling",
+          "url": "https://www.kucoin.com/news/articles/crypto-daily-market-report-november-12-2026",
+          "sentence": "Bitcoin-treasury firms including Strategy and Metaplanet come out of MSCI indexes after November 30 — Strategy estimates up to $2.8 billion in passive sales — per KuCoin, which also counts a fourth straight day of US spot-ETF outflows."
+        }
+      ]
+    }
+  ]
+}
