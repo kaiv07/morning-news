@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-13",
+  "headline": "Kai, a December rate hike is now the market's base case, and this morning's PPI report is its first real test.",
+  "subline": "Nvidia heads into Tuesday's earnings without a CEO, the 10-year touched 5.10%, and bitcoin broke below $70,000.",
+  "asof": "Pre-market · as of ≈6:40 AM ET · index strip shows futures · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,629.00", "delta": "+0.18%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "28,398.50", "delta": "+0.05%", "dir": "flat"},
+    {"label": "Dow fut", "value": "52,478.00", "delta": "+0.17%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.10%", "delta": "+10 bp", "dir": "up"},
+    {"label": "Gold", "value": "$3,896.70", "delta": "+0.29%", "dir": "up"},
+    {"label": "WTI crude", "value": "$88.19", "delta": "−0.62%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$69,330", "delta": "−4.84%", "dir": "down"}
+  ],
+  "history": {"spx": 7592.40, "y10": 5.10, "btc": 69330},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "October PPI lands this morning",
+          "url": "https://www.tipranks.com/news/ppi-data-due-today-will-cooler-inflation-give-u-s-stocks-a-boost",
+          "sentence": "TipRanks asks whether a cooler wholesale-inflation print can give stocks a boost, with Wall Street wobbling into the release after a hot October CPI."
+        },
+        {
+          "title": "10-year hits its highest level since October",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-110151154.html",
+          "sentence": "Thursday's bond selloff pushed the yield to 5.10%, per Yahoo Finance, which notes traders are bracing for a December rate hike."
+        },
+        {
+          "title": "Nvidia's 4.3% slide drags the S&P 500",
+          "url": "https://www.bbntimes.com/companies/s-p-500-slips-to-7-592-40-as-nvidia-falls-4-3-after-jensen-huang-s-resignation",
+          "sentence": "Jensen Huang's resignation sent the stock down 4.3% and the index to 7,592.40 Thursday, per BBN Times, and interim CEO Colette Kress now fronts Tuesday's earnings report."
+        },
+        {
+          "title": "Applied Materials beats; revenue jumps 53%",
+          "url": "https://coruzant.com/news/applied-materials-earnings-top-estimates-revenue/",
+          "sentence": "The chip-toolmaker topped estimates with revenue up 53%, per Coruzant, a rare piece of good chip news this week."
+        },
+        {
+          "title": "Bitcoin breaks below $70,000",
+          "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+          "sentence": "The dip triggered roughly $1.2 billion in liquidations as the selloff gathered pace, per CoinDesk."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US envoys meet Zelensky after Putin talks",
+          "url": "https://edition.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+          "sentence": "Steve Witkoff and Jared Kushner saw Zelensky in Dublin after their Moscow session with Putin, per CNN, as Ukraine reported Starshield access was restricted again."
+        },
+        {
+          "title": "Van Hollen challenges Schumer for Senate leader",
+          "url": "https://www.foxnews.com/politics/sen-bernie-sanders-supports-chris-van-hollen-bid-challenge-schumer-senate-democratic-leader-post",
+          "sentence": "Bernie Sanders endorsed the Maryland Democrat's bid to replace Chuck Schumer as Senate Democratic leader, per Fox News, after last week's midterm sweep."
+        },
+        {
+          "title": "Xi: Taiwan 'reunification' must happen",
+          "url": "https://www.nbcnews.com/world/asia/china-xi-says-taiwan-reunification-must-happen-history-cannot-stopped-rcna608935",
+          "sentence": "Xi said history 'cannot be stopped' in a speech marking Sun Yat-sen's anniversary, per NBC News, and Taipei replied that the remarks offered nothing new."
+        },
+        {
+          "title": "DR Congo Ebola deaths pass 5,300",
+          "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo",
+          "sentence": "The death toll has passed 5,300, per Al Jazeera, and Doctors Without Borders says the six-month-old outbreak remains out of control."
+        },
+        {
+          "title": "Peltola clings to lead in Alaska count",
+          "url": "https://qz.com/peltola-sullivan-alaska-senate-race-600-votes-111026",
+          "sentence": "Democrat Mary Peltola leads Sen. Dan Sullivan by about 600 votes with counting unfinished, per Quartz, more than a week after election day."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Lawsuit seeks halt to frontier AI development",
+          "url": "https://wkzo.com/2026/11/12/openai-google-anthropic-hit-with-lawsuit-seeking-halt-to-frontier-ai-development/",
+          "sentence": "Nonprofits including Public Citizen asked a San Francisco court to bar OpenAI, Google, Anthropic, Meta and SpaceX's AI unit from building more advanced models, per Reuters."
+        },
+        {
+          "title": "Microsoft 365 outage knocked out Outlook, Teams",
+          "url": "https://www.cnbc.com/2026/11/12/microsoft-outage-outlook-aws-google.html",
+          "sentence": "The widespread disruption took down Outlook and other 365 services for hours Thursday, per CNBC, with Copilot hit as well."
+        },
+        {
+          "title": "North Korea stole $400 million via deepfake calls",
+          "url": "https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency",
+          "sentence": "Hackers posed as executives on video calls to carry out the crypto theft, per the Justice Department, which announced actions to disrupt the operation."
+        },
+        {
+          "title": "Australian regulator warns of AI 'interruptions'",
+          "url": "https://abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+          "sentence": "APRA cautioned that financial firms should expect disruption as models from Anthropic, OpenAI and others evolve, per ABC News Australia."
+        }
+      ]
+    }
+  ]
+}
