@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-14",
+  "headline": "Kai, overloaded routers stopped every U.S. departure for four hours Friday, and the weekend opens with more than 6,600 cancellations.",
+  "subline": "Markets mostly shook it off — the S&P 500 still rose 2.5% this week — but a hot annual PPI kept December-hike bets alive and bitcoin slid to $67,000.",
+  "asof": "Weekend edition · strip shows Friday's close, Nov 13 (gold is Friday spot; bitcoin is live, ≈6:50 AM ET Sat) · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,561.67", "delta": "−0.40%", "dir": "down"},
+    {"label": "Nasdaq", "value": "25,136.27", "delta": "−0.91%", "dir": "down"},
+    {"label": "Dow", "value": "52,347.55", "delta": "+0.10%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.15%", "delta": "+5 bp", "dir": "up"},
+    {"label": "Gold (spot)", "value": "$3,891.50", "delta": "+0.39%", "dir": "up"},
+    {"label": "WTI crude", "value": "$88.92", "delta": "+0.2%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$67,068", "delta": "−2.6%", "dir": "down"}
+  ],
+  "history": {"spx": 7561.67, "y10": 5.15, "btc": 67068},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "S&P 500 slips Friday but gains 2.5% on week",
+          "url": "https://mymotherlode.com/news/national/11307764/how-major-us-stock-indexes-fared-friday-11-13-2026.html",
+          "sentence": "The index closed at 7,561.67 Friday, down 0.4%, while the Dow added 0.1% and the Nasdaq fell 0.9%, per the AP's market wrap — and all three still finished the week up 2% or more."
+        },
+        {
+          "title": "October PPI comes in mixed; December hike stays priced",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html",
+          "sentence": "Wholesale prices rose 0.3% against the 0.4% economists expected, per Yahoo Finance, but the 6.5% annual rate was the largest since November 2022 and the 10-year yield touched 5.17% before ending near 5.15%."
+        },
+        {
+          "title": "Gold steadies after touching a 13-month low",
+          "url": "https://www.kitco.com/news/article/2026-11-13/gold-rebounds-13-month-low-ppi-complicates-fed-outlook-kitco-am-report",
+          "sentence": "Spot gold traded near $3,891.50 Friday, up 0.39% on bargain hunting after Thursday's rout, per Kitco, with futures pricing roughly 89% odds of a quarter-point hike at the December 8–9 meeting."
+        },
+        {
+          "title": "WTI holds near $89 as Iran premium fades",
+          "url": "https://www.riotimesonline.com/oil-markets-latam-friday-november-13-2026/",
+          "sentence": "WTI settled at $88.92 and Brent at $96.08 on Friday, per the Rio Times, with a 4.7-million-barrel U.S. crude build and rising yields capping the war premium."
+        },
+        {
+          "title": "Next week: Nvidia Tuesday, Fed minutes Wednesday, Walmart Thursday",
+          "url": "https://www.cmcmarkets.com/en-ie/news-and-analysis/the-week-ahead-fed-minutes-japan-cpi-nvidia-earnings",
+          "sentence": "Analysts expect Nvidia to report about $109 billion in quarterly revenue, up 91%, per CMC Markets, with U.S. retail sales Tuesday and the October Fed minutes midweek rounding out the calendar."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "FAA ground stop cancels thousands of weekend flights",
+          "url": "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848",
+          "sentence": "The nationwide stop ran from 3:54 to 8:15 p.m. ET Friday after switches and routers 'got overloaded with data,' per ABC News, and Transportation Secretary Sean Duffy — describing a system running on 'analog telecom' — asked Congress for billions to modernize it."
+        },
+        {
+          "title": "US mediates Ukraine-Russia working-level talks in Abu Dhabi",
+          "url": "https://www.cbsnews.com/news/ukraine-russia-war-ceasefire-talks-witkoff/",
+          "sentence": "Envoy Steve Witkoff said the sessions cover post-war security arrangements, de-escalation and next steps toward peace, per CBS News, with European allies and NATO joining separate consultations on security guarantees."
+        },
+        {
+          "title": "Alaska's Senate race heads toward ranked-choice tabulation",
+          "url": "https://www.yahoo.com/news/politics/articles/alaska-senate-race-remains-uncalled-000157604.html",
+          "sentence": "Mary Peltola leads Dan Sullivan 49.2% to 47% with 91.3% of ballots counted, per Yahoo News, and if neither clears 50% the ranked-choice count begins November 18 — a Peltola win would give Democrats 56 seats."
+        },
+        {
+          "title": "Brooklyn collapse developer avoided stricter oversight, Times reports",
+          "url": "https://www.trendsmcp.ai/trending/google-news-trending-november-14-2026",
+          "sentence": "The New York Times found 2625 Bedford Avenue was approved as a three-story project — below the seven-story threshold that requires a site-safety coordinator — before the collapse that killed eight, per Google News' daily digest."
+        },
+        {
+          "title": "Pope Leo draws 500,000 at Mass in Chiclayo",
+          "url": "https://www.trendsmcp.ai/trending/google-news-trending-november-14-2026",
+          "sentence": "Vatican News put attendance at Pampas de Pimentel at about half a million Friday as Leo returned to the Peruvian diocese he led until 2023, per Google News' daily digest."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic aims to price its IPO and trade next week",
+          "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+          "sentence": "The company plans to set its valuation range this week and begin trading Thursday or Friday, per a Wall Street Journal report cited by TechCrunch, with some institutional investors pushing for less than the $1.5 trillion previously discussed."
+        },
+        {
+          "title": "Treasury and Commerce clash over Nvidia's suspect buyer",
+          "url": "https://aiweekly.co/alerts/bessent-confronts-lutnick-over-megaspeed-entity-list-delay",
+          "sentence": "Scott Bessent pressed Howard Lutnick on why Megaspeed — a Singapore firm suspected of routing an estimated $4 billion in Nvidia chips toward China — is still off the Entity List, per AI Weekly, while Commerce denies the confrontation happened."
+        },
+        {
+          "title": "Open letter asks Nvidia's board to reinstate Huang",
+          "url": "https://www.explainx.ai/catch-up-on-ai/2026-11-14",
+          "sentence": "A 'Stand With Jensen' letter with more than 7,000 self-reported signatures urges reinstating the former CEO pending an investigation, per ExplainX's roundup, and the board has not responded."
+        },
+        {
+          "title": "Cursor details Claude Code extension backdoor and cleanup",
+          "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+          "sentence": "Tampered builds 2.1.312 and 2.1.313 sat in Cursor's marketplace for about 11 hours on October 29 attempting to install SSH backdoors, per Cursor's security notice, which includes check-and-remediate scripts for affected machines."
+        },
+        {
+          "title": "Bitcoin slips to $67,000 as hike bets firm",
+          "url": "https://www.coingecko.com/en/coins/bitcoin",
+          "sentence": "Bitcoin trades near $67,068, down 2.6% over 24 hours per CoinGecko, extending Friday's first drop below $70,000 in nearly three months as December rate-hike expectations hardened."
+        }
+      ]
+    }
+  ]
+}
