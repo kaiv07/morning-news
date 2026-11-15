@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-15",
+  "headline": "Kai, the AI trade gets its verdict this week — Nvidia reports Tuesday without Jensen Huang, and Anthropic starts trading Thursday at about $1.3 trillion.",
+  "subline": "Friday closed mixed with the 10-year at 5.15% and a December hike 89% priced; retail sales land Tuesday and the October Fed minutes Wednesday.",
+  "asof": "Weekend edition · strip shows Friday's close, Nov 13 (gold is late-Friday spot; bitcoin is live, ≈6:40 AM ET Sun) · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,561.67", "delta": "−0.4%", "dir": "down"},
+    {"label": "Nasdaq", "value": "25,136.27", "delta": "−0.9%", "dir": "down"},
+    {"label": "Dow", "value": "52,347.55", "delta": "+0.1%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.15%", "delta": "+ on week", "dir": "up"},
+    {"label": "Gold (spot)", "value": "$3,883.40", "delta": "+0.2%", "dir": "up"},
+    {"label": "WTI crude", "value": "$88.56", "delta": "−0.2%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$65,393", "delta": "−2.7%", "dir": "down"}
+  ],
+  "history": {"spx": 7561.67, "y10": 5.15, "btc": 65393},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Nvidia reports Tuesday, its first test without Huang",
+          "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-november-15",
+          "sentence": "Consensus calls for EPS of $2.47 on about $108.85 billion in revenue when interim CEO Colette Kress delivers her first report after Tuesday's close, per TipRanks, after the stock fell about 12.8% in the week of Jensen Huang's November 12 resignation."
+        },
+        {
+          "title": "Anthropic lists Thursday at a $1.3 trillion valuation",
+          "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-november-15",
+          "sentence": "The lab is offering 825 million shares at $70 to $78 to trade on Nasdaq as ANT on Thursday, per TipRanks, and could raise over $61 billion at the midpoint, with part of the proceeds going to selling shareholders."
+        },
+        {
+          "title": "Fed minutes Wednesday show how contested the hold was",
+          "url": "https://www.yardeniquicktakes.com/economic-week-ahead-november-16-20/",
+          "sentence": "October's meeting held rates at 3.75%–4.00% on a 10–2 vote with Lisa Cook and Beth Hammack dissenting in favor of a hike, per Yardeni QuickTakes, and the minutes arrive Wednesday a day after October retail sales."
+        },
+        {
+          "title": "Gold logs a steep weekly loss as hike odds harden",
+          "url": "https://www.kitco.com/news/article/2026-11-13/gold-posts-steep-weekly-loss-treasury-yields-rise-fed-tightening-bets",
+          "sentence": "Spot gold ended Friday near $3,883.40 and WTI at $88.56, per Kitco, with futures pricing 89% odds of a quarter-point hike at the December 8–9 meeting as the 10-year yield rose toward 5.15%."
+        },
+        {
+          "title": "Home sales hit a 2010 low; card balances set a record",
+          "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-november-15",
+          "sentence": "Existing-home sales fell 5.5% in October to a 3.75 million annual rate, the weakest since 2010, per TipRanks' recap, while New York Fed data showed credit-card balances at a record $1.29 trillion."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump says no deal needed as Hormuz attacks continue",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
+          "sentence": "Tehran insists its seven conditions come before any talks while attacks on shipping continue — Iran's Revolutionary Guard said an LNG carrier struck a mine in the strait Friday, a claim CBS News reports is unverified."
+        },
+        {
+          "title": "Trump meets Xi and Putin in Shenzhen this week",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "sentence": "The leaders convene on the sidelines of the APEC summit with nuclear arms reduction on the agenda, per Anadolu Agency, citing the White House."
+        },
+        {
+          "title": "US loses its measles elimination status",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "sentence": "The Pan American Health Organization revoked the designation after outbreaks across several states, per Anadolu Agency."
+        },
+        {
+          "title": "Boeing to cut about 2,500 commercial-airplane jobs",
+          "url": "https://www.tipranks.com/news/the-week-that-was-the-week-ahead-macro-and-markets-november-15",
+          "sentence": "The planemaker plans to trim roughly 5% of its commercial airplane workforce, per TipRanks' weekly recap."
+        },
+        {
+          "title": "Gaza records the winter's first death from cold",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "sentence": "Gaza's Health Ministry said a 9-month-old infant died of severe hypothermia, the first recorded cold-related death of the season, per Anadolu Agency."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Claude Fable 5.2 tops the intelligence index",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+          "sentence": "Anthropic's November 9 release scored 65 on Artificial Analysis's index, ahead of Gemini 4 Carbon at 60, priced at $8 per million input tokens and $40 per million output, per PYMNTS."
+        },
+        {
+          "title": "OpenAI locks GPT-6 Cyber behind vetted access",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-claude-tops-ai-rankings-as-openai-limits-cyber-model/",
+          "sentence": "The November 5 model is OpenAI's first rated 'Critical' for cybersecurity under its Preparedness Framework after it found 81 unknown Firefox vulnerabilities and built 948 working Linux kernel exploits in testing, per PYMNTS."
+        },
+        {
+          "title": "OpenAI closes $11 billion at a trimmed valuation",
+          "url": "https://rupakganguly.substack.com/p/latest-in-ai-news-claude-fable-52",
+          "sentence": "The first tranche values the company at $1.25 trillion — below the $1.5 trillion it reportedly sought, with the round far short of the up-to-$30 billion originally targeted, per Rupak Ganguly's AI roundup."
+        },
+        {
+          "title": "Poland vetoes EU digital-rules implementation again",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-14-2026/4124855",
+          "sentence": "President Karol Nawrocki rejected legislation implementing key parts of the EU's Digital Services Act for a second time, per Anadolu Agency."
+        },
+        {
+          "title": "Bitcoin drifts to the mid-$65,000s",
+          "url": "https://coinmarketcap.com/currencies/bitcoin/",
+          "sentence": "The coin traded near $65,393 early Sunday, down about 2.7% over 24 hours, per CoinMarketCap — a quiet weekend bleed ahead of a heavy macro week."
+        }
+      ]
+    }
+  ]
+}
