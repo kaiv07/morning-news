@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-16",
+  "headline": "Kai, Nvidia's big week opens with a twist — the FT says Jensen Huang's allies are plotting his return, a day before his old company reports.",
+  "subline": "A third US carrier reaches the Gulf as tankers hit mines; Anthropic lists Thursday; the 10-year holds 5.15% with futures drifting lower.",
+  "asof": "Pre-market · index values are futures · ≈6:40 AM ET Mon · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,554.75", "delta": "−0.37%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "27,758.25", "delta": "−0.99%", "dir": "down"},
+    {"label": "Dow fut", "value": "52,429.00", "delta": "+0.02%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.15%", "delta": "+0.05", "dir": "up"},
+    {"label": "Gold", "value": "$3,872.50", "delta": "−0.36%", "dir": "down"},
+    {"label": "WTI crude", "value": "$88.39", "delta": "−0.19%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$64,533", "delta": "−1.55%", "dir": "down"}
+  ],
+  "history": {"spx": 7561.67, "y10": 5.15, "btc": 64533},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Huang allies plot a return as Nvidia week opens",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+          "sentence": "Shares fell about 2% in pre-market trading after the Financial Times reported Jensen Huang and allies are discussing a campaign to reinstate him, per Yahoo Finance, with Q3 results due Tuesday under interim CEO Colette Kress."
+        },
+        {
+          "title": "Anthropic's Thursday debut could be the largest ever",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+          "sentence": "Yahoo Finance reports the IPO is expected to begin trading Thursday at a valuation near $1.4 trillion, which would make it the largest public debut on record."
+        },
+        {
+          "title": "Warsh opens the week; October minutes land Wednesday",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+          "sentence": "Fed Chair Kevin Warsh gives opening remarks this morning, and Wednesday brings minutes from the October meeting's contested 10–2 vote to hold rates at 3.75%–4.00%, per Yahoo Finance."
+        },
+        {
+          "title": "Retail sales Tuesday headline a data-heavy week",
+          "url": "https://en.bloomingbit.io/feed/news/124482",
+          "sentence": "October retail sales land Tuesday and jobless claims Thursday, per Bloomingbit's calendar, while Yahoo Finance pegs today's Empire manufacturing consensus at 19 versus 25.5 prior, with Baidu and Tyson Foods reporting."
+        },
+        {
+          "title": "IEA: oil supply tops demand for the first time",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+          "sentence": "Global supply exceeded demand for the first time since the war began and a surplus near 2 million barrels a day is expected this quarter, the IEA says per Yahoo Finance, with Brent still holding in the mid-$90s."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Third US carrier arrives; tankers hit mines",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack",
+          "sentence": "Al Jazeera's live coverage reports a third American carrier reaching the region as Iran says oil tankers struck mines and Tehran warns it may strike first before another US attack."
+        },
+        {
+          "title": "Bahrain intercepts Iranian attacks on US base",
+          "url": "https://www.cnbc.com/amp/2026/11/15/bahrain-iran-drone-attacks-tehran-us-base.html",
+          "sentence": "Bahrain says its air defenses intercepted drone attacks after Tehran claimed strikes on a base hosting US forces, per CNBC."
+        },
+        {
+          "title": "UN chief: standoff is wrecking the global economy",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/iran-war-live-tehran-warns-it-may-strike-first-before-another-us-attack?update=5156768",
+          "sentence": "The UN secretary-general warned the US–Iran impasse is inflicting 'devastating consequences' on the global economy, per Al Jazeera."
+        },
+        {
+          "title": "US and rivals spar over the next UN boss",
+          "url": "https://www.aljazeera.com/news/2026/11/16/us-and-rivals-spar-over-next-un-boss-as-race-lurches-towards-deadline",
+          "sentence": "The US and rival powers are clashing over the succession as the selection process lurches toward its deadline, per Al Jazeera."
+        },
+        {
+          "title": "Phuket shophouse fire kills at least 11",
+          "url": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11",
+          "sentence": "At least 11 people died in a blaze on the Thai resort island, per Al Jazeera."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "SpaceX catches a Starship back from orbit",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-chopsticks-catch-starship-upper-stage-flight-14",
+          "sentence": "The Starbase tower's arms caught Ship 42 on Saturday after about 22.5 hours in space — a first for the upper stage that SpaceX's Dan Huot said means 'now everything changes,' per Space.com."
+        },
+        {
+          "title": "Washington plans an AI 'national champions' list",
+          "url": "https://rallies.ai/news/wall-street-journal-top-stories-for-november-16-0f5e22860c4d6539",
+          "sentence": "The administration plans to designate more than two dozen AI firms — Nvidia, Microsoft, OpenAI and Anthropic among them — as national champions to back their overseas expansion, per the Wall Street Journal via Rallies."
+        },
+        {
+          "title": "Nonprofits sue to halt frontier model development",
+          "url": "https://www.cbsnews.com/news/advocacy-groups-sue-ai-companies/",
+          "sentence": "Four advocacy groups filed suit in San Francisco Superior Court seeking to block OpenAI, Anthropic, Google, Meta and SpaceXSI from developing new AI models, per CBS News."
+        },
+        {
+          "title": "Bitcoin's slide drags Strategy down 7%",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+          "sentence": "Strategy fell more than 7% overnight amid a deep bitcoin sell-off that has the coin trading near $64,000, per Yahoo Finance."
+        }
+      ]
+    }
+  ]
+}
