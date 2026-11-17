@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-17",
+  "headline": "Kai, it all comes down to tonight — Nvidia reports its first quarter without Jensen Huang, into a tape already three days deep in a sell-off.",
+  "subline": "October retail sales land at 8:30, markets call a December hike near-certain, and Anthropic's record IPO prices into Thursday.",
+  "asof": "Pre-market · index values are futures · ≈6:45 AM ET Tue · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,417.75", "delta": "−0.29%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "27,226.75", "delta": "−0.21%", "dir": "down"},
+    {"label": "Dow fut", "value": "51,448.00", "delta": "−0.43%", "dir": "down"},
+    {"label": "10-yr yield", "value": "5.12%", "delta": "−0.03", "dir": "down"},
+    {"label": "Gold", "value": "$3,857.80", "delta": "+0.12%", "dir": "up"},
+    {"label": "WTI crude", "value": "$86.06", "delta": "+0.40%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$64,222", "delta": "−0.24%", "dir": "down"}
+  ],
+  "history": {"spx": 7416.59, "y10": 5.12, "btc": 64222},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Nvidia reports tonight, minus the man who built it",
+          "url": "https://www.stl.news/u-s-stock-market-today-november-16-2026/",
+          "sentence": "Analysts look for $109.10 billion in quarterly revenue after Monday's 4.1% slide, per STL.News, in the first report since Jensen Huang resigned and CFO Colette Kress stepped in as interim chief."
+        },
+        {
+          "title": "Retail sales at 8:30; Home Depot, Disney this morning",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
+          "sentence": "Yahoo Finance pegs October retail sales consensus at +0.2% headline and +0.4% ex-autos, with Home Depot and Disney due before the open."
+        },
+        {
+          "title": "Markets now call a December hike near-certain",
+          "url": "https://pintu.co.id/en/academy/post/crypto-market-analysis-today-november-17-2026",
+          "sentence": "CME FedWatch puts the odds of a quarter-point hike at the December meeting at 93.5%, per Pintu Academy, with October producer prices up 6.5% from a year earlier."
+        },
+        {
+          "title": "Three straight down days, led by the AI trade",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results",
+          "sentence": "The S&P 500 lost 1.92% and the Nasdaq 2.49% Monday — its worst day since Nov. 5 — as investors kept selling AI names into the print, per TipRanks."
+        },
+        {
+          "title": "Bitcoin ETFs bleed $1.07 billion in a week",
+          "url": "https://pintu.co.id/en/academy/post/crypto-market-analysis-today-november-17-2026",
+          "sentence": "Spot bitcoin funds logged $1.07 billion of net outflows in the week to Nov. 13, per Pintu Academy, with the coin down about 13% over seven days and sentiment reading 'extreme fear.'"
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Trump heads for a Xi–Putin trilateral in Shenzhen",
+          "url": "https://aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect",
+          "sentence": "Al Jazeera reports Trump meets Quad leaders in Manila before an APEC sit-down with Xi and Putin covering nuclear arms, Ukraine and Iran."
+        },
+        {
+          "title": "Ukraine hits the Kerch Bridge in mass drone attack",
+          "url": "https://www.kyivpost.com/amp/post/43397",
+          "sentence": "Explosions halted traffic on the bridge linking Russia to occupied Crimea during one of the war's larger overnight drone barrages, per the Kyiv Post."
+        },
+        {
+          "title": "Houthis take the Bab al-Mandab chokepoint",
+          "url": "https://cyprus-mail.com/2026/11/15/yemen-government-forces-withdraw-from-area-near-bab-al-mandab-strait-houthis-in-control",
+          "sentence": "Yemeni government forces pulled back to defend Aden, leaving the Red Sea strait in Houthi hands, per a Reuters report carried by the Cyprus Mail."
+        },
+        {
+          "title": "Vance: Iran war won't drag on, as carriers mass",
+          "url": "https://www.10things.news/p/10-things-global-news-17th-november-e83",
+          "sentence": "He spoke as a third US carrier reached the region and a poll found 71% of Americans want Congress to legislate an end to the conflict, per 10 Things News."
+        },
+        {
+          "title": "Deutsche Bank slides on leaked Epstein payment files",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results",
+          "sentence": "Shares fell nearly 5% at the European open after leaked documents reportedly showed about $582 million in suspicious payments linked to Jeffrey Epstein, per TipRanks."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Anthropic prices Thursday at up to $1.4 trillion",
+          "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+          "sentence": "CNBC's guide puts the range at $70 to $78 a share ahead of Thursday's debut, which at the top would value the lab near $1.4 trillion."
+        },
+        {
+          "title": "Washington tightens AI-chip limits; Asia tech slumps",
+          "url": "https://www.tipranks.com/news/stock-market-today-nov-17-u-s-stocks-jittery-ahead-of-nvidia-results",
+          "sentence": "Asia-Pacific markets closed lower after the US tightened AI chip restrictions on China, per TipRanks, with the Hang Seng down 1.03% and the Nikkei off 1.34%."
+        },
+        {
+          "title": "Warsh opens the Fed's AI task force hearings",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
+          "sentence": "The Fed chair framed the central bank's role on AI's growth and jobs effects as 'neither advocacy nor opposition,' per Yahoo Finance."
+        },
+        {
+          "title": "128 countries debate binding limits on autonomous weapons",
+          "url": "https://www.10things.news/p/10-things-global-news-17th-november-e83",
+          "sentence": "At least 50 nations in Geneva back a timetable for binding rules on weapons that select targets without human sign-off, while the US, Russia and Israel oppose them, per 10 Things News."
+        }
+      ]
+    }
+  ]
+}
