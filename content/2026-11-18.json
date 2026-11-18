@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-18",
+  "headline": "Kai, Nvidia doubled its revenue and steadied the AI trade overnight — now Anthropic prices a trillion-dollar IPO after the close.",
+  "subline": "Futures bounce after a four-day slide, Fed minutes land this afternoon with a December hike 94% priced, and US strikes on Iran keep the Gulf on edge.",
+  "asof": "Pre-market · index values are futures · ≈6:00 AM ET Wed · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,394.25", "delta": "+0.48%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "27,334.50", "delta": "+0.96%", "dir": "up"},
+    {"label": "Dow fut", "value": "50,920.00", "delta": "+0.21%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.10%", "delta": "−0.02", "dir": "down"},
+    {"label": "Gold", "value": "$3,766.30", "delta": "−2.53%", "dir": "down"},
+    {"label": "WTI crude", "value": "$83.77", "delta": "−1.04%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$64,117", "delta": "−1.25%", "dir": "down"}
+  ],
+  "history": {"spx": 7340.53, "y10": 5.10, "btc": 64116.74},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Nvidia doubles revenue, guides fourth quarter above estimates",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026",
+          "sentence": "Fiscal Q3 revenue rose 103% to $115.8 billion and Nvidia guided the fourth quarter to roughly $130 billion, per StockTitan, sending shares up 4.8% after hours."
+        },
+        {
+          "title": "Anthropic prices tonight at up to $1.4 trillion",
+          "url": "https://investing.com/news/economy-news/nasdaq-futures-jump-as-nvidia-forecast-lifts-ai-trade-ahead-of-anthropic-pricing-5035347",
+          "sentence": "Reuters reports the Claude maker is eyeing a valuation of as much as $1.4 trillion, with pricing expected after today's close and the debut set for Thursday."
+        },
+        {
+          "title": "Fed minutes this afternoon; December hike 94% priced",
+          "url": "https://www.kitco.com/news/article/2026-11-17/gold-struggles-near-one-year-lows-silver-rebounds-stocks-slide-fed-hike",
+          "sentence": "Futures put 94% odds on a quarter-point hike at the Dec. 8–9 meeting after firm October jobs and inflation data, per Kitco, and minutes from the October meeting are due today."
+        },
+        {
+          "title": "Fourth straight down day, pinned on an NSA scare",
+          "url": "https://theweekendspread.substack.com/p/the-close-tuesday-november-17-2026",
+          "sentence": "A report that a classified NSA network had gone down — the agency called it routine maintenance — knocked the Dow more than 1,000 points lower intraday before a partial recovery, per The Weekend Spread."
+        },
+        {
+          "title": "Target, Lowe's, TJX this morning; Palo Alto tonight",
+          "url": "https://www.tipranks.com/news/these-are-the-stocks-reporting-earnings-today-november-18-2026",
+          "sentence": "TipRanks pegs consensus at $2.08 a share for Target and $2.88 for Lowe's, with TJX also due before the open and Palo Alto Networks after the bell."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US strikes Iran's Qeshm Island in Strait of Hormuz",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/",
+          "sentence": "The US hit an Iranian missile launch site after Iran targeted a radar system in Bahrain, and talks through mediators Oman and Qatar continue, per The Standard's recap."
+        },
+        {
+          "title": "Xi and Putin meet before three-way summit with Trump",
+          "url": "https://www.euronews.com/2026/11/18/chinas-xi-jinping-and-putin-hold-talks-in-shenzhen-on-eve-of-three-way-summit-with-trump",
+          "sentence": "The two leaders held talks in Shenzhen on the eve of their trilateral with Trump at the APEC summit, per Euronews."
+        },
+        {
+          "title": "Xi: Russia and China should lead 'multipolar' push",
+          "url": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world",
+          "sentence": "Al Jazeera reports the line from the APEC summit China is hosting through Thursday."
+        },
+        {
+          "title": "China cuts tariffs on Canadian pork and seafood",
+          "url": "https://thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "sentence": "Beijing agreed to reduce tariffs on more Canadian exports after Xi met Prime Minister Mark Carney, per The Standard."
+        },
+        {
+          "title": "Russian military transport crash in Siberia kills 17",
+          "url": "https://thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "sentence": "An An-12 went down in the Kemerovo region with no survivors among the 17 aboard, Izvestia reported via The Standard."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia's board rules out bringing back Jensen Huang",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
+          "sentence": "The board used its first earnings report since Huang stepped down to say it will not reinstate him, per Yahoo Finance, even as Huang says he would be honored to return."
+        },
+        {
+          "title": "Kress keeps Hugging Face deal and open-source push",
+          "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit",
+          "sentence": "Interim CEO Colette Kress said the $12.9 billion Hugging Face acquisition is still on track and called Nemotron the most-used US open model on OpenRouter, per TechCrunch."
+        },
+        {
+          "title": "Microsoft pushes its own cheaper models at Ignite",
+          "url": "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+          "sentence": "Microsoft's keynote blog pitched its compute-efficient MAI family, said more than 50 million agents now run in Agent 365, and claimed its Maia 300 chip delivers 40% more tokens per watt."
+        },
+        {
+          "title": "Trump's accounts traded Nvidia 103 times in office",
+          "url": "https://thestandard.com.hk/news/article/348822/Morning-Recap-November-18-2026",
+          "sentence": "A CNBC analysis cited by The Standard counts at least 103 Nvidia trades in the president's accounts since his return to the White House, worth an estimated $27 million to $97.5 million."
+        }
+      ]
+    }
+  ]
+}
