@@ -1,0 +1,63 @@
+{
+  "date": "2026-11-19",
+  "headline": "Kai, Anthropic sold $81.3 billion of stock at $83 a share overnight — the largest IPO in history — and starts trading on the Nasdaq this morning as ANT.",
+  "subline": "Futures are up ahead of the debut, the Fed minutes left a December hike fully priced, and Trump, Xi and Putin held their first three-way meeting in Shenzhen.",
+  "asof": "Pre-market · index values are futures · ≈6:30 AM ET Thu · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,415.75", "delta": "+1.03%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "27,687.25", "delta": "+1.84%", "dir": "up"},
+    {"label": "Dow fut", "value": "50,548.00", "delta": "+0.55%", "dir": "up"},
+    {"label": "10-yr yield", "value": "5.07%", "delta": "−0.04", "dir": "down"},
+    {"label": "Gold", "value": "$3,736.20", "delta": "−0.15%", "dir": "down"},
+    {"label": "WTI crude", "value": "$82.84", "delta": "+0.64%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$63,624", "delta": "−1.44%", "dir": "down"}
+  ],
+  "history": {"spx": 7323.63, "y10": 5.07, "btc": 63624.39},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Anthropic's $81.3 billion IPO is the largest ever",
+       "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time",
+       "sentence": "The Claude maker sold 980 million shares at $83 — above its $70–78 range — for a valuation near $1.5 trillion, and begins trading on the Nasdaq today under the ticker ANT, per Al Jazeera."},
+      {"title": "Nvidia's earnings pop evaporates into a 2.9% loss",
+       "url": "https://finwire.io/news/stock-markets-news/nasdaq-futures-jump-560-points-5-things-to-know-before-wall-street-opens",
+       "sentence": "Shares jumped early Wednesday on $115.8 billion of quarterly revenue and a roughly $130 billion forecast, then closed down 2.9% as Jensen Huang's exit kept weighing, per Finwire and Yahoo Finance."},
+      {"title": "Fed minutes leave a December hike fully priced",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html",
+       "sentence": "October's minutes showed officials expecting further tightening, Governor Waller floated a half-point move, and markets now price a December increase as certain, per Yahoo Finance."},
+      {"title": "Walmart at 7; claims and Philly Fed at 8:30",
+       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-19-dow-sp-500-nasdaq-anthropic-ipo-090910916.html",
+       "sentence": "Walmart leads the morning tape before the bell, with initial jobless claims seen at 197,000 and the Philadelphia Fed survey expected at 23.2, per Yahoo Finance."},
+      {"title": "Gold hits a 14-month low in Wednesday's unwind",
+       "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html",
+       "sentence": "The risk reset sent gold down 3.5% to about $3,730, WTI down 3.7% to $82.85, and bitcoin to roughly $62,300 — from near $80,000 two weeks ago — per Yahoo Finance."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Trump, Xi and Putin hold first-ever trilateral",
+       "url": "https://www.rferl.org/a/trump-and-putin-hold-brief-apec-meeting/33901539.html",
+       "sentence": "The three met on APEC's sidelines in Shenzhen to open talks on nuclear arms and the wars in Ukraine and Iran, with Trump saying the group is 'really making history,' per RFE/RL."},
+      {"title": "Tankers burn as US-Iran strikes escalate in Gulf",
+       "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/",
+       "sentence": "After a US strike on an IRGC site on Qeshm Island, an ADNOC tanker was hit in the Strait of Hormuz — one crew member missing, 11 injured — and Bahrain and Kuwait said they repelled air attacks, per CBS News."},
+      {"title": "Ukraine cuts Kerch Bridge, Russia's link to Crimea",
+       "url": "https://www.nbcnews.com/world/russia/kerch-bridge-strikes-putin-crimea-ukraine-russia-war-kyiv-rcna609756",
+       "sentence": "Kyiv hit the bridge with drones and missiles, partially destroying Moscow's main road-and-rail connection to the occupied peninsula as aerial attacks on both sides escalate, per NBC News."},
+      {"title": "World court rules today on Myanmar genocide case",
+       "url": "https://www.al-monitor.com/originals/2026/11/top-un-court-ruling-myanmar-genocide-be-watched-clues-gaza",
+       "sentence": "The ICJ hands down its judgment in The Gambia's case over the Rohingya — a first-of-its-kind genocide ruling that will be read closely for clues on Gaza cases, per Al-Monitor."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Anthropic's S-1: $17 billion quarter, $895 billion committed",
+       "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+       "sentence": "The filing shows third-quarter revenue of about $17 billion — roughly 12x year over year — against some $895 billion in computing commitments and $132 billion in cash, per Yahoo Finance."},
+      {"title": "Google ships Gemini 4 Neon at Flash speeds",
+       "url": "https://9to5google.com/2026/11/18/gemini-4-neon-announcement",
+       "sentence": "Google says the new mid-tier model matches its top-end Carbon on coding and reasoning while running far faster, priced at $3 per million input tokens, per 9to5Google."},
+      {"title": "Trump raised Jensen Huang with Xi in Shenzhen",
+       "url": "https://openchronicle.org/2026/11/19/global-news-brief-key-developments-around-the-world-november-19-2026/",
+       "sentence": "Trump said he discussed the former Nvidia chief — who stepped down last week amid unproven espionage claims — with Xi, per Open Chronicle and Al Jazeera."},
+      {"title": "GTA VI finally launches today",
+       "url": "https://finwire.io/news/stock-markets-news/nasdaq-futures-jump-560-points-5-things-to-know-before-wall-street-opens",
+       "sentence": "Wells Fargo nearly doubled its first-year forecast to 65 million copies and sees $9.76 billion in bookings, above Take-Two's own guidance, per Finwire."}
+    ]}
+  ]
+}
