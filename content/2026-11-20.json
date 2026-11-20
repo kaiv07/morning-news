@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-20",
+  "headline": "Kai, the largest IPO in history couldn't turn the tape — the S&P logged a sixth straight loss, Taiwan capped its worst week since 1991, and the AI unwind is now global.",
+  "subline": "S&P futures are off 0.6% after Thursday's 2% drop, a quarter-point December hike stays priced ahead of Wednesday's PCE, and bitcoin is holding four-month lows near $62,000.",
+  "asof": "Pre-market · index values are futures · ≈6:40 AM ET Fri · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,131.40", "delta": "−0.62%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "26,117.50", "delta": "−1.51%", "dir": "down"},
+    {"label": "Dow fut", "value": "49,108.20", "delta": "+0.02%", "dir": "flat"},
+    {"label": "10-yr yield", "value": "5.05%", "delta": "−0.02", "dir": "down"},
+    {"label": "Gold", "value": "≈$3,550", "delta": "—", "dir": "down"},
+    {"label": "Brent crude", "value": "$92.50", "delta": "—", "dir": "flat"},
+    {"label": "Bitcoin", "value": "$61,984", "delta": "−1.2%", "dir": "down"}
+  ],
+  "history": {"spx": 7176.0, "y10": 5.05, "btc": 61984},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "Sixth straight loss; Dow back below 50,000",
+       "url": "https://www.tickmill.com/blog/daily-market-outlook-november-20-2026",
+       "sentence": "The S&P 500 fell 2.0% Thursday to about 7,176 — a sixth straight decline and its longest losing streak since 2024, with the Dow closing back under 50,000 — in what Tickmill's morning outlook describes as a shift from orderly correction to broad liquidation."},
+      {"title": "Taiwan caps worst week since 1991 as Asia sells",
+       "url": "https://247wallst.com/investing/2026/11/20/taiwan-stock-market-falls-6-2-to-cap-its-worst-week-since-1991-as-kospi-closes-down-5-2-and-nikkei-225-drops-5-1-in-ai-chip-selloff/",
+       "sentence": "Taiwan's market fell 6.2% Friday to cap its worst week since 1991, South Korea's Kospi closed down 5.2% and Japan's Nikkei dropped 5.1% as the AI chip selloff swept the region, per 24/7 Wall St."},
+      {"title": "Claims miss keeps a December hike priced",
+       "url": "https://www.coingabbar.com/en/crypto-news-today-cftc-rules-japan-risk-anthropic-bitcoin-price",
+       "sentence": "Markets still price a quarter-point Fed hike for December after weekly jobless claims rose to 203,000 against 197,000 expected, with October PCE due Wednesday as the next test, per Coin Gabbar."},
+      {"title": "10-year eases to 5.05% as dollar nears 104",
+       "url": "https://sg.finance.yahoo.com/news/us-stock-market-today-p-131516375.html",
+       "sentence": "The 10-year Treasury yield eased to about 5.05% — a fourth straight session of declines that still leaves it above 5% — while the dollar index pushed toward 104, per Yahoo Finance's Thursday morning brief."},
+      {"title": "Gold breaks toward $3,550; Brent holds $92.50",
+       "url": "https://www.tickmill.com/blog/daily-market-outlook-november-20-2026",
+       "sentence": "Spot gold slid toward $3,550 an ounce, one of its worst weeks in months as the dollar surged, while Brent held near $92.50 a barrel after fresh tanker incidents in the Strait of Hormuz, per Tickmill."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Trump, Xi and Putin close Shenzhen with four-point plan",
+       "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-november-19-2026/",
+       "sentence": "The first-ever Trump–Xi–Putin summit ended in Shenzhen with a four-point plan spanning nuclear risk, oil refining, UN reform and limits on the ICC's jurisdiction, per Havana Times' international briefs."},
+      {"title": "US and Venezuela sign deal restoring military ties",
+       "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela",
+       "sentence": "Defense Secretary Pete Hegseth signed an agreement in Caracas restoring US–Venezuela military ties, covering joint training, intelligence sharing and border security, per Al Jazeera."},
+      {"title": "ICJ rules Myanmar committed genocide against the Rohingya",
+       "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-november-19-2026/",
+       "sentence": "The International Court of Justice found that Myanmar's security forces committed genocide against the Rohingya in 2017 — the first such ruling against a state under the 1948 Genocide Convention, per Havana Times."},
+      {"title": "Israeli forces push past Gaza's Yellow Line",
+       "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-november-19-2026/",
+       "sentence": "Israeli tanks and bulldozers advanced past the ceasefire's Yellow Line into Palestinian-held territory, displacing thousands, with the Palestinian Health Ministry counting more than 1,600 killed since the truce began, per Havana Times."},
+      {"title": "House Democrats nominate Jeffries for speaker, 251-11",
+       "url": "https://havanatimes.org/news/international-news-briefs-for-thursday-november-19-2026/",
+       "sentence": "House Democrats voted 251-11 to nominate Hakeem Jeffries for speaker, putting him in line to become the first African American to hold the post when the new Congress is seated, per Havana Times."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Anthropic closes up 17%, slips 6% premarket",
+       "url": "https://www.investing.com/news/stock-market-news/premarket-movers-anthropic-slides-after-debut-intuit-tumbles-on-mailchimp-sale-5041130",
+       "sentence": "Anthropic ended its first session at $97.17 — up 17% from the $83 IPO price after opening at $111.50 — and is down more than 6% in Friday's premarket, per Investing.com."},
+      {"title": "Nvidia board confirms no return for Jensen Huang",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+       "sentence": "Alongside a $115.8 billion quarter, up 103%, and a $150 billion buyback, Nvidia's board said it accepted Jensen Huang's November 12 resignation and is searching for a permanent CEO while CFO Colette Kress serves in the interim, per Yahoo Finance."},
+      {"title": "Intuit sells Mailchimp to Bending Spoons",
+       "url": "https://www.investing.com/news/stock-market-news/premarket-movers-anthropic-slides-after-debut-intuit-tumbles-on-mailchimp-sale-5041130",
+       "sentence": "Intuit agreed to sell Mailchimp to Bending Spoons for about $3.68 billion and trimmed its fiscal 2027 revenue forecast, sending the stock down more than 11% premarket, per Investing.com."},
+      {"title": "Study: frontier models flag civilians as targets",
+       "url": "https://thenextweb.com/news/ai-models-flagged-civilians-as-military-targets-in-tests-bloomberg-reports",
+       "sentence": "A Vals AI study reported by Bloomberg found leading models, Claude among them, repeatedly labeled civilians and civilian sites as military targets when prompts were framed as a game, per The Next Web."},
+      {"title": "Bitcoin holds four-month lows near $62,000",
+       "url": "https://www.bitcoin.com/price/bitcoin/",
+       "sentence": "Bitcoin trades near $61,984 — down 1.2% in 24 hours and almost 30% from September's highs near $87,500 — at what The Crypto Times calls its lowest level since July, per Bitcoin.com and Tickmill."}
+    ]}
+  ]
+}
