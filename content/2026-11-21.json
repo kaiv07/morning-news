@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-21",
+  "headline": "Kai, the correction is now official — the S&P 500 fell 3.7% Friday, Nvidia dropped 14% on reports of an SEC probe, and bitcoin traded under $56,000 overnight.",
+  "subline": "A December hike stays priced ahead of Wednesday's PCE, the Nasdaq has given back its year, and Thanksgiving shortens the week ahead.",
+  "asof": "Weekend edition · strip values are Friday's close (bitcoin: Binance close) · built ≈6:45 AM ET Sat · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "6,910.39", "delta": "−3.70%", "dir": "down"},
+    {"label": "Nasdaq", "value": "22,617.73", "delta": "−5.28%", "dir": "down"},
+    {"label": "Dow", "value": "48,147.33", "delta": "−1.93%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.93%", "delta": "−0.12", "dir": "down"},
+    {"label": "Gold", "value": "$3,537.90", "delta": "−2.38%", "dir": "down"},
+    {"label": "WTI crude", "value": "$83.98", "delta": "—", "dir": "up"},
+    {"label": "Bitcoin", "value": "$58,952", "delta": "−4.9%", "dir": "down"}
+  ],
+  "history": {"spx": 6910.39, "y10": 4.93, "btc": 58952},
+  "sections": [
+    {"title": "Markets & economy", "items": [
+      {"title": "S&P 500 closes the week in correction",
+       "url": "https://www.stl.news/us-stock-market-today-friday-nov-20-2026/",
+       "sentence": "The index fell 3.70% Friday to 6,910.39, the Nasdaq dropped 5.28% as semiconductors slid about 11%, and the VIX jumped roughly 33% to near 37, per STL.News."},
+      {"title": "Nvidia's record quarter, then a 14% Friday drop",
+       "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000088/q3fy27pr.htm",
+       "sentence": "Revenue rose 103% to $115.8 billion with a $130 billion fourth-quarter guide, per Nvidia's SEC release, yet shares fell about 14% Friday amid a reported SEC accounting probe noted by STL.News."},
+      {"title": "A December hike stays priced; PCE lands Wednesday",
+       "url": "https://www.newsquawk.com/headlines/week-in-focus--november-23rd-27th-highlights-include-us-pce-flash-pmis-aussie-cpi-and-ecb-minutes",
+       "sentence": "Markets favor a quarter-point Fed increase next month, per Kitco, and Wednesday brings October PCE, a second Q3 GDP estimate and durable goods before Thursday's Thanksgiving closure and Friday's early close, per Newsquawk."},
+      {"title": "Gold falls with stocks, not against them",
+       "url": "https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction",
+       "sentence": "Spot gold dropped 2.38% to $3,537.90 and silver fell harder even as yields eased, a pattern Kitco read as broad portfolio liquidation rather than any flight to safety."},
+      {"title": "Bitcoin breaks below its summer floor",
+       "url": "https://thecryptodesk.substack.com/p/the-crypto-desk-saturday-21-november",
+       "sentence": "Bitcoin closed Friday at $58,952 on Binance, down 4.9%, then touched $55,130 early Saturday — off 28% for the quarter and through its summer low near $57,700 after roughly $2.4 billion in liquidations in 24 hours, per The Crypto Desk."},
+      {"title": "Oil rebounds Friday, still down on the week",
+       "url": "https://energynow.com/2026/11/oil-prices-rebound-friday-on-middle-east-tensions-but-fall-for-third-straight-week-wti-closes-at-83-98-brent-at-92-57/",
+       "sentence": "WTI settled at $83.98 and Brent at $92.57, firming on Middle East tensions while still logging a third straight weekly decline, per EnergyNow."}
+    ]},
+    {"title": "Top headlines", "items": [
+      {"title": "Kushner floats NATO-for-territory Ukraine deal",
+       "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+       "sentence": "The Wall Street Journal reports the U.S. envoy has discussed NATO membership for Ukraine in exchange for ceding territory to Russia, while overnight Russian strikes killed eight people in Kyiv, per Just Security's roundup."},
+      {"title": "Trump defers Iran decision to the new year",
+       "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+       "sentence": "He told Axios he is 'not rushing into any decision' on the war's next step, a day after Senate Republicans blocked a war-powers measure 51-48, per Just Security."},
+      {"title": "Trump, Xi and Putin: nuclear war unwinnable",
+       "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+       "sentence": "The three leaders issued a joint statement that 'a nuclear war cannot be won,' a declaration Putin acknowledged set no ambitious goals, per the New York Times via Just Security."},
+      {"title": "Estonia closes its Russia border for six months",
+       "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+       "sentence": "Tallinn will shut the frontier for at least six months as Poland reports two Russian missiles and a drone crossed its airspace, per Reuters via Just Security."},
+      {"title": "U.S. reassures Guyana after ceding-territory suggestion",
+       "url": "https://www.justsecurity.org/165471/early-edition-november-20-2026/",
+       "sentence": "Washington reassured Guyana after a former State Department official suggested it consider ceding territory to Venezuela, per Reuters via Just Security."}
+    ]},
+    {"title": "Tech & AI", "items": [
+      {"title": "Anthropic's record IPO meets the correction",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "Underwriters exercised the full greenshoe at the $83 offer price, lifting total proceeds to $93.5 billion — a record — per AI Weekly, though shares fell about 9% in Friday's broad selloff, per STL.News."},
+      {"title": "Nvidia's board rules out a Huang return",
+       "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+       "sentence": "Alongside the Q3 beat, the board said it will not reinstate Jensen Huang as chief executive, per Yahoo Finance, and Nvidia's own filing now lists identifying a new CEO as a risk factor while CFO Colette Kress serves in the interim."},
+      {"title": "OpenAI and Anthropic orders boost Google TPUs",
+       "url": "https://finance.yahoo.com/technology/ai/articles/more-pain-nvda-top-supply-050330578.html",
+       "sentence": "A top supply-chain analyst says new chip orders from OpenAI and Anthropic strengthen Google's TPU outlook — and spell more pain for Nvidia, per Yahoo Finance."},
+      {"title": "Senate grid bill targets AI data centers",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "The Senate passed a permitting and transmission bill 62-33 that would shift about $55 billion in grid costs onto AI data-center operators, sending it to the House, per AI Weekly."},
+      {"title": "A Riemann Hypothesis claim, written in Lean",
+       "url": "https://aiweekly.co/ai-news-today",
+       "sentence": "An Anthropic mathematician posted a four-page note claiming he and Claude proved the Generalized Riemann Hypothesis, released as Lean code and so far confirmed by no outside mathematician, per AI Weekly."}
+    ]}
+  ]
+}
