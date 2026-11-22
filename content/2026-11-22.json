@@ -1,0 +1,98 @@
+{
+  "date": "2026-11-22",
+  "headline": "Kai, the worst market week since 2020 is in the books — a tenth off the Nasdaq, corrections for the S&P and Dow, and a Fed still priced to hike in December.",
+  "subline": "Bitcoin bounced 5.7% overnight, Iran is moving tankers at the U.S. blockade, and Wednesday packs PCE and GDP into a holiday-shortened week.",
+  "asof": "Weekend edition · stocks, yield, gold and oil at Friday's close with weekly moves · bitcoin as of ~1 AM ET Sunday · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "6,910.39", "delta": "−8.6% wk", "dir": "down"},
+    {"label": "Nasdaq", "value": "22,617.73", "delta": "−10.0% wk", "dir": "down"},
+    {"label": "Dow", "value": "48,147.33", "delta": "−8.0% wk", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.91%", "delta": "−24 bp wk", "dir": "down"},
+    {"label": "Gold (futures)", "value": "$3,539", "delta": "−8.9% wk", "dir": "down"},
+    {"label": "Brent crude", "value": "$89.87", "delta": "−6.2% wk", "dir": "down"},
+    {"label": "Bitcoin", "value": "$58,944", "delta": "+5.7% 24h", "dir": "up"}
+  ],
+  "history": {"spx": 6910.39, "y10": 4.91, "btc": 58944},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "The tally: Wall Street's worst week since 2020",
+          "url": "https://www.marketcalls.in/futures-and-options/weekly-market-roundup-21-november-2026.html",
+          "sentence": "The S&P 500 lost 8.61%, the Nasdaq 10.02% and the Dow 8.02% for the week, while the 10-year yield eased 24 basis points to 4.91%, per Marketcalls' weekly roundup."
+        },
+        {
+          "title": "Bitcoin rebounds to $58,944 overnight",
+          "url": "https://coincodex.com/article/95777/daily-market-update-for-november-22-2026/",
+          "sentence": "It rose 5.68% over 24 hours to $58,944 by early Sunday, per CoinCodex, clawing back part of a week Marketcalls measured at −13.8% with a Saturday-morning low near $56,000."
+        },
+        {
+          "title": "December hike odds near 96%, half-point floated",
+          "url": "https://predictionmarketspicks.com/articles/fed-rate-december-2026-odds-half-point-hike-dot-plot-kalshi-polymarket-futures",
+          "sentence": "Kalshi, Polymarket and futures pricing put the odds of a December Fed hike near 96% — with an 8.5% chance it is a half point — per Prediction Markets Picks."
+        },
+        {
+          "title": "Holiday week ahead: PCE and GDP land Wednesday",
+          "url": "https://features.financialjuice.com/2026/11/20/week-ahead-economic-indicators-23rd-27th-november-us/",
+          "sentence": "Flash PMI opens Monday and consumer confidence follows Tuesday, then October PCE and the second Q3 GDP estimate arrive together Wednesday morning before Thursday's Thanksgiving close, per Financial Juice."
+        },
+        {
+          "title": "The rout went global: Nikkei −7.7%",
+          "url": "https://www.marketcalls.in/futures-and-options/weekly-market-roundup-21-november-2026.html",
+          "sentence": "Japan's Nikkei fell 7.70% and Korea's Kospi 7.95% for the week as the U.S. tech selloff spread through Asian markets, per Marketcalls."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Iran widens Gulf attacks to Kuwait, Bahrain",
+          "url": "https://thehill.com/policy/defense/6227812-iran-attacks-us-air-base-kuwait/",
+          "sentence": "Iran struck a U.S. air base in Kuwait and targets in Bahrain this week, per The Hill, broadening the conflict beyond its exchanges with U.S. forces in the Strait of Hormuz."
+        },
+        {
+          "title": "Iran readies tankers to run the blockade",
+          "url": "https://euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
+          "sentence": "Even as its missiles hit U.S. bases in Bahrain, Iran's sanctioned tankers are preparing to break the American naval blockade, per Euronews — the weekend's main escalation risk for oil."
+        },
+        {
+          "title": "Democrats flipped nine Senate seats this month",
+          "url": "https://www.cleveland19.com/2026/11/18/democrats-flipped-9-us-senate-seats-midterms-most-almost-70-years/",
+          "sentence": "The nine midterm pickups are the most by either party in almost 70 years, per AP reporting carried by Cleveland 19, reshaping the Senate Trump will face in January."
+        },
+        {
+          "title": "U.S. loses measles elimination status after 26 years",
+          "url": "https://www.aljazeera.com/news/2026/11/17/us-officially-loses-measles-free-status-after-26-years-amid-outbreak",
+          "sentence": "The Pan American Health Organization formally stripped the designation this week amid ongoing outbreaks and falling vaccination rates, per Al Jazeera."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "ANT's first week ends at $88.91",
+          "url": "https://www.fool.com/investing/2026/11/19/why-anthropic-stock-is-up-today/",
+          "sentence": "Anthropic closed Friday at $88.91, down 8.5% on 400.5 million shares — still above its $83 offer but well under Thursday's $97.17 finish — and The Motley Fool questions whether 47% sequential revenue growth can carry a $1.5 trillion valuation."
+        },
+        {
+          "title": "Nvidia logs seventh straight weekly decline",
+          "url": "https://uk.investing.com/news/stock-market-news/nvidia-shares-fall-115-as-report-of-sec-accounting-probe-adds-to-pressure-4996570",
+          "sentence": "Shares lost 23% this week — the worst since the 2008 crisis — after Reuters reported SEC staff are examining the company's accounting, per Investing.com, which notes such probes often close without enforcement action."
+        },
+        {
+          "title": "GPT-6.2 Astra edges Gemini 4 Carbon",
+          "url": "https://www.datacamp.com/sv/blog/gpt-6-2-astra-vs-gemini-4-carbon",
+          "sentence": "DataCamp's head-to-head finds OpenAI's November 17 flagship beats Google's Carbon on four of five shared benchmarks, never by more than 3.1 points, while Carbon's lower token price often reverses on reasoning-heavy tasks."
+        },
+        {
+          "title": "The AI boom's alarms grow louder",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6048729/ai-stock-markets-anthropic-nvidia",
+          "sentence": "NPR reports that the AI trade's very bad week — Anthropic's debut and Nvidia's slide included — is raising loud alarms about how much of the market now rests on it."
+        }
+      ]
+    }
+  ]
+}
