@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-23",
+  "headline": "Kai, the dip-buyers finally showed up — Nasdaq futures are up 3.5% after seven straight down days, and the VIX is coming off the boil.",
+  "subline": "A December hike stays priced near 91%, wholesale inflation data lands this morning, and bitcoin steadied above $61,000 after a $1.8 billion weekend flush.",
+  "asof": "Pre-market futures · as of 6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,132", "delta": "+2.8%", "dir": "up"},
+    {"label": "Nasdaq fut", "value": "26,000", "delta": "+3.5%", "dir": "up"},
+    {"label": "Dow fut", "value": "49,225", "delta": "+2.1%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.91%", "delta": "−0.14", "dir": "down"},
+    {"label": "Gold", "value": "$3,621", "delta": "+3.0%", "dir": "up"},
+    {"label": "WTI crude", "value": "$83.24", "delta": "−0.9%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$61,371", "delta": "+0.7%", "dir": "up"}
+  ],
+  "history": {"spx": 6910.39, "y10": 4.91, "btc": 61371.26},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Futures surge after seven straight down days",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
+          "sentence": "S&P 500 futures rose 2.8% and Nasdaq futures 3.5% pre-market, per Yahoo Finance, after Friday's 3.7% drop left the S&P in correction roughly $8 trillion below its October 6 peak; Nvidia rose about 8% before the bell."
+        },
+        {
+          "title": "December hike odds hold near 91%",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-091118583.html",
+          "sentence": "Polymarket puts the odds of a rate hike at the December 9 meeting near 91% and the bond market at 92%, per Yahoo Finance, with governor Lisa Cook warning that waiting longer \"risks getting behind the curve.\""
+        },
+        {
+          "title": "Gold jumps as oil slides again",
+          "url": "https://journalarta.com/en/2026/11/23/gold-today-spot-price-surges-2-53-to-3622-as-silver-rallies-and-brent-oil-slides/",
+          "sentence": "Spot gold rose 2.5% to $3,622 with silver up 3.6% at $42.57, per JournalArta, while Brent slid 3.1% to $89.73 and WTI eased 0.9% to $83.24."
+        },
+        {
+          "title": "PPI this morning; Dell, Deere later this week",
+          "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026",
+          "sentence": "Wholesale inflation data and flash PMIs are due Monday per Yahoo Finance, and Saxo's calendar has HPE, Agilent and Zoom after today's close, Dell, Workday and Autodesk Tuesday, and Deere Wednesday before Thursday's Thanksgiving close."
+        },
+        {
+          "title": "Bitcoin steadies after $1.8 billion weekend flush",
+          "url": "https://www.home.saxo/en-ch/content/articles/macro/market-quick-take---sentiment-bounces-after-friday-mayhem---23-november-2026-23112026",
+          "sentence": "Bitcoin briefly traded near $57,800 Friday as about $1.8 billion of leveraged positions were force-closed, per Saxo Bank, then recovered above $60,000 over the weekend while bitcoin funds logged a fourth straight day of outflows."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "COP31 collapses with no deal",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "The summit in Turkey ended Sunday without agreement after Saudi-led opposition to fossil-fuel language, per 10 Things News, the first failed UN climate talks since 2009."
+        },
+        {
+          "title": "Russian missiles land in Poland; NATO meets today",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "Two missiles and a drone fell in southeast Poland during Friday's strikes on Ukraine with no injuries reported, per 10 Things News, and the North Atlantic Council convenes Monday."
+        },
+        {
+          "title": "Russian warship capsizes after Benghazi drone attack",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "Eastern Libyan authorities blamed Ukrainian sea drones for the suspected strike that capsized the corvette Merkury on Sunday, per 10 Things News, a claim not independently confirmed."
+        },
+        {
+          "title": "EU and Indonesia sign landmark trade deal",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "The agreement, a decade in the making, removes tariffs on about 98.5% of EU goods entering Indonesia and should save exporters over €600 million a year, per 10 Things News."
+        },
+        {
+          "title": "Israeli coalition talks stall ahead of deadline",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "Talks between Netanyahu's Likud and Gadi Eisenkot's Yashar broke off Sunday over Ben-Gvir's inclusion and leadership, per 10 Things News, with Eisenkot facing a December 6 deadline to form a government."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia board rules out Huang return",
+          "url": "https://www.10things.news/p/10-things-global-news-23rd-november",
+          "sentence": "Chairman Harvey Jones said the board will not rehire Jensen Huang despite Trump's public support, per 10 Things News, as Treasury Secretary Bessent demands answers on Nvidia's China chip sales."
+        },
+        {
+          "title": "Claude-assisted Riemann proof awaits verification",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-monday-november-23-2026/",
+          "sentence": "An Anthropic mathematician published a computer-checkable proof of the 167-year-old Riemann hypothesis written with Claude's help, per The Neuron, and independent mathematicians are still checking whether the formal statement matches the claim."
+        },
+        {
+          "title": "Anthropic closes IPO with greenshoe fully exercised",
+          "url": "https://www.mexc.com/crypto-pulse/article/stocks-ai-daily-on-nov-23-2026-193011",
+          "sentence": "Underwriters exercised the full over-allotment option on Anthropic's offering, per MEXC News, while Saxo notes the stock fell 8.5% to $88.91 in Friday's session, its second day of trading."
+        },
+        {
+          "title": "Wells Fargo puts AI agents on notice",
+          "url": "https://killtheai.com/news/top-10-ai-news-today-november-23-2026/",
+          "sentence": "New account terms effective Tuesday deem agent-initiated transactions authorized at the customer's own risk, per Kill The AI, with JPMorgan, Schwab and Citigroup already blocking agents that log in with customer credentials."
+        },
+        {
+          "title": "OpenAI floats shared limits on frontier models",
+          "url": "https://killtheai.com/news/top-10-ai-news-today-november-23-2026/",
+          "sentence": "Chief scientist Jakub Pachocki proposed shared development limits measured partly by log-perplexity and published OpenAI's internal scores, per Kill The AI, warning AI could accelerate pretraining research as soon as 2027."
+        }
+      ]
+    }
+  ]
+}
