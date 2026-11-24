@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-24",
+  "headline": "Kai, Monday bought the Jensen Huang comeback with both hands — this morning, futures are quietly asking for a receipt.",
+  "subline": "Nasdaq futures hand back 1.7% of a 6.5% melt-up, December hike odds reach 95%, and bitcoin is back under $60,000.",
+  "asof": "Pre-market · as of 6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,190.75", "delta": "−0.88%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "26,340.75", "delta": "−1.74%", "dir": "down"},
+    {"label": "Dow fut", "value": "49,460", "delta": "−0.44%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.92%", "delta": "+0.6bp", "dir": "up"},
+    {"label": "Gold", "value": "$3,629.10", "delta": "−0.61%", "dir": "down"},
+    {"label": "WTI crude", "value": "$80.02", "delta": "−0.19%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$59,799", "delta": "−2.52%", "dir": "down"}
+  ],
+  "history": {"spx": 7237.17, "y10": 4.92, "btc": 59798.61},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "S&P 500 surges 4.7% on Huang reinstatement",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-24-080800306.html",
+          "sentence": "The index closed at 7,237.17 and tech's XLK sector gained 9% as Nvidia jumped 31.5%, Micron 19% and CoreWeave 22.3%, per Yahoo Finance."
+        },
+        {
+          "title": "Futures fade the best day since April 2025",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html",
+          "sentence": "Nasdaq-100 futures slipped 1.7% and Nvidia about 5% pre-market, per Yahoo Finance, which calls Monday the market's best session since the April 2025 rebound."
+        },
+        {
+          "title": "December hike odds hit 95% under Warsh",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html",
+          "sentence": "Traders now price a 95% chance of a quarter-point increase and 5% odds of a half point, per Yahoo Finance, with November Consumer Confidence (92.1 expected) topping today's data."
+        },
+        {
+          "title": "Dell, Analog Devices and Best Buy report today",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-rebound-090614276.html",
+          "sentence": "Yahoo Finance's calendar also lists Autodesk, Workday, HP, Medtronic, Dollar Tree and Dick's — the last dense earnings slate before Thursday's holiday."
+        },
+        {
+          "title": "Bitcoin slips back under $60,000",
+          "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+          "sentence": "CoinDesk puts bitcoin near $59,900 after it handed back Monday's pop to $64,500, with $844 million in leveraged positions liquidated over 24 hours. Spot-ETF outflows ran $569.7 million Monday — a fifth straight session — pushing November to $4.71 billion, the largest monthly outflow on record."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Newsom commutes more than 540 death sentences",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving",
+          "sentence": "California's governor will commute the sentences of more than 540 condemned inmates, the Everything Briefing reports, drawing condemnation from Trump and a 'selling pardons' retort from Newsom."
+        },
+        {
+          "title": "Estonia closes its Russia border December 1",
+          "url": "https://euperspectives.eu/2026/11/two-weeks-to-get-home-estonia-shuts-its-russian-border/",
+          "sentence": "All three road crossings shut after a foiled GRU-linked arson at drone-maker Threod Systems, EU Perspectives reports, giving Estonians two weeks to get home."
+        },
+        {
+          "title": "Trump warns of renewed Iran strikes",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving",
+          "sentence": "He may resume strikes after the new year absent a nuclear deal, per the Everything Briefing, as Treasury sanctioned over two dozen Iranian exchange houses in a shadow-banking crackdown."
+        },
+        {
+          "title": "Appeals court opens path to erase hush-money conviction",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving",
+          "sentence": "A federal appeals court gave Trump a route to overturning the New York conviction, the Everything Briefing reports, citing AP."
+        },
+        {
+          "title": "Mamdani announces permanent closure of Rikers Island",
+          "url": "https://everythingbriefing.substack.com/p/todays-news-history-and-thanksgiving",
+          "sentence": "New York's mayor said the jail complex will close for good, per the Everything Briefing, which also notes his clash with Andrew Ross Sorkin over a rent-control question."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Huang heads to Capitol Hill next week",
+          "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+          "sentence": "Fox News reports a closed-door House session December 1 and a public Senate Banking hearing December 3, while Commerce blacklisted Nvidia cloud partner Megaspeed."
+        },
+        {
+          "title": "CrowdStrike to buy Zscaler for $43.9 billion",
+          "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+          "sentence": "The all-stock deal would be the largest cybersecurity acquisition on record, per Fox News."
+        },
+        {
+          "title": "Anthropic slips again in its first trading week",
+          "url": "https://www.foxnews.com/live-news/ai-news-tech-markets-nvidia-11-23-26",
+          "sentence": "Shares fell 1.4% to $87.64 Monday — a second straight decline since Thursday's IPO — even as the rest of the AI complex ripped, per Fox News."
+        },
+        {
+          "title": "Amazon acquires Decart's AI tech for $7.5 billion",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/",
+          "sentence": "The Neuron reports the deal brings Decart's model-optimization research team to Amazon to run AI more efficiently on its Trainium chips."
+        },
+        {
+          "title": "OpenAI begins rolling out GPT-6.2 Sol",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-24-2026/",
+          "sentence": "The update reaches Plus, Pro, Business and Enterprise users with gains in complex instruction-following and small visual details, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
