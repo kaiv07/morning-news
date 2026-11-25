@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-25",
+  "headline": "Kai, October PCE lands at 8:30 with a December hike 98% priced — and the market is selling chips first, asking questions later.",
+  "subline": "Core PCE is expected at 3.2%, Nasdaq-100 futures are off 2.5% with semis leading lower, and bitcoin sits under $59,000 ahead of Thursday's holiday close.",
+  "asof": "Pre-market futures · as of 6:35 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,110.25", "delta": "−1.49%", "dir": "down"},
+    {"label": "Nasdaq fut", "value": "25,625", "delta": "−2.48%", "dir": "down"},
+    {"label": "Dow fut", "value": "49,653", "delta": "−0.82%", "dir": "down"},
+    {"label": "10-yr yield", "value": "4.90%", "delta": "−1.4bp", "dir": "down"},
+    {"label": "Gold", "value": "$3,559.20", "delta": "−0.89%", "dir": "down"},
+    {"label": "WTI crude", "value": "$81.77", "delta": "−0.34%", "dir": "down"},
+    {"label": "Bitcoin", "value": "$58,882", "delta": "−1.39%", "dir": "down"}
+  ],
+  "history": {"spx": 7201.09, "y10": 4.90, "btc": 58881.56},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "PCE, GDP and jobless claims all land this morning",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+          "sentence": "October core PCE is expected at 3.2% year over year with traders pricing a 98% chance of a quarter-point December hike, per Yahoo Finance, which lists Q3 GDP, durable goods and new home sales on the same pre-holiday slate."
+        },
+        {
+          "title": "Chip selloff drags into a second session",
+          "url": "https://stockmarketwatch.com/digest/2026-11-24",
+          "sentence": "Nvidia fell 5.9% Tuesday and the S&P 500 closed at 7,201.09 as Monday's reinstatement rally kept reversing, per Stock Market Watch's digest, with Nasdaq-100 futures down another 2.5% this morning per Yahoo Finance."
+        },
+        {
+          "title": "Brent back above $88 after Ras Tanura strike",
+          "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---25th-november-2026",
+          "sentence": "Houthi forces confirmed attacks on Saudi Arabia's 550k-bpd Ras Tanura refinery and Iran's army claimed two US drones downed near Hormuz, per Newsquawk, which has Brent trading back above $88 intraday."
+        },
+        {
+          "title": "Bitcoin extends its slide to $58,900",
+          "url": "https://fortune.com/article/price-of-bitcoin-11-24-2026/",
+          "sentence": "Fortune's tracker puts the coin roughly 25% below where it stood a month ago and about half its October 2025 peak of $126,198. Yahoo Finance shows it at $58,882 pre-market, down another 1.4% overnight."
+        },
+        {
+          "title": "Deere reports before a holiday-shortened tape",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+          "sentence": "The equipment maker is the morning's marquee print, per Yahoo Finance, with US markets closed Thursday for Thanksgiving and open a half-day Friday."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "US prepares higher tariffs on China and EU",
+          "url": "https://www.wsj.com/economy/trade/u-s-prepares-to-raise-tariffs-on-china-and-other-countries-37981740",
+          "sentence": "The Journal reports new rates on China, the EU and 14 other partners following an industrial-overcapacity investigation, with the EU, Japan and South Korea likely facing 15% or less."
+        },
+        {
+          "title": "Houthis hit Riyadh's PIF tower a second time",
+          "url": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh",
+          "sentence": "Eleven people were injured in the second strike on the Public Investment Fund headquarters in under a week, per Al Jazeera."
+        },
+        {
+          "title": "Venezuela reveals $237.5 billion debt pile",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/venezuela-unveils-237-billion-debt-load-ahead-of-restructuring",
+          "sentence": "The disclosure sets up one of the largest sovereign debt restructurings on record, Bloomberg reports."
+        },
+        {
+          "title": "Shanghai party chief under corruption investigation",
+          "url": "https://www.scmp.com/news/china/politics/article/3375640/shanghai-party-chief-faces-corruption-probe",
+          "sentence": "Chen Jining is the fourth member of the 2022 Politburo cohort placed under investigation for suspected discipline violations, per the South China Morning Post."
+        },
+        {
+          "title": "Pakistan's first astronaut heads to Tiangong",
+          "url": "https://apnews.com/article/china-space-shenzhou-24-543306bfe17419395d10fae107500564",
+          "sentence": "Shenzhou-24 lifted off carrying Muhammad Zeeshan Ali, set to become the first foreign crew member aboard China's space station, per the Associated Press."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Congress fumes as Huang testimony nears",
+          "url": "https://www.pbs.org/newshour/politics/huangs-reinstatement-at-nvidia-sparks-fury-in-congress-as-lawmakers-move-forward-with-hearings",
+          "sentence": "Lawmakers from both parties questioned the board's no-security-risk finding ahead of the December 3 Senate Banking hearing, per PBS NewsHour; Trump called a pardon \"always an option,\" per Yahoo Finance."
+        },
+        {
+          "title": "Jury convicts Huawei on 10 of 12 counts",
+          "url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+          "sentence": "A New York federal jury found the company guilty of bank fraud and trade-secret conspiracy while acquitting it on the most serious charges, per Reuters."
+        },
+        {
+          "title": "Google ships Gemini 4 Neon, its fourth in seven weeks",
+          "url": "https://artificialanalysis.ai/articles/gemini-4-neon-intelligence-gain",
+          "sentence": "Artificial Analysis scores Neon third on its Intelligence Index behind OpenAI's GPT-6.2 Astra and Anthropic's Claude Fable 5.2, at $3 per million input tokens."
+        },
+        {
+          "title": "Brussels floats €50 billion sovereign tech fund",
+          "url": "https://www.newsquawk.com/headlines/newsquawk-daily-us-opening-news---25th-november-2026",
+          "sentence": "The European Commission proposed the equity vehicle for quantum technology bets, per Newsquawk's morning briefing."
+        }
+      ]
+    }
+  ]
+}
