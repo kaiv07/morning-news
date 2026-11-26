@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-26",
+  "headline": "Kai, the hot PCE print locked in a December hike — and the Dow still clawed back an 1,100-point loss by the close.",
+  "subline": "Markets are closed for Thanksgiving after a wild Wednesday; Brent sits near $95 on fresh Saudi strike reports and bitcoin is back above $60,000.",
+  "asof": "Markets closed for Thanksgiving, Friday ends at 1 PM ET · Wednesday's closes, bitcoin live as of 6:40 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,182.78", "delta": "−0.25%", "dir": "down"},
+    {"label": "Nasdaq", "value": "23,585.80", "delta": "−0.62%", "dir": "down"},
+    {"label": "Dow", "value": "50,182.95", "delta": "+0.33%", "dir": "up"},
+    {"label": "10-yr Treasury", "value": "4.85%", "delta": "−6 bp", "dir": "down"},
+    {"label": "Gold", "value": "$3,534.70", "delta": "−0.71%", "dir": "down"},
+    {"label": "Brent crude", "value": "$94.61", "delta": "+3.51%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$60,618", "delta": "+3.5% (24h)", "dir": "up"}
+  ],
+  "history": {"spx": 7182.78, "y10": 4.85, "btc": 60618},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Hot core PCE cements a December rate hike",
+          "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+          "sentence": "October core PCE rose 3.3% year over year, above the 3.2% consensus, and CME FedWatch odds of a December hike reached 97.8%, per Capp Notes."
+        },
+        {
+          "title": "Dow erases an 1,100-point intraday loss",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-dow-erases-1-100-point-loss-as-wall-street-stages-dramatic-late-day-comeback/",
+          "sentence": "Stocks staged a late comeback Wednesday as the Dow closed up 0.33% and most S&P 500 names rose, even with Nvidia down 3.91%, per The Motley Fool."
+        },
+        {
+          "title": "US proposes tariffs on 14 trading partners",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008863933",
+          "sentence": "Washington announced Section 301 \"overproduction\" tariffs targeting 14 economies including South Korea, China, the EU and Japan, per SBS News and Capp Notes."
+        },
+        {
+          "title": "Oil climbs again on Saudi strike reports",
+          "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+          "sentence": "Brent rose 3.51% to $94.61 and WTI 1.99% to $83.68 after a reported Houthi strike on the Ras Tanura complex, per Capp Notes."
+        },
+        {
+          "title": "Bitcoin steadies back above $60,000",
+          "url": "https://www.coindesk.com/price/bitcoin",
+          "sentence": "Bitcoin trades near $60,600 this morning, up about 3.5% in 24 hours after a $264 million liquidation flush hit shorts hardest, per CoinDesk and The Crypto Times."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Macy's parade celebrates 100 years in Manhattan",
+          "url": "https://www.nbcnews.com/nightly-news/video/thanksgiving-day-parade-celebrates-100-years-274202181863",
+          "sentence": "The Macy's Thanksgiving Day Parade marks 100 years as it rolls through New York this morning, per NBC News."
+        },
+        {
+          "title": "AAA expects 81.5 million Thanksgiving travelers",
+          "url": "https://goodmorningamerica.com/travel/story/record-number-travelers-expected-fly-trains-thanksgiving-138006590",
+          "sentence": "AAA projects 81.5 million Americans traveling 50 miles or more through Monday, with the TSA screening nearly 17.6 million flyers, per Good Morning America."
+        },
+        {
+          "title": "Houthis press campaign against Saudi oil sites",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Fresh-Strikes-on-Saudi-Oil-Refineries-and-Aramco-Facilities.html",
+          "sentence": "The Houthis have claimed strikes on Ras Tanura, Rabigh and Abqaiq in recent weeks, a campaign Oilprice.com calls a major driver of crude prices."
+        },
+        {
+          "title": "Russian bombers skirt South Korean airspace",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008863933",
+          "sentence": "Moscow released footage of Tu-160 bombers that flew unusually close to airspace above Ulleungdo in the East Sea earlier this week, per SBS News."
+        },
+        {
+          "title": "Asia's sell-off ran deeper than Wall Street's",
+          "url": "https://cappnotes.substack.com/p/closing-look-wednesday-november-25",
+          "sentence": "South Korea's Kospi fell 6.16% and Taiwan's Taiex 4.80% on Wednesday as the AI unwind went global, per Capp Notes."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Lab staff reportedly uneasy about unreleased models",
+          "url": "https://www.digitimes.com/news/a20261125VL225/openai-anthropic-llm-2026.html",
+          "sentence": "More than two dozen sources told Axios that some OpenAI and Anthropic employees worry certain unreleased models may be too powerful to release safely, per DIGITIMES."
+        },
+        {
+          "title": "GPT-6 designs proteins that bind in the lab",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/",
+          "sentence": "OpenAI says GPT-6 designed protein sequences that showed binding evidence against five targets in wet-lab experiments, per The Neuron."
+        },
+        {
+          "title": "Claude artifacts become installable desktop apps",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/",
+          "sentence": "Anthropic shipped desktop-app installs for artifacts on Mac and Windows and announced Skills over MCP on the protocol's second anniversary, per The Neuron."
+        },
+        {
+          "title": "Amazon catches an AI agent exploiting a zero-day",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/",
+          "sentence": "Amazon researchers detected an open-source AI agent exploiting a previously unknown vulnerability with limited human intervention, per The Neuron."
+        },
+        {
+          "title": "US blacklists Megaspeed as chip scrutiny widens",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-25-2026/",
+          "sentence": "Washington blacklisted Nvidia-linked Megaspeed while Jensen Huang still faces congressional scrutiny over chip export controls, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
