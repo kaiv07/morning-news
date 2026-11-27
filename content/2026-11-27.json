@@ -1,0 +1,103 @@
+{
+  "date": "2026-11-27",
+  "headline": "Kai, everything November beat up is bouncing at once — chips, gold, bitcoin — and the half-day tape gives it three and a half hours to stick.",
+  "subline": "Nasdaq futures are up 2.4% into a 1 p.m. close, December-hike odds sit at 100%, and tanker strikes near the Strait of Hormuz keep oil and gold bid.",
+  "asof": "Pre-market futures · as of 6:45 AM ET Friday · stocks close 1 p.m., bonds 2 p.m. ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500 fut", "value": "7,323.75", "delta": "+1.78%", "dir": "up"},
+    {"label": "Nasdaq 100 fut", "value": "26,731.50", "delta": "+2.42%", "dir": "up"},
+    {"label": "Dow fut", "value": "50,863", "delta": "+1.26%", "dir": "up"},
+    {"label": "10-yr Treasury", "value": "4.84%", "delta": "−6 bp", "dir": "down"},
+    {"label": "Gold", "value": "$3,699.80", "delta": "+3.79%", "dir": "up"},
+    {"label": "WTI crude", "value": "$85.71", "delta": "+2.43%", "dir": "up"},
+    {"label": "Bitcoin", "value": "$61,602", "delta": "+1.93%", "dir": "up"}
+  ],
+  "history": {"spx": 7182.78, "y10": 4.84, "btc": 61602},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Semis lead a broad pre-market bounce",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+          "sentence": "Nvidia rose nearly 4% and Micron 6% before the bell as AI-profitability jitters eased into the holiday-shortened session, per Yahoo Finance."
+        },
+        {
+          "title": "December hike odds pinned at 100%",
+          "url": "https://www.fool.com/investing/2026/11/27/latest-interest-rate-forecast-is-in-spells-trouble-historically-expensive-ai-bull-market/",
+          "sentence": "CME FedWatch has had a December 9 hike at 100% for about two weeks, with 64% odds the target range reaches 4.25%–4.50% by the January meeting, per The Motley Fool."
+        },
+        {
+          "title": "Oil firm on Saudi and Hormuz attacks",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-firday-november-27-dow-sp-500-nasdaq-black-friday-holiday-091152065.html",
+          "sentence": "WTI rose 2.43% to $85.71 and Brent traded near $92 a barrel as Houthi attacks on Saudi energy infrastructure escalated, per Yahoo Finance."
+        },
+        {
+          "title": "Bank of Korea hikes on an AI chip boom",
+          "url": "https://www.aljazeera.com/economy/2026/11/26/south-koreas-central-bank-hikes-interest-rates-raises-gdp-growth-forecast",
+          "sentence": "South Korea's central bank raised interest rates and lifted its GDP growth forecast, crediting the AI chip demand powering its exporters, per Al Jazeera."
+        },
+        {
+          "title": "Bitcoin claws back to $61,780",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-news-today-btc-rebounds-104410814.html",
+          "sentence": "Bitcoin rose 8% from Wednesday's $57,300 low to $61,780 — still down 20% this November — a thin-volume rebound Yahoo Finance ties to a softer dollar."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Tankers hit near Hormuz as war widens",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh",
+          "sentence": "Two of three tankers struck near Oman's Khasab caught fire after hitting naval mines and a third was hit by an unknown projectile, Al Jazeera reports, citing Iran's IRGC."
+        },
+        {
+          "title": "Kim orders wider tactical nuclear deployment",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes",
+          "sentence": "Kim Jong Un said North Korea should widen deployment of tactical nuclear weapons, calling attempts to deny its nuclear status an \"open declaration of war,\" per Al Jazeera."
+        },
+        {
+          "title": "Black Friday opens a $1 trillion season",
+          "url": "https://www.retailtouchpoints.com/?p=621759",
+          "sentence": "Shoppers hit the stores this morning in a year the National Retail Federation forecasts the first $1 trillion US holiday season, per Retail TouchPoints."
+        },
+        {
+          "title": "Ukrainian drones kill five in occupied Zaporizhia",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia",
+          "sentence": "A Ukrainian drone attack killed five people in the Russian-occupied Zaporizhia region, per Al Jazeera."
+        },
+        {
+          "title": "Thirteen dead in Indonesian gold mine flood",
+          "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify",
+          "sentence": "At least 13 people died when a gold mine flooded in West Java, where rescue efforts continue, per Al Jazeera."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Nvidia cuts half its Asian buyers loose",
+          "url": "https://thenextweb.com/news/nvidia-halves-asia-buyer-list-china-crackdown",
+          "sentence": "Nvidia removed more than half of its Asian customers from its approved-buyer whitelist as Washington's China-diversion crackdown widens, per The Next Web."
+        },
+        {
+          "title": "Singapore seeks talks over US chip rules",
+          "url": "https://scmp.com/week-asia/economics/article/3374665/singapore-seeks-us-talks-ai-chip-export-rules-amid-nvidia-fallout-megaspeed-probe",
+          "sentence": "Singapore is seeking talks with Washington over the new AI chip export rules amid fallout from the Nvidia scandal and the Megaspeed probe, per the South China Morning Post."
+        },
+        {
+          "title": "Amodei: \"absurd\" that Anthropic wants AI in charge",
+          "url": "https://euronews.com/2026/11/26/anthropic-chief-denies-wanting-humans-to-surrender-free-will-to-ai",
+          "sentence": "Dario Amodei called it \"absurd\" to suggest he wants humans to surrender free will to AI, pushing back on an Axios report and rival jabs in a lengthy X post, per Euronews."
+        },
+        {
+          "title": "CISA orders patch for exploited Drupal flaw",
+          "url": "https://bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability",
+          "sentence": "CISA ordered federal agencies to patch an actively exploited Drupal vulnerability — a flaw SecurityWeek says was first flagged by Anthropic's AI code scanner — per BleepingComputer."
+        }
+      ]
+    }
+  ]
+}
