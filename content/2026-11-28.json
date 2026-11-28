@@ -1,0 +1,108 @@
+{
+  "date": "2026-11-28",
+  "headline": "Kai, Friday's bounce stuck: a 5.6% week for the S&P, and now the Fed goes quiet until December 9.",
+  "subline": "Bitcoin is back under $60,000, Black Friday ran past $9.7 billion online, and the parade marches this morning instead.",
+  "asof": "Saturday edition · strip shows Friday's close; bitcoin is live · as of 6:45 AM ET · every figure links to its source below",
+  "strip": [
+    {"label": "S&P 500", "value": "7,297", "delta": "+1.60%", "dir": "up"},
+    {"label": "Nasdaq", "value": "24,129.50", "delta": "+2.31%", "dir": "up"},
+    {"label": "Dow", "value": "50,774.94", "delta": "+1.18%", "dir": "up"},
+    {"label": "10-yr yield", "value": "4.932%", "delta": "+0.084", "dir": "up"},
+    {"label": "Gold", "value": "$3,647.50", "delta": "+$82.90", "dir": "up"},
+    {"label": "WTI crude", "value": "$82.82", "delta": "−$0.86", "dir": "down"},
+    {"label": "Bitcoin", "value": "$59,705", "delta": "−3.35%", "dir": "down"}
+  ],
+  "history": {"spx": 7297.0, "y10": 4.932, "btc": 59705},
+  "sections": [
+    {
+      "title": "Markets & economy",
+      "items": [
+        {
+          "title": "Stocks cap a 5.6% rebound week",
+          "url": "https://investrade.com/market-review-november-27-2026/",
+          "sentence": "The S&P 500 rose 1.60% to 7,297 in Friday's shortened session, with all eleven sectors higher and the index up 5.6% on the week, per Investrade."
+        },
+        {
+          "title": "Tech led the bounce off Wednesday's selloff",
+          "url": "https://political.org/2026/11/27/stocks-surge-in-holiday-shortened-session-dow-gains-592-points-nasdaq-jumps-2-3/",
+          "sentence": "Amazon rose 4.1%, Broadcom 3.5% and Meta 3.2% in Friday trading as consumer discretionary led every sector, per Political.org's market wrap."
+        },
+        {
+          "title": "Fed goes quiet; payrolls land December 4",
+          "url": "https://fxnx.com/en/blog/us-jobs-report-4-december-2026-release-time-what-check",
+          "sentence": "The Fed's pre-meeting blackout began this weekend, the November jobs report lands Friday, December 4, per FXNX, and the rate call and new dot plot follow on December 9."
+        },
+        {
+          "title": "Black Friday online spend tracked toward $13 billion",
+          "url": "https://wkzo.com/2026/11/27/us-black-friday-online-sales-to-cross-13-billion-adobe-says/",
+          "sentence": "Americans spent $9.7 billion online by 6:30 PM ET, up 12.8% from last year, with Adobe projecting a $13 billion-plus day and $15.1 billion on Cyber Monday, per Reuters."
+        },
+        {
+          "title": "Bitcoin slips back under $60,000",
+          "url": "https://coincodex.com/article/96145/bitcoin-prediction-november-28-2026",
+          "sentence": "BTC trades near $59,705 this morning, down 3.35% in 24 hours and 25.34% over the past 30 days, per CoinCodex."
+        }
+      ]
+    },
+    {
+      "title": "Top headlines",
+      "items": [
+        {
+          "title": "Macy's parade marches this morning instead",
+          "url": "https://www.foxweather.com/weather-news/macys-thanksgiving-day-parade-postponed-first-time-history",
+          "sentence": "The 100th parade steps off at 8:30 this morning after severe weather forced the first postponement in its history, per FOX Weather."
+        },
+        {
+          "title": "Coastal storm soaks the holiday weekend",
+          "url": "https://www.aol.com/thanksgiving-storms-dampen-travel-black-180712556.html",
+          "sentence": "Storms dampened travel and Black Friday plans throughout the Northeast, with gusts of 60 to 70 mph possible through Friday, per AccuWeather reporting carried by AOL and FOX Weather."
+        },
+        {
+          "title": "Trump threatens new strike on Iran nuclear site",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008867508",
+          "sentence": "He said he could end the war with Iran whenever he wants and threatened to hit its underground nuclear facility again, while Tehran vowed to break the US maritime blockade, per SBS."
+        },
+        {
+          "title": "US disables another vessel in Gulf of Oman",
+          "url": "https://www.yahoo.com/news/world/articles/latest-news-bulletin-november-28th-060033455.html",
+          "sentence": "The US military says it disabled another ship in the Gulf of Oman, per a Euronews bulletin carried by Yahoo News."
+        },
+        {
+          "title": "Supreme Court sets December arguments on AR-15 bans",
+          "url": "https://news.bgov.com/esg/justices-set-december-arguments-for-assault-weapon-voter-cases",
+          "sentence": "The justices scheduled December arguments on whether bans on AR-15-style rifles violate the Second Amendment, per Bloomberg Government."
+        }
+      ]
+    },
+    {
+      "title": "Tech & AI",
+      "items": [
+        {
+          "title": "Huang is back and Nvidia jumped 31%",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+          "sentence": "Nvidia's board reinstated Jensen Huang as CEO on Monday and the stock jumped 31%, per CNBC."
+        },
+        {
+          "title": "Smuggled Nvidia chips reported at Chinese data center",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008867508",
+          "sentence": "Export-controlled Nvidia AI chips were confirmed installed at a Chinese data center, a finding that could renew pressure on the newly reinstated Huang, per SBS."
+        },
+        {
+          "title": "Anthropic ends volatile first week above IPO price",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-27/anthropic-shares-jump-after-volatile-first-week-since-record-ipo",
+          "sentence": "ANT shares rose Friday to finish their first week back above the offer price after a volatile run since the record listing, per Bloomberg."
+        },
+        {
+          "title": "New US export rules freeze Asian AI financing",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/",
+          "sentence": "Lenders reportedly paused billions in financing for Asian AI infrastructure projects tied to major Chinese cloud providers after new US restrictions, per The Neuron."
+        },
+        {
+          "title": "FCC clears SpaceX's million-satellite compute network",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-november-26-2026/",
+          "sentence": "The FCC authorized up to one million satellites for Starmind, a solar-powered orbital AI computing network whose cooling and economics scientists question, per The Neuron."
+        }
+      ]
+    }
+  ]
+}
